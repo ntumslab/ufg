@@ -1,0 +1,3710 @@
+1 Tim got the milk there.
+2 Johnson moved to the bedroom.
+3 What is Tim carrying? 	milk	1
+4 Johnson picked up the football there.
+5 Johnson journeyed to the bathroom.
+6 What is Johnson carrying? 	football	4
+7 Johnson went to the garden.
+8 Tony went back to the hallway.
+9 What is Johnson carrying? 	football	4
+10 Johnson went back to the bathroom.
+11 Tim went to the office.
+12 Sandy went back to the kitchen.
+13 Tim travelled to the hallway.
+14 Johnson travelled to the bedroom.
+15 Johnson picked up the apple there.
+16 What is Johnson carrying? 	football,apple	4 15
+17 Sandy travelled to the bedroom.
+18 Sandy journeyed to the kitchen.
+19 What is Johnson carrying? 	football,apple	4 15
+1 Tony grabbed the milk there.
+2 Sandy went back to the bathroom.
+3 What is Tony carrying? 	milk	1
+4 Tony went back to the garden.
+5 Tony dropped the milk.
+6 What is Tony carrying? 	nothing	1 5
+7 Johnson travelled to the bedroom.
+8 Sandy journeyed to the bedroom.
+9 What is Tony carrying? 	nothing	1 5
+10 Tony journeyed to the bedroom.
+11 Johnson went to the bathroom.
+12 What is Tony carrying? 	nothing	1 5
+13 Johnson travelled to the kitchen.
+14 Sandy went to the kitchen.
+15 Tim went back to the bedroom.
+16 Johnson journeyed to the office.
+17 Johnson moved to the garden.
+18 Johnson grabbed the milk there.
+19 What is Johnson carrying? 	milk	18
+1 Tim grabbed the milk there.
+2 Tony moved to the bedroom.
+3 What is Tim carrying? 	milk	1
+4 Johnson travelled to the bedroom.
+5 Tony grabbed the apple there.
+6 What is Tony carrying? 	apple	5
+7 Tony discarded the apple.
+8 Johnson went back to the garden.
+9 What is Tony carrying? 	nothing	5 7
+10 Tony went back to the office.
+11 Tim travelled to the garden.
+12 What is Tony carrying? 	nothing	5 7
+13 Tim journeyed to the hallway.
+14 Tony went to the hallway.
+15 Johnson went to the bathroom.
+16 Johnson went back to the kitchen.
+17 Tim discarded the milk there.
+18 Sandy grabbed the milk there.
+19 What is Tim carrying? 	nothing	1 17
+1 Tim went to the kitchen.
+2 Tony took the football there.
+3 What is Tony carrying? 	football	2
+4 Tony dropped the football.
+5 Sandy grabbed the milk there.
+6 What is Tony carrying? 	nothing	2 4
+7 Tim travelled to the garden.
+8 Tony went back to the bedroom.
+9 What is Sandy carrying? 	milk	5
+10 Sandy discarded the milk.
+11 Sandy grabbed the milk there.
+12 What is Sandy carrying? 	milk	5 10 11
+13 Tim moved to the bedroom.
+14 Johnson got the apple there.
+15 What is Sandy carrying? 	milk	5 10 11
+1 Sandy travelled to the garden.
+2 Tim grabbed the milk there.
+3 What is Tim carrying? 	milk	2
+4 Johnson moved to the hallway.
+5 Johnson went back to the garden.
+6 What is Tim carrying? 	milk	2
+7 Tony went to the hallway.
+8 Sandy journeyed to the hallway.
+9 What is Tim carrying? 	milk	2
+10 Tony took the football there.
+11 Tony journeyed to the bathroom.
+12 What is Tony carrying? 	football	10
+13 Tony journeyed to the hallway.
+14 Tim put down the milk.
+15 What is Tony carrying? 	football	10
+1 Sandy travelled to the bathroom.
+2 Tony picked up the apple there.
+3 What is Tony carrying? 	apple	2
+4 Sandy picked up the football there.
+5 Tim travelled to the hallway.
+6 What is Sandy carrying? 	football	4
+7 Sandy dropped the football.
+8 Sandy moved to the bedroom.
+9 What is Sandy carrying? 	nothing	4 7
+10 Tony dropped the apple.
+11 Tim grabbed the apple there.
+12 What is Tony carrying? 	nothing	2 10
+13 Sandy went to the office.
+14 Tony travelled to the bathroom.
+15 What is Tony carrying? 	nothing	2 10
+1 Sandy went to the kitchen.
+2 Johnson moved to the bathroom.
+3 Johnson journeyed to the office.
+4 Sandy travelled to the garden.
+5 Sandy went to the bathroom.
+6 Sandy grabbed the football there.
+7 What is Sandy carrying? 	football	6
+8 Tony took the milk there.
+9 Sandy dropped the football there.
+10 What is Tony carrying? 	milk	8
+11 Johnson got the apple there.
+12 Tim went to the bathroom.
+13 What is Tony carrying? 	milk	8
+14 Johnson put down the apple there.
+15 Tony left the milk there.
+16 What is Johnson carrying? 	nothing	11 14
+17 Tim grabbed the football there.
+18 Tim left the football.
+19 What is Tony carrying? 	nothing	8 15
+1 Sandy grabbed the milk there.
+2 Sandy went back to the office.
+3 What is Sandy carrying? 	milk	1
+4 Tony journeyed to the hallway.
+5 Sandy went back to the garden.
+6 What is Sandy carrying? 	milk	1
+7 Tim journeyed to the garden.
+8 Tony travelled to the bathroom.
+9 Tim travelled to the kitchen.
+10 Sandy travelled to the office.
+11 Johnson travelled to the office.
+12 Sandy discarded the milk there.
+13 What is Sandy carrying? 	nothing	1 12
+14 Tim got the apple there.
+15 Tim went back to the office.
+16 What is Sandy carrying? 	nothing	1 12
+17 Tim took the football there.
+18 Johnson picked up the milk there.
+19 What is Sandy carrying? 	nothing	1 12
+1 Tim moved to the bedroom.
+2 Sandy got the milk there.
+3 What is Sandy carrying? 	milk	2
+4 Sandy moved to the bathroom.
+5 Sandy went back to the garden.
+6 What is Sandy carrying? 	milk	2
+7 Sandy went back to the bathroom.
+8 Sandy went back to the garden.
+9 What is Sandy carrying? 	milk	2
+10 Sandy travelled to the hallway.
+11 Tim journeyed to the hallway.
+12 Johnson moved to the bathroom.
+13 Tim travelled to the kitchen.
+14 Tim travelled to the bathroom.
+15 Tim went back to the office.
+16 Johnson got the football there.
+17 Sandy discarded the milk.
+18 What is Sandy carrying? 	nothing	2 17
+19 Sandy travelled to the bathroom.
+20 Sandy got the apple there.
+21 What is Sandy carrying? 	apple	2 17 20
+1 Sandy went to the garden.
+2 Tony went back to the office.
+3 Johnson journeyed to the bathroom.
+4 Sandy moved to the bathroom.
+5 Sandy journeyed to the bedroom.
+6 Johnson went to the hallway.
+7 Tony grabbed the apple there.
+8 Sandy travelled to the bathroom.
+9 What is Tony carrying? 	apple	7
+10 Johnson went to the kitchen.
+11 Sandy journeyed to the bedroom.
+12 What is Tony carrying? 	apple	7
+13 Tony went to the kitchen.
+14 Tony moved to the bedroom.
+15 Tim went to the office.
+16 Tony moved to the garden.
+17 Tony grabbed the milk there.
+18 Tim went to the kitchen.
+19 What is Tony carrying? 	apple,milk	7 17
+20 Tony moved to the kitchen.
+21 Tim went back to the bathroom.
+22 What is Tony carrying? 	apple,milk	7 17
+23 Johnson journeyed to the garden.
+24 Johnson picked up the football there.
+25 What is Johnson carrying? 	football	24
+1 Tony travelled to the garden.
+2 Sandy went to the office.
+3 Johnson went to the garden.
+4 Johnson went back to the kitchen.
+5 Tony went to the bedroom.
+6 Tony moved to the office.
+7 Tony got the milk there.
+8 Tony put down the milk.
+9 What is Tony carrying? 	nothing	7 8
+10 Tony travelled to the garden.
+11 Tim went back to the garden.
+12 What is Tony carrying? 	nothing	7 8
+13 Sandy went back to the garden.
+14 Tony journeyed to the bathroom.
+15 What is Tony carrying? 	nothing	7 8
+16 Johnson went to the hallway.
+17 Johnson journeyed to the bathroom.
+18 Sandy journeyed to the bedroom.
+19 Johnson took the apple there.
+20 What is Johnson carrying? 	apple	19
+21 Sandy got the football there.
+22 Sandy left the football.
+23 What is Sandy carrying? 	nothing	21 22
+1 Tim picked up the football there.
+2 Sandy went to the hallway.
+3 What is Tim carrying? 	football	1
+4 Tony went to the office.
+5 Tony journeyed to the bathroom.
+6 What is Tim carrying? 	football	1
+7 Tony travelled to the hallway.
+8 Tim put down the football.
+9 What is Tim carrying? 	nothing	1 8
+10 Johnson went to the bathroom.
+11 Tony journeyed to the bathroom.
+12 What is Tim carrying? 	nothing	1 8
+13 Sandy travelled to the garden.
+14 Tony moved to the hallway.
+15 What is Tim carrying? 	nothing	1 8
+1 Johnson moved to the garden.
+2 Sandy went to the office.
+3 Tony moved to the bathroom.
+4 Tim took the milk there.
+5 What is Tim carrying? 	milk	4
+6 Tony journeyed to the garden.
+7 Tim went to the garden.
+8 What is Tim carrying? 	milk	4
+9 Sandy took the apple there.
+10 Tim dropped the milk there.
+11 What is Tim carrying? 	nothing	4 10
+12 Johnson got the milk there.
+13 Sandy journeyed to the kitchen.
+14 What is Johnson carrying? 	milk	12
+15 Johnson left the milk.
+16 Tim journeyed to the bedroom.
+17 What is Tim carrying? 	nothing	4 10
+1 Sandy went back to the garden.
+2 Tim journeyed to the kitchen.
+3 Tim went back to the bedroom.
+4 Tony went to the hallway.
+5 Tony journeyed to the garden.
+6 Tim went to the hallway.
+7 Johnson travelled to the garden.
+8 Johnson went to the kitchen.
+9 Johnson travelled to the garden.
+10 Tony travelled to the kitchen.
+11 Sandy journeyed to the kitchen.
+12 Sandy grabbed the milk there.
+13 What is Sandy carrying? 	milk	12
+14 Sandy left the milk there.
+15 Tim travelled to the kitchen.
+16 What is Sandy carrying? 	nothing	12 14
+17 Sandy travelled to the hallway.
+18 Tim picked up the milk there.
+19 What is Sandy carrying? 	nothing	12 14
+20 Tim dropped the milk.
+21 Tony got the milk there.
+22 What is Tim carrying? 	nothing	18 20
+23 Johnson journeyed to the bathroom.
+24 Tony went back to the bedroom.
+25 What is Tim carrying? 	nothing	18 20
+1 Sandy took the milk there.
+2 Johnson got the apple there.
+3 What is Sandy carrying? 	milk	1
+4 Sandy went to the garden.
+5 Tim moved to the bathroom.
+6 What is Johnson carrying? 	apple	2
+7 Sandy travelled to the bedroom.
+8 Tim travelled to the hallway.
+9 What is Johnson carrying? 	apple	2
+10 Sandy moved to the hallway.
+11 Sandy dropped the milk.
+12 What is Sandy carrying? 	nothing	1 11
+13 Sandy grabbed the milk there.
+14 Tim went to the garden.
+15 What is Sandy carrying? 	milk	1 11 13
+1 Johnson journeyed to the bedroom.
+2 Sandy went back to the office.
+3 Johnson got the apple there.
+4 Tony moved to the bathroom.
+5 What is Johnson carrying? 	apple	3
+6 Johnson discarded the apple.
+7 Tim went to the office.
+8 What is Johnson carrying? 	nothing	3 6
+9 Tim travelled to the hallway.
+10 Johnson grabbed the apple there.
+11 What is Johnson carrying? 	apple	3 6 10
+12 Johnson took the football there.
+13 Johnson journeyed to the office.
+14 What is Johnson carrying? 	apple,football	3 6 10 12
+15 Sandy went to the bathroom.
+16 Johnson discarded the apple there.
+17 What is Johnson carrying? 	football	3 6 10 16 12
+1 Tim journeyed to the office.
+2 Tim went to the bathroom.
+3 Tony got the apple there.
+4 Johnson went to the hallway.
+5 What is Tony carrying? 	apple	3
+6 Tim grabbed the football there.
+7 Tony put down the apple.
+8 What is Tim carrying? 	football	6
+9 Tony got the apple there.
+10 Tony dropped the apple.
+11 What is Tony carrying? 	nothing	3 7 9 10
+12 Tony grabbed the apple there.
+13 Johnson went to the office.
+14 What is Tony carrying? 	apple	3 7 9 10 12
+15 Johnson travelled to the garden.
+16 Tony went to the bedroom.
+17 What is Tony carrying? 	apple	3 7 9 10 12
+1 Sandy went back to the office.
+2 Sandy took the milk there.
+3 What is Sandy carrying? 	milk	2
+4 Tony went back to the kitchen.
+5 Sandy went back to the bedroom.
+6 What is Sandy carrying? 	milk	2
+7 Johnson grabbed the apple there.
+8 Sandy put down the milk.
+9 What is Sandy carrying? 	nothing	2 8
+10 Tony went back to the bedroom.
+11 Sandy picked up the milk there.
+12 What is Sandy carrying? 	milk	2 8 11
+13 Johnson moved to the office.
+14 Johnson journeyed to the hallway.
+15 What is Sandy carrying? 	milk	2 8 11
+1 Sandy travelled to the garden.
+2 Sandy took the football there.
+3 What is Sandy carrying? 	football	2
+4 Johnson travelled to the bathroom.
+5 Sandy left the football.
+6 What is Sandy carrying? 	nothing	2 5
+7 Tim moved to the bathroom.
+8 Tim journeyed to the bedroom.
+9 What is Sandy carrying? 	nothing	2 5
+10 Tim travelled to the kitchen.
+11 Tim journeyed to the bedroom.
+12 What is Sandy carrying? 	nothing	2 5
+13 Johnson went back to the bedroom.
+14 Sandy took the football there.
+15 What is Sandy carrying? 	football	2 5 14
+1 Tony took the milk there.
+2 Tim went back to the bedroom.
+3 What is Tony carrying? 	milk	1
+4 Johnson picked up the apple there.
+5 Johnson left the apple.
+6 What is Tony carrying? 	milk	1
+7 Tony discarded the milk.
+8 Johnson went back to the office.
+9 What is Tony carrying? 	nothing	1 7
+10 Tim went to the bathroom.
+11 Johnson went to the garden.
+12 What is Johnson carrying? 	nothing	4 5
+13 Johnson went back to the bathroom.
+14 Tim went back to the office.
+15 Tim moved to the bathroom.
+16 Tony journeyed to the office.
+17 Tim moved to the office.
+18 Johnson went back to the office.
+19 Tony went back to the hallway.
+20 Tony journeyed to the bedroom.
+21 Johnson moved to the hallway.
+22 Sandy moved to the bathroom.
+23 Sandy moved to the kitchen.
+24 Johnson got the apple there.
+25 What is Johnson carrying? 	apple	4 5 24
+1 Tony journeyed to the hallway.
+2 Tim travelled to the office.
+3 Johnson went back to the hallway.
+4 Sandy picked up the apple there.
+5 What is Sandy carrying? 	apple	4
+6 Johnson journeyed to the garden.
+7 Sandy moved to the office.
+8 What is Sandy carrying? 	apple	4
+9 Sandy moved to the bathroom.
+10 Tony went to the garden.
+11 What is Sandy carrying? 	apple	4
+12 Tony journeyed to the bedroom.
+13 Tim travelled to the hallway.
+14 Johnson travelled to the office.
+15 Johnson moved to the bathroom.
+16 Tim journeyed to the office.
+17 Johnson grabbed the milk there.
+18 What is Johnson carrying? 	milk	17
+19 Sandy picked up the football there.
+20 Tony travelled to the hallway.
+21 What is Sandy carrying? 	apple,football	4 19
+1 Tony went to the office.
+2 Johnson took the apple there.
+3 What is Johnson carrying? 	apple	2
+4 Sandy journeyed to the bathroom.
+5 Johnson left the apple.
+6 What is Johnson carrying? 	nothing	2 5
+7 Tony moved to the kitchen.
+8 Johnson got the apple there.
+9 What is Johnson carrying? 	apple	2 5 8
+10 Tony went back to the bathroom.
+11 Johnson discarded the apple.
+12 What is Johnson carrying? 	nothing	2 5 8 11
+13 Tony travelled to the kitchen.
+14 Johnson moved to the garden.
+15 What is Johnson carrying? 	nothing	2 5 8 11
+1 Tim went back to the bedroom.
+2 Johnson travelled to the hallway.
+3 Tim journeyed to the office.
+4 Tony journeyed to the bathroom.
+5 Johnson moved to the office.
+6 Johnson moved to the kitchen.
+7 Tim travelled to the hallway.
+8 Tony got the football there.
+9 What is Tony carrying? 	football	8
+10 Tony dropped the football.
+11 Tony journeyed to the office.
+12 What is Tony carrying? 	nothing	8 10
+13 Tim journeyed to the office.
+14 Johnson journeyed to the bedroom.
+15 What is Tony carrying? 	nothing	8 10
+16 Tony journeyed to the hallway.
+17 Sandy went to the office.
+18 Tim moved to the bedroom.
+19 Tim went to the office.
+20 Johnson journeyed to the hallway.
+21 Tony journeyed to the kitchen.
+22 Tony went back to the bathroom.
+23 Tony moved to the garden.
+24 Tony travelled to the bedroom.
+25 Tony went to the garden.
+26 Tim moved to the bedroom.
+27 Tim travelled to the garden.
+28 Tony moved to the kitchen.
+29 Tony went back to the office.
+30 Sandy went to the bedroom.
+31 Tony moved to the hallway.
+32 Tim got the apple there.
+33 Sandy went to the office.
+34 What is Tim carrying? 	apple	32
+35 Tony went back to the bedroom.
+36 Sandy travelled to the hallway.
+37 What is Tim carrying? 	apple	32
+1 Sandy picked up the football there.
+2 Johnson journeyed to the office.
+3 What is Sandy carrying? 	football	1
+4 Sandy went back to the kitchen.
+5 Johnson went back to the bedroom.
+6 What is Sandy carrying? 	football	1
+7 Tony took the apple there.
+8 Sandy dropped the football.
+9 What is Sandy carrying? 	nothing	1 8
+10 Tim went back to the office.
+11 Tony travelled to the hallway.
+12 What is Sandy carrying? 	nothing	1 8
+13 Tony discarded the apple.
+14 Johnson went to the kitchen.
+15 What is Tony carrying? 	nothing	7 13
+1 Tim went back to the bedroom.
+2 Tony travelled to the office.
+3 Sandy moved to the bathroom.
+4 Sandy journeyed to the garden.
+5 Johnson went to the kitchen.
+6 Tim went back to the office.
+7 Sandy got the milk there.
+8 Tim took the apple there.
+9 What is Sandy carrying? 	milk	7
+10 Tony moved to the hallway.
+11 Tim went back to the hallway.
+12 What is Tim carrying? 	apple	8
+13 Tim moved to the bedroom.
+14 Sandy went to the office.
+15 What is Tim carrying? 	apple	8
+16 Tim discarded the apple.
+17 Johnson went to the hallway.
+18 What is Tim carrying? 	nothing	8 16
+19 Sandy went to the kitchen.
+20 Sandy moved to the bathroom.
+21 What is Tim carrying? 	nothing	8 16
+1 Sandy took the apple there.
+2 Johnson went to the garden.
+3 What is Sandy carrying? 	apple	1
+4 Tony journeyed to the garden.
+5 Sandy discarded the apple.
+6 What is Sandy carrying? 	nothing	1 5
+7 Sandy took the apple there.
+8 Johnson journeyed to the kitchen.
+9 What is Sandy carrying? 	apple	1 5 7
+10 Tony went back to the hallway.
+11 Johnson journeyed to the bedroom.
+12 What is Sandy carrying? 	apple	1 5 7
+13 Sandy went back to the bedroom.
+14 Tony went to the garden.
+15 Tim went to the office.
+16 Sandy discarded the apple.
+17 What is Sandy carrying? 	nothing	1 5 7 16
+1 Johnson journeyed to the garden.
+2 Tim went to the office.
+3 Tony moved to the hallway.
+4 Johnson journeyed to the kitchen.
+5 Johnson moved to the office.
+6 Sandy journeyed to the garden.
+7 Tony went back to the garden.
+8 Tony journeyed to the kitchen.
+9 Tim went to the bedroom.
+10 Tony grabbed the milk there.
+11 What is Tony carrying? 	milk	10
+12 Sandy went to the bedroom.
+13 Tim journeyed to the bathroom.
+14 What is Tony carrying? 	milk	10
+15 Johnson travelled to the bathroom.
+16 Johnson journeyed to the kitchen.
+17 What is Tony carrying? 	milk	10
+18 Tony journeyed to the bathroom.
+19 Tony moved to the bedroom.
+20 Tony put down the milk there.
+21 Sandy picked up the apple there.
+22 What is Sandy carrying? 	apple	21
+23 Tim went back to the office.
+24 Sandy took the milk there.
+25 What is Tony carrying? 	nothing	10 20
+1 Sandy took the apple there.
+2 Sandy moved to the garden.
+3 What is Sandy carrying? 	apple	1
+4 Johnson went back to the bedroom.
+5 Sandy went to the bedroom.
+6 What is Sandy carrying? 	apple	1
+7 Tim picked up the milk there.
+8 Johnson went back to the office.
+9 What is Tim carrying? 	milk	7
+10 Sandy left the apple.
+11 Tony moved to the hallway.
+12 What is Tim carrying? 	milk	7
+13 Tim went back to the garden.
+14 Tony went back to the garden.
+15 What is Sandy carrying? 	nothing	1 10
+1 Sandy picked up the apple there.
+2 Johnson took the football there.
+3 What is Sandy carrying? 	apple	1
+4 Johnson travelled to the bedroom.
+5 Tim got the milk there.
+6 What is Johnson carrying? 	football	2
+7 Tim discarded the milk.
+8 Sandy put down the apple.
+9 What is Sandy carrying? 	nothing	1 8
+10 Tony moved to the office.
+11 Johnson put down the football there.
+12 What is Tim carrying? 	nothing	5 7
+13 Tony took the apple there.
+14 Johnson took the football there.
+15 What is Tony carrying? 	apple	13
+1 Tony moved to the bedroom.
+2 Tim travelled to the bathroom.
+3 Tim took the apple there.
+4 Tim went to the bedroom.
+5 What is Tim carrying? 	apple	3
+6 Tim put down the apple there.
+7 Sandy went to the bedroom.
+8 What is Tim carrying? 	nothing	3 6
+9 Sandy got the apple there.
+10 Johnson grabbed the milk there.
+11 What is Tim carrying? 	nothing	3 6
+12 Johnson dropped the milk.
+13 Sandy travelled to the bathroom.
+14 What is Johnson carrying? 	nothing	10 12
+15 Johnson got the milk there.
+16 Johnson discarded the milk there.
+17 What is Johnson carrying? 	nothing	10 12 15 16
+1 Johnson moved to the bedroom.
+2 Tony went back to the bedroom.
+3 Tim travelled to the office.
+4 Johnson went to the office.
+5 Tim travelled to the bedroom.
+6 Sandy travelled to the hallway.
+7 Sandy journeyed to the bedroom.
+8 Johnson grabbed the football there.
+9 What is Johnson carrying? 	football	8
+10 Tim travelled to the kitchen.
+11 Tim travelled to the hallway.
+12 What is Johnson carrying? 	football	8
+13 Johnson left the football.
+14 Sandy travelled to the office.
+15 What is Johnson carrying? 	nothing	8 13
+16 Tim took the apple there.
+17 Johnson journeyed to the garden.
+18 What is Johnson carrying? 	nothing	8 13
+19 Johnson travelled to the kitchen.
+20 Tim went back to the office.
+21 What is Tim carrying? 	apple	16
+1 Johnson got the milk there.
+2 Johnson left the milk.
+3 What is Johnson carrying? 	nothing	1 2
+4 Tony went to the garden.
+5 Johnson got the milk there.
+6 What is Johnson carrying? 	milk	1 2 5
+7 Tony travelled to the bedroom.
+8 Johnson discarded the milk.
+9 What is Johnson carrying? 	nothing	1 2 5 8
+10 Tim took the milk there.
+11 Tony went to the hallway.
+12 What is Tim carrying? 	milk	10
+13 Tony travelled to the office.
+14 Sandy moved to the office.
+15 What is Tim carrying? 	milk	10
+1 Sandy moved to the garden.
+2 Sandy moved to the office.
+3 Johnson journeyed to the bedroom.
+4 Sandy journeyed to the bedroom.
+5 Sandy moved to the garden.
+6 Tony moved to the office.
+7 Tony journeyed to the kitchen.
+8 Tony went to the bedroom.
+9 Tim journeyed to the hallway.
+10 Tim journeyed to the bathroom.
+11 Johnson went back to the garden.
+12 Tim took the milk there.
+13 What is Tim carrying? 	milk	12
+14 Johnson went to the kitchen.
+15 Tim left the milk.
+16 What is Tim carrying? 	nothing	12 15
+17 Tim picked up the milk there.
+18 Johnson got the football there.
+19 What is Johnson carrying? 	football	18
+20 Johnson travelled to the garden.
+21 Tim left the milk.
+22 What is Tim carrying? 	nothing	12 15 17 21
+23 Johnson put down the football there.
+24 Johnson took the football there.
+25 What is Tim carrying? 	nothing	12 15 17 21
+1 Tony went to the hallway.
+2 Johnson went to the hallway.
+3 Tim took the milk there.
+4 Tim travelled to the kitchen.
+5 What is Tim carrying? 	milk	3
+6 Tony travelled to the kitchen.
+7 Tony travelled to the bedroom.
+8 What is Tim carrying? 	milk	3
+9 Sandy moved to the bathroom.
+10 Tim discarded the milk.
+11 What is Tim carrying? 	nothing	3 10
+12 Johnson went back to the kitchen.
+13 Johnson moved to the bathroom.
+14 What is Tim carrying? 	nothing	3 10
+15 Tim moved to the bathroom.
+16 Tim moved to the hallway.
+17 What is Tim carrying? 	nothing	3 10
+1 Sandy got the milk there.
+2 Tim went back to the hallway.
+3 What is Sandy carrying? 	milk	1
+4 Sandy left the milk there.
+5 Johnson moved to the office.
+6 What is Sandy carrying? 	nothing	1 4
+7 Sandy grabbed the milk there.
+8 Tony went back to the hallway.
+9 What is Sandy carrying? 	milk	1 4 7
+10 Johnson travelled to the kitchen.
+11 Johnson moved to the hallway.
+12 What is Sandy carrying? 	milk	1 4 7
+13 Sandy dropped the milk there.
+14 Sandy picked up the milk there.
+15 What is Sandy carrying? 	milk	1 4 7 13 14
+1 Tim journeyed to the office.
+2 Sandy travelled to the office.
+3 Tony moved to the office.
+4 Tim journeyed to the garden.
+5 Johnson went back to the hallway.
+6 Tim took the apple there.
+7 What is Tim carrying? 	apple	6
+8 Tony went back to the bathroom.
+9 Tim left the apple there.
+10 What is Tim carrying? 	nothing	6 9
+11 Tim grabbed the apple there.
+12 Tony journeyed to the garden.
+13 What is Tim carrying? 	apple	6 9 11
+14 Johnson went back to the office.
+15 Tony got the football there.
+16 What is Tony carrying? 	football	15
+17 Tim discarded the apple there.
+18 Sandy travelled to the garden.
+19 What is Tony carrying? 	football	15
+1 Tim went back to the hallway.
+2 Sandy journeyed to the office.
+3 Johnson took the football there.
+4 Tony took the apple there.
+5 What is Tony carrying? 	apple	4
+6 Tony picked up the milk there.
+7 Johnson put down the football.
+8 What is Tony carrying? 	apple,milk	4 6
+9 Tim went to the garden.
+10 Sandy went to the bathroom.
+11 What is Johnson carrying? 	nothing	3 7
+12 Tony journeyed to the bedroom.
+13 Tony discarded the apple.
+14 What is Johnson carrying? 	nothing	3 7
+15 Sandy moved to the hallway.
+16 Tony left the milk.
+17 What is Tony carrying? 	nothing	4 13 6 16
+1 Johnson journeyed to the hallway.
+2 Johnson went to the bathroom.
+3 Tony took the milk there.
+4 Sandy moved to the office.
+5 What is Tony carrying? 	milk	3
+6 Johnson moved to the office.
+7 Sandy journeyed to the bathroom.
+8 What is Tony carrying? 	milk	3
+9 Tim went to the bathroom.
+10 Johnson got the football there.
+11 What is Johnson carrying? 	football	10
+12 Tony travelled to the office.
+13 Tony put down the milk.
+14 What is Tony carrying? 	nothing	3 13
+15 Tony went back to the bathroom.
+16 Johnson picked up the milk there.
+17 What is Johnson carrying? 	football,milk	10 16
+1 Johnson went back to the kitchen.
+2 Sandy journeyed to the bedroom.
+3 Sandy went to the kitchen.
+4 Johnson went back to the garden.
+5 Johnson moved to the kitchen.
+6 Tim went to the hallway.
+7 Tony went back to the garden.
+8 Tim went back to the bathroom.
+9 Tim went back to the office.
+10 Sandy went to the garden.
+11 Sandy went to the bedroom.
+12 Tony picked up the football there.
+13 What is Tony carrying? 	football	12
+14 Sandy grabbed the apple there.
+15 Johnson went back to the hallway.
+16 What is Sandy carrying? 	apple	14
+17 Tony took the milk there.
+18 Tony went back to the bedroom.
+19 What is Tony carrying? 	football,milk	12 17
+20 Tony travelled to the garden.
+21 Tim went back to the hallway.
+22 What is Tony carrying? 	football,milk	12 17
+23 Tony journeyed to the bathroom.
+24 Tim journeyed to the kitchen.
+25 Sandy travelled to the bathroom.
+26 Sandy moved to the garden.
+27 Johnson travelled to the office.
+28 Tim went back to the office.
+29 Sandy went back to the bathroom.
+30 Tony went back to the bedroom.
+31 Tony travelled to the bathroom.
+32 Tony moved to the bedroom.
+33 Sandy left the apple.
+34 Tony went to the hallway.
+35 What is Sandy carrying? 	nothing	14 33
+1 Johnson picked up the milk there.
+2 Johnson discarded the milk there.
+3 What is Johnson carrying? 	nothing	1 2
+4 Tim travelled to the bedroom.
+5 Sandy travelled to the hallway.
+6 What is Johnson carrying? 	nothing	1 2
+7 Johnson took the milk there.
+8 Sandy grabbed the football there.
+9 What is Johnson carrying? 	milk	1 2 7
+10 Tony travelled to the bedroom.
+11 Johnson left the milk.
+12 What is Johnson carrying? 	nothing	1 2 7 11
+13 Johnson grabbed the milk there.
+14 Johnson discarded the milk.
+15 What is Johnson carrying? 	nothing	1 2 7 11 13 14
+1 Tony grabbed the milk there.
+2 Johnson went to the bedroom.
+3 What is Tony carrying? 	milk	1
+4 Sandy travelled to the garden.
+5 Tony journeyed to the garden.
+6 What is Tony carrying? 	milk	1
+7 Johnson grabbed the football there.
+8 Tim got the apple there.
+9 What is Tim carrying? 	apple	8
+10 Tim put down the apple.
+11 Johnson left the football there.
+12 What is Tim carrying? 	nothing	8 10
+13 Johnson got the football there.
+14 Johnson moved to the garden.
+15 What is Johnson carrying? 	football	7 11 13
+1 Johnson journeyed to the office.
+2 Johnson got the milk there.
+3 What is Johnson carrying? 	milk	2
+4 Tim picked up the apple there.
+5 Tony went back to the office.
+6 What is Tim carrying? 	apple	4
+7 Sandy journeyed to the garden.
+8 Johnson went back to the bathroom.
+9 What is Tim carrying? 	apple	4
+10 Tony journeyed to the kitchen.
+11 Johnson discarded the milk.
+12 What is Johnson carrying? 	nothing	2 11
+13 Johnson went back to the kitchen.
+14 Tony went back to the office.
+15 What is Johnson carrying? 	nothing	2 11
+1 Sandy journeyed to the office.
+2 Sandy travelled to the bedroom.
+3 Tony journeyed to the kitchen.
+4 Tim moved to the bedroom.
+5 Johnson went back to the garden.
+6 Tony travelled to the bedroom.
+7 Tim went back to the kitchen.
+8 Johnson got the milk there.
+9 What is Johnson carrying? 	milk	8
+10 Johnson put down the milk there.
+11 Johnson picked up the football there.
+12 What is Johnson carrying? 	football	8 10 11
+13 Johnson put down the football.
+14 Johnson travelled to the bathroom.
+15 What is Johnson carrying? 	nothing	8 10 11 13
+16 Tony journeyed to the office.
+17 Tony went to the bedroom.
+18 What is Johnson carrying? 	nothing	8 10 11 13
+19 Johnson moved to the kitchen.
+20 Tim went to the hallway.
+21 Tim picked up the apple there.
+22 Tim discarded the apple.
+23 What is Tim carrying? 	nothing	21 22
+1 Tim went to the office.
+2 Johnson grabbed the apple there.
+3 What is Johnson carrying? 	apple	2
+4 Johnson travelled to the kitchen.
+5 Johnson dropped the apple.
+6 What is Johnson carrying? 	nothing	2 5
+7 Tony took the football there.
+8 Tony put down the football.
+9 What is Tony carrying? 	nothing	7 8
+10 Johnson grabbed the apple there.
+11 Tony took the football there.
+12 What is Johnson carrying? 	apple	2 5 10
+13 Tony discarded the football.
+14 Sandy went to the garden.
+15 What is Johnson carrying? 	apple	2 5 10
+1 Tony took the football there.
+2 Tim went to the hallway.
+3 What is Tony carrying? 	football	1
+4 Sandy went back to the bathroom.
+5 Sandy journeyed to the hallway.
+6 What is Tony carrying? 	football	1
+7 Johnson went to the garden.
+8 Sandy journeyed to the kitchen.
+9 Johnson moved to the bedroom.
+10 Tim travelled to the bathroom.
+11 Tony went back to the bedroom.
+12 Johnson got the milk there.
+13 What is Johnson carrying? 	milk	12
+14 Tony left the football.
+15 Sandy moved to the bedroom.
+16 What is Tony carrying? 	nothing	1 14
+17 Sandy grabbed the football there.
+18 Sandy journeyed to the garden.
+19 What is Tony carrying? 	nothing	1 14
+1 Tony journeyed to the kitchen.
+2 Tim went back to the garden.
+3 Sandy went to the bedroom.
+4 Johnson went back to the garden.
+5 Tony journeyed to the office.
+6 Sandy journeyed to the garden.
+7 Tony travelled to the bathroom.
+8 Sandy journeyed to the office.
+9 Tony picked up the football there.
+10 Tim journeyed to the kitchen.
+11 What is Tony carrying? 	football	9
+12 Tim grabbed the milk there.
+13 Tim left the milk.
+14 What is Tim carrying? 	nothing	12 13
+15 Tony discarded the football there.
+16 Tim grabbed the milk there.
+17 What is Tim carrying? 	milk	12 13 16
+18 Tony went to the hallway.
+19 Tony journeyed to the bedroom.
+20 What is Tony carrying? 	nothing	9 15
+21 Tim journeyed to the office.
+22 Johnson went back to the bedroom.
+23 What is Tim carrying? 	milk	12 13 16
+1 Sandy went back to the garden.
+2 Tony got the milk there.
+3 What is Tony carrying? 	milk	2
+4 Tony went back to the kitchen.
+5 Tim moved to the garden.
+6 What is Tony carrying? 	milk	2
+7 Johnson went to the hallway.
+8 Johnson moved to the kitchen.
+9 What is Tony carrying? 	milk	2
+10 Tim journeyed to the bathroom.
+11 Tony went to the office.
+12 Tim travelled to the hallway.
+13 Tony dropped the milk.
+14 What is Tony carrying? 	nothing	2 13
+15 Tim went back to the bedroom.
+16 Tim grabbed the football there.
+17 What is Tony carrying? 	nothing	2 13
+1 Johnson journeyed to the kitchen.
+2 Tim took the milk there.
+3 What is Tim carrying? 	milk	2
+4 Sandy went back to the office.
+5 Tim discarded the milk.
+6 What is Tim carrying? 	nothing	2 5
+7 Johnson went to the bathroom.
+8 Sandy went back to the kitchen.
+9 What is Tim carrying? 	nothing	2 5
+10 Tony moved to the bathroom.
+11 Tim went to the office.
+12 What is Tim carrying? 	nothing	2 5
+13 Johnson journeyed to the garden.
+14 Sandy journeyed to the bedroom.
+15 Sandy got the apple there.
+16 Johnson got the milk there.
+17 What is Johnson carrying? 	milk	16
+1 Sandy journeyed to the bedroom.
+2 Tim travelled to the office.
+3 Tony got the apple there.
+4 Tim journeyed to the bedroom.
+5 What is Tony carrying? 	apple	3
+6 Tony put down the apple.
+7 Tony grabbed the apple there.
+8 What is Tony carrying? 	apple	3 6 7
+9 Johnson travelled to the kitchen.
+10 Sandy travelled to the office.
+11 What is Tony carrying? 	apple	3 6 7
+12 Sandy journeyed to the garden.
+13 Sandy went to the bedroom.
+14 What is Tony carrying? 	apple	3 6 7
+15 Tony dropped the apple.
+16 Sandy went back to the bathroom.
+17 What is Tony carrying? 	nothing	3 6 7 15
+1 Johnson moved to the kitchen.
+2 Tony went back to the office.
+3 Johnson went to the garden.
+4 Johnson travelled to the hallway.
+5 Johnson picked up the milk there.
+6 Tony went to the bedroom.
+7 What is Johnson carrying? 	milk	5
+8 Sandy went back to the office.
+9 Johnson moved to the bedroom.
+10 What is Johnson carrying? 	milk	5
+11 Sandy travelled to the hallway.
+12 Tim went to the bedroom.
+13 Johnson journeyed to the bathroom.
+14 Johnson put down the milk there.
+15 What is Johnson carrying? 	nothing	5 14
+16 Tim went to the garden.
+17 Sandy travelled to the bathroom.
+18 What is Johnson carrying? 	nothing	5 14
+19 Johnson grabbed the football there.
+20 Sandy picked up the milk there.
+21 What is Johnson carrying? 	football	5 14 19
+1 Tony went back to the garden.
+2 Johnson journeyed to the hallway.
+3 Johnson travelled to the kitchen.
+4 Johnson journeyed to the bathroom.
+5 Tim moved to the kitchen.
+6 Johnson moved to the office.
+7 Johnson went to the bedroom.
+8 Johnson journeyed to the hallway.
+9 Tim went to the garden.
+10 Johnson got the milk there.
+11 What is Johnson carrying? 	milk	10
+12 Sandy moved to the hallway.
+13 Tony journeyed to the bedroom.
+14 What is Johnson carrying? 	milk	10
+15 Tony went to the bathroom.
+16 Johnson went to the kitchen.
+17 What is Johnson carrying? 	milk	10
+18 Sandy went to the kitchen.
+19 Johnson went back to the bedroom.
+20 Tony travelled to the hallway.
+21 Tim moved to the hallway.
+22 Sandy moved to the garden.
+23 Tony travelled to the kitchen.
+24 Tim travelled to the bathroom.
+25 Tim took the football there.
+26 What is Tim carrying? 	football	25
+27 Johnson dropped the milk.
+28 Sandy went back to the office.
+29 What is Johnson carrying? 	nothing	10 27
+1 Tony got the apple there.
+2 Johnson journeyed to the bathroom.
+3 What is Tony carrying? 	apple	1
+4 Tim went back to the hallway.
+5 Tim went back to the office.
+6 What is Tony carrying? 	apple	1
+7 Johnson travelled to the office.
+8 Tim took the milk there.
+9 What is Tim carrying? 	milk	8
+10 Johnson went back to the hallway.
+11 Tony discarded the apple.
+12 What is Tony carrying? 	nothing	1 11
+13 Sandy went back to the kitchen.
+14 Tony journeyed to the garden.
+15 What is Tony carrying? 	nothing	1 11
+1 Johnson went to the bedroom.
+2 Johnson travelled to the bathroom.
+3 Sandy moved to the bedroom.
+4 Tim travelled to the kitchen.
+5 Johnson travelled to the bedroom.
+6 Tony moved to the office.
+7 Tony went back to the bathroom.
+8 Johnson travelled to the bathroom.
+9 Tim went to the office.
+10 Sandy went to the garden.
+11 Tim went to the hallway.
+12 Tony travelled to the kitchen.
+13 Tony went to the bathroom.
+14 Tim took the apple there.
+15 What is Tim carrying? 	apple	14
+16 Tony moved to the kitchen.
+17 Tony travelled to the garden.
+18 What is Tim carrying? 	apple	14
+19 Tim journeyed to the bathroom.
+20 Tim put down the apple.
+21 What is Tim carrying? 	nothing	14 20
+22 Johnson grabbed the apple there.
+23 Johnson discarded the apple.
+24 What is Johnson carrying? 	nothing	22 23
+25 Tim travelled to the office.
+26 Tony went to the bathroom.
+27 What is Johnson carrying? 	nothing	22 23
+1 Tim went back to the office.
+2 Sandy travelled to the garden.
+3 Tim journeyed to the garden.
+4 Johnson went to the kitchen.
+5 Johnson went to the office.
+6 Sandy went back to the office.
+7 Johnson journeyed to the garden.
+8 Sandy moved to the kitchen.
+9 Tim went to the bedroom.
+10 Sandy journeyed to the hallway.
+11 Tony travelled to the garden.
+12 Tim went back to the hallway.
+13 Sandy got the football there.
+14 Tony travelled to the bathroom.
+15 What is Sandy carrying? 	football	13
+16 Sandy dropped the football.
+17 Tony went back to the garden.
+18 What is Sandy carrying? 	nothing	13 16
+19 Sandy picked up the football there.
+20 Tony went to the office.
+21 What is Sandy carrying? 	football	13 16 19
+22 Sandy put down the football.
+23 Sandy travelled to the office.
+24 What is Sandy carrying? 	nothing	13 16 19 22
+25 Tim went back to the garden.
+26 Tim went back to the kitchen.
+27 What is Sandy carrying? 	nothing	13 16 19 22
+1 Johnson went to the hallway.
+2 Tony travelled to the hallway.
+3 Tim went to the bathroom.
+4 Tony got the football there.
+5 What is Tony carrying? 	football	4
+6 Tim journeyed to the office.
+7 Tony grabbed the apple there.
+8 What is Tony carrying? 	football,apple	4 7
+9 Tim journeyed to the kitchen.
+10 Tony went to the bedroom.
+11 What is Tony carrying? 	football,apple	4 7
+12 Tony dropped the football there.
+13 Tony grabbed the football there.
+14 What is Tony carrying? 	football,apple	4 12 13 7
+15 Sandy went back to the kitchen.
+16 Tim went to the bathroom.
+17 What is Tony carrying? 	football,apple	4 12 13 7
+1 Tim took the milk there.
+2 Tim travelled to the garden.
+3 What is Tim carrying? 	milk	1
+4 Tim put down the milk.
+5 Sandy journeyed to the garden.
+6 What is Tim carrying? 	nothing	1 4
+7 Tim moved to the hallway.
+8 Sandy went to the bedroom.
+9 What is Tim carrying? 	nothing	1 4
+10 Johnson journeyed to the bathroom.
+11 Tony went back to the hallway.
+12 Sandy got the apple there.
+13 Tim journeyed to the garden.
+14 What is Sandy carrying? 	apple	12
+15 Johnson went to the hallway.
+16 Tony moved to the garden.
+17 What is Sandy carrying? 	apple	12
+1 Johnson journeyed to the bathroom.
+2 Tim moved to the kitchen.
+3 Sandy picked up the football there.
+4 Tim moved to the bedroom.
+5 What is Sandy carrying? 	football	3
+6 Sandy left the football there.
+7 Tim went to the hallway.
+8 What is Sandy carrying? 	nothing	3 6
+9 Tim went back to the kitchen.
+10 Tim travelled to the hallway.
+11 What is Sandy carrying? 	nothing	3 6
+12 Tony went to the office.
+13 Johnson grabbed the football there.
+14 What is Johnson carrying? 	football	13
+15 Tony travelled to the kitchen.
+16 Tony went to the bedroom.
+17 What is Johnson carrying? 	football	13
+1 Tony grabbed the apple there.
+2 Johnson journeyed to the bedroom.
+3 What is Tony carrying? 	apple	1
+4 Johnson moved to the garden.
+5 Tony left the apple.
+6 What is Tony carrying? 	nothing	1 5
+7 Sandy travelled to the garden.
+8 Johnson took the milk there.
+9 What is Tony carrying? 	nothing	1 5
+10 Johnson discarded the milk there.
+11 Tony got the apple there.
+12 What is Tony carrying? 	apple	1 5 11
+13 Tony went to the hallway.
+14 Johnson took the football there.
+15 What is Johnson carrying? 	football	8 10 14
+1 Sandy journeyed to the bedroom.
+2 Tim journeyed to the bathroom.
+3 Tony went to the garden.
+4 Tony went back to the bathroom.
+5 Sandy journeyed to the hallway.
+6 Tony went to the hallway.
+7 Tim went back to the office.
+8 Sandy travelled to the kitchen.
+9 Johnson travelled to the kitchen.
+10 Johnson went to the bedroom.
+11 Sandy picked up the apple there.
+12 Johnson travelled to the hallway.
+13 What is Sandy carrying? 	apple	11
+14 Johnson got the milk there.
+15 Tony went back to the office.
+16 What is Sandy carrying? 	apple	11
+17 Tim travelled to the bedroom.
+18 Sandy travelled to the hallway.
+19 What is Johnson carrying? 	milk	14
+20 Sandy dropped the apple.
+21 Johnson went back to the kitchen.
+22 What is Sandy carrying? 	nothing	11 20
+23 Johnson discarded the milk.
+24 Sandy travelled to the bathroom.
+25 What is Johnson carrying? 	nothing	14 23
+1 Sandy got the milk there.
+2 Tony journeyed to the kitchen.
+3 What is Sandy carrying? 	milk	1
+4 Sandy travelled to the bathroom.
+5 Sandy put down the milk.
+6 What is Sandy carrying? 	nothing	1 5
+7 Tony got the football there.
+8 Tony left the football.
+9 What is Tony carrying? 	nothing	7 8
+10 Sandy went to the kitchen.
+11 Sandy grabbed the football there.
+12 What is Tony carrying? 	nothing	7 8
+13 Johnson travelled to the kitchen.
+14 Sandy dropped the football.
+15 What is Sandy carrying? 	nothing	1 5 11 14
+1 Sandy grabbed the milk there.
+2 Tim travelled to the office.
+3 What is Sandy carrying? 	milk	1
+4 Sandy grabbed the apple there.
+5 Sandy discarded the milk.
+6 What is Sandy carrying? 	apple	1 5 4
+7 Tim got the milk there.
+8 Sandy put down the apple.
+9 What is Sandy carrying? 	nothing	1 5 4 8
+10 Tim left the milk there.
+11 Tim grabbed the apple there.
+12 What is Tim carrying? 	apple	7 10 11
+13 Tim journeyed to the garden.
+14 Sandy journeyed to the kitchen.
+15 What is Sandy carrying? 	nothing	1 5 4 8
+1 Sandy travelled to the office.
+2 Sandy grabbed the apple there.
+3 What is Sandy carrying? 	apple	2
+4 Johnson travelled to the kitchen.
+5 Tim went to the kitchen.
+6 What is Sandy carrying? 	apple	2
+7 Sandy went back to the garden.
+8 Johnson journeyed to the bathroom.
+9 What is Sandy carrying? 	apple	2
+10 Sandy went back to the kitchen.
+11 Tim went back to the bedroom.
+12 Sandy got the football there.
+13 Johnson went back to the bedroom.
+14 What is Sandy carrying? 	apple,football	2 12
+15 Tony travelled to the office.
+16 Johnson went to the office.
+17 What is Sandy carrying? 	apple,football	2 12
+1 Tony travelled to the bedroom.
+2 Sandy travelled to the garden.
+3 Tony went back to the office.
+4 Sandy moved to the kitchen.
+5 Sandy travelled to the bathroom.
+6 Sandy went back to the kitchen.
+7 Johnson went to the garden.
+8 Johnson took the football there.
+9 What is Johnson carrying? 	football	8
+10 Tony moved to the hallway.
+11 Johnson moved to the bathroom.
+12 What is Johnson carrying? 	football	8
+13 Sandy journeyed to the bathroom.
+14 Tim travelled to the bedroom.
+15 What is Johnson carrying? 	football	8
+16 Johnson went to the bedroom.
+17 Tim picked up the milk there.
+18 What is Tim carrying? 	milk	17
+19 Johnson moved to the bathroom.
+20 Tim dropped the milk there.
+21 What is Tim carrying? 	nothing	17 20
+1 Tony took the milk there.
+2 Tony moved to the bathroom.
+3 What is Tony carrying? 	milk	1
+4 Tim got the apple there.
+5 Tony dropped the milk there.
+6 What is Tony carrying? 	nothing	1 5
+7 Tim left the apple.
+8 Sandy moved to the bedroom.
+9 What is Tim carrying? 	nothing	4 7
+10 Johnson grabbed the football there.
+11 Sandy went back to the garden.
+12 What is Johnson carrying? 	football	10
+13 Sandy went back to the kitchen.
+14 Tim got the apple there.
+15 What is Tim carrying? 	apple	4 7 14
+1 Tim went to the bedroom.
+2 Tony went to the bedroom.
+3 Tony went to the bathroom.
+4 Tim travelled to the garden.
+5 Tony journeyed to the kitchen.
+6 Tim took the apple there.
+7 What is Tim carrying? 	apple	6
+8 Sandy travelled to the hallway.
+9 Tim dropped the apple.
+10 What is Tim carrying? 	nothing	6 9
+11 Tony took the milk there.
+12 Tony went back to the bedroom.
+13 What is Tim carrying? 	nothing	6 9
+14 Tim got the apple there.
+15 Tony left the milk.
+16 What is Tim carrying? 	apple	6 9 14
+17 Johnson journeyed to the kitchen.
+18 Tim put down the apple there.
+19 What is Tim carrying? 	nothing	6 9 14 18
+1 Johnson travelled to the kitchen.
+2 Johnson journeyed to the garden.
+3 Tim moved to the office.
+4 Tony moved to the hallway.
+5 Sandy got the apple there.
+6 Sandy travelled to the garden.
+7 What is Sandy carrying? 	apple	5
+8 Tim went to the garden.
+9 Tony went to the bedroom.
+10 What is Sandy carrying? 	apple	5
+11 Sandy left the apple.
+12 Tim moved to the kitchen.
+13 What is Sandy carrying? 	nothing	5 11
+14 Tim went back to the office.
+15 Johnson went back to the office.
+16 What is Sandy carrying? 	nothing	5 11
+17 Sandy went back to the office.
+18 Tony went back to the bathroom.
+19 Tim went back to the bedroom.
+20 Tim travelled to the hallway.
+21 Johnson moved to the hallway.
+22 Tony moved to the hallway.
+23 Tony picked up the milk there.
+24 Johnson moved to the bedroom.
+25 What is Tony carrying? 	milk	23
+1 Tony moved to the bathroom.
+2 Tim went back to the bedroom.
+3 Tony grabbed the apple there.
+4 Tim travelled to the office.
+5 What is Tony carrying? 	apple	3
+6 Sandy moved to the bedroom.
+7 Sandy journeyed to the kitchen.
+8 What is Tony carrying? 	apple	3
+9 Johnson went to the bedroom.
+10 Tony moved to the garden.
+11 Tony grabbed the football there.
+12 Tony left the apple.
+13 What is Tony carrying? 	football	3 12 11
+14 Tim journeyed to the kitchen.
+15 Tony put down the football there.
+16 What is Tony carrying? 	nothing	3 12 11 15
+17 Sandy went back to the bedroom.
+18 Johnson moved to the garden.
+19 What is Tony carrying? 	nothing	3 12 11 15
+1 Sandy moved to the hallway.
+2 Johnson went back to the hallway.
+3 Tony grabbed the milk there.
+4 Sandy went to the kitchen.
+5 What is Tony carrying? 	milk	3
+6 Johnson went back to the garden.
+7 Johnson picked up the football there.
+8 What is Tony carrying? 	milk	3
+9 Tony dropped the milk.
+10 Sandy journeyed to the office.
+11 What is Tony carrying? 	nothing	3 9
+12 Johnson got the apple there.
+13 Sandy went to the kitchen.
+14 What is Tony carrying? 	nothing	3 9
+15 Tony grabbed the milk there.
+16 Johnson discarded the football.
+17 What is Johnson carrying? 	apple	7 16 12
+1 Johnson moved to the garden.
+2 Tim travelled to the hallway.
+3 Johnson got the milk there.
+4 Johnson moved to the office.
+5 What is Johnson carrying? 	milk	3
+6 Sandy journeyed to the hallway.
+7 Tony went back to the bathroom.
+8 What is Johnson carrying? 	milk	3
+9 Tony took the football there.
+10 Tony dropped the football.
+11 What is Tony carrying? 	nothing	9 10
+12 Tony moved to the kitchen.
+13 Tim went to the bedroom.
+14 What is Tony carrying? 	nothing	9 10
+15 Tony went to the office.
+16 Tim took the apple there.
+17 What is Tim carrying? 	apple	16
+1 Johnson journeyed to the hallway.
+2 Tony picked up the milk there.
+3 What is Tony carrying? 	milk	2
+4 Tim took the football there.
+5 Tim left the football.
+6 What is Tim carrying? 	nothing	4 5
+7 Tim went to the bedroom.
+8 Tim went to the kitchen.
+9 What is Tim carrying? 	nothing	4 5
+10 Tony discarded the milk there.
+11 Tony got the milk there.
+12 What is Tony carrying? 	milk	2 10 11
+13 Sandy took the football there.
+14 Sandy left the football.
+15 What is Tony carrying? 	milk	2 10 11
+1 Sandy got the apple there.
+2 Johnson went back to the bedroom.
+3 What is Sandy carrying? 	apple	1
+4 Tim travelled to the bathroom.
+5 Sandy journeyed to the hallway.
+6 What is Sandy carrying? 	apple	1
+7 Sandy dropped the apple there.
+8 Tony travelled to the hallway.
+9 What is Sandy carrying? 	nothing	1 7
+10 Tony got the apple there.
+11 Johnson travelled to the office.
+12 What is Tony carrying? 	apple	10
+13 Tony left the apple.
+14 Tim journeyed to the hallway.
+15 What is Tony carrying? 	nothing	10 13
+1 Sandy went to the hallway.
+2 Johnson travelled to the kitchen.
+3 Tony travelled to the bathroom.
+4 Johnson went back to the office.
+5 Johnson moved to the bathroom.
+6 Tony picked up the milk there.
+7 What is Tony carrying? 	milk	6
+8 Johnson went back to the kitchen.
+9 Tim went to the bathroom.
+10 What is Tony carrying? 	milk	6
+11 Tony went back to the kitchen.
+12 Sandy went to the kitchen.
+13 What is Tony carrying? 	milk	6
+14 Tony put down the milk.
+15 Johnson grabbed the milk there.
+16 What is Johnson carrying? 	milk	15
+17 Sandy went back to the bedroom.
+18 Sandy grabbed the football there.
+19 What is Sandy carrying? 	football	18
+1 Tim moved to the kitchen.
+2 Sandy moved to the kitchen.
+3 Sandy travelled to the bedroom.
+4 Tim grabbed the apple there.
+5 What is Tim carrying? 	apple	4
+6 Sandy picked up the milk there.
+7 Tim dropped the apple there.
+8 What is Tim carrying? 	nothing	4 7
+9 Sandy moved to the garden.
+10 Tim travelled to the office.
+11 What is Tim carrying? 	nothing	4 7
+12 Johnson went back to the garden.
+13 Sandy moved to the hallway.
+14 What is Tim carrying? 	nothing	4 7
+15 Tim journeyed to the bedroom.
+16 Sandy went back to the garden.
+17 Johnson moved to the bedroom.
+18 Sandy travelled to the kitchen.
+19 Sandy dropped the milk.
+20 Sandy moved to the hallway.
+21 What is Sandy carrying? 	nothing	6 19
+1 Tony went back to the bedroom.
+2 Johnson journeyed to the bathroom.
+3 Tony journeyed to the office.
+4 Tim moved to the hallway.
+5 Sandy picked up the milk there.
+6 Sandy put down the milk.
+7 What is Sandy carrying? 	nothing	5 6
+8 Sandy picked up the milk there.
+9 Sandy left the milk.
+10 What is Sandy carrying? 	nothing	5 6 8 9
+11 Tony grabbed the football there.
+12 Johnson journeyed to the office.
+13 What is Tony carrying? 	football	11
+14 Sandy journeyed to the hallway.
+15 Tim went back to the bathroom.
+16 What is Sandy carrying? 	nothing	5 6 8 9
+17 Tony left the football there.
+18 Johnson got the milk there.
+19 What is Tony carrying? 	nothing	11 17
+1 Tim went to the kitchen.
+2 Sandy took the milk there.
+3 What is Sandy carrying? 	milk	2
+4 Johnson went back to the office.
+5 Sandy left the milk there.
+6 What is Sandy carrying? 	nothing	2 5
+7 Sandy moved to the office.
+8 Sandy went back to the bedroom.
+9 What is Sandy carrying? 	nothing	2 5
+10 Tim travelled to the hallway.
+11 Tim went back to the kitchen.
+12 What is Sandy carrying? 	nothing	2 5
+13 Johnson journeyed to the garden.
+14 Tony went to the office.
+15 Tony journeyed to the kitchen.
+16 Johnson journeyed to the bedroom.
+17 Tim journeyed to the bathroom.
+18 Sandy went back to the hallway.
+19 Tony took the milk there.
+20 Johnson travelled to the bathroom.
+21 What is Tony carrying? 	milk	19
+1 Sandy travelled to the hallway.
+2 Tim went to the office.
+3 Johnson travelled to the hallway.
+4 Sandy journeyed to the garden.
+5 Tim picked up the football there.
+6 Tim put down the football there.
+7 What is Tim carrying? 	nothing	5 6
+8 Tim grabbed the football there.
+9 Tim travelled to the garden.
+10 What is Tim carrying? 	football	5 6 8
+11 Tim put down the football there.
+12 Tim picked up the apple there.
+13 What is Tim carrying? 	apple	5 6 8 11 12
+14 Johnson travelled to the office.
+15 Sandy got the football there.
+16 What is Sandy carrying? 	football	15
+17 Sandy travelled to the office.
+18 Johnson went back to the bedroom.
+19 What is Tim carrying? 	apple	5 6 8 11 12
+1 Tony journeyed to the office.
+2 Johnson moved to the office.
+3 Sandy travelled to the hallway.
+4 Tony went to the garden.
+5 Johnson moved to the bedroom.
+6 Tim went back to the garden.
+7 Johnson went back to the bathroom.
+8 Tony went back to the kitchen.
+9 Tim journeyed to the office.
+10 Johnson went to the hallway.
+11 Tony journeyed to the hallway.
+12 Johnson journeyed to the bedroom.
+13 Johnson moved to the hallway.
+14 Sandy moved to the office.
+15 Tim travelled to the bedroom.
+16 Johnson journeyed to the garden.
+17 Sandy travelled to the bedroom.
+18 Tim went back to the hallway.
+19 Tim journeyed to the bedroom.
+20 Johnson went to the kitchen.
+21 Johnson journeyed to the bedroom.
+22 Sandy moved to the kitchen.
+23 Tim moved to the office.
+24 Tim travelled to the hallway.
+25 Tim journeyed to the kitchen.
+26 Tony journeyed to the bedroom.
+27 Tim went back to the bathroom.
+28 Tim went to the bedroom.
+29 Tim went back to the hallway.
+30 Tony travelled to the kitchen.
+31 Tim travelled to the office.
+32 Johnson moved to the bathroom.
+33 Johnson went back to the garden.
+34 Sandy went to the bathroom.
+35 Sandy journeyed to the office.
+36 Johnson went to the bedroom.
+37 Tim journeyed to the garden.
+38 Tim went to the office.
+39 Johnson moved to the office.
+40 Johnson travelled to the kitchen.
+41 Sandy travelled to the kitchen.
+42 Johnson journeyed to the bathroom.
+43 Johnson took the milk there.
+44 Johnson put down the milk there.
+45 What is Johnson carrying? 	nothing	43 44
+46 Tim travelled to the kitchen.
+47 Tim went back to the bedroom.
+48 What is Johnson carrying? 	nothing	43 44
+49 Sandy moved to the hallway.
+50 Tim moved to the garden.
+51 What is Johnson carrying? 	nothing	43 44
+52 Tony went back to the bathroom.
+53 Johnson moved to the hallway.
+54 Tim journeyed to the kitchen.
+55 Tim moved to the garden.
+56 Sandy travelled to the office.
+57 Tony went to the office.
+58 Sandy went back to the bathroom.
+59 Sandy grabbed the apple there.
+60 What is Sandy carrying? 	apple	59
+61 Sandy dropped the apple.
+62 Sandy travelled to the bedroom.
+63 What is Sandy carrying? 	nothing	59 61
+1 Sandy moved to the bedroom.
+2 Tim travelled to the hallway.
+3 Sandy journeyed to the garden.
+4 Tim grabbed the football there.
+5 What is Tim carrying? 	football	4
+6 Sandy picked up the milk there.
+7 Johnson got the apple there.
+8 What is Johnson carrying? 	apple	7
+9 Sandy journeyed to the hallway.
+10 Johnson put down the apple.
+11 What is Sandy carrying? 	milk	6
+12 Tim dropped the football.
+13 Johnson grabbed the apple there.
+14 What is Johnson carrying? 	apple	7 10 13
+15 Tony moved to the garden.
+16 Sandy journeyed to the office.
+17 What is Tim carrying? 	nothing	4 12
+1 Sandy journeyed to the bathroom.
+2 Tim moved to the bathroom.
+3 Sandy picked up the apple there.
+4 Johnson travelled to the kitchen.
+5 What is Sandy carrying? 	apple	3
+6 Sandy travelled to the office.
+7 Tim travelled to the hallway.
+8 What is Sandy carrying? 	apple	3
+9 Sandy grabbed the milk there.
+10 Sandy dropped the milk.
+11 What is Sandy carrying? 	apple	3 9 10
+12 Sandy picked up the milk there.
+13 Johnson travelled to the garden.
+14 What is Sandy carrying? 	apple,milk	3 9 10 12
+15 Johnson went back to the bathroom.
+16 Tony went to the bathroom.
+17 What is Sandy carrying? 	apple,milk	3 9 10 12
+1 Tony took the milk there.
+2 Tony journeyed to the kitchen.
+3 What is Tony carrying? 	milk	1
+4 Johnson travelled to the bathroom.
+5 Johnson took the apple there.
+6 What is Tony carrying? 	milk	1
+7 Johnson journeyed to the kitchen.
+8 Tony grabbed the football there.
+9 What is Tony carrying? 	milk,football	1 8
+10 Tim travelled to the bedroom.
+11 Tony put down the milk.
+12 What is Johnson carrying? 	apple	5
+13 Johnson grabbed the milk there.
+14 Sandy travelled to the kitchen.
+15 What is Tony carrying? 	football	1 11 8
+1 Sandy journeyed to the garden.
+2 Tony grabbed the apple there.
+3 What is Tony carrying? 	apple	2
+4 Tim went to the bedroom.
+5 Tony left the apple.
+6 What is Tony carrying? 	nothing	2 5
+7 Tony moved to the garden.
+8 Tony went back to the office.
+9 What is Tony carrying? 	nothing	2 5
+10 Tony went back to the bathroom.
+11 Tim got the football there.
+12 What is Tony carrying? 	nothing	2 5
+13 Sandy journeyed to the hallway.
+14 Tim discarded the football there.
+15 What is Tim carrying? 	nothing	11 14
+1 Johnson journeyed to the bedroom.
+2 Johnson journeyed to the bathroom.
+3 Tony went back to the kitchen.
+4 Tim went back to the bathroom.
+5 Tim went to the garden.
+6 Tony grabbed the apple there.
+7 What is Tony carrying? 	apple	6
+8 Tony went to the bathroom.
+9 Tim moved to the kitchen.
+10 What is Tony carrying? 	apple	6
+11 Sandy journeyed to the office.
+12 Sandy went back to the kitchen.
+13 What is Tony carrying? 	apple	6
+14 Tony went back to the kitchen.
+15 Johnson went to the kitchen.
+16 Johnson went back to the garden.
+17 Johnson took the football there.
+18 What is Johnson carrying? 	football	17
+19 Tim moved to the bathroom.
+20 Sandy travelled to the hallway.
+21 What is Johnson carrying? 	football	17
+1 Sandy journeyed to the kitchen.
+2 Johnson moved to the bedroom.
+3 Tony journeyed to the hallway.
+4 Sandy went to the hallway.
+5 Tim got the football there.
+6 Tim went to the bedroom.
+7 What is Tim carrying? 	football	5
+8 Tim left the football.
+9 Tim got the football there.
+10 What is Tim carrying? 	football	5 8 9
+11 Tim left the football.
+12 Tim went to the office.
+13 What is Tim carrying? 	nothing	5 8 9 11
+14 Tony went back to the garden.
+15 Johnson grabbed the football there.
+16 What is Johnson carrying? 	football	15
+17 Tim travelled to the garden.
+18 Tony moved to the office.
+19 What is Johnson carrying? 	football	15
+1 Sandy picked up the football there.
+2 Sandy journeyed to the office.
+3 What is Sandy carrying? 	football	1
+4 Sandy discarded the football.
+5 Sandy picked up the football there.
+6 What is Sandy carrying? 	football	1 4 5
+7 Sandy left the football.
+8 Sandy went to the garden.
+9 What is Sandy carrying? 	nothing	1 4 5 7
+10 Tony grabbed the apple there.
+11 Tim moved to the office.
+12 What is Tony carrying? 	apple	10
+13 Johnson went back to the bathroom.
+14 Sandy went back to the bathroom.
+15 What is Tony carrying? 	apple	10
+1 Sandy moved to the garden.
+2 Sandy picked up the apple there.
+3 What is Sandy carrying? 	apple	2
+4 Tim went back to the garden.
+5 Tim moved to the bathroom.
+6 What is Sandy carrying? 	apple	2
+7 Tony moved to the hallway.
+8 Sandy dropped the apple.
+9 What is Sandy carrying? 	nothing	2 8
+10 Tim got the milk there.
+11 Johnson took the football there.
+12 What is Sandy carrying? 	nothing	2 8
+13 Tony went to the office.
+14 Tim left the milk.
+15 What is Tim carrying? 	nothing	10 14
+1 Tony moved to the office.
+2 Tim travelled to the garden.
+3 Tim journeyed to the kitchen.
+4 Tim grabbed the football there.
+5 What is Tim carrying? 	football	4
+6 Tony went to the hallway.
+7 Tim went to the bathroom.
+8 What is Tim carrying? 	football	4
+9 Johnson picked up the apple there.
+10 Sandy went back to the office.
+11 What is Tim carrying? 	football	4
+12 Johnson discarded the apple.
+13 Tim put down the football there.
+14 What is Tim carrying? 	nothing	4 13
+15 Tim grabbed the football there.
+16 Tim picked up the apple there.
+17 What is Johnson carrying? 	nothing	9 12
+1 Tony went back to the garden.
+2 Tony grabbed the apple there.
+3 What is Tony carrying? 	apple	2
+4 Tony dropped the apple.
+5 Tony took the apple there.
+6 What is Tony carrying? 	apple	2 4 5
+7 Tim journeyed to the office.
+8 Johnson went to the garden.
+9 What is Tony carrying? 	apple	2 4 5
+10 Tim journeyed to the hallway.
+11 Johnson journeyed to the kitchen.
+12 What is Tony carrying? 	apple	2 4 5
+13 Tony dropped the apple.
+14 Sandy took the apple there.
+15 What is Tony carrying? 	nothing	2 4 5 13
+1 Tim travelled to the office.
+2 Johnson went to the kitchen.
+3 Johnson moved to the office.
+4 Tony went back to the hallway.
+5 Sandy went to the bedroom.
+6 Johnson journeyed to the bedroom.
+7 Tony went to the garden.
+8 Tim moved to the bathroom.
+9 Tony got the football there.
+10 Tony went to the kitchen.
+11 What is Tony carrying? 	football	9
+12 Tony grabbed the apple there.
+13 Sandy went to the garden.
+14 What is Tony carrying? 	football,apple	9 12
+15 Johnson went back to the hallway.
+16 Tony dropped the football.
+17 What is Tony carrying? 	apple	9 16 12
+18 Tim went to the hallway.
+19 Tony left the apple.
+20 What is Tony carrying? 	nothing	9 16 12 19
+21 Tim journeyed to the garden.
+22 Tony journeyed to the bathroom.
+23 What is Tony carrying? 	nothing	9 16 12 19
+1 Tim moved to the kitchen.
+2 Johnson journeyed to the hallway.
+3 Tim went to the garden.
+4 Tony grabbed the apple there.
+5 What is Tony carrying? 	apple	4
+6 Johnson moved to the bathroom.
+7 Tim moved to the kitchen.
+8 What is Tony carrying? 	apple	4
+9 Tony left the apple there.
+10 Tony picked up the milk there.
+11 What is Tony carrying? 	milk	4 9 10
+12 Tim went to the office.
+13 Tony discarded the milk.
+14 What is Tony carrying? 	nothing	4 9 10 13
+15 Tony went back to the kitchen.
+16 Sandy went back to the bedroom.
+17 What is Tony carrying? 	nothing	4 9 10 13
+1 Tony travelled to the kitchen.
+2 Johnson travelled to the office.
+3 Tony took the football there.
+4 Sandy grabbed the apple there.
+5 What is Tony carrying? 	football	3
+6 Sandy went to the garden.
+7 Johnson journeyed to the kitchen.
+8 What is Sandy carrying? 	apple	4
+9 Sandy left the apple.
+10 Tim went back to the office.
+11 What is Sandy carrying? 	nothing	4 9
+12 Tim went back to the bathroom.
+13 Johnson moved to the hallway.
+14 What is Sandy carrying? 	nothing	4 9
+15 Sandy got the apple there.
+16 Sandy moved to the bathroom.
+17 What is Sandy carrying? 	apple	4 9 15
+1 Tim went back to the garden.
+2 Sandy went back to the hallway.
+3 Sandy journeyed to the garden.
+4 Johnson moved to the kitchen.
+5 Sandy moved to the office.
+6 Johnson picked up the apple there.
+7 What is Johnson carrying? 	apple	6
+8 Tony journeyed to the bathroom.
+9 Johnson put down the apple.
+10 What is Johnson carrying? 	nothing	6 9
+11 Tim went back to the hallway.
+12 Johnson took the apple there.
+13 What is Johnson carrying? 	apple	6 9 12
+14 Johnson put down the apple.
+15 Sandy went back to the hallway.
+16 What is Johnson carrying? 	nothing	6 9 12 14
+17 Sandy went back to the bedroom.
+18 Johnson went back to the garden.
+19 What is Johnson carrying? 	nothing	6 9 12 14
+1 Sandy took the football there.
+2 Tony journeyed to the garden.
+3 What is Sandy carrying? 	football	1
+4 Tim travelled to the bedroom.
+5 Tony journeyed to the bedroom.
+6 What is Sandy carrying? 	football	1
+7 Sandy dropped the football.
+8 Tony picked up the apple there.
+9 What is Sandy carrying? 	nothing	1 7
+10 Tony dropped the apple.
+11 Tim got the apple there.
+12 What is Tim carrying? 	apple	11
+13 Sandy took the football there.
+14 Johnson went back to the kitchen.
+15 What is Tony carrying? 	nothing	8 10
+1 Tim moved to the bathroom.
+2 Tony grabbed the milk there.
+3 What is Tony carrying? 	milk	2
+4 Tim went to the hallway.
+5 Sandy moved to the hallway.
+6 What is Tony carrying? 	milk	2
+7 Sandy journeyed to the bathroom.
+8 Johnson travelled to the kitchen.
+9 What is Tony carrying? 	milk	2
+10 Sandy moved to the kitchen.
+11 Tim moved to the office.
+12 Tony journeyed to the bathroom.
+13 Sandy moved to the garden.
+14 Tim went back to the bedroom.
+15 Tim moved to the kitchen.
+16 Tony left the milk there.
+17 Sandy got the football there.
+18 What is Sandy carrying? 	football	17
+19 Sandy went to the bedroom.
+20 Sandy went to the office.
+21 What is Tony carrying? 	nothing	2 16
+1 Sandy went back to the kitchen.
+2 Tim got the milk there.
+3 What is Tim carrying? 	milk	2
+4 Sandy moved to the hallway.
+5 Tony travelled to the hallway.
+6 What is Tim carrying? 	milk	2
+7 Tony travelled to the kitchen.
+8 Tim took the football there.
+9 What is Tim carrying? 	milk,football	2 8
+10 Sandy journeyed to the bedroom.
+11 Sandy moved to the garden.
+12 What is Tim carrying? 	milk,football	2 8
+13 Tim dropped the milk.
+14 Tim moved to the bedroom.
+15 What is Tim carrying? 	football	2 13 8
+1 Tony got the football there.
+2 Sandy travelled to the hallway.
+3 What is Tony carrying? 	football	1
+4 Tim journeyed to the garden.
+5 Tim picked up the milk there.
+6 What is Tony carrying? 	football	1
+7 Tim went to the bedroom.
+8 Tim journeyed to the hallway.
+9 What is Tim carrying? 	milk	5
+10 Tony moved to the bathroom.
+11 Tony moved to the garden.
+12 What is Tim carrying? 	milk	5
+13 Tony left the football.
+14 Tony went back to the kitchen.
+15 What is Tony carrying? 	nothing	1 13
+1 Tony journeyed to the office.
+2 Tony moved to the kitchen.
+3 Sandy got the milk there.
+4 Tony moved to the hallway.
+5 What is Sandy carrying? 	milk	3
+6 Sandy put down the milk.
+7 Sandy grabbed the milk there.
+8 What is Sandy carrying? 	milk	3 6 7
+9 Sandy went back to the bathroom.
+10 Johnson went back to the bedroom.
+11 What is Sandy carrying? 	milk	3 6 7
+12 Sandy got the football there.
+13 Tim moved to the bedroom.
+14 What is Sandy carrying? 	milk,football	3 6 7 12
+15 Sandy travelled to the hallway.
+16 Sandy dropped the milk.
+17 What is Sandy carrying? 	football	3 6 7 16 12
+1 Johnson went to the bathroom.
+2 Tony travelled to the garden.
+3 Tim moved to the hallway.
+4 Sandy moved to the bedroom.
+5 Tony journeyed to the hallway.
+6 Tim picked up the apple there.
+7 What is Tim carrying? 	apple	6
+8 Sandy travelled to the bathroom.
+9 Tim dropped the apple.
+10 What is Tim carrying? 	nothing	6 9
+11 Tony moved to the office.
+12 Tony grabbed the football there.
+13 What is Tim carrying? 	nothing	6 9
+14 Tony moved to the bedroom.
+15 Tim got the apple there.
+16 What is Tony carrying? 	football	12
+17 Tony dropped the football.
+18 Tony journeyed to the bathroom.
+19 What is Tony carrying? 	nothing	12 17
+1 Tony travelled to the hallway.
+2 Sandy journeyed to the bathroom.
+3 Tim moved to the office.
+4 Johnson took the apple there.
+5 What is Johnson carrying? 	apple	4
+6 Tim went to the garden.
+7 Sandy took the milk there.
+8 What is Johnson carrying? 	apple	4
+9 Tony moved to the bedroom.
+10 Sandy discarded the milk there.
+11 What is Sandy carrying? 	nothing	7 10
+12 Sandy took the milk there.
+13 Tim travelled to the office.
+14 What is Sandy carrying? 	milk	7 10 12
+15 Tony travelled to the bathroom.
+16 Sandy dropped the milk there.
+17 What is Sandy carrying? 	nothing	7 10 12 16
+1 Johnson went to the hallway.
+2 Sandy picked up the apple there.
+3 What is Sandy carrying? 	apple	2
+4 Sandy put down the apple there.
+5 Johnson travelled to the office.
+6 What is Sandy carrying? 	nothing	2 4
+7 Tim went back to the hallway.
+8 Tim got the apple there.
+9 What is Tim carrying? 	apple	8
+10 Tim travelled to the kitchen.
+11 Tim dropped the apple.
+12 What is Tim carrying? 	nothing	8 11
+13 Sandy journeyed to the kitchen.
+14 Tim moved to the bedroom.
+15 What is Tim carrying? 	nothing	8 11
+1 Sandy got the football there.
+2 Tim journeyed to the bathroom.
+3 What is Sandy carrying? 	football	1
+4 Tim went back to the kitchen.
+5 Johnson travelled to the garden.
+6 What is Sandy carrying? 	football	1
+7 Sandy moved to the kitchen.
+8 Sandy put down the football.
+9 What is Sandy carrying? 	nothing	1 8
+10 Tony took the football there.
+11 Tony dropped the football there.
+12 What is Sandy carrying? 	nothing	1 8
+13 Johnson journeyed to the bedroom.
+14 Tony took the football there.
+15 What is Sandy carrying? 	nothing	1 8
+1 Tony journeyed to the bathroom.
+2 Sandy journeyed to the office.
+3 Sandy took the apple there.
+4 Tim went to the office.
+5 What is Sandy carrying? 	apple	3
+6 Tony travelled to the garden.
+7 Sandy took the milk there.
+8 What is Sandy carrying? 	apple,milk	3 7
+9 Tony moved to the office.
+10 Sandy journeyed to the bathroom.
+11 What is Sandy carrying? 	apple,milk	3 7
+12 Tim journeyed to the bathroom.
+13 Sandy went back to the garden.
+14 What is Sandy carrying? 	apple,milk	3 7
+15 Johnson moved to the bathroom.
+16 Tim journeyed to the hallway.
+17 Johnson travelled to the kitchen.
+18 Tony travelled to the bathroom.
+19 Tim travelled to the garden.
+20 Tony went to the hallway.
+21 Sandy dropped the apple.
+22 Tim grabbed the apple there.
+23 What is Tim carrying? 	apple	22
+1 Tony went back to the garden.
+2 Sandy travelled to the hallway.
+3 Tony moved to the bathroom.
+4 Tony took the football there.
+5 What is Tony carrying? 	football	4
+6 Johnson travelled to the bathroom.
+7 Tony took the milk there.
+8 What is Tony carrying? 	football,milk	4 7
+9 Johnson went to the garden.
+10 Tony put down the milk.
+11 What is Tony carrying? 	football	4 7 10
+12 Tony left the football.
+13 Johnson moved to the bathroom.
+14 What is Tony carrying? 	nothing	4 12 7 10
+15 Tim travelled to the kitchen.
+16 Johnson grabbed the football there.
+17 What is Tony carrying? 	nothing	4 12 7 10
+1 Johnson went back to the bedroom.
+2 Tony picked up the football there.
+3 What is Tony carrying? 	football	2
+4 Tony went back to the garden.
+5 Johnson moved to the kitchen.
+6 What is Tony carrying? 	football	2
+7 Tony put down the football.
+8 Sandy went back to the kitchen.
+9 What is Tony carrying? 	nothing	2 7
+10 Tim moved to the garden.
+11 Tony went to the bedroom.
+12 What is Tony carrying? 	nothing	2 7
+13 Tim moved to the kitchen.
+14 Sandy travelled to the bedroom.
+15 Sandy journeyed to the hallway.
+16 Sandy journeyed to the office.
+17 Tim went back to the bedroom.
+18 Johnson travelled to the bedroom.
+19 Sandy went back to the bathroom.
+20 Tim moved to the bathroom.
+21 Sandy moved to the office.
+22 Sandy travelled to the kitchen.
+23 Johnson went back to the kitchen.
+24 Johnson journeyed to the garden.
+25 Sandy went back to the bathroom.
+26 Johnson picked up the football there.
+27 What is Johnson carrying? 	football	26
+1 Sandy moved to the hallway.
+2 Tony picked up the milk there.
+3 What is Tony carrying? 	milk	2
+4 Johnson travelled to the garden.
+5 Tim took the football there.
+6 What is Tony carrying? 	milk	2
+7 Tim dropped the football.
+8 Sandy moved to the garden.
+9 What is Tim carrying? 	nothing	5 7
+10 Sandy journeyed to the bedroom.
+11 Tony went to the garden.
+12 What is Tim carrying? 	nothing	5 7
+13 Tim went back to the bedroom.
+14 Tim travelled to the hallway.
+15 Johnson journeyed to the bedroom.
+16 Johnson moved to the garden.
+17 Tony went to the bathroom.
+18 Tony put down the milk.
+19 What is Tony carrying? 	nothing	2 18
+1 Sandy got the milk there.
+2 Johnson grabbed the apple there.
+3 What is Sandy carrying? 	milk	1
+4 Johnson moved to the bedroom.
+5 Johnson left the apple.
+6 What is Sandy carrying? 	milk	1
+7 Tony got the apple there.
+8 Sandy went back to the garden.
+9 What is Johnson carrying? 	nothing	2 5
+10 Sandy got the football there.
+11 Sandy left the milk.
+12 What is Sandy carrying? 	football	1 11 10
+13 Tim went back to the kitchen.
+14 Tim went back to the bathroom.
+15 What is Sandy carrying? 	football	1 11 10
+1 Sandy went back to the bathroom.
+2 Sandy travelled to the hallway.
+3 Tim got the apple there.
+4 Tim put down the apple.
+5 What is Tim carrying? 	nothing	3 4
+6 Sandy travelled to the kitchen.
+7 Tim took the apple there.
+8 What is Tim carrying? 	apple	3 4 7
+9 Tim put down the apple.
+10 Tim took the apple there.
+11 What is Tim carrying? 	apple	3 4 7 9 10
+12 Tim put down the apple.
+13 Sandy journeyed to the bedroom.
+14 What is Tim carrying? 	nothing	3 4 7 9 10 12
+15 Johnson travelled to the bedroom.
+16 Tim went to the kitchen.
+17 What is Tim carrying? 	nothing	3 4 7 9 10 12
+1 Tony grabbed the football there.
+2 Tony put down the football.
+3 What is Tony carrying? 	nothing	1 2
+4 Sandy travelled to the bedroom.
+5 Johnson moved to the garden.
+6 What is Tony carrying? 	nothing	1 2
+7 Sandy went to the garden.
+8 Sandy moved to the bedroom.
+9 What is Tony carrying? 	nothing	1 2
+10 Tony took the football there.
+11 Tim took the milk there.
+12 What is Tony carrying? 	football	1 2 10
+13 Tim travelled to the garden.
+14 Tony left the football.
+15 What is Tim carrying? 	milk	11
+1 Tony took the football there.
+2 Sandy went to the garden.
+3 What is Tony carrying? 	football	1
+4 Tony put down the football there.
+5 Tony grabbed the football there.
+6 What is Tony carrying? 	football	1 4 5
+7 Sandy got the milk there.
+8 Tony moved to the office.
+9 What is Sandy carrying? 	milk	7
+10 Tony left the football.
+11 Sandy moved to the kitchen.
+12 What is Tony carrying? 	nothing	1 4 5 10
+13 Sandy took the apple there.
+14 Sandy moved to the bedroom.
+15 What is Tony carrying? 	nothing	1 4 5 10
+1 Sandy went to the kitchen.
+2 Sandy picked up the football there.
+3 What is Sandy carrying? 	football	2
+4 Tim travelled to the bedroom.
+5 Tony travelled to the kitchen.
+6 What is Sandy carrying? 	football	2
+7 Johnson went to the hallway.
+8 Sandy went back to the garden.
+9 What is Sandy carrying? 	football	2
+10 Tim went to the office.
+11 Sandy left the football.
+12 What is Sandy carrying? 	nothing	2 11
+13 Sandy picked up the football there.
+14 Tim moved to the hallway.
+15 What is Sandy carrying? 	football	2 11 13
+1 Tim grabbed the football there.
+2 Sandy went back to the garden.
+3 What is Tim carrying? 	football	1
+4 Johnson went back to the bedroom.
+5 Johnson journeyed to the bathroom.
+6 What is Tim carrying? 	football	1
+7 Tim took the apple there.
+8 Sandy went back to the bathroom.
+9 What is Tim carrying? 	football,apple	1 7
+10 Tim went back to the hallway.
+11 Tony travelled to the office.
+12 What is Tim carrying? 	football,apple	1 7
+13 Tim journeyed to the bathroom.
+14 Tim dropped the football.
+15 What is Tim carrying? 	apple	1 14 7
+1 Tony moved to the bedroom.
+2 Tony journeyed to the kitchen.
+3 Johnson grabbed the apple there.
+4 Tim got the milk there.
+5 What is Johnson carrying? 	apple	3
+6 Sandy grabbed the football there.
+7 Tim put down the milk.
+8 What is Johnson carrying? 	apple	3
+9 Tim went back to the hallway.
+10 Johnson dropped the apple.
+11 What is Tim carrying? 	nothing	4 7
+12 Tony grabbed the apple there.
+13 Sandy put down the football.
+14 What is Tony carrying? 	apple	12
+15 Sandy grabbed the football there.
+16 Sandy discarded the football there.
+17 What is Tony carrying? 	apple	12
+1 Sandy went back to the kitchen.
+2 Sandy travelled to the bedroom.
+3 Sandy journeyed to the bathroom.
+4 Sandy picked up the milk there.
+5 What is Sandy carrying? 	milk	4
+6 Tony took the football there.
+7 Tim journeyed to the kitchen.
+8 What is Sandy carrying? 	milk	4
+9 Sandy went back to the hallway.
+10 Johnson journeyed to the hallway.
+11 What is Sandy carrying? 	milk	4
+12 Tony dropped the football.
+13 Tony grabbed the football there.
+14 What is Tony carrying? 	football	6 12 13
+15 Johnson went to the bedroom.
+16 Johnson travelled to the office.
+17 What is Tony carrying? 	football	6 12 13
+1 Sandy moved to the bedroom.
+2 Tim got the football there.
+3 What is Tim carrying? 	football	2
+4 Sandy journeyed to the garden.
+5 Sandy moved to the office.
+6 What is Tim carrying? 	football	2
+7 Tim went to the kitchen.
+8 Tim travelled to the office.
+9 What is Tim carrying? 	football	2
+10 Sandy went to the kitchen.
+11 Tim went to the bathroom.
+12 Tim travelled to the office.
+13 Tim went to the hallway.
+14 Tim dropped the football.
+15 Tony journeyed to the kitchen.
+16 What is Tim carrying? 	nothing	2 14
+17 Sandy journeyed to the office.
+18 Tim went back to the kitchen.
+19 What is Tim carrying? 	nothing	2 14
+1 Johnson went back to the office.
+2 Johnson took the apple there.
+3 What is Johnson carrying? 	apple	2
+4 Johnson journeyed to the garden.
+5 Johnson moved to the bedroom.
+6 What is Johnson carrying? 	apple	2
+7 Johnson picked up the football there.
+8 Sandy travelled to the office.
+9 What is Johnson carrying? 	apple,football	2 7
+10 Tony travelled to the hallway.
+11 Johnson travelled to the garden.
+12 What is Johnson carrying? 	apple,football	2 7
+13 Johnson got the milk there.
+14 Sandy moved to the garden.
+15 What is Johnson carrying? 	apple,football,milk	2 7 13
+1 Sandy travelled to the bedroom.
+2 Sandy travelled to the hallway.
+3 Sandy went back to the garden.
+4 Sandy travelled to the kitchen.
+5 Tim moved to the bedroom.
+6 Tony got the football there.
+7 What is Tony carrying? 	football	6
+8 Tim got the milk there.
+9 Johnson travelled to the bathroom.
+10 What is Tim carrying? 	milk	8
+11 Johnson went back to the garden.
+12 Tim dropped the milk.
+13 What is Tony carrying? 	football	6
+14 Tony dropped the football.
+15 Tim went to the kitchen.
+16 What is Tony carrying? 	nothing	6 14
+17 Sandy went to the bathroom.
+18 Tony travelled to the hallway.
+19 What is Tony carrying? 	nothing	6 14
+1 Tim went back to the bathroom.
+2 Tim picked up the milk there.
+3 What is Tim carrying? 	milk	2
+4 Tim dropped the milk there.
+5 Tim grabbed the milk there.
+6 What is Tim carrying? 	milk	2 4 5
+7 Tim went to the garden.
+8 Johnson went to the garden.
+9 What is Tim carrying? 	milk	2 4 5
+10 Tim dropped the milk.
+11 Johnson journeyed to the office.
+12 What is Tim carrying? 	nothing	2 4 5 10
+13 Tim moved to the kitchen.
+14 Sandy travelled to the kitchen.
+15 What is Tim carrying? 	nothing	2 4 5 10
+1 Johnson journeyed to the office.
+2 Tim moved to the office.
+3 Sandy took the apple there.
+4 Sandy picked up the football there.
+5 What is Sandy carrying? 	apple,football	3 4
+6 Sandy dropped the football.
+7 Johnson grabbed the football there.
+8 What is Johnson carrying? 	football	7
+9 Johnson discarded the football.
+10 Sandy put down the apple.
+11 What is Sandy carrying? 	nothing	3 10 4 6
+12 Tim grabbed the apple there.
+13 Johnson picked up the football there.
+14 What is Johnson carrying? 	football	7 9 13
+15 Sandy went back to the bathroom.
+16 Tim left the apple there.
+17 What is Johnson carrying? 	football	7 9 13
+1 Tim journeyed to the office.
+2 Johnson went to the bedroom.
+3 Sandy went to the bedroom.
+4 Sandy went back to the bathroom.
+5 Tony moved to the garden.
+6 Johnson went back to the bathroom.
+7 Johnson journeyed to the office.
+8 Tony went back to the kitchen.
+9 Tony got the apple there.
+10 Tony dropped the apple.
+11 What is Tony carrying? 	nothing	9 10
+12 Tony got the apple there.
+13 Tony dropped the apple.
+14 What is Tony carrying? 	nothing	9 10 12 13
+15 Tim went to the bathroom.
+16 Tony took the apple there.
+17 What is Tony carrying? 	apple	9 10 12 13 16
+18 Sandy moved to the office.
+19 Johnson moved to the garden.
+20 What is Tony carrying? 	apple	9 10 12 13 16
+21 Tim travelled to the hallway.
+22 Tim went to the kitchen.
+23 What is Tony carrying? 	apple	9 10 12 13 16
+1 Tony picked up the milk there.
+2 Tony picked up the football there.
+3 What is Tony carrying? 	milk,football	1 2
+4 Johnson went back to the garden.
+5 Tony went back to the garden.
+6 What is Tony carrying? 	milk,football	1 2
+7 Sandy went to the bathroom.
+8 Tony dropped the football.
+9 What is Tony carrying? 	milk	1 2 8
+10 Sandy moved to the hallway.
+11 Tony went to the kitchen.
+12 What is Tony carrying? 	milk	1 2 8
+13 Johnson went back to the office.
+14 Tim journeyed to the bathroom.
+15 What is Tony carrying? 	milk	1 2 8
+1 Tim moved to the office.
+2 Johnson journeyed to the kitchen.
+3 Tony moved to the garden.
+4 Johnson went back to the office.
+5 Sandy travelled to the bedroom.
+6 Sandy grabbed the milk there.
+7 What is Sandy carrying? 	milk	6
+8 Johnson went back to the bathroom.
+9 Sandy discarded the milk there.
+10 What is Sandy carrying? 	nothing	6 9
+11 Sandy went back to the kitchen.
+12 Tim went back to the hallway.
+13 What is Sandy carrying? 	nothing	6 9
+14 Tony journeyed to the bedroom.
+15 Tim journeyed to the office.
+16 What is Sandy carrying? 	nothing	6 9
+17 Johnson travelled to the garden.
+18 Johnson travelled to the kitchen.
+19 Tony moved to the garden.
+20 Johnson journeyed to the garden.
+21 Sandy travelled to the hallway.
+22 Sandy journeyed to the bedroom.
+23 Johnson journeyed to the office.
+24 Tony travelled to the bathroom.
+25 Tony travelled to the garden.
+26 Sandy travelled to the garden.
+27 Sandy went back to the bathroom.
+28 Johnson moved to the bathroom.
+29 Johnson moved to the bedroom.
+30 Johnson got the milk there.
+31 What is Johnson carrying? 	milk	30
+1 Tim moved to the garden.
+2 Tim moved to the bedroom.
+3 Sandy went to the bathroom.
+4 Sandy took the milk there.
+5 What is Sandy carrying? 	milk	4
+6 Tony journeyed to the bathroom.
+7 Tony picked up the apple there.
+8 What is Sandy carrying? 	milk	4
+9 Tony travelled to the office.
+10 Tony discarded the apple there.
+11 What is Sandy carrying? 	milk	4
+12 Tim took the football there.
+13 Tony took the apple there.
+14 What is Tim carrying? 	football	12
+15 Tony put down the apple.
+16 Tim went back to the bathroom.
+17 What is Tony carrying? 	nothing	7 10 13 15
+1 Sandy went back to the office.
+2 Sandy grabbed the football there.
+3 What is Sandy carrying? 	football	2
+4 Sandy moved to the kitchen.
+5 Johnson journeyed to the hallway.
+6 What is Sandy carrying? 	football	2
+7 Sandy left the football.
+8 Tony went back to the bathroom.
+9 What is Sandy carrying? 	nothing	2 7
+10 Sandy took the football there.
+11 Johnson journeyed to the garden.
+12 What is Sandy carrying? 	football	2 7 10
+13 Tim grabbed the apple there.
+14 Sandy went back to the bathroom.
+15 What is Tim carrying? 	apple	13
+1 Johnson went back to the office.
+2 Sandy went back to the office.
+3 Tim got the football there.
+4 Sandy travelled to the garden.
+5 What is Tim carrying? 	football	3
+6 Tony journeyed to the kitchen.
+7 Tim went back to the kitchen.
+8 What is Tim carrying? 	football	3
+9 Sandy picked up the milk there.
+10 Johnson travelled to the bedroom.
+11 What is Sandy carrying? 	milk	9
+12 Sandy went to the kitchen.
+13 Sandy travelled to the garden.
+14 What is Sandy carrying? 	milk	9
+15 Johnson went to the office.
+16 Sandy put down the milk there.
+17 What is Sandy carrying? 	nothing	9 16
+1 Sandy moved to the kitchen.
+2 Tony moved to the bathroom.
+3 Johnson grabbed the milk there.
+4 Tony travelled to the hallway.
+5 What is Johnson carrying? 	milk	3
+6 Johnson dropped the milk.
+7 Johnson moved to the hallway.
+8 What is Johnson carrying? 	nothing	3 6
+9 Tim went to the bedroom.
+10 Tim got the football there.
+11 What is Johnson carrying? 	nothing	3 6
+12 Tim went to the hallway.
+13 Sandy went to the garden.
+14 What is Tim carrying? 	football	10
+15 Tim discarded the football.
+16 Tony picked up the football there.
+17 What is Tony carrying? 	football	16
+1 Tony took the milk there.
+2 Tim got the football there.
+3 What is Tony carrying? 	milk	1
+4 Tony dropped the milk.
+5 Tony travelled to the bedroom.
+6 What is Tony carrying? 	nothing	1 4
+7 Tim left the football.
+8 Tony journeyed to the kitchen.
+9 What is Tony carrying? 	nothing	1 4
+10 Sandy got the apple there.
+11 Sandy dropped the apple.
+12 What is Sandy carrying? 	nothing	10 11
+13 Sandy got the football there.
+14 Tony went to the bathroom.
+15 What is Sandy carrying? 	football	10 11 13
+1 Sandy moved to the bathroom.
+2 Tim moved to the hallway.
+3 Sandy went to the bedroom.
+4 Johnson moved to the bathroom.
+5 Tony journeyed to the office.
+6 Sandy went to the office.
+7 Sandy journeyed to the kitchen.
+8 Johnson went to the office.
+9 Johnson moved to the bedroom.
+10 Sandy went back to the bathroom.
+11 Johnson picked up the milk there.
+12 Tim went to the bedroom.
+13 What is Johnson carrying? 	milk	11
+14 Tim went to the office.
+15 Johnson moved to the kitchen.
+16 What is Johnson carrying? 	milk	11
+17 Tim went to the kitchen.
+18 Johnson travelled to the hallway.
+19 Sandy moved to the office.
+20 Tony journeyed to the garden.
+21 Johnson put down the milk.
+22 Tony travelled to the hallway.
+23 What is Johnson carrying? 	nothing	11 21
+24 Sandy journeyed to the hallway.
+25 Tim travelled to the bathroom.
+26 What is Johnson carrying? 	nothing	11 21
+27 Sandy took the milk there.
+28 Johnson went back to the bathroom.
+29 What is Sandy carrying? 	milk	27
+1 Tony travelled to the bedroom.
+2 Sandy got the apple there.
+3 What is Sandy carrying? 	apple	2
+4 Sandy put down the apple there.
+5 Sandy moved to the kitchen.
+6 What is Sandy carrying? 	nothing	2 4
+7 Tim went back to the bathroom.
+8 Johnson picked up the apple there.
+9 What is Sandy carrying? 	nothing	2 4
+10 Tim picked up the football there.
+11 Johnson dropped the apple.
+12 What is Johnson carrying? 	nothing	8 11
+13 Tim journeyed to the garden.
+14 Sandy went back to the garden.
+15 What is Tim carrying? 	football	10
+1 Sandy went back to the bedroom.
+2 Tim went to the bathroom.
+3 Johnson travelled to the kitchen.
+4 Tim moved to the garden.
+5 Sandy moved to the kitchen.
+6 Tim went to the bedroom.
+7 Sandy travelled to the bedroom.
+8 Tim travelled to the hallway.
+9 Tony travelled to the bedroom.
+10 Sandy went to the bathroom.
+11 Sandy took the milk there.
+12 Johnson moved to the office.
+13 What is Sandy carrying? 	milk	11
+14 Sandy went back to the hallway.
+15 Tony went to the bathroom.
+16 What is Sandy carrying? 	milk	11
+17 Tony went back to the office.
+18 Johnson grabbed the apple there.
+19 What is Johnson carrying? 	apple	18
+20 Tim took the football there.
+21 Tony went to the kitchen.
+22 What is Johnson carrying? 	apple	18
+23 Sandy moved to the garden.
+24 Johnson left the apple.
+25 What is Tim carrying? 	football	20
+1 Tim went to the hallway.
+2 Tony travelled to the garden.
+3 Tim got the milk there.
+4 Tim journeyed to the office.
+5 What is Tim carrying? 	milk	3
+6 Tim put down the milk.
+7 Sandy went to the kitchen.
+8 What is Tim carrying? 	nothing	3 6
+9 Tim picked up the milk there.
+10 Tim went to the hallway.
+11 What is Tim carrying? 	milk	3 6 9
+12 Tim took the football there.
+13 Tony went to the bathroom.
+14 What is Tim carrying? 	milk,football	3 6 9 12
+15 Tim put down the milk.
+16 Tim left the football.
+17 What is Tim carrying? 	nothing	3 6 9 15 12 16
+1 Sandy journeyed to the bathroom.
+2 Tim grabbed the milk there.
+3 What is Tim carrying? 	milk	2
+4 Tim journeyed to the garden.
+5 Tim dropped the milk.
+6 What is Tim carrying? 	nothing	2 5
+7 Sandy journeyed to the office.
+8 Sandy travelled to the kitchen.
+9 What is Tim carrying? 	nothing	2 5
+10 Johnson moved to the garden.
+11 Sandy journeyed to the garden.
+12 What is Tim carrying? 	nothing	2 5
+13 Tim got the football there.
+14 Johnson took the apple there.
+15 What is Tim carrying? 	football	2 5 13
+1 Tony moved to the hallway.
+2 Johnson went back to the bathroom.
+3 Tim went to the bathroom.
+4 Johnson travelled to the hallway.
+5 Tony journeyed to the garden.
+6 Tim went back to the bedroom.
+7 Tony moved to the kitchen.
+8 Tony picked up the apple there.
+9 What is Tony carrying? 	apple	8
+10 Tony travelled to the garden.
+11 Tony put down the apple.
+12 What is Tony carrying? 	nothing	8 11
+13 Tony journeyed to the office.
+14 Sandy journeyed to the kitchen.
+15 What is Tony carrying? 	nothing	8 11
+16 Tim travelled to the garden.
+17 Sandy went to the hallway.
+18 What is Tony carrying? 	nothing	8 11
+19 Tim went to the bathroom.
+20 Sandy travelled to the garden.
+21 Sandy travelled to the hallway.
+22 Tony went to the bedroom.
+23 Tim moved to the hallway.
+24 Tony grabbed the milk there.
+25 What is Tony carrying? 	milk	8 11 24
+1 Tony got the apple there.
+2 Johnson went back to the office.
+3 What is Tony carrying? 	apple	1
+4 Johnson moved to the bathroom.
+5 Sandy journeyed to the garden.
+6 What is Tony carrying? 	apple	1
+7 Sandy journeyed to the kitchen.
+8 Tim journeyed to the kitchen.
+9 Sandy went to the hallway.
+10 Sandy journeyed to the bedroom.
+11 Tony moved to the kitchen.
+12 Tim picked up the milk there.
+13 What is Tim carrying? 	milk	12
+14 Tony discarded the apple.
+15 Tim took the apple there.
+16 What is Tony carrying? 	nothing	1 14
+17 Johnson travelled to the kitchen.
+18 Tim put down the apple.
+19 What is Tim carrying? 	milk	12 15 18
+1 Johnson went back to the office.
+2 Johnson went back to the kitchen.
+3 Tony travelled to the bedroom.
+4 Sandy travelled to the garden.
+5 Johnson moved to the office.
+6 Sandy travelled to the office.
+7 Tim travelled to the hallway.
+8 Tim journeyed to the office.
+9 Tim went back to the bathroom.
+10 Sandy journeyed to the garden.
+11 Tim got the milk there.
+12 Tim took the football there.
+13 What is Tim carrying? 	milk,football	11 12
+14 Tony went back to the garden.
+15 Tim moved to the kitchen.
+16 What is Tim carrying? 	milk,football	11 12
+17 Johnson journeyed to the hallway.
+18 Tim put down the milk.
+19 What is Tim carrying? 	football	11 18 12
+20 Tim travelled to the hallway.
+21 Johnson went to the garden.
+22 What is Tim carrying? 	football	11 18 12
+23 Tim travelled to the garden.
+24 Tim went to the bedroom.
+25 What is Tim carrying? 	football	11 18 12
+1 Sandy journeyed to the garden.
+2 Tony travelled to the hallway.
+3 Tony took the football there.
+4 Johnson moved to the kitchen.
+5 What is Tony carrying? 	football	3
+6 Sandy got the apple there.
+7 Johnson went back to the office.
+8 What is Tony carrying? 	football	3
+9 Tony went to the office.
+10 Johnson went back to the bathroom.
+11 What is Sandy carrying? 	apple	6
+12 Sandy went to the office.
+13 Sandy moved to the hallway.
+14 Tony dropped the football.
+15 Sandy dropped the apple there.
+16 What is Tony carrying? 	nothing	3 14
+17 Tim journeyed to the office.
+18 Tony moved to the kitchen.
+19 What is Tony carrying? 	nothing	3 14
+1 Tony journeyed to the hallway.
+2 Tony got the football there.
+3 What is Tony carrying? 	football	2
+4 Tim travelled to the kitchen.
+5 Johnson travelled to the bathroom.
+6 What is Tony carrying? 	football	2
+7 Tim went back to the bathroom.
+8 Tony went back to the office.
+9 What is Tony carrying? 	football	2
+10 Tony grabbed the apple there.
+11 Tony travelled to the hallway.
+12 What is Tony carrying? 	football,apple	2 10
+13 Tony went back to the bedroom.
+14 Johnson went back to the bedroom.
+15 What is Tony carrying? 	football,apple	2 10
+1 Sandy moved to the garden.
+2 Johnson took the milk there.
+3 What is Johnson carrying? 	milk	2
+4 Johnson went to the bedroom.
+5 Tim travelled to the garden.
+6 What is Johnson carrying? 	milk	2
+7 Tony travelled to the kitchen.
+8 Tony went back to the garden.
+9 What is Johnson carrying? 	milk	2
+10 Johnson discarded the milk.
+11 Tony went to the bedroom.
+12 What is Johnson carrying? 	nothing	2 10
+13 Johnson journeyed to the kitchen.
+14 Sandy journeyed to the kitchen.
+15 What is Johnson carrying? 	nothing	2 10
+1 Tony moved to the hallway.
+2 Tim travelled to the bathroom.
+3 Tim went back to the bedroom.
+4 Tim moved to the office.
+5 Tim journeyed to the garden.
+6 Tony went back to the bedroom.
+7 Tim went back to the hallway.
+8 Tony took the apple there.
+9 What is Tony carrying? 	apple	8
+10 Tony travelled to the bathroom.
+11 Tony left the apple.
+12 What is Tony carrying? 	nothing	8 11
+13 Johnson journeyed to the bedroom.
+14 Sandy journeyed to the bedroom.
+15 What is Tony carrying? 	nothing	8 11
+16 Tony got the apple there.
+17 Johnson went back to the bathroom.
+18 What is Tony carrying? 	apple	8 11 16
+19 Tony put down the apple.
+20 Sandy journeyed to the garden.
+21 What is Tony carrying? 	nothing	8 11 16 19
+1 Tim got the apple there.
+2 Sandy journeyed to the office.
+3 What is Tim carrying? 	apple	1
+4 Johnson travelled to the garden.
+5 Tim went back to the kitchen.
+6 What is Tim carrying? 	apple	1
+7 Tim took the milk there.
+8 Sandy went back to the kitchen.
+9 What is Tim carrying? 	apple,milk	1 7
+10 Tim went back to the garden.
+11 Tim left the milk.
+12 What is Tim carrying? 	apple	1 7 11
+13 Tim went to the bedroom.
+14 Tim took the football there.
+15 What is Tim carrying? 	apple,football	1 7 11 14
+1 Tim moved to the hallway.
+2 Tim journeyed to the garden.
+3 Sandy moved to the garden.
+4 Johnson moved to the bathroom.
+5 Tim grabbed the apple there.
+6 Johnson moved to the garden.
+7 What is Tim carrying? 	apple	5
+8 Tim journeyed to the office.
+9 Johnson travelled to the hallway.
+10 What is Tim carrying? 	apple	5
+11 Tony went back to the hallway.
+12 Johnson journeyed to the office.
+13 Tony went back to the bathroom.
+14 Tim dropped the apple.
+15 What is Tim carrying? 	nothing	5 14
+16 Johnson got the apple there.
+17 Johnson went back to the kitchen.
+18 What is Tim carrying? 	nothing	5 14
+19 Johnson took the football there.
+20 Johnson left the football.
+21 What is Johnson carrying? 	apple	16 19 20
+1 Johnson moved to the office.
+2 Johnson took the apple there.
+3 What is Johnson carrying? 	apple	2
+4 Sandy moved to the office.
+5 Sandy moved to the kitchen.
+6 What is Johnson carrying? 	apple	2
+7 Tim moved to the office.
+8 Johnson picked up the football there.
+9 What is Johnson carrying? 	apple,football	2 8
+10 Johnson dropped the football.
+11 Tony went back to the office.
+12 What is Johnson carrying? 	apple	2 8 10
+13 Tim grabbed the football there.
+14 Tim discarded the football.
+15 What is Tim carrying? 	nothing	13 14
+1 Tim went to the garden.
+2 Tony moved to the bathroom.
+3 Sandy moved to the garden.
+4 Johnson took the milk there.
+5 What is Johnson carrying? 	milk	4
+6 Tony travelled to the kitchen.
+7 Johnson travelled to the garden.
+8 What is Johnson carrying? 	milk	4
+9 Sandy moved to the bedroom.
+10 Sandy went to the office.
+11 What is Johnson carrying? 	milk	4
+12 Tim went to the kitchen.
+13 Johnson moved to the hallway.
+14 Tim travelled to the bedroom.
+15 Tony grabbed the football there.
+16 What is Tony carrying? 	football	15
+17 Tony went back to the office.
+18 Johnson dropped the milk.
+19 What is Tony carrying? 	football	15
+1 Tony moved to the office.
+2 Johnson got the milk there.
+3 What is Johnson carrying? 	milk	2
+4 Tony journeyed to the hallway.
+5 Johnson put down the milk.
+6 What is Johnson carrying? 	nothing	2 5
+7 Johnson moved to the kitchen.
+8 Sandy moved to the garden.
+9 What is Johnson carrying? 	nothing	2 5
+10 Tony travelled to the office.
+11 Tim travelled to the bedroom.
+12 What is Johnson carrying? 	nothing	2 5
+13 Tim went back to the bathroom.
+14 Tim got the milk there.
+15 What is Tim carrying? 	milk	14
+1 Johnson took the milk there.
+2 Sandy moved to the bedroom.
+3 What is Johnson carrying? 	milk	1
+4 Johnson dropped the milk.
+5 Johnson picked up the milk there.
+6 What is Johnson carrying? 	milk	1 4 5
+7 Tony travelled to the bedroom.
+8 Sandy went to the bathroom.
+9 What is Johnson carrying? 	milk	1 4 5
+10 Johnson went to the hallway.
+11 Johnson went back to the kitchen.
+12 What is Johnson carrying? 	milk	1 4 5
+13 Sandy went to the office.
+14 Tony moved to the office.
+15 Tony picked up the football there.
+16 Tim journeyed to the bathroom.
+17 What is Tony carrying? 	football	15
+1 Johnson took the milk there.
+2 Johnson journeyed to the office.
+3 What is Johnson carrying? 	milk	1
+4 Sandy journeyed to the bathroom.
+5 Johnson dropped the milk.
+6 What is Johnson carrying? 	nothing	1 5
+7 Tony took the football there.
+8 Johnson grabbed the milk there.
+9 What is Johnson carrying? 	milk	1 5 8
+10 Sandy went to the bedroom.
+11 Tony moved to the bedroom.
+12 What is Johnson carrying? 	milk	1 5 8
+13 Tim went back to the kitchen.
+14 Johnson went back to the garden.
+15 What is Johnson carrying? 	milk	1 5 8
+1 Johnson went to the bathroom.
+2 Tim went back to the office.
+3 Tim went to the bedroom.
+4 Tim got the apple there.
+5 What is Tim carrying? 	apple	4
+6 Tim journeyed to the bathroom.
+7 Tim discarded the apple.
+8 What is Tim carrying? 	nothing	4 7
+9 Sandy travelled to the office.
+10 Tim got the apple there.
+11 What is Tim carrying? 	apple	4 7 10
+12 Tony went back to the bathroom.
+13 Tim discarded the apple.
+14 What is Tim carrying? 	nothing	4 7 10 13
+15 Tony took the apple there.
+16 Tony left the apple.
+17 What is Tony carrying? 	nothing	15 16
+1 Tony travelled to the bathroom.
+2 Sandy journeyed to the kitchen.
+3 Sandy went to the office.
+4 Tony moved to the kitchen.
+5 Sandy grabbed the milk there.
+6 Sandy dropped the milk.
+7 What is Sandy carrying? 	nothing	5 6
+8 Sandy grabbed the milk there.
+9 Sandy took the apple there.
+10 What is Sandy carrying? 	milk,apple	5 6 8 9
+11 Sandy dropped the milk.
+12 Johnson moved to the garden.
+13 What is Sandy carrying? 	apple	5 6 8 11 9
+14 Sandy journeyed to the bathroom.
+15 Johnson journeyed to the hallway.
+16 What is Sandy carrying? 	apple	5 6 8 11 9
+17 Johnson got the football there.
+18 Johnson left the football.
+19 What is Johnson carrying? 	nothing	17 18
+1 Johnson travelled to the bathroom.
+2 Tim went to the office.
+3 Tony journeyed to the bedroom.
+4 Sandy travelled to the bathroom.
+5 Tony travelled to the kitchen.
+6 Tony moved to the garden.
+7 Tony moved to the kitchen.
+8 Sandy moved to the hallway.
+9 Sandy picked up the apple there.
+10 Johnson travelled to the kitchen.
+11 What is Sandy carrying? 	apple	9
+12 Tony moved to the bathroom.
+13 Tim picked up the milk there.
+14 What is Tim carrying? 	milk	13
+15 Tim dropped the milk.
+16 Tim got the football there.
+17 What is Tim carrying? 	football	13 15 16
+18 Sandy journeyed to the bedroom.
+19 Tim went back to the bathroom.
+20 What is Tim carrying? 	football	13 15 16
+21 Tim discarded the football.
+22 Sandy discarded the apple.
+23 What is Sandy carrying? 	nothing	9 22
+1 Tony went to the bathroom.
+2 Sandy journeyed to the garden.
+3 Tony went back to the hallway.
+4 Tony picked up the apple there.
+5 What is Tony carrying? 	apple	4
+6 Tony moved to the office.
+7 Sandy grabbed the milk there.
+8 What is Sandy carrying? 	milk	7
+9 Johnson went to the bathroom.
+10 Sandy dropped the milk.
+11 What is Sandy carrying? 	nothing	7 10
+12 Tony put down the apple.
+13 Sandy grabbed the milk there.
+14 What is Sandy carrying? 	milk	7 10 13
+15 Sandy went back to the bedroom.
+16 Tim took the apple there.
+17 What is Tony carrying? 	nothing	4 12
+1 Sandy went back to the bathroom.
+2 Tim journeyed to the hallway.
+3 Tim went back to the garden.
+4 Johnson picked up the apple there.
+5 What is Johnson carrying? 	apple	4
+6 Sandy went back to the kitchen.
+7 Johnson moved to the bathroom.
+8 What is Johnson carrying? 	apple	4
+9 Sandy journeyed to the bedroom.
+10 Sandy travelled to the hallway.
+11 What is Johnson carrying? 	apple	4
+12 Johnson travelled to the garden.
+13 Tim picked up the milk there.
+14 What is Tim carrying? 	milk	13
+15 Tony travelled to the kitchen.
+16 Tim dropped the milk.
+17 What is Tim carrying? 	nothing	13 16
+1 Johnson travelled to the office.
+2 Tim travelled to the bathroom.
+3 Tony grabbed the milk there.
+4 Johnson journeyed to the bedroom.
+5 What is Tony carrying? 	milk	3
+6 Tony discarded the milk.
+7 Tony got the milk there.
+8 What is Tony carrying? 	milk	3 6 7
+9 Tony discarded the milk there.
+10 Sandy journeyed to the bathroom.
+11 What is Tony carrying? 	nothing	3 6 7 9
+12 Tony took the milk there.
+13 Tony went to the bedroom.
+14 What is Tony carrying? 	milk	3 6 7 9 12
+15 Johnson picked up the apple there.
+16 Johnson moved to the office.
+17 What is Tony carrying? 	milk	3 6 7 9 12
+1 Tony moved to the kitchen.
+2 Sandy went back to the office.
+3 Tim took the apple there.
+4 Tim moved to the garden.
+5 What is Tim carrying? 	apple	3
+6 Tony moved to the bathroom.
+7 Tim dropped the apple.
+8 What is Tim carrying? 	nothing	3 7
+9 Tim grabbed the apple there.
+10 Tim travelled to the bathroom.
+11 What is Tim carrying? 	apple	3 7 9
+12 Tim moved to the office.
+13 Tim discarded the apple.
+14 What is Tim carrying? 	nothing	3 7 9 13
+15 Tim got the apple there.
+16 Tony journeyed to the kitchen.
+17 What is Tim carrying? 	apple	3 7 9 13 15
+1 Tony went to the bathroom.
+2 Tony grabbed the milk there.
+3 What is Tony carrying? 	milk	2
+4 Tony discarded the milk.
+5 Tony went to the garden.
+6 What is Tony carrying? 	nothing	2 4
+7 Sandy went back to the bedroom.
+8 Johnson went to the kitchen.
+9 What is Tony carrying? 	nothing	2 4
+10 Sandy went to the kitchen.
+11 Tim went to the kitchen.
+12 Tony moved to the kitchen.
+13 Tim went to the office.
+14 Tim journeyed to the hallway.
+15 Sandy travelled to the hallway.
+16 Sandy got the apple there.
+17 Tim went to the garden.
+18 What is Sandy carrying? 	apple	16
+19 Tim went to the bathroom.
+20 Johnson travelled to the hallway.
+21 What is Sandy carrying? 	apple	16
+1 Sandy went back to the garden.
+2 Sandy went back to the kitchen.
+3 Tim journeyed to the hallway.
+4 Johnson went back to the hallway.
+5 Tim went back to the office.
+6 Tim picked up the football there.
+7 What is Tim carrying? 	football	6
+8 Tony journeyed to the garden.
+9 Tim put down the football.
+10 What is Tim carrying? 	nothing	6 9
+11 Tim took the football there.
+12 Tim put down the football.
+13 What is Tim carrying? 	nothing	6 9 11 12
+14 Sandy went back to the bedroom.
+15 Johnson journeyed to the bedroom.
+16 What is Tim carrying? 	nothing	6 9 11 12
+17 Tim went to the hallway.
+18 Sandy journeyed to the kitchen.
+19 What is Tim carrying? 	nothing	6 9 11 12
+1 Johnson got the apple there.
+2 Johnson went back to the kitchen.
+3 What is Johnson carrying? 	apple	1
+4 Johnson went to the office.
+5 Sandy moved to the garden.
+6 What is Johnson carrying? 	apple	1
+7 Johnson journeyed to the kitchen.
+8 Johnson went to the garden.
+9 Tim went to the kitchen.
+10 Johnson travelled to the office.
+11 Tony went to the garden.
+12 Johnson moved to the bathroom.
+13 Tim got the football there.
+14 Sandy went to the kitchen.
+15 What is Tim carrying? 	football	13
+16 Sandy travelled to the office.
+17 Sandy went back to the garden.
+18 What is Tim carrying? 	football	13
+19 Sandy moved to the office.
+20 Tim put down the football.
+21 What is Tim carrying? 	nothing	13 20
+1 Johnson grabbed the football there.
+2 Tim went to the kitchen.
+3 What is Johnson carrying? 	football	1
+4 Sandy travelled to the hallway.
+5 Tony journeyed to the office.
+6 What is Johnson carrying? 	football	1
+7 Sandy went back to the bathroom.
+8 Johnson went back to the kitchen.
+9 Sandy moved to the garden.
+10 Johnson picked up the apple there.
+11 What is Johnson carrying? 	football,apple	1 10
+12 Tim travelled to the hallway.
+13 Tony moved to the bedroom.
+14 What is Johnson carrying? 	football,apple	1 10
+15 Tim journeyed to the garden.
+16 Johnson moved to the hallway.
+17 What is Johnson carrying? 	football,apple	1 10
+1 Sandy went back to the garden.
+2 Sandy took the apple there.
+3 What is Sandy carrying? 	apple	2
+4 Tim went to the kitchen.
+5 Tim travelled to the bedroom.
+6 What is Sandy carrying? 	apple	2
+7 Tony took the football there.
+8 Tony went to the bathroom.
+9 What is Tony carrying? 	football	7
+10 Tim journeyed to the garden.
+11 Johnson travelled to the bedroom.
+12 What is Tony carrying? 	football	7
+13 Tony put down the football there.
+14 Tim journeyed to the bedroom.
+15 What is Tony carrying? 	nothing	7 13
+1 Sandy went back to the office.
+2 Sandy moved to the hallway.
+3 Tony travelled to the bathroom.
+4 Johnson travelled to the bedroom.
+5 Tim got the football there.
+6 Tim picked up the milk there.
+7 What is Tim carrying? 	football,milk	5 6
+8 Sandy moved to the bathroom.
+9 Tony journeyed to the kitchen.
+10 What is Tim carrying? 	football,milk	5 6
+11 Tim travelled to the office.
+12 Tony travelled to the hallway.
+13 What is Tim carrying? 	football,milk	5 6
+14 Tony journeyed to the garden.
+15 Sandy journeyed to the kitchen.
+16 Tim left the milk.
+17 Tony grabbed the apple there.
+18 What is Tony carrying? 	apple	17
+19 Tony discarded the apple.
+20 Tony took the apple there.
+21 What is Tony carrying? 	apple	17 19 20
+1 Tim grabbed the football there.
+2 Tim dropped the football.
+3 What is Tim carrying? 	nothing	1 2
+4 Tim journeyed to the bathroom.
+5 Sandy journeyed to the kitchen.
+6 What is Tim carrying? 	nothing	1 2
+7 Johnson journeyed to the garden.
+8 Tony picked up the milk there.
+9 What is Tony carrying? 	milk	8
+10 Sandy took the apple there.
+11 Sandy went to the bathroom.
+12 What is Sandy carrying? 	apple	10
+13 Tim journeyed to the kitchen.
+14 Sandy dropped the apple.
+15 What is Sandy carrying? 	nothing	10 14
+1 Tim moved to the garden.
+2 Sandy moved to the bathroom.
+3 Sandy took the milk there.
+4 Johnson travelled to the bathroom.
+5 What is Sandy carrying? 	milk	3
+6 Johnson took the football there.
+7 Sandy dropped the milk.
+8 What is Sandy carrying? 	nothing	3 7
+9 Sandy got the milk there.
+10 Johnson travelled to the hallway.
+11 What is Sandy carrying? 	milk	3 7 9
+12 Sandy discarded the milk.
+13 Sandy took the milk there.
+14 What is Sandy carrying? 	milk	3 7 9 12 13
+15 Johnson went to the office.
+16 Sandy left the milk.
+17 What is Sandy carrying? 	nothing	3 7 9 12 13 16
+1 Tony went back to the bathroom.
+2 Tim grabbed the milk there.
+3 What is Tim carrying? 	milk	2
+4 Sandy went back to the office.
+5 Tim went to the garden.
+6 What is Tim carrying? 	milk	2
+7 Tim went back to the kitchen.
+8 Tim went to the office.
+9 What is Tim carrying? 	milk	2
+10 Tim discarded the milk.
+11 Sandy grabbed the milk there.
+12 What is Tim carrying? 	nothing	2 10
+13 Tim travelled to the hallway.
+14 Sandy discarded the milk.
+15 What is Sandy carrying? 	nothing	11 14
+1 Tim went back to the bathroom.
+2 Tony picked up the football there.
+3 What is Tony carrying? 	football	2
+4 Tim went back to the garden.
+5 Tim went back to the bedroom.
+6 What is Tony carrying? 	football	2
+7 Tony grabbed the milk there.
+8 Tony left the milk.
+9 What is Tony carrying? 	football	2 7 8
+10 Johnson journeyed to the kitchen.
+11 Johnson went to the bathroom.
+12 What is Tony carrying? 	football	2 7 8
+13 Tony left the football.
+14 Tim travelled to the bathroom.
+15 What is Tony carrying? 	nothing	2 13 7 8
+1 Tony went to the hallway.
+2 Tony journeyed to the kitchen.
+3 Tim went back to the kitchen.
+4 Tim took the football there.
+5 What is Tim carrying? 	football	4
+6 Tim dropped the football there.
+7 Johnson took the football there.
+8 What is Tim carrying? 	nothing	4 6
+9 Tim travelled to the office.
+10 Tim travelled to the garden.
+11 What is Tim carrying? 	nothing	4 6
+12 Tony moved to the hallway.
+13 Tim picked up the apple there.
+14 What is Tim carrying? 	apple	4 6 13
+15 Tim went to the bathroom.
+16 Johnson put down the football.
+17 What is Johnson carrying? 	nothing	7 16
+1 Tim went back to the office.
+2 Johnson got the milk there.
+3 What is Johnson carrying? 	milk	2
+4 Tim journeyed to the hallway.
+5 Tony grabbed the football there.
+6 What is Tony carrying? 	football	5
+7 Sandy moved to the hallway.
+8 Johnson went back to the hallway.
+9 What is Tony carrying? 	football	5
+10 Tim went to the bathroom.
+11 Johnson moved to the office.
+12 What is Tony carrying? 	football	5
+13 Johnson went back to the bedroom.
+14 Johnson dropped the milk.
+15 What is Johnson carrying? 	nothing	2 14
+1 Tim went back to the bathroom.
+2 Tony got the apple there.
+3 What is Tony carrying? 	apple	2
+4 Sandy picked up the milk there.
+5 Sandy dropped the milk.
+6 What is Sandy carrying? 	nothing	4 5
+7 Johnson went to the kitchen.
+8 Tim went to the kitchen.
+9 What is Sandy carrying? 	nothing	4 5
+10 Tim went to the bedroom.
+11 Tony left the apple.
+12 What is Tony carrying? 	nothing	2 11
+13 Tony got the apple there.
+14 Sandy got the milk there.
+15 What is Tony carrying? 	apple	2 11 13
+1 Sandy journeyed to the office.
+2 Sandy journeyed to the kitchen.
+3 Sandy went back to the hallway.
+4 Tim got the football there.
+5 What is Tim carrying? 	football	4
+6 Tony went back to the hallway.
+7 Tim travelled to the kitchen.
+8 What is Tim carrying? 	football	4
+9 Sandy journeyed to the bathroom.
+10 Tony grabbed the apple there.
+11 What is Tim carrying? 	football	4
+12 Sandy journeyed to the bedroom.
+13 Tony travelled to the office.
+14 What is Tony carrying? 	apple	10
+15 Sandy went to the bathroom.
+16 Tim went back to the office.
+17 What is Tony carrying? 	apple	10
+1 Sandy moved to the office.
+2 Tim picked up the milk there.
+3 What is Tim carrying? 	milk	2
+4 Tony grabbed the football there.
+5 Tony moved to the hallway.
+6 What is Tony carrying? 	football	4
+7 Sandy travelled to the kitchen.
+8 Tim went to the bathroom.
+9 What is Tim carrying? 	milk	2
+10 Sandy journeyed to the bathroom.
+11 Johnson moved to the kitchen.
+12 Tony left the football.
+13 Sandy went to the kitchen.
+14 What is Tony carrying? 	nothing	4 12
+15 Johnson got the apple there.
+16 Tim moved to the garden.
+17 What is Tony carrying? 	nothing	4 12
+1 Sandy took the football there.
+2 Tim went back to the hallway.
+3 What is Sandy carrying? 	football	1
+4 Tim travelled to the office.
+5 Johnson went back to the hallway.
+6 What is Sandy carrying? 	football	1
+7 Johnson travelled to the garden.
+8 Johnson journeyed to the bedroom.
+9 Tim grabbed the apple there.
+10 Sandy left the football.
+11 What is Tim carrying? 	apple	9
+12 Tim left the apple there.
+13 Tim got the apple there.
+14 What is Tim carrying? 	apple	9 12 13
+15 Sandy went to the office.
+16 Sandy travelled to the kitchen.
+17 What is Tim carrying? 	apple	9 12 13
+1 Tim travelled to the garden.
+2 Sandy journeyed to the bedroom.
+3 Tony grabbed the football there.
+4 Sandy travelled to the bathroom.
+5 What is Tony carrying? 	football	3
+6 Johnson journeyed to the office.
+7 Tony travelled to the kitchen.
+8 What is Tony carrying? 	football	3
+9 Tony went back to the bathroom.
+10 Tony dropped the football.
+11 What is Tony carrying? 	nothing	3 10
+12 Tim went back to the hallway.
+13 Tim got the milk there.
+14 What is Tony carrying? 	nothing	3 10
+15 Tim went to the office.
+16 Sandy travelled to the garden.
+17 What is Tim carrying? 	milk	13
+1 Tony travelled to the hallway.
+2 Tony travelled to the kitchen.
+3 Tim journeyed to the office.
+4 Tony moved to the hallway.
+5 Tony travelled to the office.
+6 Johnson moved to the office.
+7 Johnson took the football there.
+8 Tim went back to the hallway.
+9 What is Johnson carrying? 	football	7
+10 Tony journeyed to the hallway.
+11 Johnson moved to the garden.
+12 What is Johnson carrying? 	football	7
+13 Johnson went to the kitchen.
+14 Sandy moved to the kitchen.
+15 Johnson went to the bedroom.
+16 Johnson moved to the garden.
+17 Johnson dropped the football.
+18 Tony journeyed to the office.
+19 What is Johnson carrying? 	nothing	7 17
+20 Johnson took the football there.
+21 Tim went to the kitchen.
+22 What is Johnson carrying? 	football	7 17 20
+23 Johnson dropped the football.
+24 Sandy moved to the bedroom.
+25 What is Johnson carrying? 	nothing	7 17 20 23
+1 Tony travelled to the hallway.
+2 Johnson went to the hallway.
+3 Tim went to the hallway.
+4 Sandy journeyed to the kitchen.
+5 Sandy journeyed to the office.
+6 Sandy journeyed to the bedroom.
+7 Johnson went back to the bedroom.
+8 Johnson got the apple there.
+9 What is Johnson carrying? 	apple	8
+10 Sandy travelled to the office.
+11 Johnson travelled to the garden.
+12 What is Johnson carrying? 	apple	8
+13 Sandy picked up the milk there.
+14 Sandy left the milk.
+15 What is Sandy carrying? 	nothing	13 14
+16 Johnson dropped the apple.
+17 Sandy went to the bathroom.
+18 What is Johnson carrying? 	nothing	8 16
+19 Tony travelled to the office.
+20 Tony grabbed the milk there.
+21 What is Tony carrying? 	milk	20
+1 Johnson went back to the bedroom.
+2 Johnson grabbed the apple there.
+3 What is Johnson carrying? 	apple	2
+4 Johnson journeyed to the kitchen.
+5 Tony travelled to the bedroom.
+6 What is Johnson carrying? 	apple	2
+7 Tony moved to the bathroom.
+8 Johnson put down the apple.
+9 What is Johnson carrying? 	nothing	2 8
+10 Johnson travelled to the office.
+11 Johnson travelled to the garden.
+12 What is Johnson carrying? 	nothing	2 8
+13 Tim travelled to the bedroom.
+14 Sandy went to the hallway.
+15 What is Johnson carrying? 	nothing	2 8
+1 Sandy took the milk there.
+2 Sandy went back to the bedroom.
+3 What is Sandy carrying? 	milk	1
+4 Johnson went to the bathroom.
+5 Johnson went to the garden.
+6 What is Sandy carrying? 	milk	1
+7 Johnson journeyed to the kitchen.
+8 Tony picked up the apple there.
+9 What is Tony carrying? 	apple	8
+10 Tony journeyed to the garden.
+11 Sandy put down the milk.
+12 What is Tony carrying? 	apple	8
+13 Tony dropped the apple.
+14 Sandy grabbed the milk there.
+15 What is Sandy carrying? 	milk	1 11 14
+1 Tim moved to the hallway.
+2 Tim went back to the kitchen.
+3 Tony travelled to the bathroom.
+4 Johnson went to the bedroom.
+5 Tim moved to the garden.
+6 Sandy moved to the bedroom.
+7 Tony journeyed to the bedroom.
+8 Johnson moved to the bathroom.
+9 Johnson travelled to the office.
+10 Tony moved to the garden.
+11 Sandy travelled to the office.
+12 Tim grabbed the milk there.
+13 What is Tim carrying? 	milk	12
+14 Tim took the apple there.
+15 Tony journeyed to the office.
+16 What is Tim carrying? 	milk,apple	12 14
+17 Tony journeyed to the hallway.
+18 Sandy moved to the hallway.
+19 What is Tim carrying? 	milk,apple	12 14
+20 Johnson went back to the hallway.
+21 Johnson travelled to the office.
+22 Tim went to the kitchen.
+23 Sandy journeyed to the office.
+24 Johnson travelled to the kitchen.
+25 Johnson travelled to the bathroom.
+26 Tim moved to the bathroom.
+27 Johnson grabbed the football there.
+28 What is Johnson carrying? 	football	27
+29 Tony went back to the office.
+30 Tony went to the bedroom.
+31 What is Johnson carrying? 	football	27
+1 Tony travelled to the bathroom.
+2 Tony moved to the kitchen.
+3 Tony moved to the office.
+4 Tim went to the office.
+5 Tim went back to the bedroom.
+6 Tony journeyed to the bathroom.
+7 Tony travelled to the kitchen.
+8 Tim moved to the kitchen.
+9 Johnson moved to the bathroom.
+10 Tony moved to the bedroom.
+11 Tim went back to the bedroom.
+12 Tim moved to the office.
+13 Sandy moved to the garden.
+14 Sandy got the football there.
+15 What is Sandy carrying? 	football	14
+16 Sandy moved to the bathroom.
+17 Sandy put down the football there.
+18 What is Sandy carrying? 	nothing	14 17
+19 Sandy picked up the football there.
+20 Johnson moved to the kitchen.
+21 What is Sandy carrying? 	football	14 17 19
+22 Sandy travelled to the kitchen.
+23 Johnson went back to the office.
+24 What is Sandy carrying? 	football	14 17 19
+25 Sandy left the football.
+26 Sandy went back to the office.
+27 What is Sandy carrying? 	nothing	14 17 19 25
+1 Tony got the apple there.
+2 Tim picked up the football there.
+3 What is Tim carrying? 	football	2
+4 Sandy went to the bathroom.
+5 Tony left the apple.
+6 What is Tim carrying? 	football	2
+7 Sandy went to the garden.
+8 Tim moved to the hallway.
+9 What is Tony carrying? 	nothing	1 5
+10 Sandy picked up the milk there.
+11 Tim left the football.
+12 What is Tony carrying? 	nothing	1 5
+13 Johnson travelled to the garden.
+14 Tim took the football there.
+15 What is Sandy carrying? 	milk	10
+1 Sandy moved to the bathroom.
+2 Johnson got the apple there.
+3 What is Johnson carrying? 	apple	2
+4 Tony got the football there.
+5 Tim journeyed to the bathroom.
+6 What is Johnson carrying? 	apple	2
+7 Tony went back to the bathroom.
+8 Tony went to the office.
+9 What is Tony carrying? 	football	4
+10 Tony left the football.
+11 Tim went to the bedroom.
+12 What is Tony carrying? 	nothing	4 10
+13 Johnson left the apple.
+14 Johnson got the apple there.
+15 What is Johnson carrying? 	apple	2 13 14
+1 Sandy travelled to the hallway.
+2 Sandy got the milk there.
+3 What is Sandy carrying? 	milk	2
+4 Sandy travelled to the bedroom.
+5 Johnson went to the garden.
+6 What is Sandy carrying? 	milk	2
+7 Sandy went back to the garden.
+8 Johnson grabbed the football there.
+9 What is Johnson carrying? 	football	8
+10 Tim took the apple there.
+11 Sandy journeyed to the hallway.
+12 What is Johnson carrying? 	football	8
+13 Sandy discarded the milk.
+14 Sandy got the milk there.
+15 What is Tim carrying? 	apple	10
+1 Sandy took the apple there.
+2 Sandy left the apple.
+3 What is Sandy carrying? 	nothing	1 2
+4 Tim went back to the garden.
+5 Johnson picked up the milk there.
+6 What is Sandy carrying? 	nothing	1 2
+7 Tony moved to the office.
+8 Johnson grabbed the football there.
+9 What is Johnson carrying? 	milk,football	5 8
+10 Sandy got the apple there.
+11 Sandy went back to the garden.
+12 What is Sandy carrying? 	apple	1 2 10
+13 Tony journeyed to the bathroom.
+14 Tim went back to the office.
+15 What is Sandy carrying? 	apple	1 2 10
+1 Tim got the milk there.
+2 Sandy grabbed the football there.
+3 What is Sandy carrying? 	football	2
+4 Sandy dropped the football.
+5 Tony went back to the hallway.
+6 What is Sandy carrying? 	nothing	2 4
+7 Tim discarded the milk.
+8 Tim got the milk there.
+9 What is Tim carrying? 	milk	1 7 8
+10 Tony grabbed the apple there.
+11 Tim moved to the bathroom.
+12 What is Tony carrying? 	apple	10
+13 Sandy travelled to the kitchen.
+14 Tony left the apple.
+15 What is Tim carrying? 	milk	1 7 8
+1 Sandy grabbed the milk there.
+2 Sandy dropped the milk there.
+3 What is Sandy carrying? 	nothing	1 2
+4 Tim went back to the garden.
+5 Tony picked up the apple there.
+6 What is Sandy carrying? 	nothing	1 2
+7 Sandy picked up the milk there.
+8 Sandy left the milk.
+9 What is Sandy carrying? 	nothing	1 2 7 8
+10 Johnson went to the bedroom.
+11 Sandy grabbed the milk there.
+12 What is Sandy carrying? 	milk	1 2 7 8 11
+13 Tony put down the apple.
+14 Tim went to the office.
+15 What is Tony carrying? 	nothing	5 13
+1 Tim moved to the kitchen.
+2 Johnson journeyed to the office.
+3 Tim travelled to the garden.
+4 Johnson journeyed to the bedroom.
+5 Johnson went to the kitchen.
+6 Johnson got the apple there.
+7 What is Johnson carrying? 	apple	6
+8 Tim moved to the bathroom.
+9 Johnson discarded the apple.
+10 What is Johnson carrying? 	nothing	6 9
+11 Tony went to the bedroom.
+12 Johnson took the apple there.
+13 What is Johnson carrying? 	apple	6 9 12
+14 Tim journeyed to the office.
+15 Sandy travelled to the hallway.
+16 What is Johnson carrying? 	apple	6 9 12
+17 Tim journeyed to the bathroom.
+18 Johnson moved to the bedroom.
+19 What is Johnson carrying? 	apple	6 9 12
+1 Tony went to the kitchen.
+2 Sandy travelled to the bathroom.
+3 Johnson moved to the office.
+4 Tim took the football there.
+5 What is Tim carrying? 	football	4
+6 Sandy moved to the bedroom.
+7 Tim went to the bedroom.
+8 What is Tim carrying? 	football	4
+9 Tony took the milk there.
+10 Johnson went back to the kitchen.
+11 What is Tim carrying? 	football	4
+12 Sandy journeyed to the bathroom.
+13 Johnson journeyed to the bedroom.
+14 What is Tony carrying? 	milk	9
+15 Sandy travelled to the garden.
+16 Tony discarded the milk there.
+17 What is Tony carrying? 	nothing	9 16
+1 Tim journeyed to the bathroom.
+2 Tim moved to the hallway.
+3 Tony went back to the garden.
+4 Tim picked up the milk there.
+5 What is Tim carrying? 	milk	4
+6 Sandy journeyed to the kitchen.
+7 Tim moved to the bathroom.
+8 What is Tim carrying? 	milk	4
+9 Sandy went back to the garden.
+10 Tony grabbed the apple there.
+11 What is Tim carrying? 	milk	4
+12 Tim journeyed to the garden.
+13 Tim went to the bedroom.
+14 What is Tony carrying? 	apple	10
+15 Johnson moved to the kitchen.
+16 Johnson went back to the garden.
+17 What is Tony carrying? 	apple	10
+1 Tony got the milk there.
+2 Sandy picked up the football there.
+3 What is Tony carrying? 	milk	1
+4 Tony took the apple there.
+5 Tony moved to the kitchen.
+6 What is Tony carrying? 	milk,apple	1 4
+7 Tim journeyed to the bedroom.
+8 Johnson went back to the bathroom.
+9 What is Tony carrying? 	milk,apple	1 4
+10 Sandy moved to the hallway.
+11 Johnson went to the hallway.
+12 Tony discarded the milk there.
+13 Tony got the milk there.
+14 What is Tony carrying? 	milk,apple	1 12 13 4
+15 Tony left the milk there.
+16 Sandy journeyed to the bathroom.
+17 What is Tony carrying? 	apple	1 12 13 15 4
+1 Tony grabbed the football there.
+2 Johnson journeyed to the hallway.
+3 What is Tony carrying? 	football	1
+4 Tim went back to the garden.
+5 Tim went back to the hallway.
+6 What is Tony carrying? 	football	1
+7 Johnson journeyed to the kitchen.
+8 Tony grabbed the apple there.
+9 What is Tony carrying? 	football,apple	1 8
+10 Sandy moved to the office.
+11 Tim went to the bedroom.
+12 What is Tony carrying? 	football,apple	1 8
+13 Tony left the apple.
+14 Sandy moved to the bedroom.
+15 What is Tony carrying? 	football	1 8 13
+1 Tim travelled to the office.
+2 Tim moved to the kitchen.
+3 Tim took the football there.
+4 Sandy moved to the office.
+5 What is Tim carrying? 	football	3
+6 Tony went back to the bedroom.
+7 Tony grabbed the milk there.
+8 What is Tony carrying? 	milk	7
+9 Tim put down the football.
+10 Tim got the football there.
+11 What is Tim carrying? 	football	3 9 10
+12 Johnson travelled to the bathroom.
+13 Tim journeyed to the garden.
+14 What is Tony carrying? 	milk	7
+15 Tim discarded the football.
+16 Tim moved to the kitchen.
+17 What is Tim carrying? 	nothing	3 9 10 15
+1 Sandy went back to the garden.
+2 Johnson travelled to the hallway.
+3 Tim grabbed the apple there.
+4 Tim took the football there.
+5 What is Tim carrying? 	apple,football	3 4
+6 Tim moved to the bedroom.
+7 Tony picked up the milk there.
+8 What is Tony carrying? 	milk	7
+9 Johnson travelled to the bathroom.
+10 Johnson moved to the bedroom.
+11 What is Tim carrying? 	apple,football	3 4
+12 Tim put down the apple.
+13 Johnson went to the kitchen.
+14 What is Tony carrying? 	milk	7
+15 Sandy travelled to the hallway.
+16 Tony journeyed to the garden.
+17 What is Tim carrying? 	football	3 12 4
+1 Sandy travelled to the bathroom.
+2 Johnson moved to the bathroom.
+3 Johnson took the apple there.
+4 Johnson went to the kitchen.
+5 What is Johnson carrying? 	apple	3
+6 Johnson dropped the apple.
+7 Johnson grabbed the apple there.
+8 What is Johnson carrying? 	apple	3 6 7
+9 Tim moved to the office.
+10 Tim went to the bedroom.
+11 What is Johnson carrying? 	apple	3 6 7
+12 Tony went to the office.
+13 Tim moved to the bathroom.
+14 What is Johnson carrying? 	apple	3 6 7
+15 Sandy went to the bedroom.
+16 Sandy took the football there.
+17 What is Sandy carrying? 	football	16
+1 Tim travelled to the office.
+2 Tony moved to the bedroom.
+3 Tim took the milk there.
+4 Johnson travelled to the garden.
+5 What is Tim carrying? 	milk	3
+6 Tony travelled to the hallway.
+7 Johnson journeyed to the hallway.
+8 What is Tim carrying? 	milk	3
+9 Sandy picked up the apple there.
+10 Tim put down the milk.
+11 What is Sandy carrying? 	apple	9
+12 Johnson went to the bathroom.
+13 Tim journeyed to the hallway.
+14 What is Tim carrying? 	nothing	3 10
+15 Tim went to the kitchen.
+16 Sandy journeyed to the bathroom.
+17 What is Tim carrying? 	nothing	3 10
+1 Sandy moved to the hallway.
+2 Johnson moved to the hallway.
+3 Tim went back to the office.
+4 Sandy journeyed to the kitchen.
+5 Johnson went back to the garden.
+6 Tim went back to the bedroom.
+7 Tim went back to the garden.
+8 Johnson went to the office.
+9 Sandy grabbed the apple there.
+10 Tony went back to the bathroom.
+11 What is Sandy carrying? 	apple	9
+12 Sandy journeyed to the bathroom.
+13 Sandy journeyed to the kitchen.
+14 What is Sandy carrying? 	apple	9
+15 Johnson went to the hallway.
+16 Tim went back to the hallway.
+17 Johnson picked up the football there.
+18 Sandy journeyed to the office.
+19 What is Johnson carrying? 	football	17
+20 Johnson went back to the kitchen.
+21 Tim moved to the garden.
+22 What is Johnson carrying? 	football	17
+23 Johnson went back to the bedroom.
+24 Sandy went to the hallway.
+25 Sandy moved to the kitchen.
+26 Tim moved to the kitchen.
+27 Tony travelled to the office.
+28 Sandy left the apple there.
+29 What is Sandy carrying? 	nothing	9 28
+1 Johnson travelled to the kitchen.
+2 Tim took the apple there.
+3 What is Tim carrying? 	apple	2
+4 Sandy journeyed to the hallway.
+5 Johnson went back to the bathroom.
+6 What is Tim carrying? 	apple	2
+7 Tony travelled to the garden.
+8 Sandy moved to the kitchen.
+9 What is Tim carrying? 	apple	2
+10 Tim travelled to the bedroom.
+11 Tony travelled to the bathroom.
+12 Tony travelled to the hallway.
+13 Sandy went to the office.
+14 Sandy travelled to the kitchen.
+15 Sandy went to the bathroom.
+16 Tony went back to the garden.
+17 Tony went to the kitchen.
+18 Sandy travelled to the garden.
+19 Tim dropped the apple.
+20 What is Tim carrying? 	nothing	2 19
+21 Tim moved to the garden.
+22 Johnson travelled to the garden.
+23 What is Tim carrying? 	nothing	2 19
+1 Tony moved to the kitchen.
+2 Tony travelled to the bedroom.
+3 Tony went to the office.
+4 Tim journeyed to the bathroom.
+5 Tony travelled to the kitchen.
+6 Johnson went back to the kitchen.
+7 Tony went back to the office.
+8 Johnson went to the bedroom.
+9 Sandy travelled to the garden.
+10 Sandy went back to the office.
+11 Sandy got the milk there.
+12 Tony picked up the football there.
+13 What is Tony carrying? 	football	12
+14 Johnson travelled to the office.
+15 Tony journeyed to the hallway.
+16 What is Tony carrying? 	football	12
+17 Tim travelled to the office.
+18 Sandy travelled to the garden.
+19 What is Tony carrying? 	football	12
+20 Sandy picked up the apple there.
+21 Tony went back to the kitchen.
+22 What is Sandy carrying? 	milk,apple	11 20
+23 Sandy put down the milk.
+24 Sandy took the milk there.
+25 What is Sandy carrying? 	milk,apple	11 23 24 20
+1 Johnson moved to the hallway.
+2 Johnson journeyed to the garden.
+3 Tony moved to the garden.
+4 Tony grabbed the apple there.
+5 What is Tony carrying? 	apple	4
+6 Tony got the milk there.
+7 Johnson went back to the hallway.
+8 What is Tony carrying? 	apple,milk	4 6
+9 Tony put down the apple.
+10 Sandy went back to the kitchen.
+11 What is Tony carrying? 	milk	4 9 6
+12 Tony dropped the milk.
+13 Tim went to the bathroom.
+14 What is Tony carrying? 	nothing	4 9 6 12
+15 Sandy went back to the bedroom.
+16 Tim travelled to the office.
+17 What is Tony carrying? 	nothing	4 9 6 12
+1 Tim grabbed the milk there.
+2 Tim moved to the kitchen.
+3 What is Tim carrying? 	milk	1
+4 Tim put down the milk.
+5 Johnson took the milk there.
+6 What is Johnson carrying? 	milk	5
+7 Tim got the football there.
+8 Johnson journeyed to the office.
+9 What is Tim carrying? 	football	1 4 7
+10 Tim left the football.
+11 Johnson left the milk.
+12 What is Tim carrying? 	nothing	1 4 7 10
+13 Sandy grabbed the football there.
+14 Johnson moved to the bathroom.
+15 What is Tim carrying? 	nothing	1 4 7 10
+1 Sandy took the football there.
+2 Sandy went to the bedroom.
+3 What is Sandy carrying? 	football	1
+4 Tim moved to the hallway.
+5 Sandy discarded the football.
+6 What is Sandy carrying? 	nothing	1 5
+7 Johnson went back to the hallway.
+8 Tim travelled to the office.
+9 What is Sandy carrying? 	nothing	1 5
+10 Sandy got the football there.
+11 Tony moved to the hallway.
+12 What is Sandy carrying? 	football	1 5 10
+13 Tony took the milk there.
+14 Sandy left the football.
+15 What is Sandy carrying? 	nothing	1 5 10 14
+1 Sandy moved to the office.
+2 Sandy got the milk there.
+3 What is Sandy carrying? 	milk	2
+4 Johnson went back to the kitchen.
+5 Sandy grabbed the apple there.
+6 What is Sandy carrying? 	milk,apple	2 5
+7 Sandy dropped the milk.
+8 Sandy moved to the bathroom.
+9 What is Sandy carrying? 	apple	2 7 5
+10 Sandy moved to the bedroom.
+11 Johnson travelled to the hallway.
+12 What is Sandy carrying? 	apple	2 7 5
+13 Tim moved to the kitchen.
+14 Sandy discarded the apple.
+15 What is Sandy carrying? 	nothing	2 7 5 14
+1 Tim moved to the garden.
+2 Sandy moved to the kitchen.
+3 Johnson took the milk there.
+4 Tim went to the bathroom.
+5 What is Johnson carrying? 	milk	3
+6 Johnson moved to the office.
+7 Sandy moved to the bathroom.
+8 What is Johnson carrying? 	milk	3
+9 Tim took the football there.
+10 Sandy went back to the bedroom.
+11 What is Tim carrying? 	football	9
+12 Johnson put down the milk.
+13 Sandy took the apple there.
+14 What is Johnson carrying? 	nothing	3 12
+15 Tony journeyed to the hallway.
+16 Sandy left the apple there.
+17 What is Sandy carrying? 	nothing	13 16
+1 Tim moved to the office.
+2 Tony travelled to the bedroom.
+3 Johnson journeyed to the office.
+4 Sandy took the milk there.
+5 What is Sandy carrying? 	milk	4
+6 Tony journeyed to the bathroom.
+7 Sandy dropped the milk.
+8 What is Sandy carrying? 	nothing	4 7
+9 Sandy got the milk there.
+10 Tony moved to the kitchen.
+11 What is Sandy carrying? 	milk	4 7 9
+12 Sandy moved to the office.
+13 Sandy moved to the hallway.
+14 What is Sandy carrying? 	milk	4 7 9
+15 Tim travelled to the bedroom.
+16 Tony picked up the football there.
+17 What is Tony carrying? 	football	16
+1 Tim grabbed the football there.
+2 Tony moved to the bedroom.
+3 What is Tim carrying? 	football	1
+4 Tony went back to the garden.
+5 Johnson went back to the bedroom.
+6 What is Tim carrying? 	football	1
+7 Tim went to the bedroom.
+8 Tim travelled to the garden.
+9 Johnson went to the kitchen.
+10 Sandy journeyed to the office.
+11 Tim picked up the apple there.
+12 Tim picked up the milk there.
+13 What is Tim carrying? 	football,apple,milk	1 11 12
+14 Sandy journeyed to the garden.
+15 Tim left the milk.
+16 What is Tim carrying? 	football,apple	1 11 12 15
+17 Sandy got the milk there.
+18 Tim went to the bedroom.
+19 What is Tim carrying? 	football,apple	1 11 12 15
+1 Tim moved to the garden.
+2 Tony journeyed to the bathroom.
+3 Tim moved to the bathroom.
+4 Johnson went to the bathroom.
+5 Sandy moved to the bedroom.
+6 Tony travelled to the hallway.
+7 Johnson went back to the garden.
+8 Tony picked up the football there.
+9 What is Tony carrying? 	football	8
+10 Sandy travelled to the kitchen.
+11 Tony travelled to the garden.
+12 What is Tony carrying? 	football	8
+13 Sandy travelled to the hallway.
+14 Tim went to the hallway.
+15 What is Tony carrying? 	football	8
+16 Johnson picked up the milk there.
+17 Tony dropped the football.
+18 What is Johnson carrying? 	milk	16
+19 Tim went back to the kitchen.
+20 Tony travelled to the hallway.
+21 What is Johnson carrying? 	milk	16

@@ -1,0 +1,3050 @@
+1 Tim got the milk there.
+2 Johnson moved to the bedroom.
+3 Is Johnson in the kitchen? 	no	2
+4 Tim discarded the milk.
+5 Johnson went to the garden.
+6 Is Johnson in the kitchen? 	no	5
+7 Tony moved to the bedroom.
+8 Tony went to the garden.
+9 Is Johnson in the garden? 	yes	5
+10 Tony travelled to the bathroom.
+11 Sandy travelled to the bedroom.
+12 Is Tony in the bathroom? 	yes	10
+13 Tim took the football there.
+14 Sandy grabbed the milk there.
+15 Is Tony in the bedroom? 	no	10
+1 Tony went back to the kitchen.
+2 Tim grabbed the apple there.
+3 Is Tony in the office? 	no	1
+4 Tony journeyed to the office.
+5 Johnson went back to the office.
+6 Is Tony in the hallway? 	no	4
+7 Tim left the apple.
+8 Tony went to the hallway.
+9 Is Tony in the hallway? 	yes	8
+10 Johnson went to the hallway.
+11 Tony picked up the milk there.
+12 Is Johnson in the kitchen? 	no	10
+13 Johnson grabbed the football there.
+14 Tim got the apple there.
+15 Is Tony in the hallway? 	yes	8
+1 Johnson moved to the hallway.
+2 Sandy went to the bedroom.
+3 Is Johnson in the hallway? 	yes	1
+4 Sandy travelled to the garden.
+5 Johnson got the football there.
+6 Is Johnson in the bedroom? 	no	1
+7 Tony went back to the bedroom.
+8 Tim moved to the bathroom.
+9 Is Sandy in the garden? 	yes	4
+10 Tim went to the kitchen.
+11 Sandy went to the hallway.
+12 Is Tim in the kitchen? 	yes	10
+13 Sandy travelled to the kitchen.
+14 Johnson dropped the football.
+15 Is Tim in the kitchen? 	yes	10
+1 Johnson journeyed to the hallway.
+2 Johnson got the apple there.
+3 Is Johnson in the hallway? 	yes	1
+4 Tony journeyed to the hallway.
+5 Tony went back to the kitchen.
+6 Is Johnson in the hallway? 	yes	1
+7 Johnson put down the apple.
+8 Tony went back to the garden.
+9 Is Tony in the kitchen? 	no	8
+10 Johnson travelled to the bedroom.
+11 Sandy journeyed to the bedroom.
+12 Is Johnson in the bathroom? 	no	10
+13 Sandy travelled to the bathroom.
+14 Johnson went to the office.
+15 Is Tony in the bedroom? 	no	8
+1 Tony grabbed the apple there.
+2 Tim travelled to the bedroom.
+3 Is Tim in the bedroom? 	yes	2
+4 Sandy got the milk there.
+5 Tony moved to the hallway.
+6 Is Tim in the kitchen? 	no	2
+7 Tony moved to the bathroom.
+8 Tim took the football there.
+9 Is Tony in the bathroom? 	yes	7
+10 Tony discarded the apple.
+11 Sandy journeyed to the hallway.
+12 Is Sandy in the bedroom? 	no	11
+13 Sandy dropped the milk.
+14 Johnson went back to the hallway.
+15 Is Johnson in the bedroom? 	no	14
+1 Tony grabbed the apple there.
+2 Johnson journeyed to the office.
+3 Is Johnson in the office? 	yes	2
+4 Tim journeyed to the bathroom.
+5 Tim went back to the garden.
+6 Is Tim in the garden? 	yes	5
+7 Tony discarded the apple.
+8 Sandy moved to the bedroom.
+9 Is Johnson in the office? 	yes	2
+10 Johnson journeyed to the kitchen.
+11 Sandy got the apple there.
+12 Is Johnson in the office? 	no	10
+13 Sandy dropped the apple.
+14 Tim moved to the hallway.
+15 Is Tim in the hallway? 	yes	14
+1 Tony grabbed the apple there.
+2 Johnson went to the garden.
+3 Is Johnson in the garden? 	yes	2
+4 Sandy picked up the milk there.
+5 Tim went back to the hallway.
+6 Is Johnson in the bathroom? 	no	2
+7 Sandy put down the milk there.
+8 Sandy moved to the garden.
+9 Is Sandy in the bedroom? 	no	8
+10 Johnson went to the bedroom.
+11 Sandy moved to the bathroom.
+12 Is Sandy in the bedroom? 	no	11
+13 Sandy moved to the garden.
+14 Sandy moved to the bathroom.
+15 Is Sandy in the garden? 	no	14
+1 Johnson took the apple there.
+2 Tim went back to the bathroom.
+3 Is Tim in the kitchen? 	no	2
+4 Johnson left the apple.
+5 Sandy went to the garden.
+6 Is Sandy in the garden? 	yes	5
+7 Tim went back to the bedroom.
+8 Tim journeyed to the garden.
+9 Is Tim in the garden? 	yes	8
+10 Johnson picked up the apple there.
+11 Johnson travelled to the bathroom.
+12 Is Tim in the garden? 	yes	8
+13 Johnson got the football there.
+14 Tim journeyed to the kitchen.
+15 Is Tim in the office? 	no	14
+1 Johnson went back to the kitchen.
+2 Tim got the football there.
+3 Is Johnson in the kitchen? 	yes	1
+4 Sandy picked up the apple there.
+5 Sandy travelled to the bedroom.
+6 Is Johnson in the hallway? 	no	1
+7 Tony travelled to the bathroom.
+8 Sandy dropped the apple there.
+9 Is Sandy in the kitchen? 	no	5
+10 Johnson moved to the office.
+11 Tim went to the garden.
+12 Is Tim in the bathroom? 	no	11
+13 Tim moved to the office.
+14 Sandy went back to the bathroom.
+15 Is Tim in the office? 	yes	13
+1 Tony went back to the bathroom.
+2 Tony journeyed to the office.
+3 Is Tony in the office? 	yes	2
+4 Tony journeyed to the hallway.
+5 Tim took the milk there.
+6 Is Tony in the hallway? 	yes	4
+7 Tim went to the kitchen.
+8 Tim discarded the milk.
+9 Is Tim in the bathroom? 	no	7
+10 Tim picked up the football there.
+11 Tim took the milk there.
+12 Is Tim in the kitchen? 	yes	7
+13 Tony went to the kitchen.
+14 Johnson travelled to the kitchen.
+15 Is Johnson in the kitchen? 	yes	14
+1 Tim journeyed to the kitchen.
+2 Tony picked up the football there.
+3 Is Tim in the kitchen? 	yes	1
+4 Johnson picked up the apple there.
+5 Johnson discarded the apple there.
+6 Is Tim in the kitchen? 	yes	1
+7 Johnson picked up the apple there.
+8 Tony journeyed to the kitchen.
+9 Is Tony in the kitchen? 	yes	8
+10 Tony put down the football.
+11 Tim moved to the garden.
+12 Is Tim in the garden? 	yes	11
+13 Sandy went back to the kitchen.
+14 Tony moved to the office.
+15 Is Sandy in the kitchen? 	yes	13
+1 Johnson travelled to the office.
+2 Tony picked up the football there.
+3 Is Johnson in the bathroom? 	no	1
+4 Johnson grabbed the apple there.
+5 Tim went to the bathroom.
+6 Is Tim in the bedroom? 	no	5
+7 Tony picked up the milk there.
+8 Tony discarded the football.
+9 Is Tim in the bathroom? 	yes	5
+10 Tim went back to the office.
+11 Tony took the football there.
+12 Is Tim in the bedroom? 	no	10
+13 Tim went back to the garden.
+14 Johnson dropped the apple.
+15 Is Tim in the office? 	no	13
+1 Johnson went to the office.
+2 Tony picked up the football there.
+3 Is Johnson in the garden? 	no	1
+4 Tony moved to the office.
+5 Sandy moved to the office.
+6 Is Tony in the bedroom? 	no	4
+7 Tony discarded the football there.
+8 Sandy moved to the kitchen.
+9 Is Sandy in the office? 	no	8
+10 Tim journeyed to the kitchen.
+11 Johnson picked up the football there.
+12 Is Tim in the office? 	no	10
+13 Johnson discarded the football.
+14 Johnson moved to the kitchen.
+15 Is Tim in the kitchen? 	yes	10
+1 Sandy journeyed to the kitchen.
+2 Johnson travelled to the kitchen.
+3 Is Johnson in the kitchen? 	yes	2
+4 Tony picked up the football there.
+5 Sandy went to the garden.
+6 Is Johnson in the kitchen? 	yes	2
+7 Johnson journeyed to the office.
+8 Tony picked up the milk there.
+9 Is Sandy in the garden? 	yes	5
+10 Johnson journeyed to the hallway.
+11 Johnson got the apple there.
+12 Is Sandy in the kitchen? 	no	5
+13 Tony travelled to the garden.
+14 Johnson journeyed to the bathroom.
+15 Is Johnson in the garden? 	no	14
+1 Sandy went to the bathroom.
+2 Tim got the milk there.
+3 Is Sandy in the bedroom? 	no	1
+4 Tim went to the bathroom.
+5 Tim went back to the bedroom.
+6 Is Tim in the bedroom? 	yes	5
+7 Sandy moved to the bedroom.
+8 Tony journeyed to the hallway.
+9 Is Sandy in the bathroom? 	no	7
+10 Tim journeyed to the garden.
+11 Tony went back to the garden.
+12 Is Tim in the garden? 	yes	10
+13 Johnson travelled to the bedroom.
+14 Tim dropped the milk.
+15 Is Johnson in the garden? 	no	13
+1 Tim journeyed to the garden.
+2 Tony travelled to the bathroom.
+3 Is Tony in the bathroom? 	yes	2
+4 Johnson moved to the bedroom.
+5 Tim went back to the bedroom.
+6 Is Tim in the bedroom? 	yes	5
+7 Johnson got the apple there.
+8 Johnson discarded the apple.
+9 Is Johnson in the bedroom? 	yes	4
+10 Johnson took the apple there.
+11 Sandy moved to the office.
+12 Is Tim in the bathroom? 	no	5
+13 Johnson moved to the office.
+14 Johnson travelled to the bathroom.
+15 Is Sandy in the office? 	yes	11
+1 Sandy travelled to the office.
+2 Tony grabbed the football there.
+3 Is Sandy in the office? 	yes	1
+4 Tony moved to the garden.
+5 Tony moved to the bathroom.
+6 Is Sandy in the bedroom? 	no	1
+7 Johnson went to the bedroom.
+8 Sandy grabbed the milk there.
+9 Is Tony in the bathroom? 	yes	5
+10 Johnson went to the hallway.
+11 Tim went to the hallway.
+12 Is Tim in the hallway? 	yes	11
+13 Sandy travelled to the bathroom.
+14 Sandy put down the milk.
+15 Is Johnson in the bedroom? 	no	10
+1 Johnson travelled to the office.
+2 Tony went back to the kitchen.
+3 Is Johnson in the bathroom? 	no	1
+4 Tony got the milk there.
+5 Sandy went to the office.
+6 Is Sandy in the office? 	yes	5
+7 Sandy travelled to the hallway.
+8 Johnson went to the bathroom.
+9 Is Sandy in the kitchen? 	no	7
+10 Tim travelled to the bathroom.
+11 Tim took the football there.
+12 Is Sandy in the hallway? 	yes	7
+13 Tim left the football.
+14 Tony went to the bedroom.
+15 Is Tim in the bathroom? 	yes	10
+1 Tim picked up the apple there.
+2 Tim went to the bathroom.
+3 Is Tim in the bathroom? 	yes	2
+4 Sandy went to the bathroom.
+5 Sandy grabbed the football there.
+6 Is Tim in the kitchen? 	no	2
+7 Sandy went back to the bedroom.
+8 Tim went back to the kitchen.
+9 Is Tim in the office? 	no	8
+10 Sandy went back to the office.
+11 Sandy left the football.
+12 Is Tim in the bathroom? 	no	8
+13 Tony got the football there.
+14 Sandy went back to the bedroom.
+15 Is Tim in the kitchen? 	yes	8
+1 Tony moved to the bedroom.
+2 Tim moved to the hallway.
+3 Is Tim in the bedroom? 	no	2
+4 Johnson journeyed to the garden.
+5 Tim went back to the bathroom.
+6 Is Tim in the hallway? 	no	5
+7 Johnson journeyed to the hallway.
+8 Johnson moved to the bedroom.
+9 Is Johnson in the bedroom? 	yes	8
+10 Sandy moved to the kitchen.
+11 Tony went to the kitchen.
+12 Is Tony in the kitchen? 	yes	11
+13 Sandy took the milk there.
+14 Johnson journeyed to the bathroom.
+15 Is Tony in the garden? 	no	11
+1 Johnson took the apple there.
+2 Johnson went to the bathroom.
+3 Is Johnson in the hallway? 	no	2
+4 Johnson moved to the office.
+5 Tim picked up the milk there.
+6 Is Johnson in the hallway? 	no	4
+7 Johnson dropped the apple there.
+8 Tim picked up the football there.
+9 Is Johnson in the bathroom? 	no	4
+10 Johnson got the apple there.
+11 Johnson journeyed to the hallway.
+12 Is Johnson in the bathroom? 	no	11
+13 Johnson left the apple.
+14 Johnson took the apple there.
+15 Is Johnson in the bedroom? 	no	11
+1 Tim went to the bathroom.
+2 Tony took the football there.
+3 Is Tim in the kitchen? 	no	1
+4 Johnson moved to the bedroom.
+5 Johnson journeyed to the kitchen.
+6 Is Johnson in the hallway? 	no	5
+7 Johnson took the milk there.
+8 Johnson went to the bedroom.
+9 Is Johnson in the kitchen? 	no	8
+10 Sandy went to the hallway.
+11 Tony put down the football there.
+12 Is Sandy in the bathroom? 	no	10
+13 Johnson went back to the kitchen.
+14 Sandy moved to the office.
+15 Is Johnson in the hallway? 	no	13
+1 Tony travelled to the bathroom.
+2 Tim went back to the bedroom.
+3 Is Tony in the office? 	no	1
+4 Tim travelled to the bathroom.
+5 Tony journeyed to the kitchen.
+6 Is Tony in the bedroom? 	no	5
+7 Tim took the apple there.
+8 Johnson travelled to the office.
+9 Is Tony in the kitchen? 	yes	5
+10 Tim moved to the garden.
+11 Sandy went back to the office.
+12 Is Tony in the kitchen? 	yes	5
+13 Sandy journeyed to the bedroom.
+14 Johnson went to the hallway.
+15 Is Johnson in the hallway? 	yes	14
+1 Tony travelled to the hallway.
+2 Tim got the football there.
+3 Is Tony in the office? 	no	1
+4 Tim dropped the football.
+5 Tim grabbed the football there.
+6 Is Tony in the hallway? 	yes	1
+7 Sandy journeyed to the bedroom.
+8 Tim left the football there.
+9 Is Sandy in the bedroom? 	yes	7
+10 Sandy got the apple there.
+11 Sandy grabbed the milk there.
+12 Is Sandy in the bedroom? 	yes	7
+13 Tim travelled to the bathroom.
+14 Tony travelled to the kitchen.
+15 Is Tony in the bathroom? 	no	14
+1 Johnson went to the kitchen.
+2 Sandy journeyed to the bedroom.
+3 Is Johnson in the office? 	no	1
+4 Sandy journeyed to the kitchen.
+5 Tony went back to the office.
+6 Is Johnson in the kitchen? 	yes	1
+7 Johnson picked up the football there.
+8 Johnson discarded the football.
+9 Is Tony in the office? 	yes	5
+10 Sandy got the football there.
+11 Sandy dropped the football.
+12 Is Tony in the bedroom? 	no	5
+13 Tim grabbed the apple there.
+14 Johnson got the football there.
+15 Johnson travelled to the hallway.
+16 Sandy went back to the garden.
+17 Is Sandy in the garden? 	yes	16
+1 Sandy went to the kitchen.
+2 Tony got the milk there.
+3 Is Sandy in the garden? 	no	1
+4 Johnson moved to the bedroom.
+5 Johnson travelled to the hallway.
+6 Is Sandy in the hallway? 	no	1
+7 Tim journeyed to the bedroom.
+8 Tim went back to the garden.
+9 Is Tim in the hallway? 	no	8
+10 Sandy went to the garden.
+11 Tony put down the milk.
+12 Is Johnson in the kitchen? 	no	5
+13 Sandy took the milk there.
+14 Johnson took the apple there.
+15 Is Tim in the hallway? 	no	8
+1 Sandy moved to the bedroom.
+2 Sandy moved to the bathroom.
+3 Is Sandy in the garden? 	no	2
+4 Tony travelled to the bathroom.
+5 Tim travelled to the kitchen.
+6 Is Tony in the bathroom? 	yes	4
+7 Tim picked up the milk there.
+8 Sandy travelled to the kitchen.
+9 Is Sandy in the bedroom? 	no	8
+10 Johnson went back to the garden.
+11 Tim discarded the milk.
+12 Is Johnson in the garden? 	yes	10
+13 Sandy travelled to the office.
+14 Johnson picked up the apple there.
+15 Is Johnson in the hallway? 	no	10
+1 Johnson went back to the hallway.
+2 Sandy picked up the football there.
+3 Is Johnson in the office? 	no	1
+4 Tim moved to the kitchen.
+5 Tony grabbed the apple there.
+6 Is Johnson in the bathroom? 	no	1
+7 Sandy left the football.
+8 Sandy grabbed the football there.
+9 Is Tim in the office? 	no	4
+10 Johnson moved to the bedroom.
+11 Tony discarded the apple there.
+12 Is Johnson in the hallway? 	no	10
+13 Tony grabbed the apple there.
+14 Tim went back to the bedroom.
+15 Is Tim in the kitchen? 	no	14
+1 Tim grabbed the apple there.
+2 Tony travelled to the garden.
+3 Is Tony in the kitchen? 	no	2
+4 Tony grabbed the milk there.
+5 Tony discarded the milk.
+6 Is Tony in the garden? 	yes	2
+7 Tim dropped the apple there.
+8 Johnson went to the hallway.
+9 Is Tony in the bedroom? 	no	2
+10 Johnson picked up the apple there.
+11 Johnson moved to the office.
+12 Is Johnson in the bathroom? 	no	11
+13 Sandy travelled to the office.
+14 Johnson left the apple.
+15 Is Johnson in the office? 	yes	11
+1 Johnson journeyed to the bathroom.
+2 Johnson journeyed to the kitchen.
+3 Is Johnson in the kitchen? 	yes	2
+4 Tim went to the office.
+5 Tony went to the bedroom.
+6 Is Johnson in the hallway? 	no	2
+7 Tim journeyed to the garden.
+8 Tim journeyed to the hallway.
+9 Is Tim in the hallway? 	yes	8
+10 Sandy moved to the office.
+11 Johnson went back to the hallway.
+12 Is Tim in the bedroom? 	no	8
+13 Sandy grabbed the football there.
+14 Johnson travelled to the bathroom.
+15 Is Johnson in the kitchen? 	no	14
+1 Sandy travelled to the bathroom.
+2 Tony went back to the office.
+3 Is Sandy in the bathroom? 	yes	1
+4 Sandy journeyed to the office.
+5 Sandy moved to the garden.
+6 Is Sandy in the garden? 	yes	5
+7 Tim grabbed the milk there.
+8 Tim grabbed the football there.
+9 Is Sandy in the hallway? 	no	5
+10 Tony travelled to the hallway.
+11 Tim put down the milk.
+12 Is Tony in the hallway? 	yes	10
+13 Tony moved to the bathroom.
+14 Johnson went to the bathroom.
+15 Is Tony in the garden? 	no	13
+1 Johnson went to the kitchen.
+2 Johnson moved to the hallway.
+3 Is Johnson in the bedroom? 	no	2
+4 Tony went back to the garden.
+5 Sandy travelled to the hallway.
+6 Is Johnson in the garden? 	no	2
+7 Tim went to the garden.
+8 Johnson went to the office.
+9 Is Sandy in the bedroom? 	no	5
+10 Tony went back to the bedroom.
+11 Sandy travelled to the kitchen.
+12 Is Tim in the bathroom? 	no	7
+13 Sandy went to the hallway.
+14 Tim moved to the kitchen.
+15 Is Sandy in the kitchen? 	no	13
+1 Tony moved to the kitchen.
+2 Tony travelled to the office.
+3 Is Tony in the office? 	yes	2
+4 Tim journeyed to the bedroom.
+5 Tony journeyed to the kitchen.
+6 Is Tim in the bedroom? 	yes	4
+7 Johnson went to the office.
+8 Tony got the milk there.
+9 Is Tony in the kitchen? 	yes	5
+10 Tony discarded the milk.
+11 Sandy grabbed the football there.
+12 Is Johnson in the office? 	yes	7
+13 Johnson moved to the bedroom.
+14 Sandy dropped the football.
+15 Is Johnson in the bedroom? 	yes	13
+1 Sandy moved to the garden.
+2 Tim went to the garden.
+3 Is Tim in the bathroom? 	no	2
+4 Sandy journeyed to the bedroom.
+5 Tim grabbed the apple there.
+6 Is Tim in the garden? 	yes	2
+7 Tim put down the apple.
+8 Tim journeyed to the bathroom.
+9 Is Tim in the hallway? 	no	8
+10 Sandy went to the kitchen.
+11 Tony journeyed to the hallway.
+12 Is Sandy in the kitchen? 	yes	10
+13 Tim moved to the garden.
+14 Tim went back to the bedroom.
+15 Is Tony in the hallway? 	yes	11
+1 Johnson got the apple there.
+2 Tony took the football there.
+3 Tony put down the football.
+4 Johnson went back to the hallway.
+5 Is Johnson in the hallway? 	yes	4
+6 Sandy went back to the garden.
+7 Johnson went to the bathroom.
+8 Is Johnson in the kitchen? 	no	7
+9 Tim journeyed to the bathroom.
+10 Johnson moved to the office.
+11 Is Johnson in the kitchen? 	no	10
+12 Tim went back to the kitchen.
+13 Johnson left the apple.
+14 Is Johnson in the hallway? 	no	10
+15 Tony travelled to the bedroom.
+16 Sandy moved to the office.
+17 Is Tony in the office? 	no	15
+1 Sandy journeyed to the bedroom.
+2 Sandy went back to the kitchen.
+3 Is Sandy in the kitchen? 	yes	2
+4 Tim travelled to the bedroom.
+5 Johnson went to the kitchen.
+6 Is Sandy in the kitchen? 	yes	2
+7 Johnson journeyed to the office.
+8 Sandy travelled to the bathroom.
+9 Is Johnson in the kitchen? 	no	7
+10 Tim went to the bathroom.
+11 Tim moved to the office.
+12 Is Sandy in the garden? 	no	8
+13 Tony travelled to the bedroom.
+14 Sandy went back to the office.
+15 Is Tony in the kitchen? 	no	13
+1 Johnson grabbed the apple there.
+2 Tony moved to the bedroom.
+3 Is Tony in the bedroom? 	yes	2
+4 Johnson travelled to the bedroom.
+5 Tony got the football there.
+6 Is Johnson in the bedroom? 	yes	4
+7 Johnson went back to the office.
+8 Johnson put down the apple.
+9 Is Johnson in the office? 	yes	7
+10 Tony left the football.
+11 Johnson picked up the apple there.
+12 Is Johnson in the office? 	yes	7
+13 Tony picked up the football there.
+14 Tim went to the bedroom.
+15 Is Tim in the garden? 	no	14
+1 Tony moved to the garden.
+2 Tim journeyed to the bedroom.
+3 Is Tony in the garden? 	yes	1
+4 Johnson travelled to the garden.
+5 Tim journeyed to the kitchen.
+6 Is Tim in the kitchen? 	yes	5
+7 Johnson travelled to the bedroom.
+8 Tony moved to the kitchen.
+9 Is Tony in the kitchen? 	yes	8
+10 Tim journeyed to the hallway.
+11 Johnson journeyed to the bathroom.
+12 Is Johnson in the bathroom? 	yes	11
+13 Tim grabbed the apple there.
+14 Tony went to the bathroom.
+15 Is Tony in the garden? 	no	14
+1 Sandy went to the garden.
+2 Tim got the apple there.
+3 Is Sandy in the garden? 	yes	1
+4 Sandy travelled to the bedroom.
+5 Tim travelled to the hallway.
+6 Is Sandy in the garden? 	no	4
+7 Johnson journeyed to the hallway.
+8 Tim went to the garden.
+9 Is Sandy in the bedroom? 	yes	4
+10 Tim journeyed to the office.
+11 Sandy moved to the hallway.
+12 Is Tim in the office? 	yes	10
+13 Tim picked up the milk there.
+14 Tim put down the milk.
+15 Is Tim in the office? 	yes	10
+1 Johnson travelled to the kitchen.
+2 Tony got the milk there.
+3 Is Johnson in the kitchen? 	yes	1
+4 Tony went back to the office.
+5 Tony left the milk there.
+6 Is Tony in the office? 	yes	4
+7 Tony got the milk there.
+8 Tony left the milk.
+9 Is Tony in the hallway? 	no	4
+10 Tim went back to the hallway.
+11 Sandy went back to the bathroom.
+12 Is Tim in the kitchen? 	no	10
+13 Johnson went to the office.
+14 Tony grabbed the milk there.
+15 Is Johnson in the office? 	yes	13
+1 Tim grabbed the milk there.
+2 Sandy took the football there.
+3 Tony grabbed the apple there.
+4 Johnson went to the bathroom.
+5 Is Johnson in the bathroom? 	yes	4
+6 Tim discarded the milk.
+7 Tim picked up the milk there.
+8 Is Johnson in the bathroom? 	yes	4
+9 Sandy put down the football there.
+10 Tim put down the milk.
+11 Is Johnson in the garden? 	no	4
+12 Sandy travelled to the office.
+13 Tim travelled to the bedroom.
+14 Is Sandy in the bedroom? 	no	12
+15 Johnson went back to the kitchen.
+16 Johnson journeyed to the hallway.
+17 Is Johnson in the garden? 	no	16
+1 Sandy journeyed to the garden.
+2 Tim got the milk there.
+3 Is Sandy in the garden? 	yes	1
+4 Sandy travelled to the office.
+5 Johnson went to the office.
+6 Is Sandy in the office? 	yes	4
+7 Sandy travelled to the kitchen.
+8 Sandy went to the bathroom.
+9 Is Sandy in the office? 	no	8
+10 Tony went to the bedroom.
+11 Tim dropped the milk.
+12 Is Tony in the bedroom? 	yes	10
+13 Johnson took the football there.
+14 Tony got the milk there.
+15 Is Tony in the bedroom? 	yes	10
+1 Tony went to the office.
+2 Sandy went back to the garden.
+3 Is Sandy in the garden? 	yes	2
+4 Tim grabbed the apple there.
+5 Tony grabbed the milk there.
+6 Is Tony in the garden? 	no	1
+7 Tony went back to the garden.
+8 Johnson moved to the office.
+9 Is Johnson in the bathroom? 	no	8
+10 Johnson journeyed to the hallway.
+11 Tim put down the apple.
+12 Is Johnson in the garden? 	no	10
+13 Tony journeyed to the office.
+14 Sandy went to the bathroom.
+15 Is Johnson in the kitchen? 	no	10
+1 Tony moved to the bedroom.
+2 Johnson travelled to the garden.
+3 Is Tony in the bathroom? 	no	1
+4 Tim went to the hallway.
+5 Tim picked up the football there.
+6 Is Tim in the hallway? 	yes	4
+7 Tim dropped the football.
+8 Johnson went back to the bedroom.
+9 Is Johnson in the kitchen? 	no	8
+10 Tim journeyed to the kitchen.
+11 Tim got the apple there.
+12 Is Tim in the office? 	no	10
+13 Tim dropped the apple there.
+14 Tony travelled to the office.
+15 Is Tim in the kitchen? 	yes	10
+1 Tim travelled to the kitchen.
+2 Sandy journeyed to the kitchen.
+3 Is Tim in the kitchen? 	yes	1
+4 Tony journeyed to the hallway.
+5 Tony got the football there.
+6 Is Tim in the hallway? 	no	1
+7 Johnson journeyed to the bedroom.
+8 Tony journeyed to the bedroom.
+9 Is Tony in the hallway? 	no	8
+10 Sandy took the apple there.
+11 Tony travelled to the hallway.
+12 Is Tony in the hallway? 	yes	11
+13 Sandy put down the apple.
+14 Tim went back to the bedroom.
+15 Is Tony in the hallway? 	yes	11
+1 Tim picked up the milk there.
+2 Johnson journeyed to the garden.
+3 Is Johnson in the garden? 	yes	2
+4 Tim put down the milk.
+5 Sandy grabbed the football there.
+6 Is Johnson in the garden? 	yes	2
+7 Johnson journeyed to the bathroom.
+8 Johnson grabbed the apple there.
+9 Is Johnson in the bedroom? 	no	7
+10 Sandy discarded the football.
+11 Tim travelled to the bedroom.
+12 Is Johnson in the bathroom? 	yes	7
+13 Sandy grabbed the football there.
+14 Sandy went back to the kitchen.
+15 Is Tim in the hallway? 	no	11
+1 Tony moved to the hallway.
+2 Sandy picked up the apple there.
+3 Is Tony in the office? 	no	1
+4 Tony travelled to the garden.
+5 Tony went back to the kitchen.
+6 Is Tony in the kitchen? 	yes	5
+7 Tim went back to the hallway.
+8 Sandy moved to the office.
+9 Is Sandy in the bathroom? 	no	8
+10 Tony picked up the football there.
+11 Tony put down the football.
+12 Is Tony in the kitchen? 	yes	5
+13 Sandy left the apple.
+14 Sandy travelled to the hallway.
+15 Is Sandy in the hallway? 	yes	14
+1 Sandy went back to the kitchen.
+2 Johnson grabbed the football there.
+3 Is Sandy in the kitchen? 	yes	1
+4 Johnson went back to the office.
+5 Sandy went back to the garden.
+6 Is Sandy in the kitchen? 	no	5
+7 Johnson went to the kitchen.
+8 Tim went back to the bathroom.
+9 Is Johnson in the bathroom? 	no	7
+10 Johnson discarded the football.
+11 Tim journeyed to the bedroom.
+12 Is Sandy in the kitchen? 	no	5
+13 Tim got the apple there.
+14 Tony went to the bathroom.
+15 Is Tim in the bathroom? 	no	11
+1 Sandy travelled to the bathroom.
+2 Sandy travelled to the kitchen.
+3 Is Sandy in the hallway? 	no	2
+4 Sandy moved to the garden.
+5 Sandy got the apple there.
+6 Is Sandy in the hallway? 	no	4
+7 Tony travelled to the hallway.
+8 Sandy moved to the kitchen.
+9 Is Sandy in the kitchen? 	yes	8
+10 Johnson went to the garden.
+11 Tony travelled to the office.
+12 Is Tony in the bathroom? 	no	11
+13 Sandy went to the garden.
+14 Sandy discarded the apple.
+15 Is Tony in the bedroom? 	no	11
+1 Tony grabbed the apple there.
+2 Johnson journeyed to the hallway.
+3 Is Johnson in the hallway? 	yes	2
+4 Johnson journeyed to the kitchen.
+5 Sandy travelled to the bathroom.
+6 Is Sandy in the bathroom? 	yes	5
+7 Johnson took the football there.
+8 Sandy journeyed to the office.
+9 Is Sandy in the office? 	yes	8
+10 Sandy travelled to the hallway.
+11 Johnson left the football.
+12 Is Sandy in the garden? 	no	10
+13 Sandy travelled to the bedroom.
+14 Tony discarded the apple.
+15 Is Sandy in the bedroom? 	yes	13
+1 Tim got the apple there.
+2 Johnson moved to the office.
+3 Is Johnson in the office? 	yes	2
+4 Tim travelled to the garden.
+5 Tim discarded the apple.
+6 Is Johnson in the office? 	yes	2
+7 Tim took the apple there.
+8 Tim travelled to the bedroom.
+9 Is Tim in the bathroom? 	no	8
+10 Tim travelled to the hallway.
+11 Johnson grabbed the football there.
+12 Is Tim in the hallway? 	yes	10
+13 Johnson put down the football there.
+14 Tim left the apple.
+15 Is Tim in the hallway? 	yes	10
+1 Sandy moved to the bathroom.
+2 Tony went to the garden.
+3 Is Tony in the garden? 	yes	2
+4 Sandy journeyed to the office.
+5 Tim went back to the bathroom.
+6 Is Sandy in the office? 	yes	4
+7 Tim picked up the apple there.
+8 Tony grabbed the football there.
+9 Is Tim in the bathroom? 	yes	5
+10 Tim journeyed to the office.
+11 Tony put down the football.
+12 Is Tim in the garden? 	no	10
+13 Johnson grabbed the football there.
+14 Johnson moved to the bathroom.
+15 Is Johnson in the bathroom? 	yes	14
+1 Sandy travelled to the bathroom.
+2 Johnson got the football there.
+3 Is Sandy in the garden? 	no	1
+4 Tony moved to the bathroom.
+5 Tony travelled to the hallway.
+6 Is Sandy in the bathroom? 	yes	1
+7 Sandy went to the hallway.
+8 Johnson dropped the football.
+9 Is Tony in the hallway? 	yes	5
+10 Tony grabbed the milk there.
+11 Sandy went to the office.
+12 Is Sandy in the bedroom? 	no	11
+13 Tony put down the milk there.
+14 Sandy moved to the kitchen.
+15 Is Sandy in the bedroom? 	no	14
+1 Sandy went back to the kitchen.
+2 Johnson moved to the kitchen.
+3 Is Johnson in the kitchen? 	yes	2
+4 Tim went back to the office.
+5 Sandy moved to the garden.
+6 Is Johnson in the garden? 	no	2
+7 Johnson moved to the office.
+8 Tony travelled to the hallway.
+9 Is Tony in the kitchen? 	no	8
+10 Johnson journeyed to the bedroom.
+11 Tim went back to the bedroom.
+12 Is Sandy in the garden? 	yes	5
+13 Johnson journeyed to the hallway.
+14 Johnson went to the bedroom.
+15 Is Johnson in the hallway? 	no	14
+1 Tim journeyed to the garden.
+2 Tony went to the bathroom.
+3 Is Tony in the bathroom? 	yes	2
+4 Tim travelled to the hallway.
+5 Tim went to the office.
+6 Is Tim in the hallway? 	no	5
+7 Tim took the football there.
+8 Johnson went to the bedroom.
+9 Is Tim in the bedroom? 	no	5
+10 Tim journeyed to the hallway.
+11 Sandy moved to the hallway.
+12 Is Tim in the hallway? 	yes	10
+13 Tony took the apple there.
+14 Tim went back to the bedroom.
+15 Is Sandy in the bedroom? 	no	11
+1 Johnson got the football there.
+2 Tony went to the bathroom.
+3 Is Tony in the bathroom? 	yes	2
+4 Tony took the apple there.
+5 Sandy went to the bathroom.
+6 Is Sandy in the bathroom? 	yes	5
+7 Tony left the apple there.
+8 Tony journeyed to the bedroom.
+9 Is Sandy in the bathroom? 	yes	5
+10 Sandy moved to the garden.
+11 Tony travelled to the garden.
+12 Is Sandy in the bathroom? 	no	10
+13 Johnson put down the football.
+14 Tony journeyed to the bathroom.
+15 Is Sandy in the hallway? 	no	10
+1 Sandy moved to the garden.
+2 Sandy went back to the bedroom.
+3 Is Sandy in the bedroom? 	yes	2
+4 Johnson travelled to the kitchen.
+5 Johnson moved to the bedroom.
+6 Is Sandy in the kitchen? 	no	2
+7 Tony picked up the apple there.
+8 Tim went to the bathroom.
+9 Is Johnson in the bedroom? 	yes	5
+10 Tony dropped the apple.
+11 Tony moved to the hallway.
+12 Is Johnson in the bedroom? 	yes	5
+13 Johnson went back to the kitchen.
+14 Johnson moved to the office.
+15 Is Johnson in the office? 	yes	14
+1 Tony went to the office.
+2 Sandy travelled to the hallway.
+3 Is Tony in the office? 	yes	1
+4 Tim went to the kitchen.
+5 Johnson journeyed to the hallway.
+6 Is Tony in the hallway? 	no	1
+7 Johnson got the football there.
+8 Johnson discarded the football.
+9 Is Tim in the office? 	no	4
+10 Tim travelled to the garden.
+11 Johnson took the football there.
+12 Is Johnson in the hallway? 	yes	5
+13 Johnson went to the office.
+14 Sandy went to the kitchen.
+15 Is Tim in the hallway? 	no	10
+1 Tony journeyed to the bathroom.
+2 Tony grabbed the football there.
+3 Is Tony in the bathroom? 	yes	1
+4 Tony grabbed the milk there.
+5 Sandy went to the hallway.
+6 Is Sandy in the office? 	no	5
+7 Sandy picked up the apple there.
+8 Sandy left the apple.
+9 Is Sandy in the hallway? 	yes	5
+10 Tony went to the kitchen.
+11 Tim moved to the kitchen.
+12 Is Tim in the office? 	no	11
+13 Tony dropped the milk.
+14 Tony left the football.
+15 Is Tim in the bedroom? 	no	11
+1 Sandy travelled to the bedroom.
+2 Sandy journeyed to the garden.
+3 Is Sandy in the office? 	no	2
+4 Johnson went to the bedroom.
+5 Tim moved to the bathroom.
+6 Is Sandy in the garden? 	yes	2
+7 Tony got the milk there.
+8 Tim moved to the bedroom.
+9 Is Tim in the bathroom? 	no	8
+10 Sandy journeyed to the bedroom.
+11 Johnson moved to the kitchen.
+12 Is Sandy in the garden? 	no	10
+13 Johnson travelled to the bedroom.
+14 Tim picked up the football there.
+15 Is Sandy in the bedroom? 	yes	10
+1 Johnson moved to the bedroom.
+2 Tim picked up the apple there.
+3 Is Johnson in the bedroom? 	yes	1
+4 Sandy went back to the bedroom.
+5 Sandy moved to the hallway.
+6 Is Johnson in the office? 	no	1
+7 Tim dropped the apple there.
+8 Sandy travelled to the garden.
+9 Is Sandy in the garden? 	yes	8
+10 Johnson moved to the bathroom.
+11 Tony travelled to the hallway.
+12 Is Tony in the hallway? 	yes	11
+13 Sandy travelled to the bathroom.
+14 Tim picked up the apple there.
+15 Is Sandy in the kitchen? 	no	13
+1 Tony took the milk there.
+2 Tony dropped the milk.
+3 Tim travelled to the hallway.
+4 Johnson went back to the bedroom.
+5 Is Johnson in the bedroom? 	yes	4
+6 Johnson went back to the office.
+7 Tony journeyed to the garden.
+8 Is Tony in the bedroom? 	no	7
+9 Tim travelled to the office.
+10 Johnson moved to the bedroom.
+11 Is Johnson in the bedroom? 	yes	10
+12 Tony took the apple there.
+13 Tony went back to the office.
+14 Is Tony in the garden? 	no	13
+15 Tim moved to the bathroom.
+16 Tony got the milk there.
+17 Is Tony in the garden? 	no	13
+1 Tim journeyed to the bathroom.
+2 Sandy went to the hallway.
+3 Is Sandy in the hallway? 	yes	2
+4 Tim journeyed to the hallway.
+5 Tim journeyed to the office.
+6 Is Tim in the hallway? 	no	5
+7 Tony took the football there.
+8 Sandy moved to the kitchen.
+9 Is Sandy in the kitchen? 	yes	8
+10 Johnson went back to the hallway.
+11 Johnson went to the bedroom.
+12 Is Tim in the bathroom? 	no	5
+13 Johnson went back to the hallway.
+14 Tony left the football.
+15 Is Johnson in the hallway? 	yes	13
+1 Sandy journeyed to the garden.
+2 Johnson picked up the milk there.
+3 Is Sandy in the hallway? 	no	1
+4 Johnson put down the milk there.
+5 Tim went to the hallway.
+6 Is Sandy in the garden? 	yes	1
+7 Tony journeyed to the bedroom.
+8 Sandy picked up the football there.
+9 Is Tim in the bedroom? 	no	5
+10 Johnson got the milk there.
+11 Johnson travelled to the hallway.
+12 Is Tony in the kitchen? 	no	7
+13 Sandy travelled to the bathroom.
+14 Johnson travelled to the bedroom.
+15 Is Sandy in the bathroom? 	yes	13
+1 Johnson went to the kitchen.
+2 Sandy travelled to the hallway.
+3 Is Sandy in the hallway? 	yes	2
+4 Johnson went to the bedroom.
+5 Sandy travelled to the bedroom.
+6 Is Sandy in the hallway? 	no	5
+7 Tim moved to the office.
+8 Sandy travelled to the hallway.
+9 Is Tim in the bedroom? 	no	7
+10 Tim grabbed the football there.
+11 Tony journeyed to the bedroom.
+12 Is Sandy in the hallway? 	yes	8
+13 Johnson travelled to the bathroom.
+14 Johnson travelled to the hallway.
+15 Is Sandy in the garden? 	no	8
+1 Tony travelled to the bathroom.
+2 Johnson went to the kitchen.
+3 Is Johnson in the office? 	no	2
+4 Johnson got the apple there.
+5 Johnson moved to the bedroom.
+6 Is Johnson in the hallway? 	no	5
+7 Johnson journeyed to the office.
+8 Tony travelled to the office.
+9 Is Johnson in the bathroom? 	no	7
+10 Tim moved to the bathroom.
+11 Johnson discarded the apple.
+12 Is Tim in the kitchen? 	no	10
+13 Tim journeyed to the kitchen.
+14 Johnson moved to the kitchen.
+15 Is Johnson in the bathroom? 	no	14
+1 Johnson went back to the kitchen.
+2 Johnson moved to the garden.
+3 Is Johnson in the garden? 	yes	2
+4 Sandy went back to the office.
+5 Tim took the milk there.
+6 Is Sandy in the hallway? 	no	4
+7 Tim discarded the milk there.
+8 Tim went to the office.
+9 Is Sandy in the office? 	yes	4
+10 Tony went back to the garden.
+11 Tony took the football there.
+12 Is Tim in the office? 	yes	8
+13 Tony put down the football there.
+14 Tony travelled to the hallway.
+15 Is Tony in the hallway? 	yes	14
+1 Johnson went to the kitchen.
+2 Tony travelled to the bedroom.
+3 Is Johnson in the kitchen? 	yes	1
+4 Johnson travelled to the hallway.
+5 Tim journeyed to the garden.
+6 Is Johnson in the bedroom? 	no	4
+7 Tony went to the kitchen.
+8 Tony went back to the hallway.
+9 Is Tony in the kitchen? 	no	8
+10 Sandy went back to the garden.
+11 Johnson went back to the garden.
+12 Is Tony in the hallway? 	yes	8
+13 Tim went to the office.
+14 Johnson journeyed to the kitchen.
+15 Is Sandy in the office? 	no	10
+1 Sandy went to the office.
+2 Tim went back to the bedroom.
+3 Is Sandy in the hallway? 	no	1
+4 Tony travelled to the bathroom.
+5 Johnson went to the hallway.
+6 Is Tim in the bedroom? 	yes	2
+7 Tony moved to the garden.
+8 Sandy moved to the bathroom.
+9 Is Tim in the bathroom? 	no	2
+10 Tony moved to the office.
+11 Tim picked up the apple there.
+12 Is Tony in the kitchen? 	no	10
+13 Johnson took the milk there.
+14 Johnson moved to the garden.
+15 Is Johnson in the garden? 	yes	14
+1 Tim grabbed the milk there.
+2 Johnson moved to the garden.
+3 Is Johnson in the bedroom? 	no	2
+4 Sandy took the apple there.
+5 Sandy went to the hallway.
+6 Is Johnson in the bedroom? 	no	2
+7 Tony went back to the hallway.
+8 Johnson journeyed to the bedroom.
+9 Is Johnson in the garden? 	no	8
+10 Tim picked up the football there.
+11 Tim went to the garden.
+12 Is Tony in the bedroom? 	no	7
+13 Johnson travelled to the garden.
+14 Tim journeyed to the bedroom.
+15 Is Johnson in the hallway? 	no	13
+1 Johnson moved to the bedroom.
+2 Johnson went to the bathroom.
+3 Is Johnson in the bathroom? 	yes	2
+4 Tony travelled to the bathroom.
+5 Johnson picked up the apple there.
+6 Is Tony in the bathroom? 	yes	4
+7 Sandy took the football there.
+8 Johnson went back to the garden.
+9 Is Johnson in the garden? 	yes	8
+10 Johnson dropped the apple.
+11 Sandy discarded the football.
+12 Is Johnson in the garden? 	yes	8
+13 Johnson travelled to the bedroom.
+14 Johnson went to the hallway.
+15 Is Johnson in the bedroom? 	no	14
+1 Tony took the apple there.
+2 Tim went to the office.
+3 Is Tim in the kitchen? 	no	2
+4 Sandy picked up the football there.
+5 Sandy travelled to the bedroom.
+6 Is Sandy in the bedroom? 	yes	5
+7 Sandy went to the garden.
+8 Sandy discarded the football there.
+9 Is Sandy in the garden? 	yes	7
+10 Sandy went back to the office.
+11 Johnson grabbed the football there.
+12 Is Sandy in the bedroom? 	no	10
+13 Tony moved to the office.
+14 Tim travelled to the bathroom.
+15 Is Tim in the bathroom? 	yes	14
+1 Tony grabbed the apple there.
+2 Tim went back to the office.
+3 Is Tim in the office? 	yes	2
+4 Tony dropped the apple.
+5 Johnson journeyed to the office.
+6 Is Tim in the bedroom? 	no	2
+7 Tony went back to the bathroom.
+8 Tim journeyed to the garden.
+9 Is Johnson in the bedroom? 	no	5
+10 Tony journeyed to the office.
+11 Sandy travelled to the bathroom.
+12 Is Tony in the office? 	yes	10
+13 Sandy went back to the hallway.
+14 Sandy went back to the office.
+15 Is Tim in the garden? 	yes	8
+1 Tim went to the bedroom.
+2 Sandy grabbed the milk there.
+3 Is Tim in the bathroom? 	no	1
+4 Sandy journeyed to the bedroom.
+5 Sandy dropped the milk.
+6 Is Sandy in the hallway? 	no	4
+7 Tony went back to the office.
+8 Johnson went to the kitchen.
+9 Is Tony in the office? 	yes	7
+10 Tony journeyed to the kitchen.
+11 Tim went back to the bathroom.
+12 Is Johnson in the hallway? 	no	8
+13 Sandy picked up the milk there.
+14 Sandy left the milk.
+15 Is Tim in the bedroom? 	no	11
+1 Tony picked up the apple there.
+2 Tony travelled to the garden.
+3 Is Tony in the bedroom? 	no	2
+4 Tim travelled to the hallway.
+5 Tony dropped the apple.
+6 Is Tony in the kitchen? 	no	2
+7 Tim picked up the milk there.
+8 Tony grabbed the apple there.
+9 Is Tony in the garden? 	yes	2
+10 Tony dropped the apple.
+11 Tony took the apple there.
+12 Tony went to the bathroom.
+13 Tony journeyed to the kitchen.
+14 Is Tony in the hallway? 	no	13
+15 Tony journeyed to the hallway.
+16 Tim discarded the milk.
+17 Is Tony in the garden? 	no	15
+1 Tim travelled to the hallway.
+2 Tony got the apple there.
+3 Is Tim in the bathroom? 	no	1
+4 Tony journeyed to the bathroom.
+5 Tim moved to the kitchen.
+6 Is Tim in the kitchen? 	yes	5
+7 Tony travelled to the hallway.
+8 Tony dropped the apple.
+9 Is Tim in the bedroom? 	no	5
+10 Johnson moved to the garden.
+11 Tony travelled to the garden.
+12 Is Tim in the garden? 	no	5
+13 Tony went back to the bedroom.
+14 Tony took the football there.
+15 Is Johnson in the garden? 	yes	10
+1 Sandy moved to the garden.
+2 Sandy got the milk there.
+3 Is Sandy in the garden? 	yes	1
+4 Sandy went to the bedroom.
+5 Tim journeyed to the garden.
+6 Is Sandy in the bedroom? 	yes	4
+7 Johnson went back to the office.
+8 Tony went back to the office.
+9 Is Johnson in the bedroom? 	no	7
+10 Tony moved to the hallway.
+11 Tony went to the bathroom.
+12 Is Tony in the bathroom? 	yes	11
+13 Tony took the football there.
+14 Sandy put down the milk.
+15 Is Tony in the hallway? 	no	11
+1 Sandy picked up the apple there.
+2 Johnson took the football there.
+3 Sandy put down the apple.
+4 Johnson dropped the football.
+5 Tim got the milk there.
+6 Tony went to the kitchen.
+7 Is Tony in the bedroom? 	no	6
+8 Johnson moved to the hallway.
+9 Tim discarded the milk there.
+10 Is Johnson in the hallway? 	yes	8
+11 Tim picked up the milk there.
+12 Tony travelled to the hallway.
+13 Is Tony in the bathroom? 	no	12
+14 Sandy got the apple there.
+15 Sandy discarded the apple there.
+16 Is Tony in the hallway? 	yes	12
+17 Sandy went back to the kitchen.
+18 Sandy got the football there.
+19 Is Sandy in the kitchen? 	yes	17
+1 Tony went to the office.
+2 Tony travelled to the kitchen.
+3 Is Tony in the bathroom? 	no	2
+4 Johnson took the milk there.
+5 Tim went to the hallway.
+6 Is Tim in the garden? 	no	5
+7 Johnson went back to the garden.
+8 Sandy went to the garden.
+9 Is Sandy in the office? 	no	8
+10 Tony travelled to the hallway.
+11 Johnson journeyed to the bedroom.
+12 Is Johnson in the office? 	no	11
+13 Tim travelled to the office.
+14 Johnson went to the office.
+15 Is Johnson in the kitchen? 	no	14
+1 Johnson journeyed to the bathroom.
+2 Tony picked up the football there.
+3 Is Johnson in the kitchen? 	no	1
+4 Sandy went to the hallway.
+5 Tim moved to the kitchen.
+6 Is Tim in the hallway? 	no	5
+7 Tony went to the hallway.
+8 Tony put down the football.
+9 Is Sandy in the hallway? 	yes	4
+10 Sandy moved to the office.
+11 Tim travelled to the bedroom.
+12 Is Tim in the bedroom? 	yes	11
+13 Tony grabbed the football there.
+14 Tony left the football.
+15 Is Sandy in the office? 	yes	10
+1 Tim picked up the apple there.
+2 Tim moved to the kitchen.
+3 Is Tim in the kitchen? 	yes	2
+4 Sandy went to the office.
+5 Tim travelled to the garden.
+6 Is Tim in the garden? 	yes	5
+7 Tim travelled to the hallway.
+8 Tim discarded the apple.
+9 Is Tim in the hallway? 	yes	7
+10 Tim took the apple there.
+11 Tim left the apple.
+12 Is Tim in the hallway? 	yes	7
+13 Tim travelled to the kitchen.
+14 Tim travelled to the hallway.
+15 Is Tim in the bathroom? 	no	14
+1 Johnson went to the office.
+2 Johnson went back to the garden.
+3 Is Johnson in the garden? 	yes	2
+4 Tony travelled to the office.
+5 Tony grabbed the football there.
+6 Is Johnson in the garden? 	yes	2
+7 Sandy grabbed the milk there.
+8 Tim went back to the hallway.
+9 Is Tim in the hallway? 	yes	8
+10 Tony dropped the football.
+11 Tim journeyed to the garden.
+12 Is Tim in the bedroom? 	no	11
+13 Tony grabbed the football there.
+14 Sandy put down the milk there.
+15 Is Tim in the office? 	no	11
+1 Tony picked up the football there.
+2 Tony left the football.
+3 Tim got the apple there.
+4 Tony moved to the office.
+5 Is Tony in the office? 	yes	4
+6 Tim went to the kitchen.
+7 Sandy went back to the bathroom.
+8 Is Tim in the kitchen? 	yes	6
+9 Tim left the apple.
+10 Sandy got the milk there.
+11 Is Tony in the bedroom? 	no	4
+12 Johnson journeyed to the kitchen.
+13 Sandy moved to the hallway.
+14 Is Sandy in the garden? 	no	13
+15 Tim moved to the garden.
+16 Tony went to the kitchen.
+17 Is Johnson in the kitchen? 	yes	12
+1 Tim moved to the bedroom.
+2 Tony picked up the milk there.
+3 Is Tim in the garden? 	no	1
+4 Johnson went to the hallway.
+5 Tim travelled to the bathroom.
+6 Is Johnson in the bedroom? 	no	4
+7 Tony put down the milk.
+8 Sandy travelled to the bathroom.
+9 Is Sandy in the bathroom? 	yes	8
+10 Johnson travelled to the office.
+11 Sandy went to the bedroom.
+12 Is Tim in the garden? 	no	5
+13 Sandy moved to the garden.
+14 Tony moved to the office.
+15 Is Sandy in the garden? 	yes	13
+1 Johnson travelled to the hallway.
+2 Johnson travelled to the garden.
+3 Is Johnson in the garden? 	yes	2
+4 Johnson moved to the kitchen.
+5 Tony grabbed the apple there.
+6 Is Johnson in the bedroom? 	no	4
+7 Johnson moved to the bathroom.
+8 Tony put down the apple there.
+9 Is Johnson in the bathroom? 	yes	7
+10 Johnson went to the office.
+11 Tony went to the bedroom.
+12 Is Johnson in the hallway? 	no	10
+13 Johnson travelled to the hallway.
+14 Johnson took the football there.
+15 Is Johnson in the hallway? 	yes	13
+1 Tim went to the office.
+2 Tony journeyed to the hallway.
+3 Is Tony in the bedroom? 	no	2
+4 Tim went to the bedroom.
+5 Sandy went to the garden.
+6 Is Tim in the office? 	no	4
+7 Sandy took the football there.
+8 Tim journeyed to the bathroom.
+9 Is Tim in the office? 	no	8
+10 Tim went to the bedroom.
+11 Johnson moved to the hallway.
+12 Is Sandy in the garden? 	yes	5
+13 Sandy put down the football there.
+14 Sandy picked up the football there.
+15 Is Johnson in the office? 	no	11
+1 Tim journeyed to the kitchen.
+2 Tony moved to the hallway.
+3 Is Tony in the bedroom? 	no	2
+4 Tim moved to the bathroom.
+5 Sandy picked up the milk there.
+6 Is Tony in the bathroom? 	no	2
+7 Sandy put down the milk.
+8 Tony went back to the office.
+9 Is Tony in the office? 	yes	8
+10 Tim went to the office.
+11 Sandy moved to the garden.
+12 Is Sandy in the garden? 	yes	11
+13 Johnson travelled to the kitchen.
+14 Sandy got the football there.
+15 Is Tony in the garden? 	no	8
+1 Tim moved to the office.
+2 Sandy took the apple there.
+3 Is Tim in the office? 	yes	1
+4 Johnson went to the hallway.
+5 Sandy left the apple.
+6 Is Tim in the office? 	yes	1
+7 Tony went to the garden.
+8 Tim got the apple there.
+9 Is Tony in the garden? 	yes	7
+10 Sandy went back to the bedroom.
+11 Tim went back to the garden.
+12 Is Sandy in the bedroom? 	yes	10
+13 Tim left the apple.
+14 Sandy travelled to the kitchen.
+15 Is Sandy in the kitchen? 	yes	14
+1 Johnson went back to the office.
+2 Johnson went back to the bathroom.
+3 Is Johnson in the bathroom? 	yes	2
+4 Johnson moved to the hallway.
+5 Tony moved to the garden.
+6 Is Tony in the office? 	no	5
+7 Tim moved to the hallway.
+8 Johnson picked up the football there.
+9 Is Tony in the garden? 	yes	5
+10 Tony travelled to the bedroom.
+11 Johnson moved to the kitchen.
+12 Is Tony in the office? 	no	10
+13 Tony journeyed to the kitchen.
+14 Tony moved to the bathroom.
+15 Is Tony in the bathroom? 	yes	14
+1 Tim moved to the hallway.
+2 Tim picked up the football there.
+3 Is Tim in the bathroom? 	no	1
+4 Tony journeyed to the bedroom.
+5 Tony moved to the bathroom.
+6 Is Tony in the garden? 	no	5
+7 Tim left the football.
+8 Johnson travelled to the bedroom.
+9 Is Tony in the hallway? 	no	5
+10 Johnson picked up the milk there.
+11 Sandy travelled to the hallway.
+12 Is Johnson in the bathroom? 	no	8
+13 Tony went back to the hallway.
+14 Tony got the football there.
+15 Is Johnson in the kitchen? 	no	8
+1 Sandy went back to the hallway.
+2 Sandy grabbed the apple there.
+3 Is Sandy in the hallway? 	yes	1
+4 Sandy went to the bathroom.
+5 Tim went back to the bedroom.
+6 Is Sandy in the office? 	no	4
+7 Sandy moved to the office.
+8 Sandy dropped the apple there.
+9 Is Tim in the bedroom? 	yes	5
+10 Sandy travelled to the garden.
+11 Sandy took the milk there.
+12 Is Sandy in the office? 	no	10
+13 Sandy dropped the milk.
+14 Tony went to the office.
+15 Is Sandy in the kitchen? 	no	10
+1 Johnson journeyed to the kitchen.
+2 Sandy went back to the hallway.
+3 Is Johnson in the bedroom? 	no	1
+4 Tim journeyed to the kitchen.
+5 Sandy moved to the bedroom.
+6 Is Sandy in the bedroom? 	yes	5
+7 Johnson went to the office.
+8 Sandy went back to the bathroom.
+9 Is Sandy in the garden? 	no	8
+10 Sandy travelled to the office.
+11 Sandy travelled to the bedroom.
+12 Is Johnson in the bedroom? 	no	7
+13 Tim went to the office.
+14 Tony moved to the office.
+15 Is Tim in the office? 	yes	13
+1 Johnson went back to the garden.
+2 Sandy travelled to the office.
+3 Is Johnson in the kitchen? 	no	1
+4 Johnson went to the bathroom.
+5 Tony went back to the bathroom.
+6 Is Sandy in the garden? 	no	2
+7 Tim moved to the hallway.
+8 Sandy went back to the garden.
+9 Is Tony in the bathroom? 	yes	5
+10 Tim journeyed to the garden.
+11 Sandy journeyed to the bedroom.
+12 Is Sandy in the hallway? 	no	11
+13 Sandy travelled to the kitchen.
+14 Tony travelled to the hallway.
+15 Is Sandy in the kitchen? 	yes	13
+1 Sandy journeyed to the office.
+2 Sandy grabbed the football there.
+3 Is Sandy in the office? 	yes	1
+4 Sandy picked up the apple there.
+5 Johnson got the milk there.
+6 Is Sandy in the office? 	yes	1
+7 Johnson dropped the milk.
+8 Sandy discarded the apple.
+9 Tim went to the garden.
+10 Sandy went to the bathroom.
+11 Is Sandy in the bathroom? 	yes	10
+12 Tony went back to the bathroom.
+13 Johnson picked up the milk there.
+14 Is Sandy in the hallway? 	no	10
+15 Tony went to the hallway.
+16 Johnson went back to the bedroom.
+17 Is Johnson in the bedroom? 	yes	16
+1 Tony travelled to the bathroom.
+2 Tony went back to the garden.
+3 Is Tony in the bathroom? 	no	2
+4 Tony went back to the office.
+5 Tony went to the garden.
+6 Is Tony in the bedroom? 	no	5
+7 Johnson journeyed to the bathroom.
+8 Tony took the milk there.
+9 Is Johnson in the bathroom? 	yes	7
+10 Tim journeyed to the kitchen.
+11 Tim moved to the bathroom.
+12 Is Tim in the bathroom? 	yes	11
+13 Tim went back to the garden.
+14 Tony dropped the milk.
+15 Is Tim in the garden? 	yes	13
+1 Sandy moved to the office.
+2 Tony journeyed to the garden.
+3 Is Sandy in the office? 	yes	1
+4 Sandy journeyed to the bathroom.
+5 Sandy travelled to the kitchen.
+6 Is Tony in the garden? 	yes	2
+7 Tony went to the office.
+8 Tony grabbed the football there.
+9 Is Tony in the bathroom? 	no	7
+10 Tim journeyed to the office.
+11 Tony went back to the bathroom.
+12 Is Tony in the office? 	no	11
+13 Tony put down the football there.
+14 Tim went to the bedroom.
+15 Is Tim in the hallway? 	no	14
+1 Sandy journeyed to the bedroom.
+2 Johnson went to the bedroom.
+3 Is Johnson in the bedroom? 	yes	2
+4 Sandy took the football there.
+5 Tony moved to the garden.
+6 Is Sandy in the hallway? 	no	1
+7 Sandy went to the hallway.
+8 Sandy went back to the garden.
+9 Is Johnson in the garden? 	no	2
+10 Sandy discarded the football.
+11 Tony picked up the apple there.
+12 Is Tony in the bedroom? 	no	5
+13 Johnson travelled to the garden.
+14 Johnson journeyed to the kitchen.
+15 Is Johnson in the garden? 	no	14
+1 Sandy grabbed the milk there.
+2 Tony journeyed to the kitchen.
+3 Is Tony in the kitchen? 	yes	2
+4 Tony picked up the football there.
+5 Tim went to the office.
+6 Is Tim in the office? 	yes	5
+7 Johnson went to the bedroom.
+8 Tony went to the garden.
+9 Is Tony in the garden? 	yes	8
+10 Sandy went back to the office.
+11 Tim journeyed to the bedroom.
+12 Is Johnson in the office? 	no	7
+13 Johnson travelled to the hallway.
+14 Sandy left the milk.
+15 Is Tony in the garden? 	yes	8
+1 Johnson travelled to the bathroom.
+2 Johnson moved to the kitchen.
+3 Is Johnson in the kitchen? 	yes	2
+4 Johnson grabbed the apple there.
+5 Johnson went back to the hallway.
+6 Is Johnson in the office? 	no	5
+7 Tim went back to the hallway.
+8 Johnson travelled to the bathroom.
+9 Is Johnson in the bathroom? 	yes	8
+10 Tony moved to the office.
+11 Tim went to the office.
+12 Is Tim in the office? 	yes	11
+13 Sandy moved to the kitchen.
+14 Sandy went back to the bedroom.
+15 Is Tony in the office? 	yes	10
+1 Sandy moved to the bedroom.
+2 Tony journeyed to the kitchen.
+3 Is Tony in the bathroom? 	no	2
+4 Tony took the football there.
+5 Sandy journeyed to the kitchen.
+6 Is Sandy in the kitchen? 	yes	5
+7 Tony left the football there.
+8 Tony went back to the garden.
+9 Is Tony in the garden? 	yes	8
+10 Tim went to the garden.
+11 Tony picked up the apple there.
+12 Is Tim in the garden? 	yes	10
+13 Sandy travelled to the bedroom.
+14 Tim travelled to the bedroom.
+15 Is Tim in the office? 	no	14
+1 Sandy travelled to the office.
+2 Tim got the football there.
+3 Is Sandy in the hallway? 	no	1
+4 Tim moved to the kitchen.
+5 Johnson went to the kitchen.
+6 Is Tim in the kitchen? 	yes	4
+7 Tim dropped the football.
+8 Tim went back to the office.
+9 Is Tim in the office? 	yes	8
+10 Johnson moved to the bedroom.
+11 Tony took the apple there.
+12 Is Tim in the office? 	yes	8
+13 Sandy travelled to the kitchen.
+14 Sandy got the football there.
+15 Is Sandy in the kitchen? 	yes	13
+1 Sandy took the apple there.
+2 Sandy moved to the bedroom.
+3 Is Sandy in the bedroom? 	yes	2
+4 Tony moved to the garden.
+5 Sandy moved to the kitchen.
+6 Is Sandy in the office? 	no	5
+7 Sandy grabbed the football there.
+8 Johnson went back to the hallway.
+9 Is Sandy in the kitchen? 	yes	5
+10 Tony went back to the bedroom.
+11 Sandy left the apple.
+12 Is Johnson in the hallway? 	yes	8
+13 Tony picked up the milk there.
+14 Tony journeyed to the bathroom.
+15 Is Tony in the bathroom? 	yes	14
+1 Tony picked up the milk there.
+2 Sandy went to the garden.
+3 Is Sandy in the kitchen? 	no	2
+4 Tim moved to the office.
+5 Tony moved to the garden.
+6 Is Tony in the bathroom? 	no	5
+7 Tim went back to the garden.
+8 Tony dropped the milk.
+9 Is Tim in the bedroom? 	no	7
+10 Tony grabbed the milk there.
+11 Tim journeyed to the bathroom.
+12 Is Tim in the bathroom? 	yes	11
+13 Tim went to the hallway.
+14 Tim picked up the football there.
+15 Is Tim in the bedroom? 	no	13
+1 Sandy journeyed to the bathroom.
+2 Sandy got the milk there.
+3 Is Sandy in the bathroom? 	yes	1
+4 Tony travelled to the kitchen.
+5 Sandy travelled to the office.
+6 Is Tony in the bedroom? 	no	4
+7 Tony journeyed to the office.
+8 Sandy moved to the bathroom.
+9 Is Sandy in the bathroom? 	yes	8
+10 Tony grabbed the apple there.
+11 Sandy put down the milk there.
+12 Is Sandy in the bathroom? 	yes	8
+13 Tim went to the office.
+14 Tony discarded the apple.
+15 Is Sandy in the office? 	no	8
+1 Johnson picked up the apple there.
+2 Tim grabbed the football there.
+3 Tony journeyed to the bathroom.
+4 Tim put down the football.
+5 Is Tony in the kitchen? 	no	3
+6 Johnson left the apple.
+7 Tim got the apple there.
+8 Is Tony in the office? 	no	3
+9 Tim grabbed the football there.
+10 Johnson moved to the kitchen.
+11 Is Johnson in the garden? 	no	10
+12 Tim went back to the hallway.
+13 Sandy travelled to the garden.
+14 Is Sandy in the garden? 	yes	13
+15 Sandy grabbed the milk there.
+16 Tony went to the bedroom.
+17 Is Tim in the garden? 	no	12
+1 Tony went to the bathroom.
+2 Sandy travelled to the garden.
+3 Is Sandy in the bedroom? 	no	2
+4 Sandy moved to the office.
+5 Tim travelled to the office.
+6 Is Sandy in the office? 	yes	4
+7 Johnson grabbed the football there.
+8 Johnson put down the football.
+9 Is Tim in the hallway? 	no	5
+10 Sandy went to the bedroom.
+11 Sandy journeyed to the bathroom.
+12 Is Sandy in the bathroom? 	yes	11
+13 Johnson grabbed the football there.
+14 Tim travelled to the bathroom.
+15 Is Sandy in the office? 	no	11
+1 Tim journeyed to the kitchen.
+2 Johnson moved to the garden.
+3 Is Tim in the kitchen? 	yes	1
+4 Sandy travelled to the hallway.
+5 Sandy grabbed the milk there.
+6 Is Tim in the kitchen? 	yes	1
+7 Sandy dropped the milk.
+8 Tim went to the bedroom.
+9 Is Tim in the bedroom? 	yes	8
+10 Tim moved to the kitchen.
+11 Sandy travelled to the bathroom.
+12 Is Tim in the kitchen? 	yes	10
+13 Tim went back to the hallway.
+14 Sandy journeyed to the office.
+15 Is Tim in the hallway? 	yes	13
+1 Tim travelled to the bedroom.
+2 Tim grabbed the apple there.
+3 Is Tim in the bathroom? 	no	1
+4 Tim moved to the kitchen.
+5 Tony went back to the kitchen.
+6 Is Tim in the kitchen? 	yes	4
+7 Tony went to the bathroom.
+8 Sandy went back to the office.
+9 Is Tony in the office? 	no	7
+10 Sandy moved to the hallway.
+11 Tony went back to the office.
+12 Is Tony in the office? 	yes	11
+13 Sandy picked up the milk there.
+14 Tim went back to the hallway.
+15 Is Tim in the hallway? 	yes	14
+1 Tony went to the office.
+2 Johnson moved to the garden.
+3 Is Tony in the hallway? 	no	1
+4 Johnson went back to the kitchen.
+5 Tony moved to the garden.
+6 Is Johnson in the kitchen? 	yes	4
+7 Tim went to the kitchen.
+8 Tony went to the bedroom.
+9 Is Johnson in the kitchen? 	yes	4
+10 Johnson went back to the hallway.
+11 Sandy travelled to the garden.
+12 Is Johnson in the hallway? 	yes	10
+13 Sandy travelled to the bedroom.
+14 Tony moved to the kitchen.
+15 Is Sandy in the bedroom? 	yes	13
+1 Tony grabbed the milk there.
+2 Sandy journeyed to the garden.
+3 Is Sandy in the bedroom? 	no	2
+4 Tony picked up the apple there.
+5 Tony discarded the milk.
+6 Is Sandy in the kitchen? 	no	2
+7 Sandy journeyed to the office.
+8 Tony dropped the apple.
+9 Is Sandy in the office? 	yes	7
+10 Sandy went to the bedroom.
+11 Tony picked up the apple there.
+12 Is Sandy in the bedroom? 	yes	10
+13 Sandy moved to the office.
+14 Tony picked up the football there.
+15 Is Sandy in the office? 	yes	13
+1 Tony moved to the kitchen.
+2 Tony went back to the bedroom.
+3 Is Tony in the bedroom? 	yes	2
+4 Tim went back to the garden.
+5 Tim picked up the football there.
+6 Is Tony in the garden? 	no	2
+7 Tim grabbed the apple there.
+8 Sandy travelled to the kitchen.
+9 Is Sandy in the kitchen? 	yes	8
+10 Sandy took the milk there.
+11 Tim moved to the hallway.
+12 Is Tim in the hallway? 	yes	11
+13 Sandy went to the bathroom.
+14 Sandy left the milk.
+15 Is Tim in the kitchen? 	no	11
+1 Tim moved to the bedroom.
+2 Johnson got the apple there.
+3 Is Tim in the bathroom? 	no	1
+4 Johnson discarded the apple there.
+5 Johnson moved to the bathroom.
+6 Is Tim in the bedroom? 	yes	1
+7 Tim went back to the kitchen.
+8 Johnson got the milk there.
+9 Is Johnson in the bedroom? 	no	5
+10 Tim went back to the bedroom.
+11 Johnson discarded the milk.
+12 Is Tim in the kitchen? 	no	10
+13 Johnson went to the hallway.
+14 Johnson moved to the bathroom.
+15 Is Tim in the hallway? 	no	10
+1 Sandy travelled to the hallway.
+2 Sandy moved to the bathroom.
+3 Is Sandy in the office? 	no	2
+4 Johnson grabbed the football there.
+5 Tim got the apple there.
+6 Is Sandy in the office? 	no	2
+7 Johnson went back to the office.
+8 Tony went to the office.
+9 Is Johnson in the bedroom? 	no	7
+10 Johnson moved to the bedroom.
+11 Johnson discarded the football.
+12 Is Johnson in the office? 	no	10
+13 Tim discarded the apple.
+14 Johnson went back to the garden.
+15 Is Johnson in the garden? 	yes	14
+1 Tim picked up the milk there.
+2 Tim travelled to the kitchen.
+3 Is Tim in the kitchen? 	yes	2
+4 Tim went to the office.
+5 Tony journeyed to the kitchen.
+6 Is Tim in the hallway? 	no	4
+7 Sandy moved to the office.
+8 Tim put down the milk there.
+9 Is Tim in the office? 	yes	4
+10 Sandy moved to the bathroom.
+11 Sandy grabbed the apple there.
+12 Is Sandy in the hallway? 	no	10
+13 Sandy went to the garden.
+14 Tim grabbed the milk there.
+15 Is Sandy in the bathroom? 	no	13
+1 Tim got the apple there.
+2 Tony journeyed to the kitchen.
+3 Is Tony in the bathroom? 	no	2
+4 Tim journeyed to the garden.
+5 Tim journeyed to the bedroom.
+6 Is Tim in the bedroom? 	yes	5
+7 Tony picked up the football there.
+8 Tim went to the hallway.
+9 Is Tony in the garden? 	no	2
+10 Tim went to the bedroom.
+11 Tim journeyed to the bathroom.
+12 Is Tim in the office? 	no	11
+13 Tony travelled to the garden.
+14 Johnson went back to the kitchen.
+15 Is Johnson in the garden? 	no	14
+1 Sandy went to the office.
+2 Tim took the apple there.
+3 Is Sandy in the office? 	yes	1
+4 Tim discarded the apple.
+5 Tim journeyed to the bathroom.
+6 Is Sandy in the bathroom? 	no	1
+7 Sandy travelled to the bedroom.
+8 Sandy grabbed the apple there.
+9 Is Tim in the bathroom? 	yes	5
+10 Johnson moved to the hallway.
+11 Johnson journeyed to the bathroom.
+12 Is Johnson in the hallway? 	no	11
+13 Sandy went to the bathroom.
+14 Johnson travelled to the hallway.
+15 Is Johnson in the kitchen? 	no	14
+1 Johnson journeyed to the bathroom.
+2 Tim went to the office.
+3 Is Johnson in the kitchen? 	no	1
+4 Tim moved to the kitchen.
+5 Sandy moved to the hallway.
+6 Is Tim in the bedroom? 	no	4
+7 Johnson got the apple there.
+8 Johnson got the football there.
+9 Is Tim in the hallway? 	no	4
+10 Tim picked up the milk there.
+11 Sandy journeyed to the garden.
+12 Is Sandy in the garden? 	yes	11
+13 Sandy travelled to the bedroom.
+14 Johnson travelled to the garden.
+15 Is Sandy in the bedroom? 	yes	13
+1 Johnson took the milk there.
+2 Johnson discarded the milk.
+3 Sandy went to the bedroom.
+4 Johnson picked up the football there.
+5 Is Sandy in the bedroom? 	yes	3
+6 Sandy journeyed to the garden.
+7 Johnson went back to the bathroom.
+8 Is Sandy in the office? 	no	6
+9 Tim went to the hallway.
+10 Johnson dropped the football there.
+11 Is Sandy in the office? 	no	6
+12 Johnson moved to the kitchen.
+13 Tim journeyed to the office.
+14 Is Johnson in the bathroom? 	no	12
+15 Tim went to the bedroom.
+16 Johnson journeyed to the bedroom.
+17 Is Johnson in the bedroom? 	yes	16
+1 Sandy moved to the hallway.
+2 Johnson grabbed the football there.
+3 Is Sandy in the hallway? 	yes	1
+4 Tim picked up the milk there.
+5 Tim dropped the milk.
+6 Is Sandy in the kitchen? 	no	1
+7 Tim journeyed to the hallway.
+8 Sandy went back to the kitchen.
+9 Is Tim in the hallway? 	yes	7
+10 Sandy took the milk there.
+11 Johnson journeyed to the bathroom.
+12 Is Sandy in the bathroom? 	no	8
+13 Tony went to the hallway.
+14 Tony travelled to the bedroom.
+15 Is Tony in the office? 	no	14
+1 Tim travelled to the kitchen.
+2 Sandy picked up the apple there.
+3 Is Tim in the kitchen? 	yes	1
+4 Tony went back to the office.
+5 Tim got the football there.
+6 Is Tim in the kitchen? 	yes	1
+7 Tony journeyed to the hallway.
+8 Sandy journeyed to the garden.
+9 Is Tony in the hallway? 	yes	7
+10 Johnson moved to the hallway.
+11 Tony journeyed to the garden.
+12 Is Johnson in the hallway? 	yes	10
+13 Tim travelled to the garden.
+14 Tim dropped the football.
+15 Is Tim in the kitchen? 	no	13
+1 Sandy journeyed to the office.
+2 Tim moved to the kitchen.
+3 Is Sandy in the office? 	yes	1
+4 Johnson grabbed the football there.
+5 Johnson put down the football.
+6 Is Tim in the bedroom? 	no	2
+7 Tony journeyed to the bedroom.
+8 Tim journeyed to the office.
+9 Is Tim in the office? 	yes	8
+10 Tony went to the kitchen.
+11 Sandy went back to the bedroom.
+12 Is Tim in the kitchen? 	no	8
+13 Tony moved to the bathroom.
+14 Johnson took the football there.
+15 Is Sandy in the bedroom? 	yes	11
+1 Sandy picked up the apple there.
+2 Sandy picked up the milk there.
+3 Johnson went back to the garden.
+4 Sandy journeyed to the bathroom.
+5 Is Sandy in the bathroom? 	yes	4
+6 Sandy moved to the office.
+7 Sandy left the milk.
+8 Is Sandy in the office? 	yes	6
+9 Tim went to the garden.
+10 Tony grabbed the milk there.
+11 Is Sandy in the hallway? 	no	6
+12 Tony dropped the milk.
+13 Tim travelled to the hallway.
+14 Is Tim in the hallway? 	yes	13
+15 Sandy journeyed to the garden.
+16 Sandy journeyed to the bathroom.
+17 Is Tim in the hallway? 	yes	13
+1 Johnson travelled to the kitchen.
+2 Tim grabbed the milk there.
+3 Is Johnson in the kitchen? 	yes	1
+4 Sandy went back to the hallway.
+5 Tony went back to the bathroom.
+6 Is Sandy in the hallway? 	yes	4
+7 Tim discarded the milk.
+8 Tony went to the kitchen.
+9 Is Tony in the bathroom? 	no	8
+10 Sandy went back to the kitchen.
+11 Sandy journeyed to the bathroom.
+12 Is Tony in the garden? 	no	8
+13 Johnson went back to the garden.
+14 Sandy journeyed to the hallway.
+15 Is Sandy in the office? 	no	14
+1 Sandy got the football there.
+2 Tony journeyed to the kitchen.
+3 Is Tony in the garden? 	no	2
+4 Tim went to the hallway.
+5 Tim took the apple there.
+6 Is Tony in the kitchen? 	yes	2
+7 Johnson moved to the hallway.
+8 Johnson moved to the garden.
+9 Is Tony in the kitchen? 	yes	2
+10 Johnson grabbed the milk there.
+11 Johnson moved to the bathroom.
+12 Is Johnson in the bathroom? 	yes	11
+13 Tim left the apple.
+14 Johnson went to the bedroom.
+15 Is Johnson in the office? 	no	14
+1 Sandy travelled to the garden.
+2 Tony travelled to the garden.
+3 Is Sandy in the bedroom? 	no	1
+4 Tim travelled to the office.
+5 Johnson travelled to the office.
+6 Is Tim in the office? 	yes	4
+7 Tim grabbed the apple there.
+8 Johnson went back to the hallway.
+9 Is Tim in the bedroom? 	no	4
+10 Tim discarded the apple.
+11 Tim grabbed the apple there.
+12 Is Johnson in the hallway? 	yes	8
+13 Sandy moved to the hallway.
+14 Sandy travelled to the bedroom.
+15 Is Sandy in the bedroom? 	yes	14
+1 Tony got the milk there.
+2 Tony went back to the bathroom.
+3 Is Tony in the bathroom? 	yes	2
+4 Johnson travelled to the kitchen.
+5 Sandy travelled to the office.
+6 Is Sandy in the office? 	yes	5
+7 Sandy journeyed to the garden.
+8 Sandy went to the bedroom.
+9 Is Johnson in the bedroom? 	no	4
+10 Johnson journeyed to the garden.
+11 Tony left the milk.
+12 Is Sandy in the bathroom? 	no	8
+13 Tony picked up the milk there.
+14 Sandy journeyed to the hallway.
+15 Is Johnson in the garden? 	yes	10
+1 Tim went to the bathroom.
+2 Sandy travelled to the office.
+3 Is Sandy in the bedroom? 	no	2
+4 Sandy picked up the football there.
+5 Sandy left the football.
+6 Is Tim in the bedroom? 	no	1
+7 Tim went to the kitchen.
+8 Sandy got the football there.
+9 Is Tim in the office? 	no	7
+10 Tim journeyed to the bedroom.
+11 Sandy moved to the bathroom.
+12 Is Sandy in the kitchen? 	no	11
+13 Sandy discarded the football there.
+14 Sandy grabbed the football there.
+15 Is Tim in the hallway? 	no	10
+1 Johnson moved to the kitchen.
+2 Tim moved to the garden.
+3 Is Johnson in the kitchen? 	yes	1
+4 Tony moved to the bathroom.
+5 Tony went back to the office.
+6 Is Johnson in the bedroom? 	no	1
+7 Tony went to the bedroom.
+8 Sandy went to the garden.
+9 Is Tony in the bedroom? 	yes	7
+10 Tony went to the office.
+11 Tony got the apple there.
+12 Is Tony in the garden? 	no	10
+13 Johnson went back to the office.
+14 Tim went back to the bathroom.
+15 Is Tony in the kitchen? 	no	10
+1 Johnson went to the hallway.
+2 Sandy went back to the bathroom.
+3 Is Johnson in the hallway? 	yes	1
+4 Sandy took the apple there.
+5 Tony travelled to the bathroom.
+6 Is Johnson in the hallway? 	yes	1
+7 Tim journeyed to the garden.
+8 Tony got the milk there.
+9 Is Sandy in the hallway? 	no	2
+10 Sandy discarded the apple there.
+11 Sandy grabbed the apple there.
+12 Is Tony in the bathroom? 	yes	5
+13 Sandy journeyed to the bedroom.
+14 Sandy went to the bathroom.
+15 Is Sandy in the hallway? 	no	14
+1 Tim moved to the garden.
+2 Johnson journeyed to the bathroom.
+3 Is Tim in the garden? 	yes	1
+4 Johnson journeyed to the office.
+5 Johnson grabbed the milk there.
+6 Is Tim in the garden? 	yes	1
+7 Tony moved to the kitchen.
+8 Johnson took the football there.
+9 Is Tony in the kitchen? 	yes	7
+10 Sandy journeyed to the bedroom.
+11 Johnson travelled to the bedroom.
+12 Is Johnson in the office? 	no	11
+13 Tony went back to the garden.
+14 Johnson journeyed to the hallway.
+15 Is Tony in the bedroom? 	no	13
+1 Johnson travelled to the garden.
+2 Tony moved to the kitchen.
+3 Is Tony in the kitchen? 	yes	2
+4 Tony went to the office.
+5 Tim got the apple there.
+6 Is Tony in the office? 	yes	4
+7 Sandy journeyed to the bedroom.
+8 Tim put down the apple there.
+9 Is Sandy in the bedroom? 	yes	7
+10 Tim went back to the garden.
+11 Tony journeyed to the bedroom.
+12 Is Tim in the bedroom? 	no	10
+13 Johnson moved to the kitchen.
+14 Tim journeyed to the office.
+15 Is Johnson in the kitchen? 	yes	13
+1 Sandy picked up the apple there.
+2 Tim journeyed to the garden.
+3 Is Tim in the bedroom? 	no	2
+4 Sandy took the milk there.
+5 Tony travelled to the garden.
+6 Is Tony in the garden? 	yes	5
+7 Tim moved to the bedroom.
+8 Tim moved to the kitchen.
+9 Is Tim in the kitchen? 	yes	8
+10 Sandy put down the milk there.
+11 Sandy took the milk there.
+12 Is Tim in the bedroom? 	no	8
+13 Tony went to the bedroom.
+14 Tony went to the office.
+15 Is Tony in the bedroom? 	no	14
+1 Tim went back to the bedroom.
+2 Tim went back to the bathroom.
+3 Is Tim in the kitchen? 	no	2
+4 Tim journeyed to the garden.
+5 Tim picked up the apple there.
+6 Is Tim in the garden? 	yes	4
+7 Johnson journeyed to the hallway.
+8 Tony travelled to the garden.
+9 Is Tim in the garden? 	yes	4
+10 Tim got the milk there.
+11 Johnson took the football there.
+12 Is Johnson in the hallway? 	yes	7
+13 Johnson travelled to the bedroom.
+14 Tim left the apple.
+15 Is Tony in the garden? 	yes	8
+1 Sandy went back to the bathroom.
+2 Johnson moved to the garden.
+3 Is Johnson in the garden? 	yes	2
+4 Tim travelled to the office.
+5 Sandy moved to the hallway.
+6 Is Johnson in the garden? 	yes	2
+7 Johnson went to the kitchen.
+8 Johnson took the milk there.
+9 Is Tim in the office? 	yes	4
+10 Johnson travelled to the bedroom.
+11 Tim got the football there.
+12 Is Sandy in the hallway? 	yes	5
+13 Johnson dropped the milk.
+14 Sandy journeyed to the garden.
+15 Is Johnson in the kitchen? 	no	10
+1 Sandy got the apple there.
+2 Johnson moved to the bathroom.
+3 Is Johnson in the bedroom? 	no	2
+4 Tony went back to the hallway.
+5 Sandy moved to the kitchen.
+6 Is Johnson in the office? 	no	2
+7 Sandy travelled to the bathroom.
+8 Johnson went to the hallway.
+9 Is Sandy in the office? 	no	7
+10 Sandy went to the garden.
+11 Tim journeyed to the hallway.
+12 Is Sandy in the kitchen? 	no	10
+13 Johnson went back to the bedroom.
+14 Johnson went back to the kitchen.
+15 Is Tim in the hallway? 	yes	11
+1 Tony took the football there.
+2 Tony discarded the football.
+3 Tony picked up the football there.
+4 Tony moved to the bedroom.
+5 Is Tony in the bedroom? 	yes	4
+6 Tim got the apple there.
+7 Sandy moved to the bathroom.
+8 Is Sandy in the hallway? 	no	7
+9 Tony discarded the football.
+10 Johnson travelled to the kitchen.
+11 Is Sandy in the kitchen? 	no	7
+12 Sandy went to the kitchen.
+13 Tony grabbed the football there.
+14 Is Sandy in the bathroom? 	no	12
+15 Sandy went to the garden.
+16 Tim put down the apple.
+17 Is Sandy in the office? 	no	15
+1 Tony grabbed the milk there.
+2 Johnson went back to the bathroom.
+3 Is Johnson in the garden? 	no	2
+4 Tim travelled to the kitchen.
+5 Johnson moved to the hallway.
+6 Is Johnson in the hallway? 	yes	5
+7 Tim travelled to the hallway.
+8 Tony went to the bathroom.
+9 Is Johnson in the hallway? 	yes	5
+10 Tony picked up the apple there.
+11 Tony went to the bedroom.
+12 Is Johnson in the office? 	no	5
+13 Johnson went back to the garden.
+14 Tony dropped the apple.
+15 Is Tony in the bathroom? 	no	11
+1 Johnson grabbed the apple there.
+2 Tim went back to the kitchen.
+3 Is Tim in the kitchen? 	yes	2
+4 Tim took the milk there.
+5 Johnson dropped the apple.
+6 Is Tim in the kitchen? 	yes	2
+7 Tim left the milk.
+8 Johnson went back to the office.
+9 Is Johnson in the kitchen? 	no	8
+10 Sandy moved to the kitchen.
+11 Tim moved to the office.
+12 Is Sandy in the garden? 	no	10
+13 Tim travelled to the kitchen.
+14 Sandy picked up the milk there.
+15 Is Sandy in the kitchen? 	yes	10
+1 Johnson got the apple there.
+2 Tim got the milk there.
+3 Johnson left the apple.
+4 Tony journeyed to the kitchen.
+5 Is Tony in the office? 	no	4
+6 Tony moved to the bathroom.
+7 Tim left the milk.
+8 Is Tony in the office? 	no	6
+9 Sandy moved to the bathroom.
+10 Tim moved to the office.
+11 Is Sandy in the bedroom? 	no	9
+12 Johnson journeyed to the kitchen.
+13 Sandy travelled to the hallway.
+14 Is Sandy in the hallway? 	yes	13
+15 Johnson travelled to the bathroom.
+16 Johnson moved to the garden.
+17 Is Tim in the office? 	yes	10
+1 Tony journeyed to the office.
+2 Sandy went back to the office.
+3 Is Tony in the garden? 	no	1
+4 Johnson moved to the bathroom.
+5 Johnson moved to the office.
+6 Is Sandy in the office? 	yes	2
+7 Sandy grabbed the football there.
+8 Tim went back to the garden.
+9 Is Tim in the bathroom? 	no	8
+10 Sandy put down the football there.
+11 Sandy went back to the bedroom.
+12 Is Johnson in the bedroom? 	no	5
+13 Tim went back to the kitchen.
+14 Tim got the apple there.
+15 Is Tim in the hallway? 	no	13
+1 Tony moved to the bathroom.
+2 Johnson moved to the office.
+3 Is Tony in the bathroom? 	yes	1
+4 Tony moved to the hallway.
+5 Sandy got the football there.
+6 Is Johnson in the kitchen? 	no	2
+7 Johnson travelled to the hallway.
+8 Johnson journeyed to the bedroom.
+9 Is Johnson in the bedroom? 	yes	8
+10 Sandy dropped the football.
+11 Tony went to the kitchen.
+12 Is Johnson in the bathroom? 	no	8
+13 Tony got the apple there.
+14 Tony went back to the hallway.
+15 Is Tony in the bedroom? 	no	14
+1 Johnson journeyed to the bedroom.
+2 Tim took the apple there.
+3 Is Johnson in the hallway? 	no	1
+4 Tim put down the apple there.
+5 Tim went back to the hallway.
+6 Is Tim in the garden? 	no	5
+7 Sandy travelled to the bathroom.
+8 Tony moved to the kitchen.
+9 Is Tony in the kitchen? 	yes	8
+10 Sandy went back to the garden.
+11 Tim journeyed to the bathroom.
+12 Is Sandy in the bathroom? 	no	10
+13 Tony travelled to the office.
+14 Tony journeyed to the kitchen.
+15 Is Tony in the kitchen? 	yes	14
+1 Johnson moved to the office.
+2 Tony journeyed to the garden.
+3 Is Johnson in the office? 	yes	1
+4 Johnson picked up the milk there.
+5 Sandy took the football there.
+6 Is Johnson in the office? 	yes	1
+7 Tim went back to the kitchen.
+8 Tony journeyed to the bedroom.
+9 Is Tony in the bedroom? 	yes	8
+10 Johnson left the milk.
+11 Tim journeyed to the bathroom.
+12 Is Tim in the bathroom? 	yes	11
+13 Tim moved to the bedroom.
+14 Tony went back to the office.
+15 Is Tony in the office? 	yes	14
+1 Johnson went back to the bathroom.
+2 Johnson travelled to the kitchen.
+3 Is Johnson in the office? 	no	2
+4 Tim journeyed to the garden.
+5 Sandy travelled to the garden.
+6 Is Sandy in the garden? 	yes	5
+7 Tim grabbed the apple there.
+8 Sandy went back to the bathroom.
+9 Is Sandy in the garden? 	no	8
+10 Tim dropped the apple.
+11 Sandy journeyed to the kitchen.
+12 Is Sandy in the kitchen? 	yes	11
+13 Tim got the apple there.
+14 Sandy went back to the bathroom.
+15 Is Sandy in the bathroom? 	yes	14
+1 Tony journeyed to the garden.
+2 Tony travelled to the office.
+3 Is Tony in the office? 	yes	2
+4 Johnson journeyed to the garden.
+5 Tim journeyed to the garden.
+6 Is Johnson in the office? 	no	4
+7 Johnson went to the office.
+8 Tim got the milk there.
+9 Is Johnson in the office? 	yes	7
+10 Sandy travelled to the kitchen.
+11 Tim picked up the football there.
+12 Is Sandy in the hallway? 	no	10
+13 Tony went back to the kitchen.
+14 Tim dropped the football.
+15 Is Sandy in the kitchen? 	yes	10
+1 Tony travelled to the office.
+2 Tony travelled to the bathroom.
+3 Is Tony in the bathroom? 	yes	2
+4 Tony travelled to the garden.
+5 Sandy travelled to the kitchen.
+6 Is Sandy in the kitchen? 	yes	5
+7 Tim went back to the kitchen.
+8 Sandy travelled to the garden.
+9 Is Tony in the garden? 	yes	4
+10 Sandy picked up the football there.
+11 Tony journeyed to the bathroom.
+12 Is Tony in the bathroom? 	yes	11
+13 Johnson journeyed to the office.
+14 Tony moved to the garden.
+15 Is Tony in the garden? 	yes	14
+1 Sandy grabbed the football there.
+2 Johnson journeyed to the hallway.
+3 Is Johnson in the hallway? 	yes	2
+4 Tony moved to the hallway.
+5 Tim moved to the kitchen.
+6 Is Tony in the hallway? 	yes	4
+7 Tim picked up the apple there.
+8 Johnson went back to the garden.
+9 Is Johnson in the garden? 	yes	8
+10 Sandy journeyed to the hallway.
+11 Tony went back to the bedroom.
+12 Is Tim in the bedroom? 	no	5
+13 Tim went back to the bathroom.
+14 Sandy discarded the football.
+15 Is Sandy in the hallway? 	yes	10
+1 Johnson moved to the kitchen.
+2 Tim went to the office.
+3 Is Tim in the kitchen? 	no	2
+4 Sandy moved to the office.
+5 Tony moved to the garden.
+6 Is Sandy in the office? 	yes	4
+7 Tony took the football there.
+8 Tim journeyed to the garden.
+9 Is Tim in the kitchen? 	no	8
+10 Tony journeyed to the office.
+11 Tim travelled to the kitchen.
+12 Is Tim in the hallway? 	no	11
+13 Sandy went back to the bathroom.
+14 Tony went back to the bedroom.
+15 Is Tony in the office? 	no	14
+1 Johnson went back to the bathroom.
+2 Johnson travelled to the hallway.
+3 Is Johnson in the kitchen? 	no	2
+4 Tony moved to the garden.
+5 Tony moved to the hallway.
+6 Is Tony in the bathroom? 	no	5
+7 Sandy travelled to the office.
+8 Sandy moved to the bedroom.
+9 Is Tony in the bedroom? 	no	5
+10 Johnson journeyed to the office.
+11 Tony journeyed to the bathroom.
+12 Is Tony in the kitchen? 	no	11
+13 Tony went to the bedroom.
+14 Tony moved to the kitchen.
+15 Is Sandy in the bedroom? 	yes	8
+1 Sandy grabbed the apple there.
+2 Tim journeyed to the bathroom.
+3 Is Tim in the garden? 	no	2
+4 Sandy travelled to the bedroom.
+5 Tony travelled to the office.
+6 Is Sandy in the bathroom? 	no	4
+7 Tony went back to the kitchen.
+8 Sandy went back to the office.
+9 Is Tony in the kitchen? 	yes	7
+10 Johnson travelled to the garden.
+11 Sandy journeyed to the bedroom.
+12 Is Tony in the bedroom? 	no	7
+13 Sandy discarded the apple.
+14 Johnson took the milk there.
+15 Is Johnson in the garden? 	yes	10
+1 Tim grabbed the milk there.
+2 Tim discarded the milk.
+3 Tim took the milk there.
+4 Tim put down the milk.
+5 Tim moved to the kitchen.
+6 Tim travelled to the bedroom.
+7 Is Tim in the bedroom? 	yes	6
+8 Tony moved to the office.
+9 Sandy journeyed to the bedroom.
+10 Is Tim in the bedroom? 	yes	6
+11 Tony picked up the milk there.
+12 Sandy travelled to the garden.
+13 Is Sandy in the garden? 	yes	12
+14 Tony put down the milk.
+15 Johnson moved to the bathroom.
+16 Is Johnson in the bedroom? 	no	15
+17 Johnson journeyed to the hallway.
+18 Tony took the milk there.
+19 Is Sandy in the garden? 	yes	12
+1 Johnson got the milk there.
+2 Johnson travelled to the hallway.
+3 Is Johnson in the hallway? 	yes	2
+4 Johnson put down the milk.
+5 Tony went to the bedroom.
+6 Is Johnson in the office? 	no	2
+7 Tony got the apple there.
+8 Sandy got the milk there.
+9 Is Johnson in the hallway? 	yes	2
+10 Tony went to the kitchen.
+11 Tony went back to the bathroom.
+12 Is Tony in the kitchen? 	no	11
+13 Tony dropped the apple there.
+14 Tony got the apple there.
+15 Is Tony in the kitchen? 	no	11
+1 Johnson went to the office.
+2 Sandy grabbed the football there.
+3 Is Johnson in the office? 	yes	1
+4 Tim journeyed to the kitchen.
+5 Tony moved to the kitchen.
+6 Is Tim in the kitchen? 	yes	4
+7 Tony travelled to the bathroom.
+8 Sandy discarded the football.
+9 Is Tony in the kitchen? 	no	7
+10 Johnson journeyed to the hallway.
+11 Sandy picked up the football there.
+12 Is Tony in the kitchen? 	no	7
+13 Tony went to the bedroom.
+14 Tony took the apple there.
+15 Is Johnson in the hallway? 	yes	10
+1 Sandy journeyed to the bathroom.
+2 Johnson moved to the kitchen.
+3 Is Johnson in the hallway? 	no	2
+4 Tim took the milk there.
+5 Tony travelled to the bathroom.
+6 Is Sandy in the bedroom? 	no	1
+7 Tony moved to the hallway.
+8 Tim put down the milk.
+9 Is Tony in the office? 	no	7
+10 Johnson went to the hallway.
+11 Tim picked up the milk there.
+12 Is Johnson in the hallway? 	yes	10
+13 Tony took the apple there.
+14 Tim left the milk.
+15 Is Johnson in the hallway? 	yes	10
+1 Tim journeyed to the bedroom.
+2 Tony went to the hallway.
+3 Is Tim in the garden? 	no	1
+4 Tim moved to the bathroom.
+5 Johnson went back to the office.
+6 Is Johnson in the garden? 	no	5
+7 Tony travelled to the bedroom.
+8 Johnson travelled to the bathroom.
+9 Is Tim in the bedroom? 	no	4
+10 Tony travelled to the hallway.
+11 Tony travelled to the bedroom.
+12 Is Tony in the bedroom? 	yes	11
+13 Tim went back to the bedroom.
+14 Tim moved to the garden.
+15 Is Tim in the garden? 	yes	14
+1 Tim travelled to the garden.
+2 Sandy journeyed to the hallway.
+3 Is Sandy in the bathroom? 	no	2
+4 Tony journeyed to the garden.
+5 Johnson moved to the garden.
+6 Is Johnson in the bedroom? 	no	5
+7 Tim journeyed to the office.
+8 Sandy grabbed the milk there.
+9 Is Tim in the garden? 	no	7
+10 Sandy journeyed to the bathroom.
+11 Sandy journeyed to the kitchen.
+12 Is Sandy in the office? 	no	11
+13 Tim travelled to the bathroom.
+14 Sandy journeyed to the office.
+15 Is Sandy in the office? 	yes	14
+1 Johnson moved to the office.
+2 Tim went back to the hallway.
+3 Is Tim in the bathroom? 	no	2
+4 Tony went back to the bedroom.
+5 Johnson grabbed the milk there.
+6 Is Johnson in the office? 	yes	1
+7 Sandy travelled to the kitchen.
+8 Johnson discarded the milk.
+9 Is Tim in the hallway? 	yes	2
+10 Tim moved to the office.
+11 Johnson picked up the milk there.
+12 Is Sandy in the kitchen? 	yes	7
+13 Johnson travelled to the bedroom.
+14 Tim journeyed to the bedroom.
+15 Is Johnson in the kitchen? 	no	13
+1 Sandy went back to the hallway.
+2 Sandy journeyed to the bedroom.
+3 Is Sandy in the bedroom? 	yes	2
+4 Tony travelled to the bedroom.
+5 Johnson journeyed to the office.
+6 Is Tony in the bedroom? 	yes	4
+7 Johnson went back to the bathroom.
+8 Sandy journeyed to the kitchen.
+9 Is Johnson in the bathroom? 	yes	7
+10 Johnson moved to the kitchen.
+11 Sandy grabbed the football there.
+12 Is Johnson in the garden? 	no	10
+13 Johnson picked up the milk there.
+14 Johnson went back to the hallway.
+15 Is Johnson in the office? 	no	14
+1 Tony got the football there.
+2 Sandy grabbed the apple there.
+3 Tony journeyed to the bathroom.
+4 Sandy dropped the apple.
+5 Is Tony in the hallway? 	no	3
+6 Tony discarded the football there.
+7 Tim got the football there.
+8 Is Tony in the bathroom? 	yes	3
+9 Tim moved to the kitchen.
+10 Sandy travelled to the bathroom.
+11 Is Tim in the hallway? 	no	9
+12 Johnson travelled to the kitchen.
+13 Tim went back to the bathroom.
+14 Is Johnson in the garden? 	no	12
+15 Tim went back to the garden.
+16 Johnson went to the office.
+17 Is Johnson in the kitchen? 	no	16
+1 Tony moved to the bedroom.
+2 Tony grabbed the football there.
+3 Is Tony in the bedroom? 	yes	1
+4 Tim travelled to the hallway.
+5 Tim went to the bedroom.
+6 Is Tim in the bedroom? 	yes	5
+7 Sandy picked up the apple there.
+8 Tony moved to the garden.
+9 Is Tim in the garden? 	no	5
+10 Sandy put down the apple.
+11 Sandy took the apple there.
+12 Is Tony in the garden? 	yes	8
+13 Sandy put down the apple.
+14 Johnson went to the hallway.
+15 Is Tony in the office? 	no	8
+1 Johnson journeyed to the bedroom.
+2 Tony took the apple there.
+3 Is Johnson in the bedroom? 	yes	1
+4 Tony got the football there.
+5 Tim journeyed to the bathroom.
+6 Is Johnson in the bedroom? 	yes	1
+7 Tim went to the kitchen.
+8 Sandy travelled to the hallway.
+9 Is Sandy in the hallway? 	yes	8
+10 Johnson journeyed to the bathroom.
+11 Sandy went back to the kitchen.
+12 Is Tim in the kitchen? 	yes	7
+13 Tony put down the apple there.
+14 Johnson went to the office.
+15 Is Johnson in the garden? 	no	14
+1 Tony moved to the kitchen.
+2 Sandy journeyed to the bathroom.
+3 Is Sandy in the bedroom? 	no	2
+4 Sandy journeyed to the office.
+5 Tim went to the garden.
+6 Is Sandy in the garden? 	no	4
+7 Johnson went back to the bedroom.
+8 Johnson travelled to the garden.
+9 Is Sandy in the office? 	yes	4
+10 Johnson got the milk there.
+11 Tony travelled to the office.
+12 Is Johnson in the office? 	no	8
+13 Sandy travelled to the hallway.
+14 Johnson went to the office.
+15 Is Johnson in the bathroom? 	no	14
+1 Tony travelled to the bedroom.
+2 Sandy travelled to the garden.
+3 Is Sandy in the garden? 	yes	2
+4 Tony picked up the milk there.
+5 Sandy journeyed to the bedroom.
+6 Is Tony in the bedroom? 	yes	1
+7 Tony got the apple there.
+8 Johnson went back to the bedroom.
+9 Is Sandy in the bedroom? 	yes	5
+10 Tony left the apple.
+11 Tony went back to the garden.
+12 Is Johnson in the bedroom? 	yes	8
+13 Sandy travelled to the bathroom.
+14 Johnson moved to the bathroom.
+15 Is Sandy in the bathroom? 	yes	13
+1 Sandy picked up the apple there.
+2 Tony went back to the office.
+3 Is Tony in the garden? 	no	2
+4 Sandy left the apple.
+5 Johnson went to the hallway.
+6 Is Tony in the office? 	yes	2
+7 Sandy journeyed to the garden.
+8 Sandy travelled to the office.
+9 Is Tony in the office? 	yes	2
+10 Tony grabbed the milk there.
+11 Tony went to the hallway.
+12 Is Johnson in the hallway? 	yes	5
+13 Johnson travelled to the garden.
+14 Johnson took the football there.
+15 Is Johnson in the garden? 	yes	13
+1 Tim went back to the garden.
+2 Tony journeyed to the hallway.
+3 Is Tim in the office? 	no	1
+4 Tim went to the bathroom.
+5 Tony went back to the bathroom.
+6 Is Tony in the kitchen? 	no	5
+7 Sandy moved to the bathroom.
+8 Sandy went to the bedroom.
+9 Is Tony in the bedroom? 	no	5
+10 Tony took the apple there.
+11 Sandy got the football there.
+12 Is Sandy in the bedroom? 	yes	8
+13 Tony travelled to the office.
+14 Sandy grabbed the milk there.
+15 Is Sandy in the bedroom? 	yes	8
+1 Sandy journeyed to the hallway.
+2 Tony got the milk there.
+3 Is Sandy in the hallway? 	yes	1
+4 Johnson went to the garden.
+5 Tony dropped the milk.
+6 Is Johnson in the bedroom? 	no	4
+7 Johnson moved to the bathroom.
+8 Tony took the milk there.
+9 Is Johnson in the garden? 	no	7
+10 Johnson went to the kitchen.
+11 Johnson moved to the garden.
+12 Is Johnson in the kitchen? 	no	11
+13 Tony dropped the milk.
+14 Sandy took the milk there.
+15 Is Johnson in the garden? 	yes	11
+1 Sandy took the football there.
+2 Tony journeyed to the office.
+3 Is Tony in the office? 	yes	2
+4 Tony journeyed to the bedroom.
+5 Sandy put down the football.
+6 Is Tony in the bathroom? 	no	4
+7 Sandy went back to the garden.
+8 Sandy took the milk there.
+9 Is Sandy in the garden? 	yes	7
+10 Tony journeyed to the garden.
+11 Sandy dropped the milk there.
+12 Is Tony in the bathroom? 	no	10
+13 Sandy travelled to the hallway.
+14 Johnson travelled to the bedroom.
+15 Is Johnson in the bedroom? 	yes	14
+1 Sandy picked up the milk there.
+2 Tony got the apple there.
+3 Sandy dropped the milk.
+4 Johnson went back to the bedroom.
+5 Is Johnson in the hallway? 	no	4
+6 Tony discarded the apple.
+7 Tony went to the bathroom.
+8 Is Tony in the kitchen? 	no	7
+9 Sandy took the milk there.
+10 Tony travelled to the kitchen.
+11 Is Tony in the hallway? 	no	10
+12 Sandy moved to the bathroom.
+13 Johnson went to the bathroom.
+14 Is Sandy in the bathroom? 	yes	12
+15 Sandy discarded the milk.
+16 Johnson got the milk there.
+17 Is Tony in the office? 	no	10
+1 Tim grabbed the football there.
+2 Tim got the milk there.
+3 Tim discarded the football.
+4 Tony went back to the garden.
+5 Is Tony in the kitchen? 	no	4
+6 Sandy went back to the office.
+7 Sandy went back to the kitchen.
+8 Is Sandy in the hallway? 	no	7
+9 Tim left the milk.
+10 Tim went back to the hallway.
+11 Is Sandy in the garden? 	no	7
+12 Johnson moved to the hallway.
+13 Tony journeyed to the office.
+14 Is Tim in the garden? 	no	10
+15 Sandy picked up the apple there.
+16 Johnson went to the bathroom.
+17 Is Johnson in the kitchen? 	no	16
+1 Tim got the milk there.
+2 Johnson went back to the hallway.
+3 Is Johnson in the hallway? 	yes	2
+4 Sandy journeyed to the kitchen.
+5 Johnson got the apple there.
+6 Is Sandy in the kitchen? 	yes	4
+7 Sandy moved to the hallway.
+8 Tim left the milk.
+9 Is Sandy in the garden? 	no	7
+10 Sandy went to the bathroom.
+11 Johnson dropped the apple.
+12 Is Sandy in the bathroom? 	yes	10
+13 Tony travelled to the kitchen.
+14 Sandy moved to the kitchen.
+15 Is Sandy in the garden? 	no	14
+1 Tony got the milk there.
+2 Sandy got the apple there.
+3 Tony moved to the garden.
+4 Tim moved to the kitchen.
+5 Is Tim in the kitchen? 	yes	4
+6 Sandy went back to the garden.
+7 Tony travelled to the hallway.
+8 Is Tim in the kitchen? 	yes	4
+9 Tim went back to the office.
+10 Tim grabbed the football there.
+11 Is Sandy in the garden? 	yes	6
+12 Sandy moved to the bathroom.
+13 Tim discarded the football.
+14 Is Tim in the office? 	yes	9
+15 Sandy went back to the bedroom.
+16 Tony dropped the milk there.
+17 Is Sandy in the garden? 	no	15
+1 Tim went to the bedroom.
+2 Tony travelled to the bedroom.
+3 Is Tony in the kitchen? 	no	2
+4 Tim moved to the bathroom.
+5 Johnson went back to the hallway.
+6 Is Johnson in the office? 	no	5
+7 Sandy went back to the garden.
+8 Tim went to the office.
+9 Is Sandy in the garden? 	yes	7
+10 Tim got the apple there.
+11 Tony travelled to the bathroom.
+12 Is Sandy in the garden? 	yes	7
+13 Sandy went back to the bathroom.
+14 Tony went back to the hallway.
+15 Is Sandy in the bathroom? 	yes	13
+1 Tim took the milk there.
+2 Tony went back to the hallway.
+3 Is Tony in the garden? 	no	2
+4 Tim put down the milk.
+5 Tim journeyed to the hallway.
+6 Is Tony in the hallway? 	yes	2
+7 Tony travelled to the bathroom.
+8 Tim went to the bathroom.
+9 Is Tim in the kitchen? 	no	8
+10 Sandy got the milk there.
+11 Sandy put down the milk.
+12 Is Tim in the bathroom? 	yes	8
+13 Tim moved to the garden.
+14 Tim journeyed to the hallway.
+15 Is Tim in the hallway? 	yes	14
+1 Johnson went to the office.
+2 Sandy went to the bathroom.
+3 Is Sandy in the kitchen? 	no	2
+4 Sandy travelled to the garden.
+5 Sandy went to the bedroom.
+6 Is Sandy in the bedroom? 	yes	5
+7 Sandy travelled to the garden.
+8 Tim went to the kitchen.
+9 Is Sandy in the garden? 	yes	7
+10 Johnson grabbed the apple there.
+11 Tony journeyed to the bedroom.
+12 Is Sandy in the bedroom? 	no	7
+13 Johnson picked up the football there.
+14 Johnson took the milk there.
+15 Is Tim in the bedroom? 	no	8
+1 Tim travelled to the kitchen.
+2 Johnson went to the bedroom.
+3 Is Johnson in the bedroom? 	yes	2
+4 Sandy went to the office.
+5 Johnson picked up the football there.
+6 Is Sandy in the office? 	yes	4
+7 Sandy travelled to the kitchen.
+8 Sandy went back to the office.
+9 Is Johnson in the kitchen? 	no	2
+10 Tony journeyed to the garden.
+11 Tony picked up the milk there.
+12 Is Sandy in the hallway? 	no	8
+13 Tony travelled to the hallway.
+14 Tony picked up the apple there.
+15 Is Sandy in the office? 	yes	8
+1 Tim journeyed to the office.
+2 Tony moved to the hallway.
+3 Is Tony in the kitchen? 	no	2
+4 Sandy journeyed to the hallway.
+5 Sandy went to the garden.
+6 Is Sandy in the kitchen? 	no	5
+7 Tony moved to the kitchen.
+8 Tim journeyed to the kitchen.
+9 Is Sandy in the kitchen? 	no	5
+10 Tony travelled to the bathroom.
+11 Tony picked up the football there.
+12 Is Sandy in the garden? 	yes	5
+13 Sandy took the milk there.
+14 Sandy left the milk.
+15 Is Tony in the office? 	no	10
+1 Tim took the milk there.
+2 Sandy went to the hallway.
+3 Is Sandy in the office? 	no	2
+4 Tim went back to the bathroom.
+5 Johnson went to the garden.
+6 Is Johnson in the bedroom? 	no	5
+7 Tim picked up the football there.
+8 Tim travelled to the hallway.
+9 Is Sandy in the office? 	no	2
+10 Sandy moved to the office.
+11 Sandy journeyed to the bathroom.
+12 Is Johnson in the bathroom? 	no	5
+13 Johnson moved to the hallway.
+14 Tim put down the football.
+15 Is Tim in the hallway? 	yes	8
+1 Tony moved to the garden.
+2 Johnson went to the kitchen.
+3 Is Johnson in the garden? 	no	2
+4 Tony moved to the office.
+5 Tony went back to the garden.
+6 Is Johnson in the bedroom? 	no	2
+7 Tim went back to the bathroom.
+8 Tim went back to the garden.
+9 Is Tony in the bedroom? 	no	5
+10 Sandy moved to the office.
+11 Sandy got the apple there.
+12 Is Tony in the bathroom? 	no	5
+13 Sandy went to the bedroom.
+14 Tim moved to the bathroom.
+15 Is Tim in the bathroom? 	yes	14
+1 Johnson took the football there.
+2 Tim went to the garden.
+3 Is Tim in the bathroom? 	no	2
+4 Tony moved to the bedroom.
+5 Tony travelled to the kitchen.
+6 Is Tony in the bathroom? 	no	5
+7 Johnson journeyed to the bedroom.
+8 Sandy moved to the kitchen.
+9 Is Sandy in the kitchen? 	yes	8
+10 Johnson moved to the garden.
+11 Tim went back to the kitchen.
+12 Is Johnson in the garden? 	yes	10
+13 Johnson discarded the football.
+14 Tim went back to the bathroom.
+15 Is Sandy in the garden? 	no	8
+1 Johnson moved to the bedroom.
+2 Johnson moved to the hallway.
+3 Is Johnson in the kitchen? 	no	2
+4 Johnson picked up the apple there.
+5 Johnson went back to the garden.
+6 Is Johnson in the bathroom? 	no	5
+7 Tim picked up the milk there.
+8 Tim went to the bedroom.
+9 Is Johnson in the garden? 	yes	5
+10 Tony went to the bathroom.
+11 Johnson took the football there.
+12 Is Tim in the bedroom? 	yes	8
+13 Sandy travelled to the hallway.
+14 Tim put down the milk.
+15 Is Tim in the bedroom? 	yes	8
+1 Johnson went back to the bedroom.
+2 Tim travelled to the bathroom.
+3 Is Tim in the hallway? 	no	2
+4 Johnson picked up the apple there.
+5 Sandy went to the bedroom.
+6 Is Sandy in the bathroom? 	no	5
+7 Johnson travelled to the bathroom.
+8 Tim took the milk there.
+9 Is Tim in the bathroom? 	yes	2
+10 Johnson dropped the apple.
+11 Johnson grabbed the apple there.
+12 Is Johnson in the bathroom? 	yes	7
+13 Tim discarded the milk.
+14 Tim went to the office.
+15 Is Tim in the office? 	yes	14
+1 Sandy picked up the milk there.
+2 Johnson took the apple there.
+3 Sandy took the football there.
+4 Johnson dropped the apple.
+5 Tony travelled to the kitchen.
+6 Tony picked up the apple there.
+7 Is Tony in the kitchen? 	yes	5
+8 Sandy discarded the milk.
+9 Johnson got the milk there.
+10 Is Tony in the bedroom? 	no	5
+11 Johnson went to the bathroom.
+12 Tony put down the apple.
+13 Is Johnson in the kitchen? 	no	11
+14 Tony picked up the apple there.
+15 Johnson journeyed to the office.
+16 Is Johnson in the bedroom? 	no	15
+17 Johnson left the milk.
+18 Sandy left the football.
+19 Is Johnson in the garden? 	no	15
+1 Johnson moved to the office.
+2 Johnson travelled to the bathroom.
+3 Is Johnson in the office? 	no	2
+4 Sandy went back to the office.
+5 Tony went to the bedroom.
+6 Is Tony in the garden? 	no	5
+7 Tim moved to the kitchen.
+8 Sandy moved to the kitchen.
+9 Is Johnson in the hallway? 	no	2
+10 Johnson travelled to the bedroom.
+11 Johnson travelled to the kitchen.
+12 Is Sandy in the kitchen? 	yes	8
+13 Sandy journeyed to the garden.
+14 Sandy moved to the bedroom.
+15 Is Sandy in the bedroom? 	yes	14
+1 Johnson travelled to the kitchen.
+2 Tim picked up the apple there.
+3 Is Johnson in the kitchen? 	yes	1
+4 Sandy travelled to the bedroom.
+5 Tim moved to the bathroom.
+6 Is Sandy in the bedroom? 	yes	4
+7 Johnson moved to the bedroom.
+8 Sandy went back to the garden.
+9 Is Tim in the bathroom? 	yes	5
+10 Tim travelled to the kitchen.
+11 Sandy went back to the kitchen.
+12 Is Sandy in the garden? 	no	11
+13 Johnson went back to the garden.
+14 Sandy moved to the hallway.
+15 Is Johnson in the kitchen? 	no	13
+1 Tony got the milk there.
+2 Tim journeyed to the office.
+3 Is Tim in the office? 	yes	2
+4 Tony put down the milk there.
+5 Tony journeyed to the garden.
+6 Is Tony in the garden? 	yes	5
+7 Sandy went back to the office.
+8 Tony went back to the bathroom.
+9 Is Tony in the bathroom? 	yes	8
+10 Sandy journeyed to the kitchen.
+11 Tim travelled to the garden.
+12 Is Tony in the bathroom? 	yes	8
+13 Tony travelled to the garden.
+14 Sandy journeyed to the bathroom.
+15 Is Tony in the office? 	no	13
+1 Johnson got the apple there.
+2 Johnson discarded the apple.
+3 Sandy took the apple there.
+4 Tim moved to the bedroom.
+5 Is Tim in the office? 	no	4
+6 Johnson went back to the bathroom.
+7 Johnson took the football there.
+8 Is Tim in the bedroom? 	yes	4
+9 Johnson dropped the football.
+10 Johnson journeyed to the garden.
+11 Is Johnson in the garden? 	yes	10
+12 Tim journeyed to the office.
+13 Tony went to the hallway.
+14 Is Johnson in the garden? 	yes	10
+15 Tony moved to the bathroom.
+16 Johnson went to the kitchen.
+17 Is Tim in the hallway? 	no	12
+1 Sandy journeyed to the bedroom.
+2 Tony picked up the milk there.
+3 Is Sandy in the bedroom? 	yes	1
+4 Tim travelled to the bathroom.
+5 Sandy took the football there.
+6 Is Sandy in the kitchen? 	no	1
+7 Sandy put down the football.
+8 Sandy moved to the kitchen.
+9 Is Tim in the bathroom? 	yes	4
+10 Johnson went back to the bathroom.
+11 Tim travelled to the hallway.
+12 Is Tim in the office? 	no	11
+13 Johnson moved to the bedroom.
+14 Sandy travelled to the garden.
+15 Is Sandy in the garden? 	yes	14
+1 Tim went to the office.
+2 Tony picked up the football there.
+3 Is Tim in the office? 	yes	1
+4 Johnson went to the office.
+5 Tim went to the hallway.
+6 Is Tim in the kitchen? 	no	5
+7 Tim travelled to the bathroom.
+8 Tony went back to the office.
+9 Is Tim in the kitchen? 	no	7
+10 Johnson moved to the bathroom.
+11 Sandy journeyed to the bathroom.
+12 Is Tim in the bathroom? 	yes	7
+13 Tony left the football there.
+14 Tony grabbed the football there.
+15 Is Sandy in the garden? 	no	11
+1 Tony grabbed the milk there.
+2 Tony dropped the milk.
+3 Tony picked up the milk there.
+4 Tim grabbed the football there.
+5 Tony journeyed to the bedroom.
+6 Tony journeyed to the kitchen.
+7 Is Tony in the bedroom? 	no	6
+8 Tim left the football.
+9 Tim got the football there.
+10 Is Tony in the bathroom? 	no	6
+11 Tim put down the football.
+12 Sandy moved to the kitchen.
+13 Is Tony in the bedroom? 	no	6
+14 Tony journeyed to the hallway.
+15 Johnson travelled to the office.
+16 Is Johnson in the hallway? 	no	15
+17 Tony grabbed the apple there.
+18 Tim went back to the hallway.
+19 Is Johnson in the office? 	yes	15
+1 Tim journeyed to the bathroom.
+2 Tony went back to the bedroom.
+3 Is Tony in the bathroom? 	no	2
+4 Tim got the apple there.
+5 Tony travelled to the office.
+6 Is Tony in the office? 	yes	5
+7 Tim discarded the apple.
+8 Sandy picked up the apple there.
+9 Is Tony in the hallway? 	no	5
+10 Sandy journeyed to the office.
+11 Tim went back to the office.
+12 Is Tony in the office? 	yes	5
+13 Johnson journeyed to the bedroom.
+14 Sandy travelled to the hallway.
+15 Is Tim in the bedroom? 	no	11
+1 Tim went to the garden.
+2 Tim went to the bedroom.
+3 Is Tim in the bedroom? 	yes	2
+4 Sandy went back to the garden.
+5 Tony grabbed the milk there.
+6 Is Tim in the bathroom? 	no	2
+7 Tim journeyed to the hallway.
+8 Johnson travelled to the kitchen.
+9 Is Johnson in the hallway? 	no	8
+10 Johnson went back to the garden.
+11 Sandy went back to the bedroom.
+12 Is Johnson in the garden? 	yes	10
+13 Sandy moved to the kitchen.
+14 Tony put down the milk.
+15 Is Sandy in the kitchen? 	yes	13
+1 Tim picked up the milk there.
+2 Johnson travelled to the hallway.
+3 Is Johnson in the hallway? 	yes	2
+4 Johnson went back to the bedroom.
+5 Johnson moved to the hallway.
+6 Is Johnson in the bedroom? 	no	5
+7 Sandy journeyed to the office.
+8 Johnson went to the office.
+9 Is Sandy in the office? 	yes	7
+10 Tony went back to the garden.
+11 Tim went back to the kitchen.
+12 Is Johnson in the office? 	yes	8
+13 Tim journeyed to the garden.
+14 Tony went to the office.
+15 Is Tony in the office? 	yes	14
+1 Johnson journeyed to the hallway.
+2 Sandy travelled to the bedroom.
+3 Is Johnson in the office? 	no	1
+4 Johnson took the football there.
+5 Sandy travelled to the office.
+6 Is Sandy in the office? 	yes	5
+7 Sandy went to the bedroom.
+8 Tony went back to the kitchen.
+9 Is Sandy in the bedroom? 	yes	7
+10 Johnson took the apple there.
+11 Tim got the milk there.
+12 Is Sandy in the bedroom? 	yes	7
+13 Tony travelled to the bathroom.
+14 Tim dropped the milk.
+15 Is Tony in the bathroom? 	yes	13
+1 Johnson travelled to the kitchen.
+2 Tim grabbed the football there.
+3 Is Johnson in the office? 	no	1
+4 Sandy went to the bedroom.
+5 Sandy took the apple there.
+6 Is Johnson in the kitchen? 	yes	1
+7 Tony got the milk there.
+8 Tony discarded the milk there.
+9 Is Sandy in the office? 	no	4
+10 Tim discarded the football.
+11 Sandy travelled to the bathroom.
+12 Is Sandy in the bathroom? 	yes	11
+13 Tim got the football there.
+14 Sandy went back to the kitchen.
+15 Is Sandy in the kitchen? 	yes	14
+1 Tim journeyed to the garden.
+2 Tim went back to the office.
+3 Is Tim in the office? 	yes	2
+4 Tony travelled to the kitchen.
+5 Sandy moved to the bathroom.
+6 Is Tim in the office? 	yes	2
+7 Johnson grabbed the football there.
+8 Johnson discarded the football.
+9 Is Sandy in the office? 	no	5
+10 Sandy went back to the garden.
+11 Tony moved to the office.
+12 Is Sandy in the bathroom? 	no	10
+13 Tony went to the bedroom.
+14 Johnson took the football there.
+15 Is Sandy in the garden? 	yes	10
+1 Johnson went to the garden.
+2 Johnson went back to the kitchen.
+3 Is Johnson in the kitchen? 	yes	2
+4 Tony went to the office.
+5 Sandy travelled to the bathroom.
+6 Is Johnson in the kitchen? 	yes	2
+7 Tony picked up the apple there.
+8 Tony put down the apple.
+9 Is Tony in the office? 	yes	4
+10 Johnson moved to the hallway.
+11 Sandy moved to the office.
+12 Is Johnson in the hallway? 	yes	10
+13 Sandy moved to the kitchen.
+14 Johnson moved to the office.
+15 Is Johnson in the bathroom? 	no	14
+1 Tony went to the kitchen.
+2 Tim journeyed to the bedroom.
+3 Is Tim in the hallway? 	no	2
+4 Sandy travelled to the hallway.
+5 Johnson journeyed to the bathroom.
+6 Is Tony in the kitchen? 	yes	1
+7 Johnson went back to the garden.
+8 Sandy went back to the garden.
+9 Is Sandy in the kitchen? 	no	8
+10 Sandy travelled to the bathroom.
+11 Johnson went back to the bathroom.
+12 Is Johnson in the bathroom? 	yes	11
+13 Sandy got the apple there.
+14 Tim journeyed to the office.
+15 Is Sandy in the garden? 	no	10
+1 Tim went back to the hallway.
+2 Sandy travelled to the kitchen.
+3 Is Sandy in the kitchen? 	yes	2
+4 Johnson journeyed to the garden.
+5 Sandy journeyed to the bathroom.
+6 Is Johnson in the hallway? 	no	4
+7 Tony moved to the garden.
+8 Sandy went back to the hallway.
+9 Is Tony in the garden? 	yes	7
+10 Sandy travelled to the garden.
+11 Tony travelled to the hallway.
+12 Is Sandy in the bathroom? 	no	10
+13 Johnson journeyed to the bedroom.
+14 Tim moved to the office.
+15 Is Tim in the office? 	yes	14
+1 Tony moved to the hallway.
+2 Tony picked up the football there.
+3 Is Tony in the hallway? 	yes	1
+4 Tony travelled to the garden.
+5 Tony journeyed to the hallway.
+6 Is Tony in the kitchen? 	no	5
+7 Tony went to the kitchen.
+8 Sandy went to the office.
+9 Is Sandy in the garden? 	no	8
+10 Sandy journeyed to the bathroom.
+11 Tony moved to the bedroom.
+12 Is Sandy in the bathroom? 	yes	10
+13 Tony dropped the football.
+14 Tony grabbed the football there.
+15 Is Sandy in the bedroom? 	no	10
+1 Tim moved to the kitchen.
+2 Tim travelled to the office.
+3 Is Tim in the bedroom? 	no	2
+4 Tony picked up the milk there.
+5 Sandy went to the garden.
+6 Is Sandy in the kitchen? 	no	5
+7 Sandy grabbed the apple there.
+8 Sandy dropped the apple.
+9 Is Tim in the bedroom? 	no	2
+10 Tony dropped the milk.
+11 Tim went to the garden.
+12 Is Sandy in the garden? 	yes	5
+13 Tony took the milk there.
+14 Tim picked up the apple there.
+15 Is Tim in the garden? 	yes	11

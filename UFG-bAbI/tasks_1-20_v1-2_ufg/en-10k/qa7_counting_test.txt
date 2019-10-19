@@ -1,0 +1,3470 @@
+1 Tim got the milk there.
+2 Johnson moved to the bedroom.
+3 How many objects is Tim carrying? 	one	1
+4 Sandy went back to the bathroom.
+5 Johnson got the football there.
+6 How many objects is Tim carrying? 	one	1
+7 Tim journeyed to the bathroom.
+8 Tim gave the milk to Sandy.
+9 How many objects is Tim carrying? 	none	1 8
+10 Johnson went back to the bathroom.
+11 Johnson left the football.
+12 How many objects is Johnson carrying? 	none	5 11
+13 Sandy gave the milk to Johnson.
+14 Johnson journeyed to the garden.
+15 How many objects is Johnson carrying? 	one	5 11 13
+1 Tony took the milk there.
+2 Johnson moved to the hallway.
+3 How many objects is Tony carrying? 	one	1
+4 Tony left the milk.
+5 Tony journeyed to the office.
+6 How many objects is Tony carrying? 	none	1 4
+7 Johnson went back to the office.
+8 Johnson went to the hallway.
+9 How many objects is Tony carrying? 	none	1 4
+10 Tim travelled to the bedroom.
+11 Tim got the football there.
+12 How many objects is Tim carrying? 	one	11
+13 Sandy went back to the kitchen.
+14 Tony moved to the kitchen.
+15 How many objects is Tim carrying? 	one	11
+1 Sandy went to the hallway.
+2 Sandy grabbed the apple there.
+3 How many objects is Sandy carrying? 	one	2
+4 Tony moved to the kitchen.
+5 Sandy got the milk there.
+6 How many objects is Sandy carrying? 	two	2 5
+7 Tim got the football there.
+8 Sandy went back to the office.
+9 How many objects is Tim carrying? 	one	7
+10 Sandy put down the apple.
+11 Tony journeyed to the hallway.
+12 How many objects is Sandy carrying? 	one	2 5 10
+13 Tony went back to the kitchen.
+14 Tim travelled to the hallway.
+15 How many objects is Sandy carrying? 	one	2 5 10
+1 Sandy travelled to the bathroom.
+2 Tony journeyed to the bedroom.
+3 Tony went to the hallway.
+4 Sandy journeyed to the hallway.
+5 Tony went back to the bedroom.
+6 Johnson moved to the garden.
+7 Tony journeyed to the hallway.
+8 Johnson grabbed the apple there.
+9 How many objects is Johnson carrying? 	one	8
+10 Johnson gave the apple to Tim.
+11 Tim passed the apple to Johnson.
+12 How many objects is Johnson carrying? 	one	8 10 11
+13 Tim journeyed to the hallway.
+14 Johnson dropped the apple there.
+15 How many objects is Johnson carrying? 	none	8 10 11 14
+16 Sandy went to the garden.
+17 Tim went to the kitchen.
+18 How many objects is Tim carrying? 	none	10 11
+19 Tim picked up the football there.
+20 Tim picked up the milk there.
+21 How many objects is Tim carrying? 	two	10 11 19 20
+1 Johnson moved to the hallway.
+2 Tim grabbed the milk there.
+3 How many objects is Tim carrying? 	one	2
+4 Johnson went back to the kitchen.
+5 Sandy got the football there.
+6 How many objects is Sandy carrying? 	one	5
+7 Tim picked up the apple there.
+8 Tim dropped the milk.
+9 How many objects is Tim carrying? 	one	2 7 8
+10 Johnson travelled to the hallway.
+11 Sandy left the football.
+12 How many objects is Tim carrying? 	one	2 7 8
+13 Johnson moved to the garden.
+14 Johnson went back to the kitchen.
+15 How many objects is Sandy carrying? 	none	5 11
+1 Tony went to the bathroom.
+2 Johnson moved to the office.
+3 Tony went to the kitchen.
+4 Johnson got the apple there.
+5 How many objects is Johnson carrying? 	one	4
+6 Johnson left the apple.
+7 Tim got the football there.
+8 How many objects is Tim carrying? 	one	7
+9 Johnson moved to the hallway.
+10 Tim dropped the football.
+11 How many objects is Tim carrying? 	none	7 10
+12 Tony went to the hallway.
+13 Sandy journeyed to the hallway.
+14 How many objects is Tim carrying? 	none	7 10
+15 Tim got the football there.
+16 Tim left the football.
+17 How many objects is Tim carrying? 	none	7 10 15 16
+1 Tim went to the garden.
+2 Sandy went back to the bathroom.
+3 Sandy went to the kitchen.
+4 Sandy went back to the bedroom.
+5 Tim got the apple there.
+6 Tim left the apple.
+7 How many objects is Tim carrying? 	none	5 6
+8 Sandy went back to the kitchen.
+9 Tim got the apple there.
+10 How many objects is Tim carrying? 	one	5 6 9
+11 Tim moved to the bedroom.
+12 Tim journeyed to the hallway.
+13 How many objects is Tim carrying? 	one	5 6 9
+14 Tony went to the bedroom.
+15 Tim got the milk there.
+16 How many objects is Tim carrying? 	two	5 6 9 15
+17 Sandy moved to the office.
+18 Sandy journeyed to the bedroom.
+19 How many objects is Tim carrying? 	two	5 6 9 15
+1 Johnson grabbed the apple there.
+2 Johnson gave the apple to Tim.
+3 How many objects is Johnson carrying? 	none	1 2
+4 Tim passed the apple to Johnson.
+5 Johnson discarded the apple.
+6 How many objects is Johnson carrying? 	none	1 2 4 5
+7 Johnson went back to the office.
+8 Tony journeyed to the hallway.
+9 How many objects is Johnson carrying? 	none	1 2 4 5
+10 Tim got the apple there.
+11 Tim gave the apple to Tony.
+12 How many objects is Tim carrying? 	none	2 4 10 11
+13 Tony passed the apple to Tim.
+14 Tim passed the apple to Tony.
+15 How many objects is Tim carrying? 	none	2 4 10 11 13 14
+1 Sandy picked up the apple there.
+2 Tony moved to the office.
+3 How many objects is Sandy carrying? 	one	1
+4 Sandy discarded the apple there.
+5 Tony went back to the kitchen.
+6 How many objects is Sandy carrying? 	none	1 4
+7 Sandy moved to the bedroom.
+8 Sandy went back to the hallway.
+9 How many objects is Sandy carrying? 	none	1 4
+10 Tim travelled to the kitchen.
+11 Sandy travelled to the office.
+12 Johnson travelled to the office.
+13 Sandy went back to the bathroom.
+14 Johnson went back to the bathroom.
+15 Sandy journeyed to the bedroom.
+16 Sandy went back to the hallway.
+17 Tony travelled to the garden.
+18 Tim journeyed to the hallway.
+19 Johnson picked up the football there.
+20 How many objects is Johnson carrying? 	one	19
+21 Tim went back to the kitchen.
+22 Johnson discarded the football.
+23 How many objects is Johnson carrying? 	none	19 22
+1 Johnson journeyed to the hallway.
+2 Tim went back to the garden.
+3 Tim went to the bedroom.
+4 Tony grabbed the milk there.
+5 How many objects is Tony carrying? 	one	4
+6 Johnson went to the bathroom.
+7 Johnson picked up the apple there.
+8 How many objects is Tony carrying? 	one	4
+9 Sandy journeyed to the hallway.
+10 Tony discarded the milk.
+11 How many objects is Tony carrying? 	none	4 10
+12 Tony travelled to the bathroom.
+13 Tony went back to the kitchen.
+14 How many objects is Tony carrying? 	none	4 10
+15 Tim went back to the bathroom.
+16 Johnson passed the apple to Tim.
+17 How many objects is Tony carrying? 	none	4 10
+1 Tim travelled to the garden.
+2 Johnson journeyed to the kitchen.
+3 Johnson travelled to the hallway.
+4 Tony went back to the garden.
+5 Tony journeyed to the office.
+6 Tim grabbed the football there.
+7 How many objects is Tim carrying? 	one	6
+8 Johnson went to the garden.
+9 Tim handed the football to Johnson.
+10 How many objects is Tim carrying? 	none	6 9
+11 Tony moved to the hallway.
+12 Johnson handed the football to Tim.
+13 How many objects is Tim carrying? 	one	6 9 12
+14 Sandy moved to the bedroom.
+15 Tim gave the football to Johnson.
+16 How many objects is Tim carrying? 	none	6 9 12 15
+17 Johnson moved to the kitchen.
+18 Tim went to the bathroom.
+19 How many objects is Tim carrying? 	none	6 9 12 15
+1 Sandy travelled to the garden.
+2 Johnson took the apple there.
+3 How many objects is Johnson carrying? 	one	2
+4 Tim went back to the hallway.
+5 Johnson travelled to the hallway.
+6 How many objects is Johnson carrying? 	one	2
+7 Johnson journeyed to the garden.
+8 Tony went to the bathroom.
+9 How many objects is Johnson carrying? 	one	2
+10 Johnson passed the apple to Sandy.
+11 Sandy passed the apple to Johnson.
+12 How many objects is Sandy carrying? 	none	10 11
+13 Johnson gave the apple to Sandy.
+14 Sandy went to the office.
+15 How many objects is Sandy carrying? 	one	10 11 13
+1 Sandy travelled to the office.
+2 Tim went back to the bedroom.
+3 Tim moved to the kitchen.
+4 Tim journeyed to the hallway.
+5 Tim took the apple there.
+6 Tim dropped the apple.
+7 How many objects is Tim carrying? 	none	5 6
+8 Tony journeyed to the office.
+9 Sandy went back to the bedroom.
+10 How many objects is Tim carrying? 	none	5 6
+11 Tim took the football there.
+12 Tim left the football.
+13 How many objects is Tim carrying? 	none	5 6 11 12
+14 Sandy went back to the garden.
+15 Johnson went to the kitchen.
+16 How many objects is Tim carrying? 	none	5 6 11 12
+17 Johnson journeyed to the hallway.
+18 Tim went back to the bedroom.
+19 How many objects is Tim carrying? 	none	5 6 11 12
+1 Johnson journeyed to the kitchen.
+2 Sandy grabbed the apple there.
+3 How many objects is Sandy carrying? 	one	2
+4 Sandy handed the apple to Tony.
+5 Tony discarded the apple.
+6 How many objects is Sandy carrying? 	none	2 4
+7 Tony picked up the apple there.
+8 Tony gave the apple to Sandy.
+9 How many objects is Sandy carrying? 	one	2 4 8
+10 Sandy went to the kitchen.
+11 Sandy passed the apple to Johnson.
+12 How many objects is Tony carrying? 	none	4 5 7 8
+13 Johnson gave the apple to Sandy.
+14 Johnson travelled to the garden.
+15 How many objects is Sandy carrying? 	one	2 4 8 11 13
+1 Sandy grabbed the milk there.
+2 Johnson went back to the hallway.
+3 How many objects is Sandy carrying? 	one	1
+4 Sandy moved to the garden.
+5 Sandy discarded the milk there.
+6 How many objects is Sandy carrying? 	none	1 5
+7 Sandy got the milk there.
+8 Tim moved to the bedroom.
+9 How many objects is Sandy carrying? 	one	1 5 7
+10 Sandy went to the hallway.
+11 Tony got the apple there.
+12 How many objects is Tony carrying? 	one	11
+13 Tony moved to the office.
+14 Sandy passed the milk to Johnson.
+15 How many objects is Tony carrying? 	one	11
+1 Tim took the milk there.
+2 Johnson got the football there.
+3 How many objects is Johnson carrying? 	one	2
+4 Sandy went to the bathroom.
+5 Tim put down the milk.
+6 How many objects is Johnson carrying? 	one	2
+7 Sandy went back to the garden.
+8 Sandy took the milk there.
+9 How many objects is Sandy carrying? 	one	8
+10 Sandy dropped the milk there.
+11 Tim journeyed to the bedroom.
+12 How many objects is Sandy carrying? 	none	8 10
+13 Johnson went to the office.
+14 Johnson grabbed the apple there.
+15 How many objects is Sandy carrying? 	none	8 10
+1 Tim grabbed the milk there.
+2 Tim moved to the bathroom.
+3 How many objects is Tim carrying? 	one	1
+4 Johnson went back to the hallway.
+5 Tim grabbed the apple there.
+6 How many objects is Tim carrying? 	two	1 5
+7 Tony journeyed to the hallway.
+8 Sandy went back to the bedroom.
+9 How many objects is Tim carrying? 	two	1 5
+10 Tim discarded the apple.
+11 Tim took the apple there.
+12 How many objects is Tim carrying? 	two	1 5 10 11
+13 Tim travelled to the office.
+14 Tim left the apple there.
+15 How many objects is Tim carrying? 	one	1 5 10 11 14
+1 Tim picked up the football there.
+2 Tony went back to the bedroom.
+3 How many objects is Tim carrying? 	one	1
+4 Tony went back to the bathroom.
+5 Tim journeyed to the bedroom.
+6 How many objects is Tim carrying? 	one	1
+7 Tim dropped the football.
+8 Johnson went to the kitchen.
+9 How many objects is Tim carrying? 	none	1 7
+10 Tim travelled to the office.
+11 Tony went to the bedroom.
+12 How many objects is Tim carrying? 	none	1 7
+13 Tim journeyed to the hallway.
+14 Tim travelled to the bathroom.
+15 Tony moved to the kitchen.
+16 Tim grabbed the milk there.
+17 How many objects is Tim carrying? 	one	1 7 16
+1 Sandy travelled to the garden.
+2 Tony journeyed to the garden.
+3 Tony journeyed to the bathroom.
+4 Johnson travelled to the garden.
+5 Tony travelled to the bedroom.
+6 Sandy went back to the office.
+7 Johnson travelled to the kitchen.
+8 Tony took the milk there.
+9 How many objects is Tony carrying? 	one	8
+10 Tony moved to the garden.
+11 Tim travelled to the kitchen.
+12 How many objects is Tony carrying? 	one	8
+13 Sandy travelled to the hallway.
+14 Tim journeyed to the bedroom.
+15 How many objects is Tony carrying? 	one	8
+16 Tony moved to the kitchen.
+17 Tony left the milk.
+18 How many objects is Tony carrying? 	none	8 17
+19 Tony went back to the bathroom.
+20 Sandy moved to the bedroom.
+21 How many objects is Tony carrying? 	none	8 17
+1 Sandy travelled to the bedroom.
+2 Sandy grabbed the football there.
+3 How many objects is Sandy carrying? 	one	2
+4 Johnson journeyed to the hallway.
+5 Tim went to the garden.
+6 How many objects is Sandy carrying? 	one	2
+7 Sandy went back to the office.
+8 Johnson journeyed to the bedroom.
+9 How many objects is Sandy carrying? 	one	2
+10 Sandy got the milk there.
+11 Tim moved to the hallway.
+12 How many objects is Sandy carrying? 	two	2 10
+13 Johnson went to the office.
+14 Sandy passed the football to Johnson.
+15 How many objects is Sandy carrying? 	one	2 10 14
+1 Tim took the milk there.
+2 Tim went to the office.
+3 How many objects is Tim carrying? 	one	1
+4 Tim travelled to the hallway.
+5 Sandy journeyed to the kitchen.
+6 How many objects is Tim carrying? 	one	1
+7 Sandy went back to the garden.
+8 Tony grabbed the apple there.
+9 How many objects is Tony carrying? 	one	8
+10 Tony discarded the apple.
+11 Sandy moved to the bedroom.
+12 How many objects is Tony carrying? 	none	8 10
+13 Tony travelled to the hallway.
+14 Tim journeyed to the bedroom.
+15 How many objects is Tony carrying? 	none	8 10
+1 Johnson went to the bathroom.
+2 Johnson grabbed the football there.
+3 How many objects is Johnson carrying? 	one	2
+4 Tony travelled to the hallway.
+5 Tim moved to the hallway.
+6 How many objects is Johnson carrying? 	one	2
+7 Sandy picked up the apple there.
+8 Johnson dropped the football.
+9 How many objects is Johnson carrying? 	none	2 8
+10 Tim travelled to the bedroom.
+11 Sandy went to the kitchen.
+12 How many objects is Sandy carrying? 	one	7
+13 Johnson picked up the football there.
+14 Tim got the milk there.
+15 How many objects is Tim carrying? 	one	14
+1 Tim picked up the milk there.
+2 Sandy travelled to the office.
+3 How many objects is Tim carrying? 	one	1
+4 Tim handed the milk to Sandy.
+5 Sandy dropped the milk.
+6 How many objects is Tim carrying? 	none	1 4
+7 Johnson went to the office.
+8 Johnson grabbed the milk there.
+9 How many objects is Tim carrying? 	none	1 4
+10 Tony went to the bedroom.
+11 Johnson passed the milk to Tim.
+12 How many objects is Sandy carrying? 	none	4 5
+13 Tim gave the milk to Johnson.
+14 Tony went to the garden.
+15 How many objects is Tim carrying? 	none	1 4 11 13
+1 Johnson went back to the office.
+2 Tony travelled to the garden.
+3 Tim moved to the bathroom.
+4 Tim journeyed to the bedroom.
+5 Tim went to the bathroom.
+6 Tim travelled to the hallway.
+7 Tim journeyed to the office.
+8 Tim went back to the hallway.
+9 Tim picked up the apple there.
+10 Sandy journeyed to the hallway.
+11 How many objects is Tim carrying? 	one	9
+12 Tim handed the apple to Sandy.
+13 Sandy passed the apple to Tim.
+14 How many objects is Tim carrying? 	one	9 12 13
+15 Sandy journeyed to the kitchen.
+16 Sandy travelled to the hallway.
+17 How many objects is Tim carrying? 	one	9 12 13
+18 Tim put down the apple there.
+19 Sandy picked up the apple there.
+20 How many objects is Sandy carrying? 	one	12 13 19
+21 Sandy handed the apple to Tim.
+22 Tim dropped the apple there.
+23 How many objects is Tim carrying? 	none	9 12 13 18 21 22
+1 Tim got the football there.
+2 Tony journeyed to the bathroom.
+3 How many objects is Tim carrying? 	one	1
+4 Johnson moved to the hallway.
+5 Sandy grabbed the milk there.
+6 How many objects is Tim carrying? 	one	1
+7 Tony picked up the apple there.
+8 Tony dropped the apple.
+9 How many objects is Tony carrying? 	none	7 8
+10 Tony grabbed the apple there.
+11 Tony left the apple.
+12 How many objects is Tony carrying? 	none	7 8 10 11
+13 Tim went to the office.
+14 Sandy left the milk.
+15 How many objects is Sandy carrying? 	none	5 14
+1 Tim journeyed to the office.
+2 Johnson picked up the football there.
+3 How many objects is Johnson carrying? 	one	2
+4 Johnson discarded the football.
+5 Sandy went to the bathroom.
+6 How many objects is Johnson carrying? 	none	2 4
+7 Sandy picked up the milk there.
+8 Tony got the apple there.
+9 How many objects is Johnson carrying? 	none	2 4
+10 Tony discarded the apple there.
+11 Tony picked up the apple there.
+12 How many objects is Sandy carrying? 	one	7
+13 Sandy left the milk there.
+14 Sandy journeyed to the office.
+15 How many objects is Tony carrying? 	one	8 10 11
+1 Johnson went back to the garden.
+2 Tony grabbed the milk there.
+3 How many objects is Tony carrying? 	one	2
+4 Tony passed the milk to Johnson.
+5 Johnson gave the milk to Tony.
+6 How many objects is Tony carrying? 	one	2 4 5
+7 Tony gave the milk to Johnson.
+8 Johnson picked up the apple there.
+9 How many objects is Tony carrying? 	none	2 4 5 7
+10 Johnson passed the apple to Tony.
+11 Tony handed the apple to Johnson.
+12 How many objects is Johnson carrying? 	two	4 5 7 8 10 11
+13 Sandy moved to the kitchen.
+14 Johnson passed the apple to Tony.
+15 How many objects is Johnson carrying? 	one	4 5 7 8 10 11 14
+1 Johnson took the milk there.
+2 Tony travelled to the garden.
+3 How many objects is Johnson carrying? 	one	1
+4 Johnson went to the office.
+5 Johnson dropped the milk.
+6 How many objects is Johnson carrying? 	none	1 5
+7 Tim grabbed the apple there.
+8 Tim put down the apple.
+9 How many objects is Tim carrying? 	none	7 8
+10 Tim went back to the hallway.
+11 Tim grabbed the football there.
+12 How many objects is Tim carrying? 	one	7 8 11
+13 Johnson got the milk there.
+14 Tim put down the football.
+15 How many objects is Tim carrying? 	none	7 8 11 14
+1 Tim travelled to the hallway.
+2 Johnson moved to the hallway.
+3 Sandy went to the hallway.
+4 Sandy took the milk there.
+5 How many objects is Sandy carrying? 	one	4
+6 Sandy passed the milk to Johnson.
+7 Johnson picked up the football there.
+8 How many objects is Sandy carrying? 	none	4 6
+9 Johnson travelled to the kitchen.
+10 Tim went back to the office.
+11 How many objects is Johnson carrying? 	two	6 7
+12 Johnson passed the football to Tony.
+13 Tim travelled to the hallway.
+14 How many objects is Johnson carrying? 	one	6 7 12
+15 Johnson got the apple there.
+16 Johnson discarded the apple.
+17 How many objects is Johnson carrying? 	one	6 7 12 15 16
+1 Johnson went back to the office.
+2 Tony went to the kitchen.
+3 Sandy travelled to the bathroom.
+4 Sandy moved to the kitchen.
+5 Tim journeyed to the office.
+6 Sandy went to the bathroom.
+7 Johnson moved to the garden.
+8 Johnson went back to the bathroom.
+9 Johnson picked up the football there.
+10 Tony picked up the apple there.
+11 How many objects is Tony carrying? 	one	10
+12 Johnson journeyed to the bedroom.
+13 Tony journeyed to the hallway.
+14 How many objects is Tony carrying? 	one	10
+15 Tony travelled to the bathroom.
+16 Johnson took the milk there.
+17 How many objects is Tony carrying? 	one	10
+18 Tony journeyed to the garden.
+19 Tony discarded the apple.
+20 How many objects is Johnson carrying? 	two	9 16
+21 Johnson went to the garden.
+22 Johnson passed the football to Tony.
+23 How many objects is Johnson carrying? 	one	9 16 22
+1 Tony went to the kitchen.
+2 Tony travelled to the hallway.
+3 Johnson moved to the office.
+4 Johnson moved to the kitchen.
+5 Tony moved to the bathroom.
+6 Johnson moved to the bathroom.
+7 Tony got the football there.
+8 Tony handed the football to Johnson.
+9 How many objects is Tony carrying? 	none	7 8
+10 Johnson passed the football to Sandy.
+11 Sandy handed the football to Johnson.
+12 How many objects is Tony carrying? 	none	7 8
+13 Johnson handed the football to Sandy.
+14 Sandy went back to the hallway.
+15 How many objects is Tony carrying? 	none	7 8
+16 Sandy left the football.
+17 Johnson went back to the bedroom.
+18 How many objects is Johnson carrying? 	none	8 10 11 13
+19 Johnson went to the office.
+20 Sandy picked up the football there.
+21 How many objects is Sandy carrying? 	one	10 11 13 16 20
+1 Tony took the football there.
+2 Tony moved to the office.
+3 How many objects is Tony carrying? 	one	1
+4 Tony handed the football to Sandy.
+5 Johnson grabbed the apple there.
+6 How many objects is Tony carrying? 	none	1 4
+7 Sandy handed the football to Tony.
+8 Johnson dropped the apple.
+9 How many objects is Tony carrying? 	one	1 4 7
+10 Tony handed the football to Sandy.
+11 Tim went back to the bedroom.
+12 How many objects is Johnson carrying? 	none	5 8
+13 Sandy journeyed to the kitchen.
+14 Tim picked up the apple there.
+15 How many objects is Tim carrying? 	one	14
+1 Sandy moved to the kitchen.
+2 Johnson travelled to the bedroom.
+3 Sandy moved to the garden.
+4 Sandy picked up the football there.
+5 How many objects is Sandy carrying? 	one	4
+6 Sandy went to the bedroom.
+7 Sandy passed the football to Johnson.
+8 How many objects is Sandy carrying? 	none	4 7
+9 Johnson passed the football to Sandy.
+10 Sandy handed the football to Johnson.
+11 How many objects is Johnson carrying? 	one	7 9 10
+12 Johnson discarded the football there.
+13 Johnson picked up the football there.
+14 How many objects is Johnson carrying? 	one	7 9 10 12 13
+15 Johnson gave the football to Sandy.
+16 Johnson journeyed to the hallway.
+17 How many objects is Sandy carrying? 	one	4 7 9 10 15
+1 Sandy travelled to the hallway.
+2 Johnson went back to the office.
+3 Johnson moved to the bedroom.
+4 Johnson moved to the office.
+5 Tony travelled to the bedroom.
+6 Tony journeyed to the bathroom.
+7 Tim journeyed to the garden.
+8 Tim travelled to the bedroom.
+9 Sandy went to the bathroom.
+10 Tony moved to the hallway.
+11 Sandy went back to the hallway.
+12 Sandy journeyed to the bedroom.
+13 Sandy went back to the bathroom.
+14 Johnson moved to the bedroom.
+15 Johnson journeyed to the hallway.
+16 Tim grabbed the football there.
+17 How many objects is Tim carrying? 	one	16
+18 Tim left the football.
+19 Tony went to the garden.
+20 How many objects is Tim carrying? 	none	16 18
+21 Sandy took the apple there.
+22 Sandy took the milk there.
+23 How many objects is Sandy carrying? 	two	21 22
+24 Johnson journeyed to the bathroom.
+25 Tony went back to the office.
+26 How many objects is Sandy carrying? 	two	21 22
+27 Tony journeyed to the bedroom.
+28 Johnson journeyed to the office.
+29 How many objects is Sandy carrying? 	two	21 22
+1 Johnson picked up the football there.
+2 Johnson dropped the football.
+3 How many objects is Johnson carrying? 	none	1 2
+4 Tim moved to the office.
+5 Tony went back to the bedroom.
+6 How many objects is Johnson carrying? 	none	1 2
+7 Sandy journeyed to the garden.
+8 Tony went to the garden.
+9 How many objects is Johnson carrying? 	none	1 2
+10 Tony went back to the bedroom.
+11 Johnson took the football there.
+12 How many objects is Johnson carrying? 	one	1 2 11
+13 Johnson moved to the kitchen.
+14 Sandy moved to the office.
+15 How many objects is Johnson carrying? 	one	1 2 11
+1 Tony went back to the garden.
+2 Tony journeyed to the kitchen.
+3 Tim journeyed to the office.
+4 Johnson went to the bedroom.
+5 Johnson picked up the football there.
+6 Sandy journeyed to the office.
+7 How many objects is Johnson carrying? 	one	5
+8 Tim went to the hallway.
+9 Johnson took the milk there.
+10 How many objects is Johnson carrying? 	two	5 9
+11 Tony travelled to the hallway.
+12 Johnson journeyed to the kitchen.
+13 How many objects is Johnson carrying? 	two	5 9
+14 Johnson dropped the football.
+15 Tony travelled to the garden.
+16 How many objects is Johnson carrying? 	one	5 9 14
+17 Tony took the apple there.
+18 Tony put down the apple.
+19 How many objects is Johnson carrying? 	one	5 9 14
+1 Sandy moved to the garden.
+2 Sandy picked up the football there.
+3 How many objects is Sandy carrying? 	one	2
+4 Sandy discarded the football there.
+5 Johnson journeyed to the hallway.
+6 How many objects is Sandy carrying? 	none	2 4
+7 Tim grabbed the milk there.
+8 Johnson went back to the bedroom.
+9 How many objects is Sandy carrying? 	none	2 4
+10 Tony went back to the office.
+11 Sandy went back to the bathroom.
+12 How many objects is Tim carrying? 	one	7
+13 Tony moved to the hallway.
+14 Tim handed the milk to Sandy.
+15 How many objects is Tim carrying? 	none	7 14
+1 Sandy travelled to the garden.
+2 Sandy travelled to the bedroom.
+3 Tim travelled to the bathroom.
+4 Johnson got the milk there.
+5 How many objects is Johnson carrying? 	one	4
+6 Johnson passed the milk to Tony.
+7 Johnson went to the bedroom.
+8 How many objects is Johnson carrying? 	none	4 6
+9 Tim went back to the bedroom.
+10 Tony dropped the milk.
+11 How many objects is Johnson carrying? 	none	4 6
+12 Tony went back to the bathroom.
+13 Sandy moved to the garden.
+14 How many objects is Tony carrying? 	none	6 10
+15 Sandy travelled to the hallway.
+16 Sandy went back to the bathroom.
+17 How many objects is Tony carrying? 	none	6 10
+1 Tony picked up the apple there.
+2 Johnson went to the hallway.
+3 How many objects is Tony carrying? 	one	1
+4 Johnson travelled to the bedroom.
+5 Tony left the apple.
+6 How many objects is Tony carrying? 	none	1 5
+7 Johnson travelled to the kitchen.
+8 Tim took the football there.
+9 How many objects is Tim carrying? 	one	8
+10 Sandy moved to the garden.
+11 Tim put down the football.
+12 How many objects is Tim carrying? 	none	8 11
+13 Sandy journeyed to the office.
+14 Sandy moved to the garden.
+15 How many objects is Tim carrying? 	none	8 11
+1 Johnson went back to the hallway.
+2 Tim went back to the office.
+3 Sandy went back to the kitchen.
+4 Sandy travelled to the bathroom.
+5 Sandy got the milk there.
+6 Sandy left the milk.
+7 How many objects is Sandy carrying? 	none	5 6
+8 Tony went to the bedroom.
+9 Tony went to the bathroom.
+10 How many objects is Sandy carrying? 	none	5 6
+11 Tony got the milk there.
+12 Tony dropped the milk.
+13 How many objects is Sandy carrying? 	none	5 6
+14 Johnson journeyed to the bathroom.
+15 Tony went back to the office.
+16 How many objects is Tony carrying? 	none	11 12
+17 Johnson journeyed to the office.
+18 Tim travelled to the hallway.
+19 How many objects is Tony carrying? 	none	11 12
+1 Sandy went to the office.
+2 Tim travelled to the kitchen.
+3 Johnson grabbed the apple there.
+4 Johnson handed the apple to Sandy.
+5 How many objects is Johnson carrying? 	none	3 4
+6 Tim travelled to the hallway.
+7 Johnson went back to the garden.
+8 How many objects is Johnson carrying? 	none	3 4
+9 Sandy grabbed the football there.
+10 Sandy passed the apple to Tony.
+11 How many objects is Johnson carrying? 	none	3 4
+12 Tony passed the apple to Sandy.
+13 Sandy passed the apple to Tony.
+14 How many objects is Tony carrying? 	one	10 12 13
+15 Sandy left the football.
+16 Tony gave the apple to Sandy.
+17 How many objects is Tony carrying? 	none	10 12 13 16
+1 Tim journeyed to the office.
+2 Tim went back to the bathroom.
+3 Johnson got the milk there.
+4 Sandy moved to the hallway.
+5 How many objects is Johnson carrying? 	one	3
+6 Tim took the football there.
+7 Tim journeyed to the hallway.
+8 How many objects is Johnson carrying? 	one	3
+9 Johnson moved to the hallway.
+10 Tim passed the football to Johnson.
+11 How many objects is Tim carrying? 	none	6 10
+12 Johnson handed the football to Tim.
+13 Sandy travelled to the bedroom.
+14 How many objects is Johnson carrying? 	one	3 10 12
+15 Sandy journeyed to the office.
+16 Tony went to the office.
+17 How many objects is Tim carrying? 	one	6 10 12
+1 Tony journeyed to the hallway.
+2 Tony journeyed to the garden.
+3 Tim went back to the kitchen.
+4 Johnson took the apple there.
+5 How many objects is Johnson carrying? 	one	4
+6 Johnson moved to the garden.
+7 Tony went back to the office.
+8 How many objects is Johnson carrying? 	one	4
+9 Johnson travelled to the hallway.
+10 Johnson put down the apple.
+11 How many objects is Johnson carrying? 	none	4 10
+12 Tony took the football there.
+13 Sandy travelled to the office.
+14 How many objects is Johnson carrying? 	none	4 10
+15 Tony gave the football to Sandy.
+16 Sandy gave the football to Tony.
+17 How many objects is Tony carrying? 	one	12 15 16
+1 Tim travelled to the bedroom.
+2 Tim journeyed to the office.
+3 Sandy grabbed the milk there.
+4 Johnson went back to the garden.
+5 How many objects is Sandy carrying? 	one	3
+6 Sandy moved to the garden.
+7 Sandy handed the milk to Johnson.
+8 How many objects is Sandy carrying? 	none	3 7
+9 Johnson travelled to the kitchen.
+10 Tim moved to the hallway.
+11 How many objects is Sandy carrying? 	none	3 7
+12 Sandy moved to the hallway.
+13 Tony moved to the kitchen.
+14 How many objects is Sandy carrying? 	none	3 7
+15 Johnson gave the milk to Tony.
+16 Tony discarded the milk.
+17 How many objects is Johnson carrying? 	none	7 15
+1 Johnson journeyed to the bathroom.
+2 Tim travelled to the office.
+3 Sandy went back to the bathroom.
+4 Johnson went to the bedroom.
+5 Tim went to the hallway.
+6 Tim took the apple there.
+7 How many objects is Tim carrying? 	one	6
+8 Sandy went to the kitchen.
+9 Sandy picked up the football there.
+10 How many objects is Tim carrying? 	one	6
+11 Johnson travelled to the office.
+12 Sandy dropped the football.
+13 How many objects is Sandy carrying? 	none	9 12
+14 Tim dropped the apple.
+15 Sandy went to the bathroom.
+16 How many objects is Sandy carrying? 	none	9 12
+17 Sandy went back to the kitchen.
+18 Sandy grabbed the football there.
+19 How many objects is Sandy carrying? 	one	9 12 18
+1 Sandy went to the office.
+2 Sandy grabbed the football there.
+3 How many objects is Sandy carrying? 	one	2
+4 Tim journeyed to the bedroom.
+5 Tim went to the bathroom.
+6 How many objects is Sandy carrying? 	one	2
+7 Sandy went back to the bedroom.
+8 Johnson grabbed the milk there.
+9 How many objects is Sandy carrying? 	one	2
+10 Sandy passed the football to Johnson.
+11 Johnson put down the milk there.
+12 How many objects is Sandy carrying? 	none	2 10
+13 Johnson picked up the milk there.
+14 Johnson passed the football to Sandy.
+15 How many objects is Johnson carrying? 	one	8 10 11 13 14
+1 Tony travelled to the bedroom.
+2 Sandy went to the kitchen.
+3 Sandy went back to the garden.
+4 Tim went back to the kitchen.
+5 Tony went to the kitchen.
+6 Tim picked up the apple there.
+7 How many objects is Tim carrying? 	one	6
+8 Tony journeyed to the bathroom.
+9 Sandy went to the kitchen.
+10 How many objects is Tim carrying? 	one	6
+11 Sandy took the football there.
+12 Sandy travelled to the bathroom.
+13 How many objects is Tim carrying? 	one	6
+14 Sandy put down the football.
+15 Tony moved to the office.
+16 How many objects is Sandy carrying? 	none	11 14
+17 Tim journeyed to the bathroom.
+18 Tim handed the apple to Sandy.
+19 How many objects is Sandy carrying? 	one	11 14 18
+1 Tony travelled to the garden.
+2 Sandy went to the hallway.
+3 Sandy picked up the apple there.
+4 Johnson went to the garden.
+5 How many objects is Sandy carrying? 	one	3
+6 Johnson journeyed to the bathroom.
+7 Johnson moved to the office.
+8 How many objects is Sandy carrying? 	one	3
+9 Sandy moved to the office.
+10 Tony got the milk there.
+11 How many objects is Tony carrying? 	one	10
+12 Sandy got the football there.
+13 Sandy handed the apple to Johnson.
+14 How many objects is Tony carrying? 	one	10
+15 Tim went to the bathroom.
+16 Sandy travelled to the bathroom.
+17 How many objects is Tony carrying? 	one	10
+1 Johnson moved to the bedroom.
+2 Johnson went back to the kitchen.
+3 Tim journeyed to the kitchen.
+4 Tony went to the bathroom.
+5 Johnson went back to the hallway.
+6 Tony took the milk there.
+7 How many objects is Tony carrying? 	one	6
+8 Sandy moved to the bathroom.
+9 Tim went back to the hallway.
+10 How many objects is Tony carrying? 	one	6
+11 Tony moved to the office.
+12 Tim went to the office.
+13 How many objects is Tony carrying? 	one	6
+14 Tim got the apple there.
+15 Tony discarded the milk.
+16 How many objects is Tony carrying? 	none	6 15
+17 Tony travelled to the garden.
+18 Johnson moved to the garden.
+19 How many objects is Tony carrying? 	none	6 15
+1 Sandy got the apple there.
+2 Sandy gave the apple to Tony.
+3 How many objects is Sandy carrying? 	none	1 2
+4 Tim went back to the bathroom.
+5 Sandy took the football there.
+6 How many objects is Sandy carrying? 	one	1 2 5
+7 Tim went to the garden.
+8 Johnson moved to the garden.
+9 How many objects is Sandy carrying? 	one	1 2 5
+10 Tony gave the apple to Sandy.
+11 Sandy left the football.
+12 How many objects is Sandy carrying? 	one	1 2 5 10 11
+13 Tony went to the office.
+14 Sandy discarded the apple there.
+15 How many objects is Sandy carrying? 	none	1 2 5 10 11 14
+1 Sandy travelled to the office.
+2 Sandy picked up the apple there.
+3 How many objects is Sandy carrying? 	one	2
+4 Johnson picked up the football there.
+5 Sandy gave the apple to Tony.
+6 How many objects is Sandy carrying? 	none	2 5
+7 Tony dropped the apple.
+8 Tony took the apple there.
+9 How many objects is Tony carrying? 	one	5 7 8
+10 Tony handed the apple to Sandy.
+11 Sandy gave the apple to Tony.
+12 How many objects is Tony carrying? 	one	5 7 8 10 11
+13 Johnson went back to the bathroom.
+14 Johnson moved to the hallway.
+15 How many objects is Tony carrying? 	one	5 7 8 10 11
+1 Tony travelled to the bathroom.
+2 Tim went back to the bedroom.
+3 Tim went back to the hallway.
+4 Johnson got the apple there.
+5 How many objects is Johnson carrying? 	one	4
+6 Tony went to the hallway.
+7 Tim moved to the kitchen.
+8 How many objects is Johnson carrying? 	one	4
+9 Johnson put down the apple.
+10 Johnson travelled to the garden.
+11 How many objects is Johnson carrying? 	none	4 9
+12 Tim moved to the office.
+13 Tony moved to the garden.
+14 How many objects is Johnson carrying? 	none	4 9
+15 Johnson went to the bathroom.
+16 Sandy journeyed to the hallway.
+17 Tony went to the office.
+18 Johnson picked up the apple there.
+19 How many objects is Johnson carrying? 	one	4 9 18
+1 Sandy went to the hallway.
+2 Johnson went to the garden.
+3 Johnson moved to the hallway.
+4 Johnson went back to the bathroom.
+5 Johnson got the apple there.
+6 Tony went to the bathroom.
+7 How many objects is Johnson carrying? 	one	5
+8 Johnson handed the apple to Tony.
+9 Tony passed the apple to Johnson.
+10 How many objects is Johnson carrying? 	one	5 8 9
+11 Tony went to the garden.
+12 Sandy moved to the bathroom.
+13 How many objects is Tony carrying? 	none	8 9
+14 Johnson journeyed to the bedroom.
+15 Tony went back to the hallway.
+16 How many objects is Tony carrying? 	none	8 9
+17 Johnson picked up the football there.
+18 Johnson travelled to the office.
+19 How many objects is Johnson carrying? 	two	5 8 9 17
+1 Johnson moved to the garden.
+2 Sandy grabbed the apple there.
+3 How many objects is Sandy carrying? 	one	2
+4 Tim travelled to the hallway.
+5 Johnson went back to the bedroom.
+6 How many objects is Sandy carrying? 	one	2
+7 Sandy moved to the garden.
+8 Sandy dropped the apple.
+9 How many objects is Sandy carrying? 	none	2 8
+10 Sandy travelled to the bathroom.
+11 Tony moved to the kitchen.
+12 How many objects is Sandy carrying? 	none	2 8
+13 Sandy journeyed to the office.
+14 Johnson went back to the garden.
+15 How many objects is Sandy carrying? 	none	2 8
+1 Sandy went to the hallway.
+2 Tim travelled to the kitchen.
+3 Tony journeyed to the hallway.
+4 Johnson took the apple there.
+5 How many objects is Johnson carrying? 	one	4
+6 Johnson left the apple.
+7 Tim got the milk there.
+8 How many objects is Tim carrying? 	one	7
+9 Tim put down the milk.
+10 Johnson went to the bedroom.
+11 How many objects is Johnson carrying? 	none	4 6
+12 Sandy travelled to the bedroom.
+13 Johnson grabbed the football there.
+14 How many objects is Tim carrying? 	none	7 9
+15 Johnson passed the football to Sandy.
+16 Johnson went back to the hallway.
+17 How many objects is Johnson carrying? 	none	4 6 13 15
+1 Tony moved to the bedroom.
+2 Tim moved to the hallway.
+3 Tim went back to the kitchen.
+4 Tim journeyed to the garden.
+5 Tony went to the garden.
+6 Tony took the apple there.
+7 How many objects is Tony carrying? 	one	6
+8 Sandy travelled to the kitchen.
+9 Sandy travelled to the garden.
+10 How many objects is Tony carrying? 	one	6
+11 Tony passed the apple to Tim.
+12 Johnson moved to the bedroom.
+13 How many objects is Tony carrying? 	none	6 11
+14 Tim went back to the kitchen.
+15 Tim discarded the apple.
+16 How many objects is Tim carrying? 	none	11 15
+17 Johnson travelled to the hallway.
+18 Johnson went to the office.
+19 How many objects is Tim carrying? 	none	11 15
+1 Tim journeyed to the kitchen.
+2 Johnson took the apple there.
+3 How many objects is Johnson carrying? 	one	2
+4 Johnson passed the apple to Tim.
+5 Tim handed the apple to Johnson.
+6 How many objects is Tim carrying? 	none	4 5
+7 Johnson passed the apple to Tim.
+8 Tim handed the apple to Johnson.
+9 How many objects is Tim carrying? 	none	4 5 7 8
+10 Johnson handed the apple to Tim.
+11 Tim went back to the bedroom.
+12 How many objects is Tim carrying? 	one	4 5 7 8 10
+13 Tim gave the apple to Sandy.
+14 Sandy travelled to the office.
+15 How many objects is Tim carrying? 	none	4 5 7 8 10 13
+1 Tony went back to the hallway.
+2 Tim journeyed to the kitchen.
+3 Tim grabbed the apple there.
+4 Tim moved to the office.
+5 How many objects is Tim carrying? 	one	3
+6 Tim handed the apple to Sandy.
+7 Sandy passed the apple to Tim.
+8 How many objects is Sandy carrying? 	none	6 7
+9 Johnson went back to the garden.
+10 Sandy took the football there.
+11 How many objects is Sandy carrying? 	one	6 7 10
+12 Tony moved to the bathroom.
+13 Tim passed the apple to Sandy.
+14 How many objects is Tim carrying? 	none	3 6 7 13
+15 Tim picked up the milk there.
+16 Johnson moved to the kitchen.
+17 How many objects is Tim carrying? 	one	3 6 7 13 15
+1 Tim travelled to the bedroom.
+2 Johnson travelled to the garden.
+3 Tim journeyed to the bathroom.
+4 Sandy went back to the bathroom.
+5 Sandy moved to the hallway.
+6 Johnson moved to the office.
+7 Tim got the milk there.
+8 Sandy went to the bedroom.
+9 How many objects is Tim carrying? 	one	7
+10 Tony went back to the bedroom.
+11 Tony got the apple there.
+12 How many objects is Tony carrying? 	one	11
+13 Tony passed the apple to Sandy.
+14 Sandy moved to the kitchen.
+15 How many objects is Tony carrying? 	none	11 13
+16 Tim went to the bedroom.
+17 Tim handed the milk to Tony.
+18 How many objects is Tony carrying? 	one	11 13 17
+19 Sandy journeyed to the office.
+20 Sandy moved to the hallway.
+21 How many objects is Tim carrying? 	none	7 17
+1 Sandy picked up the football there.
+2 Johnson went back to the bathroom.
+3 How many objects is Sandy carrying? 	one	1
+4 Tony journeyed to the bedroom.
+5 Tony journeyed to the kitchen.
+6 How many objects is Sandy carrying? 	one	1
+7 Sandy passed the football to Tony.
+8 Tony passed the football to Sandy.
+9 How many objects is Sandy carrying? 	one	1 7 8
+10 Johnson journeyed to the kitchen.
+11 Johnson went to the bedroom.
+12 How many objects is Sandy carrying? 	one	1 7 8
+13 Sandy gave the football to Tony.
+14 Tony passed the football to Sandy.
+15 How many objects is Tony carrying? 	none	7 8 13 14
+1 Johnson took the milk there.
+2 Tony travelled to the garden.
+3 How many objects is Johnson carrying? 	one	1
+4 Sandy journeyed to the office.
+5 Tim journeyed to the hallway.
+6 How many objects is Johnson carrying? 	one	1
+7 Johnson gave the milk to Tim.
+8 Tim passed the milk to Johnson.
+9 How many objects is Johnson carrying? 	one	1 7 8
+10 Tim went to the kitchen.
+11 Tim moved to the office.
+12 How many objects is Johnson carrying? 	one	1 7 8
+13 Sandy went back to the garden.
+14 Tim moved to the hallway.
+15 How many objects is Tim carrying? 	none	7 8
+1 Sandy went to the bedroom.
+2 Johnson picked up the football there.
+3 How many objects is Johnson carrying? 	one	2
+4 Johnson went back to the bathroom.
+5 Johnson put down the football there.
+6 How many objects is Johnson carrying? 	none	2 5
+7 Johnson picked up the football there.
+8 Johnson dropped the football.
+9 How many objects is Johnson carrying? 	none	2 5 7 8
+10 Tim travelled to the garden.
+11 Tony went to the office.
+12 How many objects is Johnson carrying? 	none	2 5 7 8
+13 Tony picked up the milk there.
+14 Tim went to the kitchen.
+15 How many objects is Johnson carrying? 	none	2 5 7 8
+1 Tim took the apple there.
+2 Sandy went back to the office.
+3 How many objects is Tim carrying? 	one	1
+4 Tim put down the apple.
+5 Johnson moved to the office.
+6 How many objects is Tim carrying? 	none	1 4
+7 Tony went to the kitchen.
+8 Johnson journeyed to the garden.
+9 How many objects is Tim carrying? 	none	1 4
+10 Tony moved to the bathroom.
+11 Sandy journeyed to the kitchen.
+12 Johnson journeyed to the hallway.
+13 Tim got the apple there.
+14 How many objects is Tim carrying? 	one	1 4 13
+15 Tim discarded the apple there.
+16 Johnson journeyed to the garden.
+17 How many objects is Tim carrying? 	none	1 4 13 15
+1 Tim went back to the garden.
+2 Sandy journeyed to the hallway.
+3 Tim went to the office.
+4 Sandy journeyed to the bedroom.
+5 Sandy grabbed the football there.
+6 Tim journeyed to the kitchen.
+7 How many objects is Sandy carrying? 	one	5
+8 Sandy took the milk there.
+9 Sandy dropped the milk.
+10 How many objects is Sandy carrying? 	one	5 8 9
+11 Tim travelled to the office.
+12 Tony went to the garden.
+13 How many objects is Sandy carrying? 	one	5 8 9
+14 Tony went back to the office.
+15 Sandy went to the hallway.
+16 How many objects is Sandy carrying? 	one	5 8 9
+17 Sandy grabbed the apple there.
+18 Johnson moved to the bedroom.
+19 How many objects is Sandy carrying? 	two	5 8 9 17
+1 Tony got the milk there.
+2 Sandy moved to the bathroom.
+3 How many objects is Tony carrying? 	one	1
+4 Sandy travelled to the office.
+5 Tony gave the milk to Johnson.
+6 How many objects is Tony carrying? 	none	1 5
+7 Johnson discarded the milk there.
+8 Johnson went back to the garden.
+9 How many objects is Johnson carrying? 	none	5 7
+10 Sandy went to the kitchen.
+11 Sandy went back to the bathroom.
+12 How many objects is Tony carrying? 	none	1 5
+13 Johnson went to the kitchen.
+14 Tony picked up the milk there.
+15 How many objects is Tony carrying? 	one	1 5 14
+1 Tim journeyed to the bedroom.
+2 Tony went back to the hallway.
+3 Tim moved to the hallway.
+4 Tim went back to the office.
+5 Tim went back to the bathroom.
+6 Sandy went to the bedroom.
+7 Tim went to the kitchen.
+8 Tony went back to the garden.
+9 Tony journeyed to the bedroom.
+10 Johnson moved to the kitchen.
+11 Tony went back to the kitchen.
+12 Johnson travelled to the garden.
+13 Johnson moved to the kitchen.
+14 Tony went back to the garden.
+15 Johnson moved to the garden.
+16 Sandy went back to the hallway.
+17 Sandy travelled to the office.
+18 Sandy took the football there.
+19 How many objects is Sandy carrying? 	one	18
+20 Sandy discarded the football.
+21 Johnson went to the hallway.
+22 How many objects is Sandy carrying? 	none	18 20
+23 Sandy picked up the apple there.
+24 Tim journeyed to the hallway.
+25 How many objects is Sandy carrying? 	one	18 20 23
+26 Sandy went to the kitchen.
+27 Johnson went to the office.
+28 How many objects is Sandy carrying? 	one	18 20 23
+29 Johnson went back to the bedroom.
+30 Tim journeyed to the office.
+31 Johnson went back to the garden.
+32 Sandy travelled to the garden.
+33 Sandy discarded the apple there.
+34 Tony grabbed the apple there.
+35 How many objects is Tony carrying? 	one	34
+1 Johnson went back to the hallway.
+2 Tim travelled to the hallway.
+3 Sandy went back to the office.
+4 Sandy went back to the bedroom.
+5 Tim moved to the kitchen.
+6 Tim went to the bedroom.
+7 Tony journeyed to the kitchen.
+8 Sandy moved to the bathroom.
+9 Sandy went back to the bedroom.
+10 Tony travelled to the hallway.
+11 Johnson went to the garden.
+12 Tony travelled to the kitchen.
+13 Tim went back to the bathroom.
+14 Tony went to the bathroom.
+15 Tony picked up the milk there.
+16 Tony gave the milk to Tim.
+17 How many objects is Tony carrying? 	none	15 16
+18 Tim handed the milk to Tony.
+19 Johnson got the apple there.
+20 How many objects is Tim carrying? 	none	16 18
+21 Tony left the milk.
+22 Johnson discarded the apple.
+23 How many objects is Tony carrying? 	none	15 16 18 21
+24 Tim picked up the milk there.
+25 Johnson went to the kitchen.
+26 How many objects is Tony carrying? 	none	15 16 18 21
+27 Tony went back to the garden.
+28 Tony moved to the bedroom.
+29 How many objects is Tim carrying? 	one	16 18 24
+1 Sandy grabbed the milk there.
+2 Sandy went to the garden.
+3 How many objects is Sandy carrying? 	one	1
+4 Sandy handed the milk to Johnson.
+5 Johnson gave the milk to Sandy.
+6 How many objects is Sandy carrying? 	one	1 4 5
+7 Sandy travelled to the bathroom.
+8 Tony went to the hallway.
+9 How many objects is Sandy carrying? 	one	1 4 5
+10 Sandy discarded the milk.
+11 Sandy took the milk there.
+12 How many objects is Sandy carrying? 	one	1 4 5 10 11
+13 Sandy left the milk.
+14 Tim moved to the kitchen.
+15 How many objects is Sandy carrying? 	none	1 4 5 10 11 13
+1 Tim went to the kitchen.
+2 Johnson journeyed to the garden.
+3 Sandy went back to the kitchen.
+4 Sandy moved to the bathroom.
+5 Tony moved to the hallway.
+6 Tony travelled to the garden.
+7 Johnson got the milk there.
+8 Tim journeyed to the garden.
+9 How many objects is Johnson carrying? 	one	7
+10 Johnson put down the milk there.
+11 Tony got the milk there.
+12 How many objects is Johnson carrying? 	none	7 10
+13 Tony gave the milk to Johnson.
+14 Sandy journeyed to the hallway.
+15 How many objects is Tony carrying? 	none	11 13
+16 Johnson passed the milk to Tim.
+17 Tim passed the milk to Johnson.
+18 How many objects is Johnson carrying? 	one	7 10 13 16 17
+19 Tony travelled to the office.
+20 Johnson moved to the kitchen.
+21 How many objects is Tim carrying? 	none	16 17
+1 Sandy moved to the bedroom.
+2 Tim got the football there.
+3 How many objects is Tim carrying? 	one	2
+4 Tony went back to the garden.
+5 Tim travelled to the kitchen.
+6 How many objects is Tim carrying? 	one	2
+7 Tim dropped the football.
+8 Johnson travelled to the hallway.
+9 How many objects is Tim carrying? 	none	2 7
+10 Tim went back to the garden.
+11 Tim journeyed to the hallway.
+12 How many objects is Tim carrying? 	none	2 7
+13 Tony journeyed to the bathroom.
+14 Tony grabbed the apple there.
+15 How many objects is Tony carrying? 	one	14
+1 Tim moved to the kitchen.
+2 Sandy grabbed the apple there.
+3 How many objects is Sandy carrying? 	one	2
+4 Johnson went back to the hallway.
+5 Tony went back to the kitchen.
+6 How many objects is Sandy carrying? 	one	2
+7 Sandy went back to the office.
+8 Johnson travelled to the garden.
+9 How many objects is Sandy carrying? 	one	2
+10 Tony journeyed to the office.
+11 Tony moved to the kitchen.
+12 Johnson went back to the bathroom.
+13 Johnson picked up the milk there.
+14 How many objects is Johnson carrying? 	one	13
+15 Johnson journeyed to the office.
+16 Sandy left the apple.
+17 How many objects is Johnson carrying? 	one	13
+1 Johnson went back to the bedroom.
+2 Tony moved to the bedroom.
+3 Tim moved to the office.
+4 Tony moved to the office.
+5 Tony travelled to the hallway.
+6 Tim picked up the apple there.
+7 How many objects is Tim carrying? 	one	6
+8 Johnson picked up the football there.
+9 Tony went to the bedroom.
+10 How many objects is Johnson carrying? 	one	8
+11 Johnson handed the football to Tony.
+12 Tony went to the bathroom.
+13 How many objects is Johnson carrying? 	none	8 11
+14 Tim dropped the apple.
+15 Tony took the milk there.
+16 How many objects is Johnson carrying? 	none	8 11
+17 Johnson moved to the office.
+18 Johnson picked up the apple there.
+19 How many objects is Tim carrying? 	none	6 14
+1 Sandy journeyed to the garden.
+2 Johnson journeyed to the hallway.
+3 Tim went back to the office.
+4 Tony journeyed to the hallway.
+5 Tony grabbed the milk there.
+6 Tony put down the milk.
+7 How many objects is Tony carrying? 	none	5 6
+8 Tony got the milk there.
+9 Tony travelled to the bedroom.
+10 How many objects is Tony carrying? 	one	5 6 8
+11 Tim picked up the football there.
+12 Tony went to the garden.
+13 How many objects is Tony carrying? 	one	5 6 8
+14 Tony went back to the bathroom.
+15 Johnson moved to the bathroom.
+16 How many objects is Tim carrying? 	one	11
+17 Tony grabbed the apple there.
+18 Tony gave the apple to Johnson.
+19 How many objects is Tony carrying? 	one	5 6 8 17 18
+1 Tony got the football there.
+2 Tony went to the garden.
+3 How many objects is Tony carrying? 	one	1
+4 Tony discarded the football.
+5 Tim travelled to the bathroom.
+6 How many objects is Tony carrying? 	none	1 4
+7 Sandy journeyed to the office.
+8 Tim went back to the garden.
+9 How many objects is Tony carrying? 	none	1 4
+10 Johnson travelled to the garden.
+11 Tony picked up the football there.
+12 How many objects is Tony carrying? 	one	1 4 11
+13 Tony passed the football to Johnson.
+14 Johnson dropped the football there.
+15 How many objects is Johnson carrying? 	none	13 14
+1 Tim picked up the apple there.
+2 Sandy went to the kitchen.
+3 How many objects is Tim carrying? 	one	1
+4 Tony grabbed the football there.
+5 Sandy journeyed to the garden.
+6 How many objects is Tim carrying? 	one	1
+7 Tim left the apple.
+8 Sandy went to the kitchen.
+9 How many objects is Tony carrying? 	one	4
+10 Tony discarded the football.
+11 Johnson went to the garden.
+12 How many objects is Tony carrying? 	none	4 10
+13 Tim went to the garden.
+14 Tony went to the kitchen.
+15 How many objects is Tony carrying? 	none	4 10
+1 Sandy journeyed to the bedroom.
+2 Tim travelled to the hallway.
+3 Johnson moved to the garden.
+4 Sandy travelled to the hallway.
+5 Tony moved to the bathroom.
+6 Tim went back to the garden.
+7 Tim got the apple there.
+8 Sandy journeyed to the bathroom.
+9 How many objects is Tim carrying? 	one	7
+10 Tony went back to the hallway.
+11 Tim left the apple.
+12 How many objects is Tim carrying? 	none	7 11
+13 Tony moved to the office.
+14 Johnson journeyed to the bedroom.
+15 How many objects is Tim carrying? 	none	7 11
+16 Sandy picked up the milk there.
+17 Tim got the apple there.
+18 How many objects is Tim carrying? 	one	7 11 17
+19 Tim discarded the apple.
+20 Tim grabbed the apple there.
+21 How many objects is Sandy carrying? 	one	16
+1 Johnson went to the office.
+2 Sandy picked up the apple there.
+3 How many objects is Sandy carrying? 	one	2
+4 Tony journeyed to the bedroom.
+5 Tony got the milk there.
+6 How many objects is Tony carrying? 	one	5
+7 Tony dropped the milk.
+8 Sandy put down the apple.
+9 How many objects is Sandy carrying? 	none	2 8
+10 Johnson journeyed to the kitchen.
+11 Sandy picked up the milk there.
+12 How many objects is Tony carrying? 	none	5 7
+13 Sandy gave the milk to Tony.
+14 Johnson went back to the bedroom.
+15 How many objects is Sandy carrying? 	none	2 8 11 13
+1 Johnson picked up the milk there.
+2 Johnson handed the milk to Tim.
+3 How many objects is Johnson carrying? 	none	1 2
+4 Tim put down the milk there.
+5 Tim journeyed to the garden.
+6 How many objects is Johnson carrying? 	none	1 2
+7 Johnson went back to the bedroom.
+8 Johnson journeyed to the garden.
+9 How many objects is Johnson carrying? 	none	1 2
+10 Sandy moved to the garden.
+11 Tony picked up the milk there.
+12 How many objects is Tony carrying? 	one	11
+13 Tony dropped the milk.
+14 Sandy went back to the kitchen.
+15 How many objects is Tony carrying? 	none	11 13
+1 Johnson grabbed the apple there.
+2 Tony took the football there.
+3 How many objects is Johnson carrying? 	one	1
+4 Tony moved to the bathroom.
+5 Tony put down the football.
+6 How many objects is Tony carrying? 	none	2 5
+7 Sandy moved to the hallway.
+8 Johnson handed the apple to Sandy.
+9 How many objects is Tony carrying? 	none	2 5
+10 Sandy journeyed to the garden.
+11 Sandy travelled to the office.
+12 How many objects is Tony carrying? 	none	2 5
+13 Sandy went back to the bathroom.
+14 Sandy gave the apple to Tim.
+15 How many objects is Johnson carrying? 	none	1 8
+1 Tim travelled to the bedroom.
+2 Johnson went back to the office.
+3 Johnson picked up the football there.
+4 Tony went back to the garden.
+5 How many objects is Johnson carrying? 	one	3
+6 Sandy moved to the kitchen.
+7 Tim got the apple there.
+8 How many objects is Johnson carrying? 	one	3
+9 Sandy went to the bedroom.
+10 Johnson journeyed to the bedroom.
+11 How many objects is Tim carrying? 	one	7
+12 Tim handed the apple to Johnson.
+13 Johnson discarded the football.
+14 How many objects is Tim carrying? 	none	7 12
+15 Johnson moved to the garden.
+16 Johnson gave the apple to Tony.
+17 How many objects is Tim carrying? 	none	7 12
+1 Tony got the milk there.
+2 Johnson moved to the bathroom.
+3 How many objects is Tony carrying? 	one	1
+4 Tim went to the bedroom.
+5 Sandy moved to the kitchen.
+6 How many objects is Tony carrying? 	one	1
+7 Sandy got the football there.
+8 Johnson travelled to the bedroom.
+9 How many objects is Sandy carrying? 	one	7
+10 Johnson went to the bathroom.
+11 Johnson went back to the hallway.
+12 How many objects is Sandy carrying? 	one	7
+13 Sandy moved to the bedroom.
+14 Sandy handed the football to Tim.
+15 How many objects is Sandy carrying? 	none	7 14
+1 Johnson grabbed the apple there.
+2 Sandy grabbed the milk there.
+3 How many objects is Johnson carrying? 	one	1
+4 Tim got the football there.
+5 Johnson put down the apple.
+6 How many objects is Johnson carrying? 	none	1 5
+7 Johnson journeyed to the bathroom.
+8 Tim put down the football.
+9 How many objects is Tim carrying? 	none	4 8
+10 Sandy passed the milk to Johnson.
+11 Johnson left the milk there.
+12 How many objects is Johnson carrying? 	none	1 5 10 11
+13 Sandy got the milk there.
+14 Sandy left the milk.
+15 How many objects is Sandy carrying? 	none	2 10 13 14
+1 Tim moved to the garden.
+2 Tony journeyed to the hallway.
+3 Johnson picked up the football there.
+4 Johnson journeyed to the garden.
+5 How many objects is Johnson carrying? 	one	3
+6 Johnson handed the football to Tim.
+7 Tim handed the football to Johnson.
+8 How many objects is Johnson carrying? 	one	3 6 7
+9 Johnson moved to the hallway.
+10 Johnson gave the football to Tony.
+11 How many objects is Johnson carrying? 	none	3 6 7 10
+12 Sandy went back to the kitchen.
+13 Tony passed the football to Johnson.
+14 How many objects is Tim carrying? 	none	6 7
+15 Johnson passed the football to Tony.
+16 Tim went back to the hallway.
+17 How many objects is Tony carrying? 	one	10 13 15
+1 Johnson went back to the bedroom.
+2 Johnson went to the bathroom.
+3 Tim went back to the office.
+4 Sandy moved to the kitchen.
+5 Sandy grabbed the football there.
+6 Tony moved to the hallway.
+7 How many objects is Sandy carrying? 	one	5
+8 Tony moved to the garden.
+9 Sandy dropped the football.
+10 How many objects is Sandy carrying? 	none	5 9
+11 Tony picked up the apple there.
+12 Sandy picked up the football there.
+13 How many objects is Sandy carrying? 	one	5 9 12
+14 Sandy left the football there.
+15 Tim journeyed to the bedroom.
+16 How many objects is Sandy carrying? 	none	5 9 12 14
+17 Johnson journeyed to the office.
+18 Sandy picked up the football there.
+19 How many objects is Sandy carrying? 	one	5 9 12 14 18
+1 Johnson went back to the hallway.
+2 Tony went to the hallway.
+3 Tim went back to the kitchen.
+4 Johnson went to the bedroom.
+5 Tony moved to the garden.
+6 Tim got the apple there.
+7 How many objects is Tim carrying? 	one	6
+8 Tim handed the apple to Sandy.
+9 Tim got the football there.
+10 How many objects is Tim carrying? 	one	6 8 9
+11 Sandy handed the apple to Tim.
+12 Tim gave the apple to Sandy.
+13 How many objects is Sandy carrying? 	one	8 11 12
+14 Johnson went to the office.
+15 Sandy gave the apple to Tim.
+16 How many objects is Sandy carrying? 	none	8 11 12 15
+17 Tim gave the apple to Sandy.
+18 Sandy went back to the office.
+19 How many objects is Tim carrying? 	one	6 8 9 11 12 15 17
+1 Tony travelled to the hallway.
+2 Tony picked up the milk there.
+3 How many objects is Tony carrying? 	one	2
+4 Sandy took the football there.
+5 Sandy moved to the kitchen.
+6 How many objects is Tony carrying? 	one	2
+7 Johnson picked up the apple there.
+8 Tony handed the milk to Tim.
+9 How many objects is Tony carrying? 	none	2 8
+10 Tim handed the milk to Tony.
+11 Tim journeyed to the office.
+12 How many objects is Johnson carrying? 	one	7
+13 Johnson gave the apple to Tim.
+14 Tony travelled to the bathroom.
+15 How many objects is Johnson carrying? 	none	7 13
+1 Johnson went to the bedroom.
+2 Sandy went to the hallway.
+3 Tim went to the hallway.
+4 Sandy got the milk there.
+5 How many objects is Sandy carrying? 	one	4
+6 Sandy gave the milk to Tim.
+7 Johnson moved to the kitchen.
+8 How many objects is Sandy carrying? 	none	4 6
+9 Sandy picked up the football there.
+10 Sandy passed the football to Tim.
+11 How many objects is Sandy carrying? 	none	4 6 9 10
+12 Tim put down the milk.
+13 Tim handed the football to Sandy.
+14 How many objects is Sandy carrying? 	one	4 6 9 10 13
+15 Sandy handed the football to Tim.
+16 Tim handed the football to Sandy.
+17 How many objects is Tim carrying? 	none	6 10 12 13 15 16
+1 Tim got the milk there.
+2 Sandy grabbed the football there.
+3 How many objects is Sandy carrying? 	one	2
+4 Johnson went to the hallway.
+5 Sandy left the football there.
+6 How many objects is Sandy carrying? 	none	2 5
+7 Tim moved to the hallway.
+8 Tim handed the milk to Johnson.
+9 How many objects is Sandy carrying? 	none	2 5
+10 Tim moved to the bathroom.
+11 Tim moved to the hallway.
+12 How many objects is Sandy carrying? 	none	2 5
+13 Johnson journeyed to the bedroom.
+14 Johnson handed the milk to Tony.
+15 How many objects is Johnson carrying? 	none	8 14
+1 Sandy travelled to the bedroom.
+2 Sandy moved to the hallway.
+3 Johnson journeyed to the bedroom.
+4 Johnson went back to the hallway.
+5 Tim moved to the kitchen.
+6 Tony went to the bathroom.
+7 Sandy went back to the office.
+8 Tony moved to the bedroom.
+9 Sandy grabbed the football there.
+10 Tim journeyed to the bathroom.
+11 How many objects is Sandy carrying? 	one	9
+12 Tony travelled to the office.
+13 Johnson moved to the office.
+14 How many objects is Sandy carrying? 	one	9
+15 Sandy handed the football to Johnson.
+16 Tony moved to the hallway.
+17 How many objects is Sandy carrying? 	none	9 15
+18 Tony went back to the kitchen.
+19 Johnson discarded the football.
+20 How many objects is Sandy carrying? 	none	9 15
+21 Johnson went to the hallway.
+22 Johnson went to the bathroom.
+23 How many objects is Johnson carrying? 	none	15 19
+1 Tim took the milk there.
+2 Sandy journeyed to the bedroom.
+3 How many objects is Tim carrying? 	one	1
+4 Tim passed the milk to Tony.
+5 Tony gave the milk to Tim.
+6 How many objects is Tim carrying? 	one	1 4 5
+7 Tony moved to the kitchen.
+8 Tim put down the milk.
+9 How many objects is Tony carrying? 	none	4 5
+10 Tony picked up the football there.
+11 Tony travelled to the office.
+12 How many objects is Tony carrying? 	one	4 5 10
+13 Tony left the football.
+14 Tim took the milk there.
+15 How many objects is Tony carrying? 	none	4 5 10 13
+1 Tony grabbed the milk there.
+2 Sandy went back to the office.
+3 How many objects is Tony carrying? 	one	1
+4 Tony grabbed the apple there.
+5 Tony handed the apple to Sandy.
+6 How many objects is Tony carrying? 	one	1 4 5
+7 Sandy handed the apple to Tony.
+8 Tony passed the apple to Sandy.
+9 How many objects is Tony carrying? 	one	1 4 5 7 8
+10 Sandy went back to the kitchen.
+11 Sandy handed the apple to Johnson.
+12 How many objects is Sandy carrying? 	none	5 7 8 11
+13 Johnson dropped the apple.
+14 Tony went to the hallway.
+15 How many objects is Johnson carrying? 	none	11 13
+1 Johnson went to the bedroom.
+2 Johnson went back to the bathroom.
+3 Tim travelled to the hallway.
+4 Sandy went back to the office.
+5 Tony went back to the garden.
+6 Tony journeyed to the office.
+7 Tim went to the bathroom.
+8 Tim travelled to the garden.
+9 Tony went back to the hallway.
+10 Sandy grabbed the apple there.
+11 How many objects is Sandy carrying? 	one	10
+12 Sandy journeyed to the bathroom.
+13 Sandy handed the apple to Johnson.
+14 How many objects is Sandy carrying? 	none	10 13
+15 Johnson passed the apple to Sandy.
+16 Sandy gave the apple to Johnson.
+17 How many objects is Sandy carrying? 	none	10 13 15 16
+18 Johnson passed the apple to Sandy.
+19 Sandy passed the apple to Johnson.
+20 How many objects is Sandy carrying? 	none	10 13 15 16 18 19
+21 Johnson passed the apple to Sandy.
+22 Sandy gave the apple to Johnson.
+23 How many objects is Sandy carrying? 	none	10 13 15 16 18 19 21 22
+1 Tim travelled to the kitchen.
+2 Tony went to the garden.
+3 Tim went to the bedroom.
+4 Tim journeyed to the bathroom.
+5 Sandy went back to the hallway.
+6 Tony travelled to the bedroom.
+7 Tim got the football there.
+8 Tony got the milk there.
+9 How many objects is Tim carrying? 	one	7
+10 Tony left the milk.
+11 Sandy grabbed the apple there.
+12 How many objects is Tony carrying? 	none	8 10
+13 Sandy gave the apple to Johnson.
+14 Johnson handed the apple to Sandy.
+15 How many objects is Tony carrying? 	none	8 10
+16 Tim went back to the kitchen.
+17 Tim went back to the bedroom.
+18 How many objects is Sandy carrying? 	one	11 13 14
+19 Sandy left the apple.
+20 Tim gave the football to Tony.
+21 How many objects is Sandy carrying? 	none	11 13 14 19
+1 Tim got the football there.
+2 Johnson went back to the bathroom.
+3 How many objects is Tim carrying? 	one	1
+4 Sandy got the milk there.
+5 Sandy passed the milk to Johnson.
+6 How many objects is Sandy carrying? 	none	4 5
+7 Johnson passed the milk to Sandy.
+8 Sandy passed the milk to Johnson.
+9 How many objects is Sandy carrying? 	none	4 5 7 8
+10 Johnson passed the milk to Sandy.
+11 Tim travelled to the hallway.
+12 How many objects is Sandy carrying? 	one	4 5 7 8 10
+13 Tim travelled to the bathroom.
+14 Tony moved to the bedroom.
+15 How many objects is Johnson carrying? 	none	5 7 8 10
+1 Sandy travelled to the hallway.
+2 Tim went to the office.
+3 Johnson grabbed the milk there.
+4 Johnson left the milk.
+5 How many objects is Johnson carrying? 	none	3 4
+6 Sandy journeyed to the garden.
+7 Tony moved to the garden.
+8 How many objects is Johnson carrying? 	none	3 4
+9 Johnson journeyed to the office.
+10 Johnson took the football there.
+11 How many objects is Johnson carrying? 	one	3 4 10
+12 Johnson travelled to the hallway.
+13 Johnson moved to the bathroom.
+14 How many objects is Johnson carrying? 	one	3 4 10
+15 Tony grabbed the apple there.
+16 Tony moved to the bathroom.
+17 How many objects is Tony carrying? 	one	15
+1 Tony went to the office.
+2 Tony grabbed the apple there.
+3 How many objects is Tony carrying? 	one	2
+4 Sandy moved to the office.
+5 Tony gave the apple to Sandy.
+6 How many objects is Tony carrying? 	none	2 5
+7 Johnson went to the garden.
+8 Sandy gave the apple to Tony.
+9 How many objects is Tony carrying? 	one	2 5 8
+10 Tony passed the apple to Sandy.
+11 Tony went back to the bedroom.
+12 How many objects is Sandy carrying? 	one	5 8 10
+13 Sandy went back to the garden.
+14 Sandy passed the apple to Johnson.
+15 How many objects is Sandy carrying? 	none	5 8 10 14
+1 Sandy took the football there.
+2 Tony travelled to the hallway.
+3 How many objects is Sandy carrying? 	one	1
+4 Johnson grabbed the milk there.
+5 Johnson journeyed to the garden.
+6 How many objects is Sandy carrying? 	one	1
+7 Tony grabbed the apple there.
+8 Tony passed the apple to Tim.
+9 How many objects is Tony carrying? 	none	7 8
+10 Tony went to the bathroom.
+11 Johnson went to the hallway.
+12 How many objects is Tony carrying? 	none	7 8
+13 Tim passed the apple to Johnson.
+14 Sandy went to the bedroom.
+15 How many objects is Tim carrying? 	none	8 13
+1 Tim picked up the football there.
+2 Sandy grabbed the apple there.
+3 How many objects is Sandy carrying? 	one	2
+4 Tim left the football.
+5 Tim grabbed the football there.
+6 How many objects is Tim carrying? 	one	1 4 5
+7 Sandy passed the apple to Tony.
+8 Johnson moved to the bedroom.
+9 How many objects is Sandy carrying? 	none	2 7
+10 Tony gave the apple to Sandy.
+11 Johnson moved to the garden.
+12 How many objects is Tim carrying? 	one	1 4 5
+13 Sandy went to the bathroom.
+14 Tim left the football.
+15 How many objects is Tim carrying? 	none	1 4 5 14
+1 Tony went to the bedroom.
+2 Tony got the apple there.
+3 How many objects is Tony carrying? 	one	2
+4 Tony picked up the milk there.
+5 Tony gave the apple to Sandy.
+6 How many objects is Tony carrying? 	one	2 4 5
+7 Sandy gave the apple to Tony.
+8 Sandy journeyed to the bathroom.
+9 How many objects is Tony carrying? 	two	2 4 5 7
+10 Tony went to the office.
+11 Tony discarded the milk.
+12 How many objects is Tony carrying? 	one	2 4 5 7 11
+13 Tony picked up the milk there.
+14 Johnson moved to the hallway.
+15 How many objects is Tony carrying? 	two	2 4 5 7 11 13
+1 Sandy picked up the apple there.
+2 Sandy dropped the apple.
+3 How many objects is Sandy carrying? 	none	1 2
+4 Sandy got the football there.
+5 Johnson journeyed to the bathroom.
+6 How many objects is Sandy carrying? 	one	1 2 4
+7 Sandy handed the football to Johnson.
+8 Sandy went back to the garden.
+9 How many objects is Sandy carrying? 	none	1 2 4 7
+10 Tony went back to the kitchen.
+11 Tony got the milk there.
+12 How many objects is Sandy carrying? 	none	1 2 4 7
+13 Johnson got the apple there.
+14 Johnson dropped the apple.
+15 How many objects is Tony carrying? 	one	11
+1 Tim grabbed the apple there.
+2 Tim gave the apple to Johnson.
+3 How many objects is Tim carrying? 	none	1 2
+4 Johnson got the football there.
+5 Tim went back to the office.
+6 How many objects is Tim carrying? 	none	1 2
+7 Tony moved to the hallway.
+8 Sandy moved to the garden.
+9 How many objects is Johnson carrying? 	two	2 4
+10 Tony went back to the kitchen.
+11 Tony journeyed to the hallway.
+12 Tony went to the kitchen.
+13 Johnson went to the garden.
+14 Johnson gave the apple to Sandy.
+15 Sandy handed the apple to Johnson.
+16 How many objects is Johnson carrying? 	two	2 4 14 15
+17 Sandy went back to the bathroom.
+18 Johnson went to the bathroom.
+19 How many objects is Sandy carrying? 	none	14 15
+1 Tim got the football there.
+2 Sandy went back to the garden.
+3 How many objects is Tim carrying? 	one	1
+4 Tim dropped the football there.
+5 Tony moved to the bedroom.
+6 How many objects is Tim carrying? 	none	1 4
+7 Tim went back to the hallway.
+8 Tony picked up the apple there.
+9 How many objects is Tim carrying? 	none	1 4
+10 Sandy moved to the office.
+11 Sandy went to the bedroom.
+12 How many objects is Tony carrying? 	one	8
+13 Tony passed the apple to Sandy.
+14 Sandy handed the apple to Tony.
+15 How many objects is Sandy carrying? 	none	13 14
+1 Tim took the milk there.
+2 Tony picked up the apple there.
+3 How many objects is Tim carrying? 	one	1
+4 Tim travelled to the kitchen.
+5 Tony handed the apple to Tim.
+6 How many objects is Tony carrying? 	none	2 5
+7 Tim gave the apple to Sandy.
+8 Sandy dropped the apple.
+9 How many objects is Sandy carrying? 	none	7 8
+10 Tim put down the milk.
+11 Tony went to the bedroom.
+12 How many objects is Tim carrying? 	none	1 5 7 10
+13 Sandy got the milk there.
+14 Tim journeyed to the garden.
+15 How many objects is Sandy carrying? 	one	7 8 13
+1 Sandy moved to the bathroom.
+2 Sandy moved to the office.
+3 Tony journeyed to the bathroom.
+4 Tony moved to the hallway.
+5 Tony got the milk there.
+6 Johnson took the apple there.
+7 How many objects is Johnson carrying? 	one	6
+8 Tim went to the office.
+9 Johnson moved to the bathroom.
+10 How many objects is Tony carrying? 	one	5
+11 Tim went back to the hallway.
+12 Tim went back to the office.
+13 How many objects is Johnson carrying? 	one	6
+14 Tim went back to the garden.
+15 Tony discarded the milk.
+16 How many objects is Tony carrying? 	none	5 15
+17 Tim went to the office.
+18 Johnson discarded the apple.
+19 How many objects is Johnson carrying? 	none	6 18
+1 Johnson picked up the apple there.
+2 Johnson journeyed to the bathroom.
+3 How many objects is Johnson carrying? 	one	1
+4 Tony went to the office.
+5 Tim journeyed to the garden.
+6 How many objects is Johnson carrying? 	one	1
+7 Tony went back to the bathroom.
+8 Sandy moved to the hallway.
+9 Tim took the football there.
+10 Tim went to the office.
+11 How many objects is Tim carrying? 	one	9
+12 Johnson gave the apple to Tony.
+13 Johnson went back to the bedroom.
+14 How many objects is Tim carrying? 	one	9
+15 Tim left the football.
+16 Tim got the milk there.
+17 How many objects is Tim carrying? 	one	9 15 16
+1 Sandy went back to the office.
+2 Tony travelled to the garden.
+3 Tony journeyed to the hallway.
+4 Tim moved to the garden.
+5 Sandy went back to the bathroom.
+6 Sandy grabbed the milk there.
+7 How many objects is Sandy carrying? 	one	6
+8 Sandy travelled to the office.
+9 Sandy handed the milk to Johnson.
+10 How many objects is Sandy carrying? 	none	6 9
+11 Johnson passed the milk to Sandy.
+12 Tim went back to the bathroom.
+13 How many objects is Sandy carrying? 	one	6 9 11
+14 Johnson moved to the kitchen.
+15 Tony went back to the office.
+16 How many objects is Sandy carrying? 	one	6 9 11
+17 Johnson journeyed to the hallway.
+18 Sandy handed the milk to Tony.
+19 How many objects is Sandy carrying? 	none	6 9 11 18
+1 Tim went to the hallway.
+2 Tony picked up the apple there.
+3 How many objects is Tony carrying? 	one	2
+4 Tony travelled to the bathroom.
+5 Tony discarded the apple.
+6 How many objects is Tony carrying? 	none	2 5
+7 Johnson travelled to the hallway.
+8 Tony got the apple there.
+9 How many objects is Tony carrying? 	one	2 5 8
+10 Tim took the milk there.
+11 Tim passed the milk to Johnson.
+12 How many objects is Tony carrying? 	one	2 5 8
+13 Johnson gave the milk to Tim.
+14 Johnson moved to the bathroom.
+15 How many objects is Tim carrying? 	one	10 11 13
+1 Johnson journeyed to the garden.
+2 Sandy went to the garden.
+3 Tim journeyed to the office.
+4 Sandy picked up the apple there.
+5 How many objects is Sandy carrying? 	one	4
+6 Sandy handed the apple to Johnson.
+7 Johnson left the apple.
+8 How many objects is Sandy carrying? 	none	4 6
+9 Sandy took the apple there.
+10 Sandy gave the apple to Johnson.
+11 How many objects is Sandy carrying? 	none	4 6 9 10
+12 Johnson journeyed to the bathroom.
+13 Johnson dropped the apple there.
+14 How many objects is Johnson carrying? 	none	6 7 10 13
+15 Johnson got the apple there.
+16 Johnson put down the apple.
+17 How many objects is Johnson carrying? 	none	6 7 10 13 15 16
+1 Sandy went to the garden.
+2 Sandy moved to the office.
+3 Tim travelled to the office.
+4 Johnson moved to the kitchen.
+5 Sandy travelled to the hallway.
+6 Tony journeyed to the bedroom.
+7 Tim went to the kitchen.
+8 Tony travelled to the kitchen.
+9 Sandy grabbed the apple there.
+10 Sandy put down the apple.
+11 How many objects is Sandy carrying? 	none	9 10
+12 Sandy moved to the bedroom.
+13 Tim went to the office.
+14 How many objects is Sandy carrying? 	none	9 10
+15 Tony moved to the hallway.
+16 Sandy picked up the football there.
+17 How many objects is Sandy carrying? 	one	9 10 16
+18 Tim went back to the bedroom.
+19 Sandy passed the football to Tim.
+20 How many objects is Sandy carrying? 	none	9 10 16 19
+21 Tim passed the football to Sandy.
+22 Sandy discarded the football.
+23 How many objects is Sandy carrying? 	none	9 10 16 19 21 22
+1 Tony got the football there.
+2 Tony passed the football to Johnson.
+3 How many objects is Tony carrying? 	none	1 2
+4 Sandy journeyed to the garden.
+5 Johnson gave the football to Tony.
+6 How many objects is Johnson carrying? 	none	2 5
+7 Tim travelled to the kitchen.
+8 Johnson went back to the bedroom.
+9 How many objects is Johnson carrying? 	none	2 5
+10 Tony discarded the football.
+11 Tony journeyed to the bathroom.
+12 How many objects is Johnson carrying? 	none	2 5
+13 Tony travelled to the garden.
+14 Sandy went back to the bedroom.
+15 How many objects is Tony carrying? 	none	1 2 5 10
+1 Johnson went back to the garden.
+2 Johnson travelled to the bathroom.
+3 Tony took the milk there.
+4 Sandy moved to the bathroom.
+5 How many objects is Tony carrying? 	one	3
+6 Tony left the milk.
+7 Tony journeyed to the kitchen.
+8 How many objects is Tony carrying? 	none	3 6
+9 Tim went to the bedroom.
+10 Tony went to the bathroom.
+11 How many objects is Tony carrying? 	none	3 6
+12 Sandy travelled to the hallway.
+13 Sandy picked up the milk there.
+14 How many objects is Sandy carrying? 	one	13
+15 Sandy took the apple there.
+16 Tim travelled to the garden.
+17 How many objects is Sandy carrying? 	two	13 15
+1 Sandy grabbed the milk there.
+2 Johnson picked up the apple there.
+3 How many objects is Sandy carrying? 	one	1
+4 Johnson discarded the apple there.
+5 Johnson grabbed the apple there.
+6 How many objects is Johnson carrying? 	one	2 4 5
+7 Johnson passed the apple to Tony.
+8 Tim travelled to the hallway.
+9 How many objects is Johnson carrying? 	none	2 4 5 7
+10 Tony discarded the apple.
+11 Sandy passed the milk to Tim.
+12 How many objects is Johnson carrying? 	none	2 4 5 7
+13 Tony moved to the garden.
+14 Tony went back to the office.
+15 How many objects is Sandy carrying? 	none	1 11
+1 Sandy moved to the kitchen.
+2 Tony picked up the apple there.
+3 How many objects is Tony carrying? 	one	2
+4 Tony dropped the apple there.
+5 Tony took the apple there.
+6 How many objects is Tony carrying? 	one	2 4 5
+7 Sandy took the football there.
+8 Johnson picked up the milk there.
+9 How many objects is Tony carrying? 	one	2 4 5
+10 Tony put down the apple.
+11 Sandy went to the hallway.
+12 How many objects is Tony carrying? 	none	2 4 5 10
+13 Tim travelled to the garden.
+14 Sandy passed the football to Johnson.
+15 How many objects is Tony carrying? 	none	2 4 5 10
+1 Johnson went back to the garden.
+2 Tony took the apple there.
+3 How many objects is Tony carrying? 	one	2
+4 Tony discarded the apple.
+5 Sandy journeyed to the bathroom.
+6 How many objects is Tony carrying? 	none	2 4
+7 Tony went back to the kitchen.
+8 Tim went back to the bathroom.
+9 How many objects is Tony carrying? 	none	2 4
+10 Sandy picked up the apple there.
+11 Sandy travelled to the garden.
+12 How many objects is Sandy carrying? 	one	10
+13 Johnson journeyed to the bedroom.
+14 Sandy left the apple.
+15 How many objects is Sandy carrying? 	none	10 14
+1 Tim travelled to the garden.
+2 Tim went back to the bathroom.
+3 Johnson grabbed the football there.
+4 Johnson took the milk there.
+5 How many objects is Johnson carrying? 	two	3 4
+6 Tim journeyed to the hallway.
+7 Tim went back to the bathroom.
+8 How many objects is Johnson carrying? 	two	3 4
+9 Johnson put down the milk.
+10 Tony went to the kitchen.
+11 How many objects is Johnson carrying? 	one	3 4 9
+12 Johnson went back to the office.
+13 Johnson left the football.
+14 How many objects is Johnson carrying? 	none	3 4 9 13
+15 Sandy travelled to the garden.
+16 Tony got the apple there.
+17 How many objects is Tony carrying? 	one	16
+1 Sandy journeyed to the garden.
+2 Tim travelled to the bedroom.
+3 Johnson went to the hallway.
+4 Tony journeyed to the hallway.
+5 Tony went back to the office.
+6 Tony went to the garden.
+7 Johnson moved to the bathroom.
+8 Tim journeyed to the hallway.
+9 Tony went to the office.
+10 Tony journeyed to the bedroom.
+11 Tim journeyed to the garden.
+12 Johnson went back to the garden.
+13 Johnson went to the bedroom.
+14 Tony went back to the garden.
+15 Tim went to the kitchen.
+16 Tim went to the hallway.
+17 Tim went back to the garden.
+18 Johnson went to the garden.
+19 Tim moved to the kitchen.
+20 Tony went to the bathroom.
+21 Johnson went back to the office.
+22 Johnson travelled to the garden.
+23 Tony went to the bedroom.
+24 Tim travelled to the bathroom.
+25 Tony journeyed to the bathroom.
+26 Tim took the milk there.
+27 How many objects is Tim carrying? 	one	26
+28 Tim passed the milk to Tony.
+29 Tony passed the milk to Tim.
+30 How many objects is Tim carrying? 	one	26 28 29
+31 Tim handed the milk to Tony.
+32 Tony gave the milk to Tim.
+33 How many objects is Tim carrying? 	one	26 28 29 31 32
+34 Sandy went to the bedroom.
+35 Tony moved to the kitchen.
+36 How many objects is Tony carrying? 	none	28 29 31 32
+37 Tony moved to the hallway.
+38 Johnson went to the office.
+39 How many objects is Tony carrying? 	none	28 29 31 32
+1 Tim got the apple there.
+2 Johnson went back to the kitchen.
+3 How many objects is Tim carrying? 	one	1
+4 Johnson moved to the garden.
+5 Tim left the apple there.
+6 How many objects is Tim carrying? 	none	1 5
+7 Johnson moved to the bathroom.
+8 Tim grabbed the apple there.
+9 How many objects is Tim carrying? 	one	1 5 8
+10 Johnson went to the garden.
+11 Tim dropped the apple.
+12 How many objects is Tim carrying? 	none	1 5 8 11
+13 Sandy journeyed to the bedroom.
+14 Tim moved to the kitchen.
+15 How many objects is Tim carrying? 	none	1 5 8 11
+1 Tim journeyed to the hallway.
+2 Johnson took the milk there.
+3 How many objects is Johnson carrying? 	one	2
+4 Johnson passed the milk to Tim.
+5 Tim gave the milk to Johnson.
+6 How many objects is Johnson carrying? 	one	2 4 5
+7 Tony travelled to the bedroom.
+8 Tim journeyed to the bedroom.
+9 How many objects is Johnson carrying? 	one	2 4 5
+10 Johnson journeyed to the garden.
+11 Johnson left the milk.
+12 How many objects is Johnson carrying? 	none	2 4 5 11
+13 Sandy went back to the office.
+14 Tony moved to the office.
+15 How many objects is Johnson carrying? 	none	2 4 5 11
+1 Sandy moved to the garden.
+2 Johnson grabbed the milk there.
+3 How many objects is Johnson carrying? 	one	2
+4 Tony grabbed the apple there.
+5 Tim moved to the garden.
+6 How many objects is Johnson carrying? 	one	2
+7 Tim went back to the bathroom.
+8 Tony dropped the apple.
+9 How many objects is Tony carrying? 	none	4 8
+10 Johnson gave the milk to Tony.
+11 Tony grabbed the apple there.
+12 How many objects is Tony carrying? 	two	4 8 10 11
+13 Tony gave the apple to Johnson.
+14 Johnson handed the apple to Tony.
+15 How many objects is Johnson carrying? 	none	2 10 13 14
+1 Tony got the football there.
+2 Tony grabbed the apple there.
+3 How many objects is Tony carrying? 	two	1 2
+4 Tony discarded the apple.
+5 Tony dropped the football.
+6 How many objects is Tony carrying? 	none	1 2 4 5
+7 Tony moved to the bathroom.
+8 Sandy moved to the garden.
+9 How many objects is Tony carrying? 	none	1 2 4 5
+10 Johnson journeyed to the garden.
+11 Johnson travelled to the kitchen.
+12 How many objects is Tony carrying? 	none	1 2 4 5
+13 Tim journeyed to the bedroom.
+14 Tim went to the bathroom.
+15 Tony went back to the garden.
+16 Sandy went to the hallway.
+17 Johnson went back to the hallway.
+18 Johnson travelled to the garden.
+19 Johnson journeyed to the office.
+20 Tim moved to the hallway.
+21 Johnson went to the bedroom.
+22 Tim grabbed the milk there.
+23 How many objects is Tim carrying? 	one	22
+1 Tim got the milk there.
+2 Tony moved to the office.
+3 How many objects is Tim carrying? 	one	1
+4 Tim left the milk.
+5 Tony went back to the garden.
+6 How many objects is Tim carrying? 	none	1 4
+7 Tim took the milk there.
+8 Tony picked up the football there.
+9 How many objects is Tony carrying? 	one	8
+10 Tony dropped the football.
+11 Johnson journeyed to the bathroom.
+12 How many objects is Tim carrying? 	one	1 4 7
+13 Tim journeyed to the kitchen.
+14 Tony travelled to the hallway.
+15 How many objects is Tony carrying? 	none	8 10
+1 Johnson went back to the office.
+2 Sandy got the apple there.
+3 How many objects is Sandy carrying? 	one	2
+4 Tim went back to the hallway.
+5 Tony got the football there.
+6 How many objects is Sandy carrying? 	one	2
+7 Johnson journeyed to the bathroom.
+8 Johnson went back to the hallway.
+9 How many objects is Sandy carrying? 	one	2
+10 Tony went to the bathroom.
+11 Tony discarded the football there.
+12 How many objects is Tony carrying? 	none	5 11
+13 Sandy grabbed the milk there.
+14 Sandy passed the apple to Tony.
+15 How many objects is Sandy carrying? 	one	2 13 14
+1 Tim travelled to the bedroom.
+2 Tony grabbed the apple there.
+3 How many objects is Tony carrying? 	one	2
+4 Tony grabbed the football there.
+5 Tony gave the apple to Johnson.
+6 How many objects is Tony carrying? 	one	2 4 5
+7 Tim went back to the hallway.
+8 Tony put down the football.
+9 How many objects is Tony carrying? 	none	2 4 5 8
+10 Johnson put down the apple there.
+11 Sandy went to the kitchen.
+12 How many objects is Johnson carrying? 	none	5 10
+13 Tim got the apple there.
+14 Tim handed the apple to Johnson.
+15 How many objects is Tim carrying? 	none	13 14
+1 Tony travelled to the hallway.
+2 Sandy travelled to the bathroom.
+3 Sandy travelled to the hallway.
+4 Johnson travelled to the bathroom.
+5 Sandy went back to the bedroom.
+6 Tony travelled to the bedroom.
+7 Sandy went back to the bathroom.
+8 Tim moved to the bedroom.
+9 Tim moved to the bathroom.
+10 Johnson went back to the garden.
+11 Sandy went back to the hallway.
+12 Johnson journeyed to the bathroom.
+13 Johnson journeyed to the garden.
+14 Johnson picked up the football there.
+15 How many objects is Johnson carrying? 	one	14
+16 Sandy journeyed to the bathroom.
+17 Johnson put down the football there.
+18 How many objects is Johnson carrying? 	none	14 17
+19 Johnson got the football there.
+20 Tony grabbed the apple there.
+21 How many objects is Johnson carrying? 	one	14 17 19
+22 Tony discarded the apple there.
+23 Tony journeyed to the hallway.
+24 How many objects is Johnson carrying? 	one	14 17 19
+25 Tim moved to the office.
+26 Johnson put down the football.
+27 How many objects is Johnson carrying? 	none	14 17 19 26
+1 Sandy took the apple there.
+2 Sandy discarded the apple.
+3 How many objects is Sandy carrying? 	none	1 2
+4 Sandy picked up the apple there.
+5 Sandy discarded the apple.
+6 How many objects is Sandy carrying? 	none	1 2 4 5
+7 Tony moved to the garden.
+8 Johnson went to the hallway.
+9 How many objects is Sandy carrying? 	none	1 2 4 5
+10 Sandy took the apple there.
+11 Sandy left the apple.
+12 How many objects is Sandy carrying? 	none	1 2 4 5 10 11
+13 Sandy went back to the garden.
+14 Tony travelled to the bedroom.
+15 How many objects is Sandy carrying? 	none	1 2 4 5 10 11
+1 Tony journeyed to the hallway.
+2 Tim went to the office.
+3 Tony went back to the garden.
+4 Tony picked up the football there.
+5 How many objects is Tony carrying? 	one	4
+6 Tony journeyed to the bathroom.
+7 Johnson got the milk there.
+8 How many objects is Tony carrying? 	one	4
+9 Tony went to the office.
+10 Johnson moved to the hallway.
+11 How many objects is Tony carrying? 	one	4
+12 Tony gave the football to Tim.
+13 Tim travelled to the bedroom.
+14 How many objects is Johnson carrying? 	one	7
+15 Johnson discarded the milk.
+16 Johnson picked up the apple there.
+17 How many objects is Johnson carrying? 	one	7 15 16
+1 Sandy went to the hallway.
+2 Johnson grabbed the apple there.
+3 How many objects is Johnson carrying? 	one	2
+4 Johnson gave the apple to Sandy.
+5 Sandy handed the apple to Johnson.
+6 How many objects is Johnson carrying? 	one	2 4 5
+7 Johnson passed the apple to Sandy.
+8 Sandy journeyed to the bathroom.
+9 How many objects is Johnson carrying? 	none	2 4 5 7
+10 Johnson went to the office.
+11 Tony travelled to the hallway.
+12 How many objects is Johnson carrying? 	none	2 4 5 7
+13 Tim journeyed to the bathroom.
+14 Sandy went back to the garden.
+15 Johnson journeyed to the kitchen.
+16 Sandy left the apple.
+17 How many objects is Sandy carrying? 	none	4 5 7 16
+1 Sandy journeyed to the bedroom.
+2 Sandy journeyed to the bathroom.
+3 Tony journeyed to the hallway.
+4 Tim journeyed to the bedroom.
+5 Tim went to the kitchen.
+6 Tim travelled to the bedroom.
+7 Johnson travelled to the bathroom.
+8 Tim took the milk there.
+9 How many objects is Tim carrying? 	one	8
+10 Johnson went back to the office.
+11 Tim travelled to the kitchen.
+12 How many objects is Tim carrying? 	one	8
+13 Tim dropped the milk.
+14 Tim went to the bedroom.
+15 How many objects is Tim carrying? 	none	8 13
+16 Tony journeyed to the office.
+17 Tim journeyed to the bathroom.
+18 How many objects is Tim carrying? 	none	8 13
+19 Tim journeyed to the bedroom.
+20 Sandy went back to the kitchen.
+21 Johnson journeyed to the bedroom.
+22 Sandy grabbed the apple there.
+23 How many objects is Sandy carrying? 	one	22
+1 Tony moved to the bedroom.
+2 Tim took the football there.
+3 How many objects is Tim carrying? 	one	2
+4 Johnson took the milk there.
+5 Tim passed the football to Johnson.
+6 How many objects is Tim carrying? 	none	2 5
+7 Johnson discarded the football.
+8 Tony went back to the kitchen.
+9 How many objects is Tim carrying? 	none	2 5
+10 Tony picked up the football there.
+11 Tony handed the football to Johnson.
+12 How many objects is Johnson carrying? 	two	4 5 7 11
+13 Johnson gave the football to Tim.
+14 Tim handed the football to Johnson.
+15 How many objects is Tony carrying? 	none	10 11
+1 Tim journeyed to the office.
+2 Tony grabbed the milk there.
+3 How many objects is Tony carrying? 	one	2
+4 Johnson went to the hallway.
+5 Tony moved to the bedroom.
+6 How many objects is Tony carrying? 	one	2
+7 Tony gave the milk to Sandy.
+8 Tim travelled to the garden.
+9 How many objects is Tony carrying? 	none	2 7
+10 Tony travelled to the garden.
+11 Tony travelled to the bathroom.
+12 How many objects is Tony carrying? 	none	2 7
+13 Sandy put down the milk.
+14 Johnson moved to the bathroom.
+15 How many objects is Sandy carrying? 	none	7 13
+1 Sandy grabbed the football there.
+2 Johnson journeyed to the garden.
+3 How many objects is Sandy carrying? 	one	1
+4 Tony went back to the hallway.
+5 Tim moved to the kitchen.
+6 How many objects is Sandy carrying? 	one	1
+7 Tim picked up the apple there.
+8 Sandy discarded the football.
+9 How many objects is Sandy carrying? 	none	1 8
+10 Tim put down the apple.
+11 Sandy took the football there.
+12 How many objects is Tim carrying? 	none	7 10
+13 Tony journeyed to the kitchen.
+14 Tony took the apple there.
+15 How many objects is Tony carrying? 	one	14
+1 Johnson journeyed to the office.
+2 Johnson got the football there.
+3 How many objects is Johnson carrying? 	one	2
+4 Johnson discarded the football.
+5 Johnson grabbed the football there.
+6 How many objects is Johnson carrying? 	one	2 4 5
+7 Johnson moved to the kitchen.
+8 Sandy moved to the office.
+9 How many objects is Johnson carrying? 	one	2 4 5
+10 Tony got the apple there.
+11 Johnson discarded the football.
+12 How many objects is Johnson carrying? 	none	2 4 5 11
+13 Tim journeyed to the garden.
+14 Tony discarded the apple.
+15 How many objects is Tony carrying? 	none	10 14
+1 Sandy travelled to the office.
+2 Johnson journeyed to the hallway.
+3 Sandy took the football there.
+4 Tony went to the garden.
+5 How many objects is Sandy carrying? 	one	3
+6 Johnson picked up the apple there.
+7 Sandy passed the football to Tim.
+8 How many objects is Sandy carrying? 	none	3 7
+9 Johnson discarded the apple there.
+10 Tim gave the football to Sandy.
+11 How many objects is Sandy carrying? 	one	3 7 10
+12 Johnson picked up the milk there.
+13 Sandy left the football.
+14 How many objects is Tim carrying? 	none	7 10
+15 Tim journeyed to the kitchen.
+16 Johnson journeyed to the kitchen.
+17 How many objects is Sandy carrying? 	none	3 7 10 13
+1 Sandy went to the garden.
+2 Tim went to the kitchen.
+3 Sandy moved to the hallway.
+4 Tony went to the bedroom.
+5 Johnson went to the bathroom.
+6 Tim went back to the hallway.
+7 Tim went back to the garden.
+8 Johnson moved to the garden.
+9 Johnson went back to the hallway.
+10 Sandy journeyed to the bedroom.
+11 Tim took the milk there.
+12 Johnson moved to the office.
+13 How many objects is Tim carrying? 	one	11
+14 Sandy went to the garden.
+15 Tim put down the milk.
+16 How many objects is Tim carrying? 	none	11 15
+17 Tim grabbed the milk there.
+18 Tim gave the milk to Sandy.
+19 How many objects is Tim carrying? 	none	11 15 17 18
+20 Sandy left the milk there.
+21 Tony moved to the office.
+22 How many objects is Tim carrying? 	none	11 15 17 18
+23 Tony picked up the football there.
+24 Sandy grabbed the milk there.
+25 How many objects is Sandy carrying? 	one	18 20 24
+1 Tony moved to the bathroom.
+2 Johnson journeyed to the hallway.
+3 Tim went to the office.
+4 Johnson grabbed the apple there.
+5 How many objects is Johnson carrying? 	one	4
+6 Johnson took the milk there.
+7 Johnson put down the apple.
+8 How many objects is Johnson carrying? 	one	4 6 7
+9 Tim grabbed the football there.
+10 Tony went to the hallway.
+11 How many objects is Johnson carrying? 	one	4 6 7
+12 Tim moved to the bedroom.
+13 Johnson grabbed the apple there.
+14 How many objects is Johnson carrying? 	two	4 6 7 13
+15 Johnson went to the office.
+16 Sandy travelled to the garden.
+17 How many objects is Johnson carrying? 	two	4 6 7 13
+1 Tim journeyed to the bathroom.
+2 Tony travelled to the bathroom.
+3 Johnson got the football there.
+4 Johnson discarded the football.
+5 How many objects is Johnson carrying? 	none	3 4
+6 Sandy went to the hallway.
+7 Johnson got the football there.
+8 How many objects is Johnson carrying? 	one	3 4 7
+9 Johnson grabbed the apple there.
+10 Sandy moved to the garden.
+11 How many objects is Johnson carrying? 	two	3 4 7 9
+12 Johnson journeyed to the office.
+13 Tim moved to the hallway.
+14 How many objects is Johnson carrying? 	two	3 4 7 9
+15 Tony went back to the bedroom.
+16 Johnson went to the hallway.
+17 Tim travelled to the bathroom.
+18 Tony moved to the hallway.
+19 Sandy moved to the bedroom.
+20 Johnson gave the apple to Tony.
+21 How many objects is Johnson carrying? 	one	3 4 7 9 20
+1 Sandy moved to the garden.
+2 Tim moved to the garden.
+3 Tim grabbed the apple there.
+4 Sandy took the football there.
+5 How many objects is Tim carrying? 	one	3
+6 Tim passed the apple to Sandy.
+7 Tony travelled to the office.
+8 How many objects is Sandy carrying? 	two	4 6
+9 Sandy put down the apple.
+10 Sandy discarded the football.
+11 How many objects is Sandy carrying? 	none	4 6 9 10
+12 Sandy grabbed the apple there.
+13 Sandy put down the apple.
+14 How many objects is Sandy carrying? 	none	4 6 9 10 12 13
+15 Sandy grabbed the football there.
+16 Sandy took the apple there.
+17 How many objects is Sandy carrying? 	two	4 6 9 10 12 13 15 16
+1 Tony went back to the hallway.
+2 Sandy moved to the bedroom.
+3 Johnson took the football there.
+4 Sandy grabbed the milk there.
+5 How many objects is Johnson carrying? 	one	3
+6 Johnson handed the football to Tim.
+7 Tim left the football.
+8 How many objects is Johnson carrying? 	none	3 6
+9 Tim moved to the bathroom.
+10 Sandy went to the garden.
+11 How many objects is Johnson carrying? 	none	3 6
+12 Tony went to the bathroom.
+13 Sandy grabbed the football there.
+14 How many objects is Sandy carrying? 	two	4 13
+15 Sandy travelled to the bedroom.
+16 Tim went to the office.
+17 How many objects is Sandy carrying? 	two	4 13
+1 Sandy travelled to the garden.
+2 Sandy journeyed to the hallway.
+3 Tony moved to the garden.
+4 Johnson grabbed the football there.
+5 How many objects is Johnson carrying? 	one	4
+6 Tim went to the garden.
+7 Johnson dropped the football there.
+8 How many objects is Johnson carrying? 	none	4 7
+9 Tony travelled to the kitchen.
+10 Sandy travelled to the bathroom.
+11 How many objects is Johnson carrying? 	none	4 7
+12 Sandy got the apple there.
+13 Sandy dropped the apple.
+14 How many objects is Sandy carrying? 	none	12 13
+15 Tim took the milk there.
+16 Tony went back to the hallway.
+17 How many objects is Sandy carrying? 	none	12 13
+1 Tim travelled to the bedroom.
+2 Sandy took the milk there.
+3 How many objects is Sandy carrying? 	one	2
+4 Sandy dropped the milk there.
+5 Tim went to the kitchen.
+6 How many objects is Sandy carrying? 	none	2 4
+7 Tony journeyed to the bathroom.
+8 Johnson moved to the office.
+9 How many objects is Sandy carrying? 	none	2 4
+10 Sandy went to the bathroom.
+11 Tim went back to the bathroom.
+12 Tony travelled to the kitchen.
+13 Tim got the apple there.
+14 How many objects is Tim carrying? 	one	13
+15 Sandy went back to the hallway.
+16 Sandy took the football there.
+17 How many objects is Sandy carrying? 	one	2 4 16
+1 Tim went back to the bedroom.
+2 Sandy journeyed to the office.
+3 Tim went back to the garden.
+4 Sandy went back to the bathroom.
+5 Sandy picked up the apple there.
+6 Tony moved to the hallway.
+7 How many objects is Sandy carrying? 	one	5
+8 Sandy dropped the apple.
+9 Tony went back to the kitchen.
+10 How many objects is Sandy carrying? 	none	5 8
+11 Sandy took the apple there.
+12 Sandy went to the hallway.
+13 How many objects is Sandy carrying? 	one	5 8 11
+14 Tony moved to the bathroom.
+15 Tim moved to the kitchen.
+16 How many objects is Sandy carrying? 	one	5 8 11
+17 Sandy put down the apple.
+18 Johnson took the apple there.
+19 How many objects is Sandy carrying? 	none	5 8 11 17
+1 Tony moved to the bedroom.
+2 Tim went to the bathroom.
+3 Sandy moved to the hallway.
+4 Tony went back to the kitchen.
+5 Sandy journeyed to the bathroom.
+6 Tim went back to the hallway.
+7 Tim went back to the bedroom.
+8 Sandy journeyed to the bedroom.
+9 Sandy went to the hallway.
+10 Sandy went to the bathroom.
+11 Tony moved to the bathroom.
+12 Tony travelled to the hallway.
+13 Johnson travelled to the garden.
+14 Johnson travelled to the kitchen.
+15 Tony moved to the bedroom.
+16 Tim moved to the bathroom.
+17 Sandy journeyed to the bedroom.
+18 Tony travelled to the bathroom.
+19 Tony travelled to the garden.
+20 Sandy went back to the bathroom.
+21 Sandy went to the hallway.
+22 Tony got the apple there.
+23 How many objects is Tony carrying? 	one	22
+24 Sandy went back to the office.
+25 Tony took the football there.
+26 How many objects is Tony carrying? 	two	22 25
+27 Tony took the milk there.
+28 Tony went back to the hallway.
+29 How many objects is Tony carrying? 	three	22 25 27
+30 Johnson went back to the bathroom.
+31 Sandy went to the bedroom.
+32 How many objects is Tony carrying? 	three	22 25 27
+33 Tony journeyed to the office.
+34 Tony dropped the football.
+35 How many objects is Tony carrying? 	two	22 25 27 34
+1 Johnson grabbed the football there.
+2 Johnson handed the football to Tony.
+3 How many objects is Johnson carrying? 	none	1 2
+4 Tony handed the football to Johnson.
+5 Johnson passed the football to Tony.
+6 How many objects is Johnson carrying? 	none	1 2 4 5
+7 Tony gave the football to Johnson.
+8 Johnson handed the football to Tony.
+9 How many objects is Johnson carrying? 	none	1 2 4 5 7 8
+10 Tony passed the football to Johnson.
+11 Tim travelled to the garden.
+12 How many objects is Johnson carrying? 	one	1 2 4 5 7 8 10
+13 Johnson discarded the football.
+14 Sandy moved to the hallway.
+15 How many objects is Tony carrying? 	none	2 4 5 7 8 10
+1 Johnson journeyed to the office.
+2 Johnson got the milk there.
+3 How many objects is Johnson carrying? 	one	2
+4 Tony grabbed the apple there.
+5 Johnson dropped the milk.
+6 How many objects is Johnson carrying? 	none	2 5
+7 Sandy travelled to the bedroom.
+8 Tony journeyed to the bathroom.
+9 How many objects is Johnson carrying? 	none	2 5
+10 Sandy went to the garden.
+11 Johnson took the milk there.
+12 How many objects is Johnson carrying? 	one	2 5 11
+13 Johnson discarded the milk.
+14 Tony put down the apple.
+15 How many objects is Johnson carrying? 	none	2 5 11 13
+1 Sandy went to the hallway.
+2 Tim journeyed to the kitchen.
+3 Tony journeyed to the bathroom.
+4 Sandy went back to the office.
+5 Tim got the football there.
+6 Tim dropped the football.
+7 How many objects is Tim carrying? 	none	5 6
+8 Tony journeyed to the office.
+9 Sandy grabbed the milk there.
+10 How many objects is Sandy carrying? 	one	9
+11 Tim got the football there.
+12 Sandy passed the milk to Tony.
+13 How many objects is Tim carrying? 	one	5 6 11
+14 Tony handed the milk to Sandy.
+15 Sandy gave the milk to Tony.
+16 How many objects is Tony carrying? 	one	12 14 15
+17 Tony gave the milk to Sandy.
+18 Johnson went back to the office.
+19 How many objects is Tony carrying? 	none	12 14 15 17
+1 Sandy moved to the garden.
+2 Tony grabbed the football there.
+3 How many objects is Tony carrying? 	one	2
+4 Tony journeyed to the garden.
+5 Tony handed the football to Sandy.
+6 How many objects is Tony carrying? 	none	2 5
+7 Sandy passed the football to Tony.
+8 Tony gave the football to Sandy.
+9 How many objects is Sandy carrying? 	one	5 7 8
+10 Johnson went to the garden.
+11 Sandy passed the football to Johnson.
+12 How many objects is Sandy carrying? 	none	5 7 8 11
+13 Sandy journeyed to the kitchen.
+14 Johnson handed the football to Tony.
+15 How many objects is Tony carrying? 	one	2 5 7 8 14
+1 Tim took the apple there.
+2 Tim passed the apple to Sandy.
+3 How many objects is Tim carrying? 	none	1 2
+4 Sandy went to the garden.
+5 Johnson went back to the bathroom.
+6 How many objects is Tim carrying? 	none	1 2
+7 Johnson moved to the hallway.
+8 Johnson moved to the kitchen.
+9 How many objects is Tim carrying? 	none	1 2
+10 Johnson went to the garden.
+11 Tim travelled to the kitchen.
+12 Sandy handed the apple to Johnson.
+13 Johnson handed the apple to Sandy.
+14 How many objects is Johnson carrying? 	none	12 13
+15 Tim got the football there.
+16 Sandy handed the apple to Johnson.
+17 How many objects is Sandy carrying? 	none	2 12 13 16
+1 Tim went to the bedroom.
+2 Johnson travelled to the office.
+3 Tony went back to the garden.
+4 Johnson picked up the milk there.
+5 How many objects is Johnson carrying? 	one	4
+6 Johnson travelled to the bedroom.
+7 Johnson handed the milk to Tim.
+8 How many objects is Johnson carrying? 	none	4 7
+9 Tony moved to the kitchen.
+10 Sandy travelled to the garden.
+11 How many objects is Johnson carrying? 	none	4 7
+12 Tim passed the milk to Johnson.
+13 Johnson handed the milk to Tim.
+14 How many objects is Johnson carrying? 	none	4 7 12 13
+15 Tim handed the milk to Johnson.
+16 Sandy picked up the apple there.
+17 How many objects is Sandy carrying? 	one	16
+1 Tony travelled to the bathroom.
+2 Tim picked up the milk there.
+3 How many objects is Tim carrying? 	one	2
+4 Johnson went back to the bathroom.
+5 Tony journeyed to the office.
+6 How many objects is Tim carrying? 	one	2
+7 Tony grabbed the apple there.
+8 Tony went to the kitchen.
+9 How many objects is Tony carrying? 	one	7
+10 Tim left the milk.
+11 Johnson went back to the kitchen.
+12 How many objects is Tony carrying? 	one	7
+13 Tim went back to the office.
+14 Tony discarded the apple.
+15 How many objects is Tim carrying? 	none	2 10
+1 Johnson got the milk there.
+2 Johnson passed the milk to Sandy.
+3 How many objects is Johnson carrying? 	none	1 2
+4 Tim went to the bedroom.
+5 Sandy handed the milk to Johnson.
+6 How many objects is Johnson carrying? 	one	1 2 5
+7 Johnson handed the milk to Sandy.
+8 Tony moved to the bathroom.
+9 How many objects is Johnson carrying? 	none	1 2 5 7
+10 Sandy gave the milk to Johnson.
+11 Johnson left the milk.
+12 How many objects is Johnson carrying? 	none	1 2 5 7 10 11
+13 Tim went to the office.
+14 Sandy went back to the kitchen.
+15 How many objects is Sandy carrying? 	none	2 5 7 10
+1 Tony grabbed the milk there.
+2 Johnson moved to the bedroom.
+3 How many objects is Tony carrying? 	one	1
+4 Sandy travelled to the bedroom.
+5 Tim took the apple there.
+6 How many objects is Tim carrying? 	one	5
+7 Sandy travelled to the bathroom.
+8 Tony went to the bathroom.
+9 How many objects is Tim carrying? 	one	5
+10 Tony put down the milk there.
+11 Tony journeyed to the bedroom.
+12 How many objects is Tony carrying? 	none	1 10
+13 Sandy picked up the football there.
+14 Tim travelled to the office.
+15 How many objects is Tony carrying? 	none	1 10
+1 Johnson journeyed to the kitchen.
+2 Tim got the football there.
+3 How many objects is Tim carrying? 	one	2
+4 Johnson travelled to the hallway.
+5 Tony journeyed to the bathroom.
+6 How many objects is Tim carrying? 	one	2
+7 Tim left the football.
+8 Tony travelled to the garden.
+9 How many objects is Tim carrying? 	none	2 7
+10 Sandy went to the bathroom.
+11 Johnson travelled to the kitchen.
+12 How many objects is Tim carrying? 	none	2 7
+13 Tony journeyed to the office.
+14 Johnson moved to the office.
+15 Sandy went back to the garden.
+16 Tim got the football there.
+17 How many objects is Tim carrying? 	one	2 7 16
+1 Tim got the football there.
+2 Johnson grabbed the milk there.
+3 How many objects is Johnson carrying? 	one	2
+4 Tony travelled to the hallway.
+5 Johnson dropped the milk there.
+6 How many objects is Tim carrying? 	one	1
+7 Johnson went back to the bathroom.
+8 Sandy went to the kitchen.
+9 How many objects is Johnson carrying? 	none	2 5
+10 Sandy took the apple there.
+11 Sandy moved to the garden.
+12 How many objects is Sandy carrying? 	one	10
+13 Tony travelled to the bedroom.
+14 Tim gave the football to Tony.
+15 How many objects is Tim carrying? 	none	1 14
+1 Tony went back to the garden.
+2 Johnson travelled to the bedroom.
+3 Sandy journeyed to the garden.
+4 Sandy picked up the milk there.
+5 How many objects is Sandy carrying? 	one	4
+6 Johnson moved to the kitchen.
+7 Sandy gave the milk to Tim.
+8 How many objects is Sandy carrying? 	none	4 7
+9 Tim gave the milk to Sandy.
+10 Tony moved to the bathroom.
+11 How many objects is Sandy carrying? 	one	4 7 9
+12 Sandy handed the milk to Tim.
+13 Tim passed the milk to Sandy.
+14 How many objects is Tim carrying? 	none	7 9 12 13
+15 Sandy dropped the milk.
+16 Tony moved to the kitchen.
+17 How many objects is Tim carrying? 	none	7 9 12 13
+1 Johnson went to the office.
+2 Johnson got the milk there.
+3 How many objects is Johnson carrying? 	one	2
+4 Tim grabbed the football there.
+5 Tim gave the football to Tony.
+6 How many objects is Johnson carrying? 	one	2
+7 Tony went back to the kitchen.
+8 Sandy went to the bathroom.
+9 How many objects is Tim carrying? 	none	4 5
+10 Sandy travelled to the kitchen.
+11 Tony journeyed to the bedroom.
+12 How many objects is Tim carrying? 	none	4 5
+13 Sandy moved to the hallway.
+14 Tony went back to the bathroom.
+15 Johnson went back to the bathroom.
+16 Johnson dropped the milk.
+17 How many objects is Johnson carrying? 	none	2 16
+1 Sandy travelled to the bedroom.
+2 Tim travelled to the office.
+3 Johnson picked up the milk there.
+4 Johnson gave the milk to Tim.
+5 How many objects is Johnson carrying? 	none	3 4
+6 Sandy went back to the kitchen.
+7 Tim discarded the milk.
+8 How many objects is Johnson carrying? 	none	3 4
+9 Tim took the milk there.
+10 Tim gave the milk to Johnson.
+11 How many objects is Tim carrying? 	none	4 7 9 10
+12 Tony went to the kitchen.
+13 Johnson gave the milk to Tim.
+14 How many objects is Tim carrying? 	one	4 7 9 10 13
+15 Tim handed the milk to Johnson.
+16 Johnson went back to the garden.
+17 How many objects is Tim carrying? 	none	4 7 9 10 13 15
+1 Tony went to the kitchen.
+2 Sandy moved to the garden.
+3 Tim journeyed to the garden.
+4 Johnson went to the office.
+5 Tony went back to the bedroom.
+6 Sandy picked up the milk there.
+7 How many objects is Sandy carrying? 	one	6
+8 Sandy passed the milk to Tim.
+9 Sandy journeyed to the bathroom.
+10 How many objects is Sandy carrying? 	none	6 8
+11 Tony travelled to the office.
+12 Sandy journeyed to the office.
+13 How many objects is Sandy carrying? 	none	6 8
+14 Sandy travelled to the kitchen.
+15 Johnson took the football there.
+16 How many objects is Johnson carrying? 	one	15
+17 Johnson handed the football to Tony.
+18 Tim left the milk there.
+19 How many objects is Johnson carrying? 	none	15 17
+1 Tony moved to the hallway.
+2 Tony went back to the bedroom.
+3 Tony journeyed to the garden.
+4 Johnson travelled to the hallway.
+5 Sandy went back to the garden.
+6 Johnson went to the office.
+7 Johnson got the football there.
+8 Tony went to the hallway.
+9 How many objects is Johnson carrying? 	one	7
+10 Tony took the apple there.
+11 Tony picked up the milk there.
+12 How many objects is Tony carrying? 	two	10 11
+13 Sandy journeyed to the kitchen.
+14 Tony discarded the milk.
+15 How many objects is Tony carrying? 	one	10 11 14
+16 Sandy travelled to the hallway.
+17 Sandy travelled to the garden.
+18 How many objects is Tony carrying? 	one	10 11 14
+19 Sandy moved to the kitchen.
+20 Sandy went back to the bathroom.
+21 How many objects is Tony carrying? 	one	10 11 14
+1 Johnson took the football there.
+2 Tim went to the kitchen.
+3 How many objects is Johnson carrying? 	one	1
+4 Tony moved to the bedroom.
+5 Tony moved to the garden.
+6 How many objects is Johnson carrying? 	one	1
+7 Tony grabbed the milk there.
+8 Johnson gave the football to Sandy.
+9 How many objects is Johnson carrying? 	none	1 8
+10 Tony left the milk.
+11 Sandy put down the football there.
+12 How many objects is Johnson carrying? 	none	1 8
+13 Johnson journeyed to the bedroom.
+14 Tony picked up the milk there.
+15 How many objects is Johnson carrying? 	none	1 8
+1 Sandy grabbed the milk there.
+2 Sandy put down the milk.
+3 How many objects is Sandy carrying? 	none	1 2
+4 Tony moved to the garden.
+5 Tim grabbed the football there.
+6 How many objects is Sandy carrying? 	none	1 2
+7 Tim dropped the football.
+8 Tim took the football there.
+9 How many objects is Tim carrying? 	one	5 7 8
+10 Tim journeyed to the bathroom.
+11 Sandy journeyed to the hallway.
+12 How many objects is Tim carrying? 	one	5 7 8
+13 Tim put down the football.
+14 Tim picked up the football there.
+15 How many objects is Tim carrying? 	one	5 7 8 13 14
+1 Sandy got the football there.
+2 Johnson picked up the apple there.
+3 How many objects is Johnson carrying? 	one	2
+4 Sandy dropped the football there.
+5 Sandy went to the bedroom.
+6 How many objects is Johnson carrying? 	one	2
+7 Johnson gave the apple to Sandy.
+8 Sandy put down the apple.
+9 How many objects is Sandy carrying? 	none	1 4 7 8
+10 Tim went to the kitchen.
+11 Sandy went back to the office.
+12 How many objects is Johnson carrying? 	none	2 7
+13 Tim grabbed the milk there.
+14 Tim left the milk there.
+15 How many objects is Tim carrying? 	none	13 14
+1 Johnson travelled to the bathroom.
+2 Tim got the milk there.
+3 How many objects is Tim carrying? 	one	2
+4 Sandy took the football there.
+5 Tony journeyed to the office.
+6 How many objects is Tim carrying? 	one	2
+7 Sandy moved to the garden.
+8 Sandy went back to the kitchen.
+9 How many objects is Tim carrying? 	one	2
+10 Tim dropped the milk.
+11 Sandy handed the football to Tim.
+12 How many objects is Sandy carrying? 	none	4 11
+13 Tim gave the football to Sandy.
+14 Tim travelled to the garden.
+15 How many objects is Tim carrying? 	none	2 10 11 13
+1 Johnson moved to the bathroom.
+2 Johnson travelled to the hallway.
+3 Johnson went to the bedroom.
+4 Tony journeyed to the kitchen.
+5 Sandy took the football there.
+6 Sandy journeyed to the kitchen.
+7 How many objects is Sandy carrying? 	one	5
+8 Sandy went to the bedroom.
+9 Sandy handed the football to Johnson.
+10 How many objects is Sandy carrying? 	none	5 9
+11 Johnson handed the football to Tim.
+12 Tim gave the football to Johnson.
+13 How many objects is Johnson carrying? 	one	9 11 12
+14 Tony went back to the office.
+15 Johnson passed the football to Tim.
+16 How many objects is Tim carrying? 	one	11 12 15
+17 Tim handed the football to Johnson.
+18 Johnson passed the football to Tim.
+19 How many objects is Tim carrying? 	one	11 12 15 17 18
+1 Johnson went back to the bathroom.
+2 Johnson went back to the hallway.
+3 Tim moved to the hallway.
+4 Tony went back to the bathroom.
+5 Johnson grabbed the football there.
+6 Tim went to the bathroom.
+7 How many objects is Johnson carrying? 	one	5
+8 Johnson discarded the football there.
+9 Sandy travelled to the garden.
+10 How many objects is Johnson carrying? 	none	5 8
+11 Johnson took the football there.
+12 Sandy went back to the bedroom.
+13 How many objects is Johnson carrying? 	one	5 8 11
+14 Tim journeyed to the office.
+15 Tony went back to the bedroom.
+16 How many objects is Johnson carrying? 	one	5 8 11
+17 Johnson left the football.
+18 Sandy went back to the bathroom.
+19 How many objects is Johnson carrying? 	none	5 8 11 17
+1 Tim grabbed the milk there.
+2 Tim handed the milk to Tony.
+3 How many objects is Tim carrying? 	none	1 2
+4 Tim went back to the bedroom.
+5 Tim journeyed to the kitchen.
+6 How many objects is Tim carrying? 	none	1 2
+7 Tim moved to the bathroom.
+8 Tony dropped the milk.
+9 How many objects is Tony carrying? 	none	2 8
+10 Sandy moved to the office.
+11 Tony grabbed the milk there.
+12 How many objects is Tony carrying? 	one	2 8 11
+13 Johnson went to the hallway.
+14 Tony passed the milk to Sandy.
+15 How many objects is Tony carrying? 	none	2 8 11 14
+1 Tim journeyed to the bathroom.
+2 Sandy grabbed the milk there.
+3 How many objects is Sandy carrying? 	one	2
+4 Sandy left the milk.
+5 Tim went to the kitchen.
+6 How many objects is Sandy carrying? 	none	2 4
+7 Johnson moved to the garden.
+8 Johnson took the football there.
+9 How many objects is Johnson carrying? 	one	8
+10 Johnson left the football there.
+11 Tim journeyed to the hallway.
+12 How many objects is Johnson carrying? 	none	8 10
+13 Tony went to the office.
+14 Tony moved to the bedroom.
+15 How many objects is Johnson carrying? 	none	8 10
+1 Tony moved to the kitchen.
+2 Johnson went to the garden.
+3 Tony journeyed to the hallway.
+4 Tony moved to the kitchen.
+5 Tony went to the hallway.
+6 Tim grabbed the football there.
+7 How many objects is Tim carrying? 	one	6
+8 Tim dropped the football there.
+9 Tony journeyed to the bedroom.
+10 How many objects is Tim carrying? 	none	6 8
+11 Sandy journeyed to the garden.
+12 Sandy journeyed to the hallway.
+13 How many objects is Tim carrying? 	none	6 8
+14 Tony got the apple there.
+15 Sandy went to the bathroom.
+16 How many objects is Tony carrying? 	one	14
+17 Sandy grabbed the milk there.
+18 Tony dropped the apple.
+19 How many objects is Tony carrying? 	none	14 18
+1 Sandy went back to the bedroom.
+2 Tony went to the kitchen.
+3 Tony went to the bedroom.
+4 Tim went back to the hallway.
+5 Johnson went to the office.
+6 Tim moved to the bedroom.
+7 Tony moved to the office.
+8 Tony went to the garden.
+9 Sandy travelled to the bathroom.
+10 Tony took the football there.
+11 How many objects is Tony carrying? 	one	10
+12 Sandy travelled to the garden.
+13 Tony handed the football to Sandy.
+14 How many objects is Tony carrying? 	none	10 13
+15 Sandy passed the football to Tony.
+16 Tony passed the football to Sandy.
+17 How many objects is Sandy carrying? 	one	13 15 16
+18 Sandy passed the football to Tony.
+19 Tony passed the football to Sandy.
+20 How many objects is Tony carrying? 	none	10 13 15 16 18 19
+21 Sandy handed the football to Tony.
+22 Tony handed the football to Sandy.
+23 How many objects is Tony carrying? 	none	10 13 15 16 18 19 21 22
+1 Sandy moved to the hallway.
+2 Tony went back to the hallway.
+3 Tony moved to the kitchen.
+4 Johnson picked up the apple there.
+5 How many objects is Johnson carrying? 	one	4
+6 Johnson handed the apple to Tim.
+7 Tim put down the apple.
+8 How many objects is Tim carrying? 	none	6 7
+9 Tim grabbed the apple there.
+10 Sandy got the football there.
+11 How many objects is Tim carrying? 	one	6 7 9
+12 Johnson moved to the bathroom.
+13 Johnson went back to the bedroom.
+14 How many objects is Tim carrying? 	one	6 7 9
+15 Tim left the apple there.
+16 Sandy left the football there.
+17 How many objects is Sandy carrying? 	none	10 16
+1 Tim travelled to the garden.
+2 Tony journeyed to the bathroom.
+3 Tony journeyed to the garden.
+4 Johnson journeyed to the garden.
+5 Tim moved to the office.
+6 Sandy moved to the kitchen.
+7 Tim travelled to the garden.
+8 Sandy took the football there.
+9 How many objects is Sandy carrying? 	one	8
+10 Tim went to the bathroom.
+11 Sandy moved to the bathroom.
+12 How many objects is Sandy carrying? 	one	8
+13 Sandy moved to the garden.
+14 Sandy passed the football to Johnson.
+15 How many objects is Sandy carrying? 	none	8 14
+16 Johnson passed the football to Sandy.
+17 Sandy handed the football to Johnson.
+18 How many objects is Sandy carrying? 	none	8 14 16 17
+19 Sandy travelled to the kitchen.
+20 Johnson passed the football to Tony.
+21 How many objects is Sandy carrying? 	none	8 14 16 17
+1 Tony got the football there.
+2 Sandy moved to the hallway.
+3 How many objects is Tony carrying? 	one	1
+4 Tony travelled to the bathroom.
+5 Tony grabbed the apple there.
+6 How many objects is Tony carrying? 	two	1 5
+7 Tim moved to the bedroom.
+8 Johnson went to the bedroom.
+9 How many objects is Tony carrying? 	two	1 5
+10 Johnson journeyed to the kitchen.
+11 Tony put down the football there.
+12 How many objects is Tony carrying? 	one	1 5 11
+13 Johnson journeyed to the office.
+14 Sandy moved to the office.
+15 How many objects is Tony carrying? 	one	1 5 11
+1 Sandy got the milk there.
+2 Johnson went to the bathroom.
+3 How many objects is Sandy carrying? 	one	1
+4 Sandy discarded the milk.
+5 Sandy got the milk there.
+6 How many objects is Sandy carrying? 	one	1 4 5
+7 Johnson took the apple there.
+8 Sandy put down the milk.
+9 How many objects is Sandy carrying? 	none	1 4 5 8
+10 Sandy grabbed the football there.
+11 Johnson handed the apple to Tony.
+12 How many objects is Johnson carrying? 	none	7 11
+13 Sandy went back to the office.
+14 Tony gave the apple to Johnson.
+15 How many objects is Sandy carrying? 	one	1 4 5 8 10
+1 Sandy journeyed to the hallway.
+2 Sandy journeyed to the garden.
+3 Sandy went back to the kitchen.
+4 Tim went back to the kitchen.
+5 Sandy took the apple there.
+6 Tony travelled to the hallway.
+7 How many objects is Sandy carrying? 	one	5
+8 Sandy passed the apple to Tim.
+9 Tim gave the apple to Sandy.
+10 How many objects is Sandy carrying? 	one	5 8 9
+11 Sandy went back to the hallway.
+12 Tony went back to the kitchen.
+13 How many objects is Sandy carrying? 	one	5 8 9
+14 Tim went back to the office.
+15 Tim moved to the kitchen.
+16 How many objects is Tim carrying? 	none	8 9
+17 Johnson travelled to the bedroom.
+18 Johnson went to the bathroom.
+19 Sandy went to the kitchen.
+20 Sandy gave the apple to Tim.
+21 How many objects is Sandy carrying? 	none	5 8 9 20
+1 Tim took the milk there.
+2 Tony took the football there.
+3 How many objects is Tim carrying? 	one	1
+4 Tim left the milk.
+5 Tim grabbed the milk there.
+6 How many objects is Tony carrying? 	one	2
+7 Tony discarded the football.
+8 Johnson journeyed to the bathroom.
+9 How many objects is Tony carrying? 	none	2 7
+10 Tony got the football there.
+11 Tony went to the office.
+12 How many objects is Tony carrying? 	one	2 7 10
+13 Tony handed the football to Tim.
+14 Tim passed the football to Tony.
+15 How many objects is Tony carrying? 	one	2 7 10 13 14
+1 Tony picked up the apple there.
+2 Johnson took the milk there.
+3 How many objects is Johnson carrying? 	one	2
+4 Tony passed the apple to Tim.
+5 Tim handed the apple to Tony.
+6 How many objects is Johnson carrying? 	one	2
+7 Tony left the apple.
+8 Johnson gave the milk to Sandy.
+9 How many objects is Johnson carrying? 	none	2 8
+10 Sandy passed the milk to Johnson.
+11 Tony went back to the bedroom.
+12 How many objects is Sandy carrying? 	none	8 10
+13 Sandy moved to the garden.
+14 Johnson moved to the garden.
+15 How many objects is Sandy carrying? 	none	8 10
+1 Sandy picked up the apple there.
+2 Johnson went back to the bedroom.
+3 How many objects is Sandy carrying? 	one	1
+4 Sandy moved to the office.
+5 Tim moved to the kitchen.
+6 How many objects is Sandy carrying? 	one	1
+7 Sandy took the milk there.
+8 Sandy discarded the milk.
+9 How many objects is Sandy carrying? 	one	1 7 8
+10 Tony travelled to the bathroom.
+11 Johnson went to the hallway.
+12 How many objects is Sandy carrying? 	one	1 7 8
+13 Johnson journeyed to the bedroom.
+14 Sandy discarded the apple.
+15 How many objects is Sandy carrying? 	none	1 7 8 14
+1 Johnson got the milk there.
+2 Johnson left the milk.
+3 How many objects is Johnson carrying? 	none	1 2
+4 Tony got the football there.
+5 Sandy went back to the hallway.
+6 How many objects is Tony carrying? 	one	4
+7 Sandy moved to the bedroom.
+8 Johnson travelled to the hallway.
+9 How many objects is Johnson carrying? 	none	1 2
+10 Tony passed the football to Sandy.
+11 Sandy discarded the football.
+12 How many objects is Sandy carrying? 	none	10 11
+13 Tim journeyed to the bathroom.
+14 Tim went to the office.
+15 How many objects is Sandy carrying? 	none	10 11
+1 Johnson took the football there.
+2 Johnson put down the football there.
+3 How many objects is Johnson carrying? 	none	1 2
+4 Tony moved to the garden.
+5 Tony picked up the football there.
+6 How many objects is Johnson carrying? 	none	1 2
+7 Tony dropped the football.
+8 Johnson went to the hallway.
+9 How many objects is Tony carrying? 	none	5 7
+10 Sandy journeyed to the office.
+11 Johnson went back to the bedroom.
+12 How many objects is Tony carrying? 	none	5 7
+13 Johnson moved to the office.
+14 Johnson travelled to the bathroom.
+15 Sandy journeyed to the hallway.
+16 Tim travelled to the office.
+17 Sandy grabbed the apple there.
+18 Tony grabbed the football there.
+19 How many objects is Tony carrying? 	one	5 7 18
+1 Johnson picked up the football there.
+2 Johnson passed the football to Tim.
+3 How many objects is Johnson carrying? 	none	1 2
+4 Sandy travelled to the hallway.
+5 Tim dropped the football there.
+6 How many objects is Tim carrying? 	none	2 5
+7 Tim took the football there.
+8 Sandy went back to the office.
+9 How many objects is Johnson carrying? 	none	1 2
+10 Tim handed the football to Johnson.
+11 Johnson passed the football to Tim.
+12 How many objects is Johnson carrying? 	none	1 2 10 11
+13 Tim gave the football to Johnson.
+14 Johnson left the football.
+15 How many objects is Tim carrying? 	none	2 5 7 10 11 13
+1 Tony went back to the kitchen.
+2 Tim travelled to the bathroom.
+3 Johnson moved to the office.
+4 Tony travelled to the bedroom.
+5 Tony moved to the kitchen.
+6 Tony went back to the bathroom.
+7 Johnson journeyed to the hallway.
+8 Tim got the apple there.
+9 How many objects is Tim carrying? 	one	8
+10 Tim handed the apple to Tony.
+11 Sandy journeyed to the bathroom.
+12 How many objects is Tim carrying? 	none	8 10
+13 Tony passed the apple to Tim.
+14 Tim passed the apple to Sandy.
+15 How many objects is Tony carrying? 	none	10 13
+16 Tony moved to the kitchen.
+17 Tim went to the hallway.
+18 How many objects is Tony carrying? 	none	10 13
+19 Tony went to the garden.
+20 Johnson journeyed to the office.
+21 How many objects is Tim carrying? 	none	8 10 13 14
+1 Sandy journeyed to the bedroom.
+2 Sandy grabbed the football there.
+3 How many objects is Sandy carrying? 	one	2
+4 Sandy passed the football to Tony.
+5 Tony handed the football to Sandy.
+6 How many objects is Sandy carrying? 	one	2 4 5
+7 Sandy gave the football to Tony.
+8 Tim travelled to the bathroom.
+9 How many objects is Sandy carrying? 	none	2 4 5 7
+10 Sandy went to the hallway.
+11 Tim moved to the bedroom.
+12 How many objects is Sandy carrying? 	none	2 4 5 7
+13 Tony gave the football to Tim.
+14 Tony journeyed to the office.
+15 How many objects is Tony carrying? 	none	4 5 7 13
+1 Tony travelled to the bedroom.
+2 Johnson went to the bathroom.
+3 Tony got the milk there.
+4 Johnson moved to the hallway.
+5 How many objects is Tony carrying? 	one	3
+6 Tony moved to the kitchen.
+7 Sandy went back to the office.
+8 How many objects is Tony carrying? 	one	3
+9 Tony put down the milk.
+10 Tony went back to the garden.
+11 How many objects is Tony carrying? 	none	3 9
+12 Tony went back to the kitchen.
+13 Johnson went to the office.
+14 How many objects is Tony carrying? 	none	3 9
+15 Johnson grabbed the apple there.
+16 Johnson left the apple there.
+17 How many objects is Johnson carrying? 	none	15 16
+1 Johnson went to the bedroom.
+2 Sandy got the milk there.
+3 How many objects is Sandy carrying? 	one	2
+4 Johnson moved to the kitchen.
+5 Sandy took the football there.
+6 How many objects is Sandy carrying? 	two	2 5
+7 Sandy left the milk.
+8 Johnson journeyed to the garden.
+9 How many objects is Sandy carrying? 	one	2 5 7
+10 Tony went back to the office.
+11 Tony picked up the apple there.
+12 How many objects is Sandy carrying? 	one	2 5 7
+13 Sandy dropped the football.
+14 Tim went back to the office.
+15 How many objects is Sandy carrying? 	none	2 5 7 13
+1 Johnson moved to the garden.
+2 Tim took the apple there.
+3 How many objects is Tim carrying? 	one	2
+4 Johnson moved to the bedroom.
+5 Tim discarded the apple.
+6 How many objects is Tim carrying? 	none	2 5
+7 Tim took the apple there.
+8 Tim travelled to the bedroom.
+9 How many objects is Tim carrying? 	one	2 5 7
+10 Tim gave the apple to Johnson.
+11 Tony journeyed to the kitchen.
+12 How many objects is Tim carrying? 	none	2 5 7 10
+13 Tim went back to the hallway.
+14 Tim went to the bathroom.
+15 How many objects is Tim carrying? 	none	2 5 7 10
+1 Johnson travelled to the bathroom.
+2 Tony travelled to the hallway.
+3 Tim journeyed to the kitchen.
+4 Tony grabbed the football there.
+5 How many objects is Tony carrying? 	one	4
+6 Sandy journeyed to the hallway.
+7 Tony handed the football to Sandy.
+8 How many objects is Tony carrying? 	none	4 7
+9 Sandy handed the football to Tony.
+10 Tony gave the football to Sandy.
+11 How many objects is Tony carrying? 	none	4 7 9 10
+12 Sandy gave the football to Tony.
+13 Tim went to the garden.
+14 How many objects is Tony carrying? 	one	4 7 9 10 12
+15 Tony handed the football to Sandy.
+16 Johnson picked up the milk there.
+17 How many objects is Tony carrying? 	none	4 7 9 10 12 15
+1 Tim moved to the bathroom.
+2 Sandy took the apple there.
+3 How many objects is Sandy carrying? 	one	2
+4 Sandy discarded the apple there.
+5 Tim went to the hallway.
+6 How many objects is Sandy carrying? 	none	2 4
+7 Tim picked up the apple there.
+8 Tim handed the apple to Sandy.
+9 How many objects is Tim carrying? 	none	7 8
+10 Sandy handed the apple to Tim.
+11 Tim journeyed to the office.
+12 How many objects is Sandy carrying? 	none	2 4 8 10
+13 Tony went to the bedroom.
+14 Sandy journeyed to the kitchen.
+15 How many objects is Sandy carrying? 	none	2 4 8 10
+1 Tim picked up the milk there.
+2 Sandy went back to the office.
+3 How many objects is Tim carrying? 	one	1
+4 Sandy got the football there.
+5 Tony took the apple there.
+6 How many objects is Tim carrying? 	one	1
+7 Johnson journeyed to the hallway.
+8 Sandy journeyed to the hallway.
+9 How many objects is Tony carrying? 	one	5
+10 Tim left the milk.
+11 Sandy left the football.
+12 How many objects is Sandy carrying? 	none	4 11
+13 Sandy picked up the milk there.
+14 Sandy dropped the milk.
+15 How many objects is Tim carrying? 	none	1 10
+1 Johnson journeyed to the bathroom.
+2 Tim journeyed to the bedroom.
+3 Tony went to the office.
+4 Tim took the apple there.
+5 How many objects is Tim carrying? 	one	4
+6 Sandy moved to the garden.
+7 Tim left the apple.
+8 How many objects is Tim carrying? 	none	4 7
+9 Tim picked up the apple there.
+10 Johnson took the milk there.
+11 How many objects is Johnson carrying? 	one	10
+12 Johnson put down the milk.
+13 Sandy went back to the kitchen.
+14 How many objects is Tim carrying? 	one	4 7 9
+15 Johnson travelled to the garden.
+16 Tim put down the apple.
+17 How many objects is Johnson carrying? 	none	10 12
+1 Tony went to the office.
+2 Sandy moved to the bedroom.
+3 Johnson went back to the bedroom.
+4 Sandy got the milk there.
+5 How many objects is Sandy carrying? 	one	4
+6 Sandy put down the milk.
+7 Tony journeyed to the bathroom.
+8 How many objects is Sandy carrying? 	none	4 6
+9 Sandy got the milk there.
+10 Sandy passed the milk to Johnson.
+11 How many objects is Sandy carrying? 	none	4 6 9 10
+12 Tony journeyed to the office.
+13 Tim journeyed to the bathroom.
+14 How many objects is Sandy carrying? 	none	4 6 9 10
+15 Sandy travelled to the office.
+16 Tony journeyed to the bedroom.
+17 How many objects is Sandy carrying? 	none	4 6 9 10
+1 Sandy picked up the apple there.
+2 Sandy left the apple.
+3 How many objects is Sandy carrying? 	none	1 2
+4 Johnson grabbed the apple there.
+5 Tony took the milk there.
+6 How many objects is Johnson carrying? 	one	4
+7 Johnson passed the apple to Sandy.
+8 Sandy passed the apple to Johnson.
+9 How many objects is Tony carrying? 	one	5
+10 Johnson gave the apple to Sandy.
+11 Tony put down the milk.
+12 How many objects is Tony carrying? 	none	5 11
+13 Tony journeyed to the bedroom.
+14 Sandy handed the apple to Johnson.
+15 How many objects is Sandy carrying? 	none	1 2 7 8 10 14
+1 Johnson grabbed the milk there.
+2 Johnson put down the milk.
+3 How many objects is Johnson carrying? 	none	1 2
+4 Tim travelled to the bedroom.
+5 Tony journeyed to the office.
+6 How many objects is Johnson carrying? 	none	1 2
+7 Johnson went back to the hallway.
+8 Tony journeyed to the bedroom.
+9 How many objects is Johnson carrying? 	none	1 2
+10 Johnson journeyed to the kitchen.
+11 Johnson got the milk there.
+12 How many objects is Johnson carrying? 	one	1 2 11
+13 Johnson put down the milk.
+14 Tony moved to the kitchen.
+15 How many objects is Johnson carrying? 	none	1 2 11 13
+1 Tony went to the bedroom.
+2 Johnson took the football there.
+3 How many objects is Johnson carrying? 	one	2
+4 Johnson passed the football to Sandy.
+5 Sandy dropped the football.
+6 How many objects is Johnson carrying? 	none	2 4
+7 Johnson travelled to the hallway.
+8 Tim journeyed to the bedroom.
+9 How many objects is Johnson carrying? 	none	2 4
+10 Sandy went to the office.
+11 Johnson picked up the milk there.
+12 How many objects is Johnson carrying? 	one	2 4 11
+13 Tim went to the kitchen.
+14 Tim travelled to the bedroom.
+15 How many objects is Johnson carrying? 	one	2 4 11
+1 Johnson travelled to the bedroom.
+2 Sandy picked up the milk there.
+3 How many objects is Sandy carrying? 	one	2
+4 Sandy dropped the milk.
+5 Johnson grabbed the apple there.
+6 How many objects is Johnson carrying? 	one	5
+7 Johnson journeyed to the hallway.
+8 Johnson journeyed to the kitchen.
+9 How many objects is Johnson carrying? 	one	5
+10 Tony went back to the bedroom.
+11 Johnson travelled to the hallway.
+12 How many objects is Johnson carrying? 	one	5
+13 Johnson went to the kitchen.
+14 Johnson journeyed to the hallway.
+15 Sandy got the milk there.
+16 Sandy dropped the milk.
+17 How many objects is Sandy carrying? 	none	2 4 15 16
+1 Tony moved to the office.
+2 Tim moved to the office.
+3 Sandy picked up the apple there.
+4 Sandy dropped the apple.
+5 How many objects is Sandy carrying? 	none	3 4
+6 Sandy took the apple there.
+7 Johnson went to the bedroom.
+8 How many objects is Sandy carrying? 	one	3 4 6
+9 Sandy moved to the hallway.
+10 Johnson got the milk there.
+11 How many objects is Sandy carrying? 	one	3 4 6
+12 Johnson put down the milk.
+13 Sandy put down the apple.
+14 How many objects is Johnson carrying? 	none	10 12
+15 Tim journeyed to the bathroom.
+16 Tim travelled to the kitchen.
+17 How many objects is Sandy carrying? 	none	3 4 6 13
+1 Sandy journeyed to the bathroom.
+2 Johnson grabbed the apple there.
+3 How many objects is Johnson carrying? 	one	2
+4 Johnson journeyed to the garden.
+5 Tony journeyed to the kitchen.
+6 How many objects is Johnson carrying? 	one	2
+7 Tim journeyed to the office.
+8 Tony travelled to the garden.
+9 How many objects is Johnson carrying? 	one	2
+10 Tim got the milk there.
+11 Johnson passed the apple to Tony.
+12 How many objects is Tim carrying? 	one	10
+13 Tim grabbed the football there.
+14 Tony gave the apple to Johnson.
+15 How many objects is Tony carrying? 	none	11 14
+1 Sandy journeyed to the bathroom.
+2 Tony journeyed to the kitchen.
+3 Tony journeyed to the hallway.
+4 Tony got the football there.
+5 How many objects is Tony carrying? 	one	4
+6 Tony gave the football to Tim.
+7 Tim handed the football to Tony.
+8 How many objects is Tony carrying? 	one	4 6 7
+9 Tony handed the football to Tim.
+10 Tim put down the football there.
+11 How many objects is Tony carrying? 	none	4 6 7 9
+12 Johnson went back to the bathroom.
+13 Tim picked up the football there.
+14 How many objects is Tim carrying? 	one	6 7 9 10 13
+15 Sandy got the milk there.
+16 Tony took the apple there.
+17 How many objects is Tim carrying? 	one	6 7 9 10 13
+1 Tim journeyed to the office.
+2 Johnson travelled to the hallway.
+3 Johnson went to the bathroom.
+4 Tim went back to the bathroom.
+5 Johnson grabbed the apple there.
+6 Johnson gave the apple to Tim.
+7 How many objects is Johnson carrying? 	none	5 6
+8 Tim left the apple.
+9 Tony journeyed to the office.
+10 How many objects is Johnson carrying? 	none	5 6
+11 Johnson picked up the apple there.
+12 Johnson handed the apple to Tim.
+13 How many objects is Johnson carrying? 	none	5 6 11 12
+14 Sandy went back to the kitchen.
+15 Tim travelled to the kitchen.
+16 How many objects is Johnson carrying? 	none	5 6 11 12
+17 Tim passed the apple to Sandy.
+18 Tony journeyed to the garden.
+19 How many objects is Tim carrying? 	none	6 8 12 17
+1 Tony went back to the bathroom.
+2 Tim journeyed to the bedroom.
+3 Johnson went back to the bedroom.
+4 Tony went to the office.
+5 Tim journeyed to the kitchen.
+6 Tim picked up the football there.
+7 How many objects is Tim carrying? 	one	6
+8 Johnson grabbed the milk there.
+9 Tim went to the bedroom.
+10 How many objects is Johnson carrying? 	one	8
+11 Tim discarded the football.
+12 Tim travelled to the bathroom.
+13 How many objects is Johnson carrying? 	one	8
+14 Tim moved to the bedroom.
+15 Johnson gave the milk to Tim.
+16 How many objects is Johnson carrying? 	none	8 15
+17 Tim passed the milk to Johnson.
+18 Johnson handed the milk to Tim.
+19 How many objects is Johnson carrying? 	none	8 15 17 18
+1 Sandy went back to the kitchen.
+2 Tim travelled to the bedroom.
+3 Tony moved to the bedroom.
+4 Tim went back to the kitchen.
+5 Johnson travelled to the bedroom.
+6 Tony got the football there.
+7 How many objects is Tony carrying? 	one	6
+8 Tony journeyed to the kitchen.
+9 Tony handed the football to Tim.
+10 How many objects is Tony carrying? 	none	6 9
+11 Tim gave the football to Sandy.
+12 Sandy handed the football to Tim.
+13 How many objects is Tony carrying? 	none	6 9
+14 Tony went to the bathroom.
+15 Tim journeyed to the garden.
+16 How many objects is Tim carrying? 	one	9 11 12
+17 Tim took the milk there.
+18 Johnson journeyed to the office.
+19 How many objects is Sandy carrying? 	none	11 12
+1 Tony went to the kitchen.
+2 Tim travelled to the hallway.
+3 Tim went back to the bedroom.
+4 Johnson journeyed to the garden.
+5 Tony picked up the apple there.
+6 Tim travelled to the garden.
+7 How many objects is Tony carrying? 	one	5
+8 Tim moved to the bedroom.
+9 Johnson journeyed to the kitchen.
+10 How many objects is Tony carrying? 	one	5
+11 Tony went to the bedroom.
+12 Tony travelled to the office.
+13 Tony put down the apple.
+14 Johnson travelled to the garden.
+15 How many objects is Tony carrying? 	none	5 13
+16 Tony journeyed to the bathroom.
+17 Tim grabbed the football there.
+18 How many objects is Tim carrying? 	one	17
+19 Tim discarded the football.
+20 Tony travelled to the hallway.
+21 How many objects is Tim carrying? 	none	17 19

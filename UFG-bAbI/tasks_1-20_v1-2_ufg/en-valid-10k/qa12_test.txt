@@ -1,0 +1,3000 @@
+1 Johnson and Tim travelled to the hallway.
+2 Sandy and Tim journeyed to the bedroom.
+3 Where is Tim? 	bedroom	2
+4 Tim and Tony travelled to the bathroom.
+5 Tony and Sandy journeyed to the office.
+6 Where is Tim? 	bathroom	4
+7 Tony and Tim went to the bedroom.
+8 Tony and Sandy travelled to the hallway.
+9 Where is Sandy? 	hallway	8
+10 Tim and Sandy journeyed to the garden.
+11 Sandy and Tim travelled to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tony and Johnson journeyed to the bathroom.
+14 Tony and Tim went back to the office.
+15 Where is Johnson? 	bathroom	13
+1 Tony and Tim journeyed to the office.
+2 Tim and Sandy went back to the bedroom.
+3 Where is Tim? 	bedroom	2
+4 Tony and Sandy journeyed to the hallway.
+5 Tim and Sandy travelled to the bathroom.
+6 Where is Sandy? 	bathroom	5
+7 Tim and Johnson travelled to the kitchen.
+8 Tim and Tony journeyed to the bedroom.
+9 Where is Tim? 	bedroom	8
+10 Johnson and Tony moved to the office.
+11 Johnson and Tim moved to the hallway.
+12 Where is Tony? 	office	10
+13 Johnson and Tim moved to the garden.
+14 Johnson and Tim journeyed to the kitchen.
+15 Where is Johnson? 	kitchen	14
+1 Tim and Sandy went to the bathroom.
+2 Tony and Johnson journeyed to the hallway.
+3 Where is Tim? 	bathroom	1
+4 Tim and Johnson moved to the bedroom.
+5 Johnson and Sandy travelled to the office.
+6 Where is Johnson? 	office	5
+7 Sandy and Tim journeyed to the kitchen.
+8 Tim and Tony moved to the office.
+9 Where is Tony? 	office	8
+10 Johnson and Sandy travelled to the garden.
+11 Tim and Tony moved to the hallway.
+12 Where is Sandy? 	garden	10
+13 Tim and Sandy went to the bathroom.
+14 Sandy and Tim moved to the hallway.
+15 Where is Tim? 	hallway	14
+1 Sandy and Tim moved to the bathroom.
+2 Sandy and Johnson went to the hallway.
+3 Where is Tim? 	bathroom	1
+4 Tim and Sandy journeyed to the kitchen.
+5 Tim and Johnson journeyed to the garden.
+6 Where is Sandy? 	kitchen	4
+7 Tim and Sandy travelled to the bathroom.
+8 Tony and Sandy went to the garden.
+9 Where is Sandy? 	garden	8
+10 Johnson and Sandy went to the office.
+11 Tony and Johnson went to the bathroom.
+12 Where is Tony? 	bathroom	11
+13 Tim and Tony went back to the bedroom.
+14 Johnson and Tony travelled to the hallway.
+15 Where is Tony? 	hallway	14
+1 Sandy and Johnson went to the garden.
+2 Tim and Johnson moved to the kitchen.
+3 Where is Johnson? 	kitchen	2
+4 Johnson and Tony travelled to the hallway.
+5 Johnson and Tim went back to the garden.
+6 Where is Tony? 	hallway	4
+7 Sandy and Tim moved to the office.
+8 Tim and Tony journeyed to the kitchen.
+9 Where is Tony? 	kitchen	8
+10 Johnson and Tony moved to the bathroom.
+11 Tim and Sandy travelled to the garden.
+12 Where is Tim? 	garden	11
+13 Johnson and Tony journeyed to the hallway.
+14 Johnson and Sandy moved to the office.
+15 Where is Sandy? 	office	14
+1 Johnson and Sandy moved to the bedroom.
+2 Johnson and Tony went to the bathroom.
+3 Where is Sandy? 	bedroom	1
+4 Tim and Johnson travelled to the garden.
+5 Johnson and Tony travelled to the kitchen.
+6 Where is Tim? 	garden	4
+7 Sandy and Tim moved to the kitchen.
+8 Tim and Tony journeyed to the hallway.
+9 Where is Sandy? 	kitchen	7
+10 Johnson and Sandy journeyed to the office.
+11 Tim and Sandy journeyed to the bathroom.
+12 Where is Tim? 	bathroom	11
+13 Tony and Tim moved to the office.
+14 Tim and Sandy went back to the kitchen.
+15 Where is Sandy? 	kitchen	14
+1 Tim and Johnson travelled to the office.
+2 Johnson and Sandy moved to the bathroom.
+3 Where is Sandy? 	bathroom	2
+4 Johnson and Tony went to the hallway.
+5 Sandy and Tony went back to the office.
+6 Where is Sandy? 	office	5
+7 Tim and Sandy went to the bedroom.
+8 Tim and Sandy moved to the office.
+9 Where is Tim? 	office	8
+10 Tim and Sandy journeyed to the hallway.
+11 Tony and Johnson travelled to the bathroom.
+12 Where is Johnson? 	bathroom	11
+13 Sandy and Tony went back to the garden.
+14 Tony and Tim went back to the office.
+15 Where is Tony? 	office	14
+1 Johnson and Tony travelled to the garden.
+2 Tim and Johnson went back to the kitchen.
+3 Where is Johnson? 	kitchen	2
+4 Johnson and Tim went to the bathroom.
+5 Sandy and Johnson moved to the hallway.
+6 Where is Tim? 	bathroom	4
+7 Tim and Tony went back to the kitchen.
+8 Johnson and Tim went back to the garden.
+9 Where is Johnson? 	garden	8
+10 Tim and Tony went back to the office.
+11 Tim and Tony moved to the kitchen.
+12 Where is Tony? 	kitchen	11
+13 Sandy and Tim moved to the office.
+14 Tony and Johnson journeyed to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Tim and Johnson moved to the garden.
+2 Sandy and Johnson went back to the office.
+3 Where is Johnson? 	office	2
+4 Tony and Johnson moved to the bedroom.
+5 Tony and Johnson moved to the garden.
+6 Where is Johnson? 	garden	5
+7 Johnson and Sandy went to the kitchen.
+8 Sandy and Tim went back to the bedroom.
+9 Where is Johnson? 	kitchen	7
+10 Tony and Johnson moved to the office.
+11 Johnson and Tony went to the kitchen.
+12 Where is Tony? 	kitchen	11
+13 Sandy and Tim went to the kitchen.
+14 Tim and Johnson went to the hallway.
+15 Where is Sandy? 	kitchen	13
+1 Tim and Johnson went to the kitchen.
+2 Sandy and Tony travelled to the hallway.
+3 Where is Johnson? 	kitchen	1
+4 Sandy and Tony moved to the garden.
+5 Sandy and Johnson journeyed to the office.
+6 Where is Tony? 	garden	4
+7 Tony and Tim moved to the hallway.
+8 Johnson and Sandy went to the garden.
+9 Where is Tony? 	hallway	7
+10 Tony and Tim travelled to the bathroom.
+11 Tony and Sandy went to the hallway.
+12 Where is Sandy? 	hallway	11
+13 Johnson and Tim travelled to the bedroom.
+14 Sandy and Johnson went back to the bathroom.
+15 Where is Tim? 	bedroom	13
+1 Johnson and Tim went to the office.
+2 Tony and Johnson went back to the kitchen.
+3 Where is Tim? 	office	1
+4 Tim and Johnson travelled to the hallway.
+5 Tim and Johnson went to the bathroom.
+6 Where is Tim? 	bathroom	5
+7 Sandy and Johnson went back to the hallway.
+8 Sandy and Tony went back to the garden.
+9 Where is Tony? 	garden	8
+10 Sandy and Tony travelled to the bedroom.
+11 Tony and Sandy moved to the hallway.
+12 Where is Tony? 	hallway	11
+13 Sandy and Tim went back to the kitchen.
+14 Tony and Tim went back to the garden.
+15 Where is Tim? 	garden	14
+1 Johnson and Tony went to the kitchen.
+2 Tony and Johnson went to the office.
+3 Where is Tony? 	office	2
+4 Tony and Johnson travelled to the hallway.
+5 Tim and Johnson moved to the garden.
+6 Where is Johnson? 	garden	5
+7 Sandy and Tony moved to the office.
+8 Tony and Johnson journeyed to the hallway.
+9 Where is Tony? 	hallway	8
+10 Tim and Tony moved to the kitchen.
+11 Johnson and Sandy journeyed to the bathroom.
+12 Where is Sandy? 	bathroom	11
+13 Johnson and Tony travelled to the bedroom.
+14 Tony and Sandy journeyed to the hallway.
+15 Where is Tony? 	hallway	14
+1 Sandy and Tim journeyed to the garden.
+2 Johnson and Sandy journeyed to the bedroom.
+3 Where is Sandy? 	bedroom	2
+4 Tony and Johnson travelled to the hallway.
+5 Tim and Sandy moved to the kitchen.
+6 Where is Sandy? 	kitchen	5
+7 Sandy and Tony travelled to the bathroom.
+8 Johnson and Tony went to the office.
+9 Where is Sandy? 	bathroom	7
+10 Tim and Sandy went back to the office.
+11 Sandy and Tony journeyed to the hallway.
+12 Where is Tony? 	hallway	11
+13 Tim and Sandy travelled to the bathroom.
+14 Johnson and Tim went back to the garden.
+15 Where is Tim? 	garden	14
+1 Sandy and Tim went to the garden.
+2 Johnson and Tony went to the bedroom.
+3 Where is Johnson? 	bedroom	2
+4 Sandy and Tony travelled to the hallway.
+5 Sandy and Johnson travelled to the kitchen.
+6 Where is Johnson? 	kitchen	5
+7 Sandy and Johnson moved to the bathroom.
+8 Tim and Tony moved to the bedroom.
+9 Where is Sandy? 	bathroom	7
+10 Johnson and Sandy travelled to the kitchen.
+11 Tim and Sandy went to the office.
+12 Where is Tony? 	bedroom	8
+13 Tony and Tim moved to the hallway.
+14 Tim and Tony went to the bedroom.
+15 Where is Tony? 	bedroom	14
+1 Tony and Johnson travelled to the hallway.
+2 Johnson and Tim went back to the office.
+3 Where is Tony? 	hallway	1
+4 Johnson and Sandy travelled to the bedroom.
+5 Johnson and Sandy went to the garden.
+6 Where is Tim? 	office	2
+7 Tim and Tony travelled to the garden.
+8 Tony and Johnson journeyed to the office.
+9 Where is Tony? 	office	8
+10 Johnson and Tony went to the hallway.
+11 Tim and Tony went back to the kitchen.
+12 Where is Tony? 	kitchen	11
+13 Tony and Johnson went back to the office.
+14 Tim and Johnson travelled to the garden.
+15 Where is Tony? 	office	13
+1 Johnson and Sandy travelled to the bedroom.
+2 Johnson and Tim went to the hallway.
+3 Where is Tim? 	hallway	2
+4 Sandy and Tony moved to the kitchen.
+5 Tim and Johnson went back to the garden.
+6 Where is Tim? 	garden	5
+7 Sandy and Tim went to the bedroom.
+8 Tony and Johnson went back to the office.
+9 Where is Tony? 	office	8
+10 Sandy and Tony moved to the garden.
+11 Johnson and Sandy travelled to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Tony and Tim moved to the bathroom.
+14 Johnson and Sandy moved to the bedroom.
+15 Where is Sandy? 	bedroom	14
+1 Johnson and Tim moved to the office.
+2 Tim and Johnson went to the kitchen.
+3 Where is Johnson? 	kitchen	2
+4 Johnson and Sandy journeyed to the hallway.
+5 Sandy and Tim went to the bedroom.
+6 Where is Johnson? 	hallway	4
+7 Tony and Johnson moved to the bathroom.
+8 Sandy and Tim went back to the kitchen.
+9 Where is Tony? 	bathroom	7
+10 Sandy and Tim went to the bathroom.
+11 Johnson and Tim travelled to the bedroom.
+12 Where is Tim? 	bedroom	11
+13 Tony and Johnson moved to the garden.
+14 Johnson and Tim travelled to the kitchen.
+15 Where is Johnson? 	kitchen	14
+1 Sandy and Johnson travelled to the kitchen.
+2 Sandy and Johnson went back to the office.
+3 Where is Johnson? 	office	2
+4 Johnson and Tim moved to the bathroom.
+5 Sandy and Tim travelled to the kitchen.
+6 Where is Tim? 	kitchen	5
+7 Johnson and Tim travelled to the garden.
+8 Tim and Tony went back to the hallway.
+9 Where is Tim? 	hallway	8
+10 Tony and Johnson journeyed to the bedroom.
+11 Tony and Johnson went to the bathroom.
+12 Where is Johnson? 	bathroom	11
+13 Tim and Sandy went to the office.
+14 Sandy and Johnson travelled to the garden.
+15 Where is Tim? 	office	13
+1 Tony and Johnson journeyed to the bedroom.
+2 Sandy and Johnson travelled to the kitchen.
+3 Where is Johnson? 	kitchen	2
+4 Johnson and Tony travelled to the garden.
+5 Sandy and Tony went to the bedroom.
+6 Where is Johnson? 	garden	4
+7 Sandy and Tim travelled to the garden.
+8 Sandy and Johnson went to the hallway.
+9 Where is Tony? 	bedroom	5
+10 Tony and Sandy journeyed to the kitchen.
+11 Tony and Tim went to the bedroom.
+12 Where is Johnson? 	hallway	8
+13 Tony and Tim went back to the hallway.
+14 Tim and Johnson went back to the kitchen.
+15 Where is Tony? 	hallway	13
+1 Tony and Johnson moved to the kitchen.
+2 Tim and Sandy journeyed to the hallway.
+3 Where is Sandy? 	hallway	2
+4 Johnson and Tony travelled to the bedroom.
+5 Sandy and Tim journeyed to the kitchen.
+6 Where is Sandy? 	kitchen	5
+7 Tony and Johnson travelled to the bathroom.
+8 Tony and Johnson journeyed to the kitchen.
+9 Where is Johnson? 	kitchen	8
+10 Johnson and Tony travelled to the bathroom.
+11 Tim and Sandy travelled to the bedroom.
+12 Where is Tim? 	bedroom	11
+13 Tony and Sandy moved to the garden.
+14 Johnson and Tony travelled to the office.
+15 Where is Tony? 	office	14
+1 Tony and Tim journeyed to the hallway.
+2 Tim and Tony went to the garden.
+3 Where is Tim? 	garden	2
+4 Tony and Sandy went back to the hallway.
+5 Johnson and Tony went to the bedroom.
+6 Where is Tony? 	bedroom	5
+7 Tim and Johnson moved to the office.
+8 Johnson and Tim went to the hallway.
+9 Where is Johnson? 	hallway	8
+10 Tony and Johnson went to the bathroom.
+11 Johnson and Tony journeyed to the kitchen.
+12 Where is Johnson? 	kitchen	11
+13 Sandy and Tony journeyed to the bedroom.
+14 Tony and Tim journeyed to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Tim and Tony went back to the garden.
+2 Tony and Johnson went to the hallway.
+3 Where is Tony? 	hallway	2
+4 Johnson and Sandy journeyed to the garden.
+5 Sandy and Tony travelled to the bathroom.
+6 Where is Sandy? 	bathroom	5
+7 Johnson and Tony went back to the office.
+8 Johnson and Tim went back to the bedroom.
+9 Where is Johnson? 	bedroom	8
+10 Tony and Johnson journeyed to the hallway.
+11 Tim and Johnson travelled to the bathroom.
+12 Where is Johnson? 	bathroom	11
+13 Tim and Sandy travelled to the hallway.
+14 Tony and Johnson moved to the garden.
+15 Where is Sandy? 	hallway	13
+1 Sandy and Johnson went to the hallway.
+2 Tony and Sandy moved to the bathroom.
+3 Where is Tony? 	bathroom	2
+4 Sandy and Johnson went back to the bedroom.
+5 Tony and Johnson travelled to the garden.
+6 Where is Johnson? 	garden	5
+7 Sandy and Tony went back to the hallway.
+8 Johnson and Tony went to the bathroom.
+9 Where is Tony? 	bathroom	8
+10 Sandy and Tim moved to the office.
+11 Sandy and Tim travelled to the kitchen.
+12 Where is Tony? 	bathroom	8
+13 Tony and Tim moved to the garden.
+14 Tim and Sandy moved to the office.
+15 Where is Tim? 	office	14
+1 Tim and Tony moved to the hallway.
+2 Tim and Tony moved to the bathroom.
+3 Where is Tim? 	bathroom	2
+4 Tim and Johnson journeyed to the garden.
+5 Johnson and Sandy moved to the bathroom.
+6 Where is Tony? 	bathroom	2
+7 Johnson and Sandy went to the hallway.
+8 Tony and Johnson moved to the bedroom.
+9 Where is Johnson? 	bedroom	8
+10 Tim and Sandy went to the bedroom.
+11 Johnson and Tim moved to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Tony and Sandy moved to the kitchen.
+14 Johnson and Tony went back to the office.
+15 Where is Johnson? 	office	14
+1 Johnson and Tony moved to the hallway.
+2 Tim and Johnson went back to the bedroom.
+3 Where is Johnson? 	bedroom	2
+4 Tim and Johnson went to the hallway.
+5 Tony and Johnson travelled to the bedroom.
+6 Where is Tim? 	hallway	4
+7 Tony and Sandy journeyed to the office.
+8 Sandy and Tim went back to the kitchen.
+9 Where is Tony? 	office	7
+10 Tony and Tim moved to the bathroom.
+11 Tim and Tony journeyed to the bedroom.
+12 Where is Tim? 	bedroom	11
+13 Tim and Johnson journeyed to the office.
+14 Johnson and Tim went to the bathroom.
+15 Where is Johnson? 	bathroom	14
+1 Johnson and Tim moved to the bedroom.
+2 Sandy and Tony moved to the office.
+3 Where is Sandy? 	office	2
+4 Tony and Tim travelled to the hallway.
+5 Tim and Tony went to the bedroom.
+6 Where is Tony? 	bedroom	5
+7 Johnson and Sandy went back to the garden.
+8 Sandy and Tony travelled to the hallway.
+9 Where is Johnson? 	garden	7
+10 Johnson and Tony went to the bedroom.
+11 Sandy and Tim went back to the kitchen.
+12 Where is Tony? 	bedroom	10
+13 Tony and Johnson travelled to the garden.
+14 Tony and Johnson moved to the bedroom.
+15 Where is Johnson? 	bedroom	14
+1 Tim and Johnson journeyed to the office.
+2 Tony and Johnson journeyed to the hallway.
+3 Where is Tim? 	office	1
+4 Johnson and Sandy went to the garden.
+5 Tim and Johnson went back to the kitchen.
+6 Where is Johnson? 	kitchen	5
+7 Tony and Johnson went to the office.
+8 Tony and Sandy went back to the kitchen.
+9 Where is Sandy? 	kitchen	8
+10 Sandy and Tony went back to the bathroom.
+11 Tony and Sandy went back to the hallway.
+12 Where is Sandy? 	hallway	11
+13 Johnson and Tony moved to the garden.
+14 Johnson and Tony travelled to the office.
+15 Where is Tony? 	office	14
+1 Sandy and Tim travelled to the garden.
+2 Johnson and Sandy journeyed to the kitchen.
+3 Where is Johnson? 	kitchen	2
+4 Sandy and Tony journeyed to the bedroom.
+5 Johnson and Tim travelled to the bathroom.
+6 Where is Tony? 	bedroom	4
+7 Sandy and Tim went back to the hallway.
+8 Tony and Sandy travelled to the kitchen.
+9 Where is Tim? 	hallway	7
+10 Tony and Sandy went to the bedroom.
+11 Tim and Sandy journeyed to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Sandy and Johnson travelled to the garden.
+14 Tim and Johnson went to the bedroom.
+15 Where is Johnson? 	bedroom	14
+1 Tony and Johnson went to the kitchen.
+2 Sandy and Johnson went back to the bedroom.
+3 Where is Johnson? 	bedroom	2
+4 Johnson and Tim journeyed to the hallway.
+5 Tim and Tony journeyed to the office.
+6 Where is Johnson? 	hallway	4
+7 Johnson and Tony moved to the bedroom.
+8 Tim and Johnson went back to the garden.
+9 Where is Tony? 	bedroom	7
+10 Tim and Johnson went back to the bedroom.
+11 Johnson and Sandy moved to the bathroom.
+12 Where is Johnson? 	bathroom	11
+13 Tony and Johnson went to the kitchen.
+14 Tony and Sandy moved to the garden.
+15 Where is Sandy? 	garden	14
+1 Tony and Johnson journeyed to the bedroom.
+2 Sandy and Tim went to the garden.
+3 Where is Tony? 	bedroom	1
+4 Sandy and Tim travelled to the hallway.
+5 Tim and Sandy went to the bedroom.
+6 Where is Tim? 	bedroom	5
+7 Sandy and Tony journeyed to the hallway.
+8 Tony and Johnson journeyed to the kitchen.
+9 Where is Johnson? 	kitchen	8
+10 Johnson and Sandy moved to the bathroom.
+11 Tim and Johnson went back to the kitchen.
+12 Where is Johnson? 	kitchen	11
+13 Tim and Tony moved to the office.
+14 Tony and Johnson went back to the hallway.
+15 Where is Tony? 	hallway	14
+1 Tim and Tony went back to the bathroom.
+2 Tony and Sandy journeyed to the kitchen.
+3 Where is Tim? 	bathroom	1
+4 Tony and Sandy went back to the bathroom.
+5 Sandy and Tim went back to the garden.
+6 Where is Sandy? 	garden	5
+7 Sandy and Johnson travelled to the bathroom.
+8 Tony and Sandy travelled to the hallway.
+9 Where is Sandy? 	hallway	8
+10 Tim and Johnson travelled to the kitchen.
+11 Sandy and Tony went to the garden.
+12 Where is Johnson? 	kitchen	10
+13 Sandy and Tony moved to the kitchen.
+14 Johnson and Tim went to the garden.
+15 Where is Tony? 	kitchen	13
+1 Sandy and Tim went to the garden.
+2 Sandy and Tim moved to the bathroom.
+3 Where is Tim? 	bathroom	2
+4 Johnson and Sandy went to the hallway.
+5 Sandy and Tony travelled to the bathroom.
+6 Where is Tony? 	bathroom	5
+7 Tony and Tim went to the garden.
+8 Tim and Tony moved to the bedroom.
+9 Where is Tony? 	bedroom	8
+10 Tim and Johnson travelled to the bathroom.
+11 Sandy and Johnson travelled to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Sandy and Johnson went back to the garden.
+14 Tim and Sandy journeyed to the hallway.
+15 Where is Sandy? 	hallway	14
+1 Sandy and Tony travelled to the bedroom.
+2 Sandy and Johnson travelled to the office.
+3 Where is Sandy? 	office	2
+4 Tony and Sandy travelled to the bathroom.
+5 Tony and Tim travelled to the garden.
+6 Where is Tony? 	garden	5
+7 Johnson and Tony went back to the bathroom.
+8 Tony and Johnson went to the hallway.
+9 Where is Johnson? 	hallway	8
+10 Johnson and Tim went to the kitchen.
+11 Tony and Johnson journeyed to the bathroom.
+12 Where is Tony? 	bathroom	11
+13 Tim and Sandy went back to the bedroom.
+14 Johnson and Sandy travelled to the kitchen.
+15 Where is Johnson? 	kitchen	14
+1 Tim and Tony went back to the garden.
+2 Tim and Tony journeyed to the bathroom.
+3 Where is Tony? 	bathroom	2
+4 Tim and Tony journeyed to the bedroom.
+5 Tony and Sandy went back to the hallway.
+6 Where is Tim? 	bedroom	4
+7 Sandy and Tony journeyed to the bathroom.
+8 Tim and Johnson went back to the office.
+9 Where is Sandy? 	bathroom	7
+10 Tim and Johnson went back to the bathroom.
+11 Tim and Sandy travelled to the kitchen.
+12 Where is Johnson? 	bathroom	10
+13 Tim and Johnson went to the garden.
+14 Sandy and Tim went to the bedroom.
+15 Where is Tim? 	bedroom	14
+1 Tony and Sandy moved to the bathroom.
+2 Tony and Johnson travelled to the garden.
+3 Where is Tony? 	garden	2
+4 Johnson and Tony went back to the bedroom.
+5 Sandy and Tony went back to the kitchen.
+6 Where is Tony? 	kitchen	5
+7 Tony and Johnson travelled to the hallway.
+8 Sandy and Tim travelled to the hallway.
+9 Where is Tim? 	hallway	8
+10 Johnson and Tim went to the bathroom.
+11 Tim and Sandy travelled to the bedroom.
+12 Where is Tim? 	bedroom	11
+13 Sandy and Johnson went to the office.
+14 Johnson and Tony moved to the bathroom.
+15 Where is Sandy? 	office	13
+1 Johnson and Sandy went to the bedroom.
+2 Johnson and Tim went back to the hallway.
+3 Where is Johnson? 	hallway	2
+4 Johnson and Sandy went back to the garden.
+5 Tony and Tim journeyed to the garden.
+6 Where is Tim? 	garden	5
+7 Sandy and Tim moved to the kitchen.
+8 Tim and Sandy travelled to the office.
+9 Where is Tim? 	office	8
+10 Tim and Tony moved to the kitchen.
+11 Tim and Johnson went back to the bedroom.
+12 Where is Tim? 	bedroom	11
+13 Johnson and Sandy went back to the kitchen.
+14 Sandy and Johnson went back to the hallway.
+15 Where is Johnson? 	hallway	14
+1 Johnson and Tony went back to the garden.
+2 Tim and Tony travelled to the hallway.
+3 Where is Johnson? 	garden	1
+4 Tim and Johnson went back to the bedroom.
+5 Johnson and Sandy went back to the kitchen.
+6 Where is Johnson? 	kitchen	5
+7 Tony and Sandy moved to the bathroom.
+8 Sandy and Tim moved to the kitchen.
+9 Where is Tony? 	bathroom	7
+10 Sandy and Tony moved to the office.
+11 Tony and Johnson went back to the bathroom.
+12 Where is Tony? 	bathroom	11
+13 Tim and Tony went to the bedroom.
+14 Sandy and Johnson journeyed to the hallway.
+15 Where is Johnson? 	hallway	14
+1 Tim and Tony went back to the kitchen.
+2 Tim and Sandy journeyed to the office.
+3 Where is Tony? 	kitchen	1
+4 Tim and Johnson moved to the kitchen.
+5 Tony and Johnson moved to the garden.
+6 Where is Tony? 	garden	5
+7 Johnson and Tim journeyed to the hallway.
+8 Tim and Sandy moved to the kitchen.
+9 Where is Sandy? 	kitchen	8
+10 Tim and Sandy moved to the bathroom.
+11 Tony and Johnson journeyed to the bedroom.
+12 Where is Johnson? 	bedroom	11
+13 Sandy and Tim journeyed to the bedroom.
+14 Tony and Sandy travelled to the kitchen.
+15 Where is Sandy? 	kitchen	14
+1 Tim and Sandy went back to the kitchen.
+2 Tony and Sandy travelled to the bathroom.
+3 Where is Tony? 	bathroom	2
+4 Sandy and Johnson moved to the garden.
+5 Sandy and Johnson travelled to the office.
+6 Where is Sandy? 	office	5
+7 Tim and Sandy journeyed to the bedroom.
+8 Sandy and Tim moved to the kitchen.
+9 Where is Sandy? 	kitchen	8
+10 Tony and Sandy went back to the bedroom.
+11 Tony and Johnson moved to the garden.
+12 Where is Tony? 	garden	11
+13 Sandy and Tim travelled to the bathroom.
+14 Johnson and Sandy went to the hallway.
+15 Where is Sandy? 	hallway	14
+1 Johnson and Sandy journeyed to the bedroom.
+2 Johnson and Tim travelled to the hallway.
+3 Where is Johnson? 	hallway	2
+4 Tim and Johnson went back to the kitchen.
+5 Sandy and Tony travelled to the hallway.
+6 Where is Tony? 	hallway	5
+7 Tony and Johnson journeyed to the bathroom.
+8 Tony and Sandy journeyed to the bedroom.
+9 Where is Sandy? 	bedroom	8
+10 Tony and Johnson travelled to the garden.
+11 Sandy and Johnson travelled to the hallway.
+12 Where is Tony? 	garden	10
+13 Johnson and Tony moved to the bedroom.
+14 Tim and Tony went to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Tony and Johnson travelled to the bedroom.
+2 Sandy and Johnson journeyed to the kitchen.
+3 Where is Tony? 	bedroom	1
+4 Tim and Tony journeyed to the kitchen.
+5 Johnson and Tim moved to the bedroom.
+6 Where is Johnson? 	bedroom	5
+7 Tim and Tony moved to the garden.
+8 Tim and Tony journeyed to the hallway.
+9 Where is Tim? 	hallway	8
+10 Johnson and Tony went back to the bathroom.
+11 Tim and Tony went to the office.
+12 Where is Tony? 	office	11
+13 Tony and Johnson travelled to the bedroom.
+14 Tony and Tim travelled to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Johnson and Tony travelled to the garden.
+2 Tony and Johnson journeyed to the bathroom.
+3 Where is Johnson? 	bathroom	2
+4 Tim and Tony travelled to the hallway.
+5 Johnson and Tony travelled to the office.
+6 Where is Tony? 	office	5
+7 Johnson and Sandy went to the kitchen.
+8 Johnson and Tim moved to the garden.
+9 Where is Johnson? 	garden	8
+10 Sandy and Johnson moved to the hallway.
+11 Tony and Sandy journeyed to the kitchen.
+12 Where is Sandy? 	kitchen	11
+13 Sandy and Johnson journeyed to the bedroom.
+14 Johnson and Tony journeyed to the hallway.
+15 Where is Johnson? 	hallway	14
+1 Tony and Johnson went to the hallway.
+2 Tony and Johnson travelled to the bathroom.
+3 Where is Tony? 	bathroom	2
+4 Tony and Tim went back to the kitchen.
+5 Johnson and Tony went to the hallway.
+6 Where is Johnson? 	hallway	5
+7 Sandy and Tony went to the bathroom.
+8 Johnson and Sandy went back to the office.
+9 Where is Johnson? 	office	8
+10 Tony and Sandy went to the bedroom.
+11 Johnson and Tim moved to the bedroom.
+12 Where is Tony? 	bedroom	10
+13 Johnson and Tony moved to the hallway.
+14 Sandy and Tim moved to the hallway.
+15 Where is Tim? 	hallway	14
+1 Johnson and Sandy journeyed to the hallway.
+2 Tony and Tim went to the bathroom.
+3 Where is Tony? 	bathroom	2
+4 Sandy and Johnson went to the kitchen.
+5 Tim and Tony moved to the hallway.
+6 Where is Johnson? 	kitchen	4
+7 Tony and Tim went back to the garden.
+8 Tony and Tim went to the bedroom.
+9 Where is Tim? 	bedroom	8
+10 Johnson and Tony travelled to the office.
+11 Johnson and Tony went back to the garden.
+12 Where is Johnson? 	garden	11
+13 Tim and Sandy went back to the bathroom.
+14 Sandy and Johnson went back to the kitchen.
+15 Where is Sandy? 	kitchen	14
+1 Tony and Sandy went to the garden.
+2 Tim and Johnson travelled to the hallway.
+3 Where is Johnson? 	hallway	2
+4 Sandy and Tim travelled to the bedroom.
+5 Sandy and Tony went to the kitchen.
+6 Where is Johnson? 	hallway	2
+7 Tony and Tim journeyed to the garden.
+8 Sandy and Tim journeyed to the bathroom.
+9 Where is Tony? 	garden	7
+10 Tony and Johnson journeyed to the bedroom.
+11 Sandy and Johnson went to the hallway.
+12 Where is Sandy? 	hallway	11
+13 Tim and Tony went back to the hallway.
+14 Tony and Johnson went back to the office.
+15 Where is Tony? 	office	14
+1 Sandy and Tim went back to the bathroom.
+2 Tony and Sandy moved to the bedroom.
+3 Where is Sandy? 	bedroom	2
+4 Johnson and Sandy travelled to the garden.
+5 Tim and Johnson went to the kitchen.
+6 Where is Johnson? 	kitchen	5
+7 Johnson and Tim went back to the garden.
+8 Johnson and Sandy journeyed to the kitchen.
+9 Where is Tim? 	garden	7
+10 Sandy and Johnson travelled to the office.
+11 Johnson and Tim went to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tony and Johnson went back to the garden.
+14 Tony and Tim travelled to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Johnson and Sandy went to the garden.
+2 Sandy and Tony went to the bedroom.
+3 Where is Sandy? 	bedroom	2
+4 Sandy and Tony went to the kitchen.
+5 Tony and Johnson travelled to the bedroom.
+6 Where is Sandy? 	kitchen	4
+7 Johnson and Tony travelled to the hallway.
+8 Sandy and Johnson travelled to the office.
+9 Where is Johnson? 	office	8
+10 Tim and Johnson moved to the bathroom.
+11 Johnson and Tony went back to the office.
+12 Where is Johnson? 	office	11
+13 Johnson and Tim travelled to the garden.
+14 Sandy and Johnson travelled to the bedroom.
+15 Where is Johnson? 	bedroom	14
+1 Sandy and Tony journeyed to the kitchen.
+2 Tim and Sandy moved to the hallway.
+3 Where is Tim? 	hallway	2
+4 Tony and Johnson went to the bedroom.
+5 Sandy and Tony went to the bathroom.
+6 Where is Sandy? 	bathroom	5
+7 Sandy and Tony went back to the hallway.
+8 Tim and Sandy moved to the garden.
+9 Where is Tim? 	garden	8
+10 Johnson and Tony travelled to the garden.
+11 Tim and Sandy moved to the hallway.
+12 Where is Sandy? 	hallway	11
+13 Tim and Johnson travelled to the bedroom.
+14 Johnson and Tony journeyed to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Johnson and Tony travelled to the bedroom.
+2 Tony and Tim moved to the garden.
+3 Where is Tony? 	garden	2
+4 Tony and Tim moved to the office.
+5 Johnson and Tim moved to the hallway.
+6 Where is Tim? 	hallway	5
+7 Tony and Tim went to the bedroom.
+8 Tony and Johnson went to the bathroom.
+9 Where is Tim? 	bedroom	7
+10 Tony and Johnson moved to the hallway.
+11 Sandy and Johnson went to the garden.
+12 Where is Sandy? 	garden	11
+13 Tony and Johnson travelled to the bathroom.
+14 Johnson and Tony went back to the hallway.
+15 Where is Johnson? 	hallway	14
+1 Johnson and Tony went to the bathroom.
+2 Tony and Tim travelled to the garden.
+3 Where is Tim? 	garden	2
+4 Sandy and Tony went to the kitchen.
+5 Johnson and Tim journeyed to the bedroom.
+6 Where is Tim? 	bedroom	5
+7 Johnson and Tim travelled to the bathroom.
+8 Johnson and Sandy travelled to the office.
+9 Where is Johnson? 	office	8
+10 Sandy and Johnson went back to the kitchen.
+11 Tim and Sandy moved to the garden.
+12 Where is Sandy? 	garden	11
+13 Sandy and Johnson moved to the bathroom.
+14 Sandy and Tony travelled to the bedroom.
+15 Where is Sandy? 	bedroom	14
+1 Tony and Sandy went to the hallway.
+2 Johnson and Tony went back to the bathroom.
+3 Where is Tony? 	bathroom	2
+4 Tim and Sandy travelled to the garden.
+5 Sandy and Johnson went back to the hallway.
+6 Where is Sandy? 	hallway	5
+7 Johnson and Tony moved to the bedroom.
+8 Sandy and Tony journeyed to the bathroom.
+9 Where is Tony? 	bathroom	8
+10 Tony and Sandy moved to the office.
+11 Tim and Johnson travelled to the office.
+12 Where is Sandy? 	office	10
+13 Tony and Johnson travelled to the kitchen.
+14 Tony and Tim went back to the bedroom.
+15 Where is Tony? 	bedroom	14
+1 Sandy and Tim went back to the kitchen.
+2 Tony and Johnson moved to the kitchen.
+3 Where is Tony? 	kitchen	2
+4 Tony and Tim journeyed to the hallway.
+5 Tony and Tim travelled to the garden.
+6 Where is Tim? 	garden	5
+7 Sandy and Tim went back to the hallway.
+8 Johnson and Tony journeyed to the office.
+9 Where is Johnson? 	office	8
+10 Tony and Johnson travelled to the bathroom.
+11 Tony and Sandy moved to the office.
+12 Where is Tony? 	office	11
+13 Tim and Tony moved to the kitchen.
+14 Tim and Sandy went back to the bedroom.
+15 Where is Tim? 	bedroom	14
+1 Tim and Tony journeyed to the bedroom.
+2 Johnson and Sandy moved to the garden.
+3 Where is Johnson? 	garden	2
+4 Tony and Johnson went back to the kitchen.
+5 Tony and Tim went back to the office.
+6 Where is Tony? 	office	5
+7 Johnson and Sandy journeyed to the bedroom.
+8 Tony and Johnson went to the garden.
+9 Where is Tony? 	garden	8
+10 Tim and Tony travelled to the hallway.
+11 Tony and Tim moved to the office.
+12 Where is Tim? 	office	11
+13 Tony and Sandy went back to the kitchen.
+14 Johnson and Tim moved to the bedroom.
+15 Where is Sandy? 	kitchen	13
+1 Johnson and Sandy travelled to the office.
+2 Tim and Johnson moved to the bathroom.
+3 Where is Tim? 	bathroom	2
+4 Tim and Sandy moved to the garden.
+5 Sandy and Johnson went back to the bedroom.
+6 Where is Tim? 	garden	4
+7 Johnson and Sandy moved to the kitchen.
+8 Sandy and Tony went to the hallway.
+9 Where is Tony? 	hallway	8
+10 Sandy and Johnson went back to the bathroom.
+11 Tim and Johnson went to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Johnson and Sandy went back to the bedroom.
+14 Johnson and Tony went back to the office.
+15 Where is Sandy? 	bedroom	13
+1 Tony and Tim moved to the bedroom.
+2 Johnson and Tim moved to the kitchen.
+3 Where is Tony? 	bedroom	1
+4 Johnson and Tony went back to the hallway.
+5 Tony and Tim travelled to the bedroom.
+6 Where is Tim? 	bedroom	5
+7 Tony and Johnson went back to the garden.
+8 Sandy and Tim went back to the hallway.
+9 Where is Tony? 	garden	7
+10 Tim and Sandy went back to the garden.
+11 Tim and Johnson went back to the office.
+12 Where is Johnson? 	office	11
+13 Johnson and Sandy went back to the bathroom.
+14 Johnson and Sandy travelled to the office.
+15 Where is Sandy? 	office	14
+1 Sandy and Johnson went back to the office.
+2 Johnson and Sandy moved to the garden.
+3 Where is Johnson? 	garden	2
+4 Johnson and Tim went back to the office.
+5 Sandy and Tim travelled to the kitchen.
+6 Where is Tim? 	kitchen	5
+7 Sandy and Tony went to the hallway.
+8 Tim and Tony went back to the bathroom.
+9 Where is Tim? 	bathroom	8
+10 Tim and Sandy went to the garden.
+11 Sandy and Johnson went to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Johnson and Sandy journeyed to the kitchen.
+14 Tony and Tim went back to the office.
+15 Where is Tim? 	office	14
+1 Tim and Johnson went to the bedroom.
+2 Tim and Sandy moved to the hallway.
+3 Where is Tim? 	hallway	2
+4 Tim and Sandy travelled to the office.
+5 Sandy and Tim went to the bedroom.
+6 Where is Sandy? 	bedroom	5
+7 Johnson and Sandy moved to the bathroom.
+8 Tim and Johnson went to the garden.
+9 Where is Sandy? 	bathroom	7
+10 Tim and Johnson moved to the bathroom.
+11 Sandy and Tony travelled to the kitchen.
+12 Where is Johnson? 	bathroom	10
+13 Johnson and Tim journeyed to the hallway.
+14 Tim and Sandy travelled to the bedroom.
+15 Where is Tim? 	bedroom	14
+1 Tim and Sandy went back to the bathroom.
+2 Sandy and Johnson went back to the garden.
+3 Where is Sandy? 	garden	2
+4 Tim and Johnson travelled to the office.
+5 Sandy and Tim journeyed to the hallway.
+6 Where is Tim? 	hallway	5
+7 Johnson and Tim went back to the kitchen.
+8 Johnson and Sandy went back to the office.
+9 Where is Johnson? 	office	8
+10 Johnson and Tim moved to the bathroom.
+11 Sandy and Tim travelled to the garden.
+12 Where is Tim? 	garden	11
+13 Tony and Johnson went to the bedroom.
+14 Tony and Johnson travelled to the kitchen.
+15 Where is Johnson? 	kitchen	14
+1 Johnson and Tony moved to the bedroom.
+2 Tony and Sandy went back to the kitchen.
+3 Where is Johnson? 	bedroom	1
+4 Tony and Sandy went back to the bathroom.
+5 Johnson and Sandy journeyed to the kitchen.
+6 Where is Sandy? 	kitchen	5
+7 Tony and Sandy went to the bedroom.
+8 Sandy and Tony went to the kitchen.
+9 Where is Sandy? 	kitchen	8
+10 Tony and Johnson went back to the bathroom.
+11 Tony and Sandy travelled to the hallway.
+12 Where is Tony? 	hallway	11
+13 Tony and Tim moved to the kitchen.
+14 Tim and Johnson journeyed to the bedroom.
+15 Where is Johnson? 	bedroom	14
+1 Tony and Sandy moved to the bathroom.
+2 Johnson and Tony went back to the garden.
+3 Where is Tony? 	garden	2
+4 Johnson and Tony went to the bedroom.
+5 Johnson and Tim travelled to the office.
+6 Where is Tony? 	bedroom	4
+7 Tony and Sandy journeyed to the hallway.
+8 Tim and Sandy moved to the bedroom.
+9 Where is Tim? 	bedroom	8
+10 Johnson and Tim moved to the bathroom.
+11 Johnson and Tim moved to the kitchen.
+12 Where is Johnson? 	kitchen	11
+13 Tony and Sandy moved to the kitchen.
+14 Tony and Johnson went to the office.
+15 Where is Tony? 	office	14
+1 Tim and Tony went back to the bathroom.
+2 Tony and Tim travelled to the garden.
+3 Where is Tim? 	garden	2
+4 Sandy and Johnson went to the bedroom.
+5 Tony and Johnson journeyed to the office.
+6 Where is Tim? 	garden	2
+7 Tim and Tony travelled to the bedroom.
+8 Tim and Sandy travelled to the kitchen.
+9 Where is Tim? 	kitchen	8
+10 Sandy and Tony went to the hallway.
+11 Johnson and Tony went back to the kitchen.
+12 Where is Sandy? 	hallway	10
+13 Johnson and Tony travelled to the office.
+14 Tim and Sandy travelled to the garden.
+15 Where is Sandy? 	garden	14
+1 Johnson and Tony journeyed to the garden.
+2 Sandy and Johnson went to the kitchen.
+3 Where is Sandy? 	kitchen	2
+4 Tony and Tim journeyed to the kitchen.
+5 Sandy and Tim went to the bedroom.
+6 Where is Tony? 	kitchen	4
+7 Tim and Tony went back to the office.
+8 Tim and Tony travelled to the kitchen.
+9 Where is Tim? 	kitchen	8
+10 Johnson and Tim journeyed to the office.
+11 Tony and Johnson travelled to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Tim and Tony went to the kitchen.
+14 Sandy and Tim went to the bathroom.
+15 Where is Johnson? 	hallway	11
+1 Johnson and Tony went back to the kitchen.
+2 Sandy and Tim went to the office.
+3 Where is Tony? 	kitchen	1
+4 Tony and Johnson moved to the hallway.
+5 Tim and Tony moved to the bedroom.
+6 Where is Johnson? 	hallway	4
+7 Tony and Johnson travelled to the garden.
+8 Sandy and Tony went back to the bedroom.
+9 Where is Tony? 	bedroom	8
+10 Tony and Tim went back to the office.
+11 Johnson and Tony went to the bathroom.
+12 Where is Johnson? 	bathroom	11
+13 Tim and Sandy travelled to the bathroom.
+14 Tony and Tim moved to the garden.
+15 Where is Tony? 	garden	14
+1 Sandy and Johnson moved to the garden.
+2 Johnson and Tony moved to the bedroom.
+3 Where is Tony? 	bedroom	2
+4 Tony and Sandy went back to the kitchen.
+5 Johnson and Sandy moved to the hallway.
+6 Where is Sandy? 	hallway	5
+7 Johnson and Tony went back to the office.
+8 Johnson and Sandy moved to the kitchen.
+9 Where is Johnson? 	kitchen	8
+10 Sandy and Tony journeyed to the garden.
+11 Johnson and Tim went to the bedroom.
+12 Where is Tim? 	bedroom	11
+13 Tony and Tim journeyed to the kitchen.
+14 Sandy and Johnson travelled to the bathroom.
+15 Where is Tim? 	kitchen	13
+1 Tony and Sandy went back to the kitchen.
+2 Johnson and Tim moved to the hallway.
+3 Where is Tim? 	hallway	2
+4 Tony and Sandy journeyed to the hallway.
+5 Tim and Tony travelled to the kitchen.
+6 Where is Tony? 	kitchen	5
+7 Tim and Tony went to the bedroom.
+8 Sandy and Johnson travelled to the bedroom.
+9 Where is Sandy? 	bedroom	8
+10 Tony and Sandy went back to the kitchen.
+11 Sandy and Tim went back to the garden.
+12 Where is Johnson? 	bedroom	8
+13 Sandy and Johnson travelled to the hallway.
+14 Sandy and Tim journeyed to the bedroom.
+15 Where is Johnson? 	hallway	13
+1 Sandy and Tony journeyed to the bedroom.
+2 Johnson and Tim went back to the bedroom.
+3 Where is Sandy? 	bedroom	1
+4 Tim and Sandy journeyed to the office.
+5 Tony and Tim moved to the bathroom.
+6 Where is Tim? 	bathroom	5
+7 Sandy and Tim travelled to the garden.
+8 Johnson and Tony journeyed to the office.
+9 Where is Johnson? 	office	8
+10 Tim and Tony travelled to the kitchen.
+11 Tim and Tony went back to the office.
+12 Where is Tim? 	office	11
+13 Sandy and Johnson journeyed to the bathroom.
+14 Sandy and Tony went to the kitchen.
+15 Where is Sandy? 	kitchen	14
+1 Tony and Tim journeyed to the bedroom.
+2 Sandy and Johnson went back to the bedroom.
+3 Where is Sandy? 	bedroom	2
+4 Sandy and Tony went to the kitchen.
+5 Tony and Sandy went to the hallway.
+6 Where is Johnson? 	bedroom	2
+7 Tim and Sandy moved to the bathroom.
+8 Tony and Sandy went back to the kitchen.
+9 Where is Tony? 	kitchen	8
+10 Tim and Sandy moved to the garden.
+11 Tim and Johnson went back to the bathroom.
+12 Where is Tim? 	bathroom	11
+13 Tim and Sandy went to the bedroom.
+14 Tim and Sandy journeyed to the bathroom.
+15 Where is Sandy? 	bathroom	14
+1 Tim and Tony travelled to the garden.
+2 Johnson and Sandy went to the hallway.
+3 Where is Sandy? 	hallway	2
+4 Tim and Johnson moved to the bedroom.
+5 Sandy and Johnson went back to the garden.
+6 Where is Sandy? 	garden	5
+7 Johnson and Tim went to the hallway.
+8 Sandy and Johnson journeyed to the bathroom.
+9 Where is Johnson? 	bathroom	8
+10 Johnson and Sandy travelled to the garden.
+11 Sandy and Tony went to the office.
+12 Where is Tony? 	office	11
+13 Sandy and Tony went to the bedroom.
+14 Johnson and Tim went to the bedroom.
+15 Where is Sandy? 	bedroom	13
+1 Johnson and Sandy went to the bedroom.
+2 Johnson and Tony moved to the garden.
+3 Where is Tony? 	garden	2
+4 Johnson and Tim went to the hallway.
+5 Tony and Tim travelled to the kitchen.
+6 Where is Tony? 	kitchen	5
+7 Tim and Sandy moved to the hallway.
+8 Tim and Tony travelled to the office.
+9 Where is Tim? 	office	8
+10 Sandy and Tim went to the garden.
+11 Tim and Johnson went to the office.
+12 Where is Tim? 	office	11
+13 Tony and Johnson travelled to the kitchen.
+14 Tony and Johnson went back to the office.
+15 Where is Tony? 	office	14
+1 Tim and Johnson journeyed to the kitchen.
+2 Tony and Sandy journeyed to the bedroom.
+3 Where is Tim? 	kitchen	1
+4 Sandy and Tim went back to the office.
+5 Tim and Johnson went back to the bedroom.
+6 Where is Tim? 	bedroom	5
+7 Tim and Tony travelled to the bathroom.
+8 Tony and Sandy travelled to the garden.
+9 Where is Sandy? 	garden	8
+10 Tony and Sandy journeyed to the bathroom.
+11 Tim and Johnson journeyed to the hallway.
+12 Where is Tony? 	bathroom	10
+13 Tim and Tony journeyed to the bedroom.
+14 Tony and Tim went back to the garden.
+15 Where is Tim? 	garden	14
+1 Johnson and Tony journeyed to the garden.
+2 Sandy and Tim went to the bathroom.
+3 Where is Johnson? 	garden	1
+4 Tony and Johnson moved to the office.
+5 Johnson and Tim went to the bedroom.
+6 Where is Johnson? 	bedroom	5
+7 Johnson and Tim moved to the office.
+8 Tim and Johnson went to the bedroom.
+9 Where is Johnson? 	bedroom	8
+10 Tony and Johnson went back to the bathroom.
+11 Tim and Sandy went back to the garden.
+12 Where is Tony? 	bathroom	10
+13 Tony and Sandy went to the kitchen.
+14 Tim and Sandy went to the office.
+15 Where is Tony? 	kitchen	13
+1 Tony and Tim went back to the office.
+2 Tony and Tim moved to the kitchen.
+3 Where is Tim? 	kitchen	2
+4 Tim and Sandy journeyed to the office.
+5 Sandy and Johnson went to the garden.
+6 Where is Johnson? 	garden	5
+7 Tony and Sandy went to the office.
+8 Johnson and Tim went to the bathroom.
+9 Where is Tim? 	bathroom	8
+10 Sandy and Johnson moved to the garden.
+11 Johnson and Sandy went to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Tony and Johnson went to the bedroom.
+14 Tony and Johnson went back to the bathroom.
+15 Where is Johnson? 	bathroom	14
+1 Sandy and Johnson moved to the garden.
+2 Tony and Johnson moved to the bathroom.
+3 Where is Sandy? 	garden	1
+4 Johnson and Tim journeyed to the garden.
+5 Tim and Sandy travelled to the bathroom.
+6 Where is Johnson? 	garden	4
+7 Tony and Johnson moved to the kitchen.
+8 Tony and Tim moved to the bedroom.
+9 Where is Tony? 	bedroom	8
+10 Johnson and Tony journeyed to the bathroom.
+11 Sandy and Tim moved to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tony and Tim went back to the kitchen.
+14 Tim and Tony went back to the hallway.
+15 Where is Tony? 	hallway	14
+1 Sandy and Tony journeyed to the garden.
+2 Johnson and Tony went back to the hallway.
+3 Where is Tony? 	hallway	2
+4 Tim and Tony went to the office.
+5 Tony and Johnson travelled to the kitchen.
+6 Where is Tony? 	kitchen	5
+7 Johnson and Tim went back to the hallway.
+8 Tony and Sandy moved to the bathroom.
+9 Where is Tony? 	bathroom	8
+10 Tony and Sandy journeyed to the bedroom.
+11 Johnson and Tony journeyed to the office.
+12 Where is Sandy? 	bedroom	10
+13 Sandy and Tim journeyed to the garden.
+14 Johnson and Tim travelled to the hallway.
+15 Where is Johnson? 	hallway	14
+1 Johnson and Sandy went back to the garden.
+2 Johnson and Tony journeyed to the hallway.
+3 Where is Johnson? 	hallway	2
+4 Tim and Johnson went back to the office.
+5 Sandy and Johnson moved to the kitchen.
+6 Where is Sandy? 	kitchen	5
+7 Tim and Tony went to the kitchen.
+8 Tim and Sandy went to the garden.
+9 Where is Johnson? 	kitchen	5
+10 Johnson and Tim moved to the hallway.
+11 Tim and Sandy moved to the bathroom.
+12 Where is Sandy? 	bathroom	11
+13 Johnson and Sandy went back to the bedroom.
+14 Sandy and Johnson moved to the garden.
+15 Where is Sandy? 	garden	14
+1 Sandy and Tony journeyed to the bedroom.
+2 Johnson and Sandy travelled to the garden.
+3 Where is Tony? 	bedroom	1
+4 Sandy and Johnson travelled to the bedroom.
+5 Tim and Sandy went back to the kitchen.
+6 Where is Sandy? 	kitchen	5
+7 Sandy and Tim travelled to the bedroom.
+8 Johnson and Tim moved to the office.
+9 Where is Sandy? 	bedroom	7
+10 Tim and Johnson travelled to the hallway.
+11 Tim and Sandy went to the bathroom.
+12 Where is Tim? 	bathroom	11
+13 Tim and Sandy went back to the hallway.
+14 Sandy and Tony travelled to the bathroom.
+15 Where is Sandy? 	bathroom	14
+1 Tim and Johnson travelled to the bathroom.
+2 Tony and Tim went to the office.
+3 Where is Tim? 	office	2
+4 Tony and Tim went to the hallway.
+5 Tim and Johnson went back to the kitchen.
+6 Where is Tony? 	hallway	4
+7 Tim and Johnson moved to the bedroom.
+8 Tim and Tony went to the office.
+9 Where is Tim? 	office	8
+10 Sandy and Tim went back to the garden.
+11 Johnson and Sandy moved to the kitchen.
+12 Where is Tony? 	office	8
+13 Sandy and Johnson moved to the bedroom.
+14 Sandy and Tony journeyed to the garden.
+15 Where is Tony? 	garden	14
+1 Sandy and Tim went back to the hallway.
+2 Tim and Sandy journeyed to the garden.
+3 Where is Sandy? 	garden	2
+4 Tony and Johnson went back to the hallway.
+5 Johnson and Tim went to the office.
+6 Where is Tony? 	hallway	4
+7 Tony and Sandy moved to the bedroom.
+8 Sandy and Johnson moved to the garden.
+9 Where is Tim? 	office	5
+10 Tony and Tim went back to the garden.
+11 Sandy and Tony travelled to the bathroom.
+12 Where is Tony? 	bathroom	11
+13 Johnson and Tony journeyed to the hallway.
+14 Sandy and Tony journeyed to the kitchen.
+15 Where is Johnson? 	hallway	13
+1 Sandy and Johnson moved to the office.
+2 Tony and Johnson went to the garden.
+3 Where is Tony? 	garden	2
+4 Sandy and Tim journeyed to the kitchen.
+5 Sandy and Johnson moved to the bathroom.
+6 Where is Johnson? 	bathroom	5
+7 Tony and Johnson moved to the kitchen.
+8 Johnson and Tim journeyed to the office.
+9 Where is Johnson? 	office	8
+10 Sandy and Johnson went to the garden.
+11 Tony and Tim moved to the bedroom.
+12 Where is Tim? 	bedroom	11
+13 Johnson and Sandy went to the office.
+14 Johnson and Sandy went back to the bedroom.
+15 Where is Sandy? 	bedroom	14
+1 Tim and Johnson journeyed to the kitchen.
+2 Tim and Johnson went to the bathroom.
+3 Where is Johnson? 	bathroom	2
+4 Tony and Sandy moved to the office.
+5 Sandy and Tim travelled to the garden.
+6 Where is Sandy? 	garden	5
+7 Tony and Johnson moved to the hallway.
+8 Sandy and Tim moved to the kitchen.
+9 Where is Sandy? 	kitchen	8
+10 Tim and Tony moved to the garden.
+11 Tim and Sandy went back to the hallway.
+12 Where is Tim? 	hallway	11
+13 Sandy and Tony went to the bedroom.
+14 Sandy and Tony journeyed to the garden.
+15 Where is Sandy? 	garden	14
+1 Johnson and Tim travelled to the office.
+2 Tim and Tony travelled to the bedroom.
+3 Where is Tim? 	bedroom	2
+4 Tony and Sandy travelled to the garden.
+5 Tim and Johnson journeyed to the kitchen.
+6 Where is Sandy? 	garden	4
+7 Johnson and Tony moved to the office.
+8 Tim and Sandy moved to the bedroom.
+9 Where is Johnson? 	office	7
+10 Sandy and Tim journeyed to the garden.
+11 Tim and Sandy moved to the hallway.
+12 Where is Sandy? 	hallway	11
+13 Johnson and Tony went to the bathroom.
+14 Tony and Johnson travelled to the kitchen.
+15 Where is Tony? 	kitchen	14
+1 Tim and Sandy went to the kitchen.
+2 Sandy and Tim went to the bedroom.
+3 Where is Sandy? 	bedroom	2
+4 Tim and Sandy journeyed to the office.
+5 Johnson and Tony went back to the office.
+6 Where is Johnson? 	office	5
+7 Johnson and Tim travelled to the bedroom.
+8 Tony and Sandy went back to the garden.
+9 Where is Johnson? 	bedroom	7
+10 Tim and Sandy moved to the kitchen.
+11 Sandy and Tim moved to the hallway.
+12 Where is Sandy? 	hallway	11
+13 Johnson and Tim journeyed to the kitchen.
+14 Tim and Johnson journeyed to the bedroom.
+15 Where is Tim? 	bedroom	14
+1 Tim and Tony went to the bathroom.
+2 Tony and Sandy went back to the garden.
+3 Where is Tony? 	garden	2
+4 Johnson and Tim went to the garden.
+5 Tony and Sandy went to the hallway.
+6 Where is Sandy? 	hallway	5
+7 Johnson and Tim travelled to the kitchen.
+8 Tony and Johnson travelled to the bedroom.
+9 Where is Johnson? 	bedroom	8
+10 Tim and Sandy went to the garden.
+11 Tim and Sandy travelled to the office.
+12 Where is Sandy? 	office	11
+13 Johnson and Tim went back to the garden.
+14 Tony and Sandy journeyed to the kitchen.
+15 Where is Sandy? 	kitchen	14
+1 Tim and Johnson journeyed to the hallway.
+2 Johnson and Sandy went to the bathroom.
+3 Where is Sandy? 	bathroom	2
+4 Sandy and Johnson went to the hallway.
+5 Johnson and Sandy journeyed to the garden.
+6 Where is Sandy? 	garden	5
+7 Johnson and Sandy travelled to the kitchen.
+8 Johnson and Tony went back to the office.
+9 Where is Johnson? 	office	8
+10 Tim and Sandy travelled to the office.
+11 Tim and Tony travelled to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Sandy and Johnson journeyed to the hallway.
+14 Tim and Johnson journeyed to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Tony and Tim moved to the bedroom.
+2 Johnson and Sandy went to the hallway.
+3 Where is Johnson? 	hallway	2
+4 Johnson and Tim moved to the kitchen.
+5 Johnson and Sandy travelled to the garden.
+6 Where is Tim? 	kitchen	4
+7 Tony and Johnson moved to the hallway.
+8 Johnson and Tony travelled to the garden.
+9 Where is Johnson? 	garden	8
+10 Tim and Tony went to the office.
+11 Johnson and Tony moved to the hallway.
+12 Where is Tony? 	hallway	11
+13 Johnson and Tim moved to the garden.
+14 Johnson and Sandy went back to the bathroom.
+15 Where is Tony? 	hallway	11
+1 Johnson and Tony journeyed to the office.
+2 Johnson and Tim moved to the garden.
+3 Where is Johnson? 	garden	2
+4 Tim and Johnson went back to the bedroom.
+5 Tony and Tim moved to the bathroom.
+6 Where is Tim? 	bathroom	5
+7 Tony and Sandy went back to the kitchen.
+8 Tony and Johnson travelled to the office.
+9 Where is Tim? 	bathroom	5
+10 Tim and Sandy went to the office.
+11 Tony and Tim went back to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tim and Sandy went to the bedroom.
+14 Tony and Sandy went back to the kitchen.
+15 Where is Sandy? 	kitchen	14
+1 Johnson and Tim journeyed to the hallway.
+2 Sandy and Tim moved to the kitchen.
+3 Where is Sandy? 	kitchen	2
+4 Tim and Sandy went back to the bedroom.
+5 Johnson and Tony went back to the bathroom.
+6 Where is Sandy? 	bedroom	4
+7 Johnson and Tony went to the bedroom.
+8 Sandy and Johnson journeyed to the bathroom.
+9 Where is Tony? 	bedroom	7
+10 Johnson and Tim moved to the garden.
+11 Johnson and Sandy moved to the kitchen.
+12 Where is Johnson? 	kitchen	11
+13 Tony and Johnson journeyed to the garden.
+14 Tony and Sandy journeyed to the bedroom.
+15 Where is Tony? 	bedroom	14
+1 Tony and Johnson moved to the garden.
+2 Sandy and Tim moved to the hallway.
+3 Where is Tim? 	hallway	2
+4 Johnson and Tim journeyed to the bedroom.
+5 Johnson and Sandy moved to the kitchen.
+6 Where is Johnson? 	kitchen	5
+7 Tony and Johnson journeyed to the hallway.
+8 Johnson and Sandy travelled to the bathroom.
+9 Where is Johnson? 	bathroom	8
+10 Sandy and Tim moved to the kitchen.
+11 Tim and Johnson went back to the hallway.
+12 Where is Sandy? 	kitchen	10
+13 Johnson and Sandy moved to the bathroom.
+14 Tony and Sandy travelled to the office.
+15 Where is Tony? 	office	14
+1 Tony and Johnson went to the office.
+2 Sandy and Tim journeyed to the office.
+3 Where is Tim? 	office	2
+4 Tony and Tim went to the garden.
+5 Tim and Johnson went to the kitchen.
+6 Where is Tim? 	kitchen	5
+7 Johnson and Sandy moved to the bathroom.
+8 Sandy and Johnson journeyed to the kitchen.
+9 Where is Johnson? 	kitchen	8
+10 Tim and Johnson went back to the bedroom.
+11 Tim and Tony travelled to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Sandy and Tony moved to the bedroom.
+14 Sandy and Johnson travelled to the hallway.
+15 Where is Sandy? 	hallway	14
+1 Sandy and Tim went back to the kitchen.
+2 Johnson and Tim travelled to the hallway.
+3 Where is Johnson? 	hallway	2
+4 Tim and Tony moved to the office.
+5 Tony and Johnson went back to the bathroom.
+6 Where is Tony? 	bathroom	5
+7 Tim and Tony travelled to the garden.
+8 Sandy and Johnson moved to the bedroom.
+9 Where is Tony? 	garden	7
+10 Tim and Tony moved to the hallway.
+11 Sandy and Johnson went back to the hallway.
+12 Where is Tony? 	hallway	10
+13 Tony and Sandy moved to the kitchen.
+14 Johnson and Tim went back to the bathroom.
+15 Where is Sandy? 	kitchen	13
+1 Tim and Johnson moved to the office.
+2 Johnson and Tim went to the bathroom.
+3 Where is Johnson? 	bathroom	2
+4 Johnson and Tim journeyed to the office.
+5 Tony and Tim journeyed to the garden.
+6 Where is Tim? 	garden	5
+7 Tim and Sandy travelled to the kitchen.
+8 Johnson and Tim journeyed to the bathroom.
+9 Where is Tim? 	bathroom	8
+10 Sandy and Tim journeyed to the bedroom.
+11 Sandy and Tim went back to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tony and Johnson went to the office.
+14 Tony and Tim journeyed to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Tony and Johnson went to the hallway.
+2 Johnson and Sandy travelled to the office.
+3 Where is Tony? 	hallway	1
+4 Tony and Sandy travelled to the kitchen.
+5 Johnson and Tim travelled to the bedroom.
+6 Where is Johnson? 	bedroom	5
+7 Sandy and Tony went to the bedroom.
+8 Tony and Sandy moved to the garden.
+9 Where is Sandy? 	garden	8
+10 Tony and Johnson journeyed to the kitchen.
+11 Tim and Sandy journeyed to the bathroom.
+12 Where is Tim? 	bathroom	11
+13 Tony and Sandy journeyed to the bedroom.
+14 Tony and Johnson journeyed to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Johnson and Tony went to the hallway.
+2 Johnson and Tony journeyed to the bathroom.
+3 Where is Johnson? 	bathroom	2
+4 Tony and Sandy journeyed to the hallway.
+5 Johnson and Tim journeyed to the hallway.
+6 Where is Tim? 	hallway	5
+7 Tony and Johnson travelled to the bedroom.
+8 Sandy and Tim journeyed to the kitchen.
+9 Where is Johnson? 	bedroom	7
+10 Tim and Johnson journeyed to the bathroom.
+11 Johnson and Tim went to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tony and Johnson travelled to the garden.
+14 Sandy and Tony went back to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Tim and Sandy went back to the kitchen.
+2 Tony and Tim moved to the bathroom.
+3 Where is Tony? 	bathroom	2
+4 Johnson and Tony travelled to the office.
+5 Johnson and Sandy went back to the bedroom.
+6 Where is Tony? 	office	4
+7 Tony and Tim travelled to the garden.
+8 Tony and Sandy moved to the office.
+9 Where is Tony? 	office	8
+10 Sandy and Tim journeyed to the hallway.
+11 Johnson and Sandy journeyed to the office.
+12 Where is Tim? 	hallway	10
+13 Sandy and Tim moved to the bathroom.
+14 Sandy and Tony moved to the garden.
+15 Where is Sandy? 	garden	14
+1 Tim and Johnson moved to the garden.
+2 Sandy and Johnson moved to the office.
+3 Where is Johnson? 	office	2
+4 Tony and Tim journeyed to the kitchen.
+5 Sandy and Tim journeyed to the garden.
+6 Where is Tim? 	garden	5
+7 Johnson and Tony travelled to the bedroom.
+8 Tony and Tim journeyed to the office.
+9 Where is Tony? 	office	8
+10 Tony and Sandy travelled to the hallway.
+11 Tony and Sandy went back to the bedroom.
+12 Where is Tim? 	office	8
+13 Tim and Tony travelled to the garden.
+14 Sandy and Johnson travelled to the hallway.
+15 Where is Tony? 	garden	13
+1 Tim and Johnson journeyed to the hallway.
+2 Sandy and Johnson travelled to the office.
+3 Where is Tim? 	hallway	1
+4 Sandy and Tony moved to the hallway.
+5 Tim and Johnson journeyed to the bedroom.
+6 Where is Tim? 	bedroom	5
+7 Sandy and Johnson went to the kitchen.
+8 Johnson and Tim went back to the garden.
+9 Where is Johnson? 	garden	8
+10 Sandy and Johnson journeyed to the office.
+11 Tim and Sandy moved to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Tony and Tim travelled to the bathroom.
+14 Sandy and Tony moved to the bedroom.
+15 Where is Sandy? 	bedroom	14
+1 Johnson and Tony went back to the bedroom.
+2 Sandy and Tim went back to the garden.
+3 Where is Sandy? 	garden	2
+4 Tony and Sandy travelled to the kitchen.
+5 Tony and Tim went back to the office.
+6 Where is Tony? 	office	5
+7 Tim and Sandy travelled to the hallway.
+8 Tony and Johnson went back to the garden.
+9 Where is Tim? 	hallway	7
+10 Tony and Johnson journeyed to the kitchen.
+11 Tony and Johnson journeyed to the office.
+12 Where is Johnson? 	office	11
+13 Tim and Tony journeyed to the bathroom.
+14 Sandy and Johnson went back to the bathroom.
+15 Where is Tim? 	bathroom	13
+1 Tim and Johnson travelled to the kitchen.
+2 Tim and Tony went to the garden.
+3 Where is Tim? 	garden	2
+4 Sandy and Tim travelled to the bathroom.
+5 Tim and Sandy went to the kitchen.
+6 Where is Tim? 	kitchen	5
+7 Tim and Tony journeyed to the bathroom.
+8 Tony and Tim went back to the hallway.
+9 Where is Tony? 	hallway	8
+10 Tony and Sandy journeyed to the office.
+11 Tony and Sandy moved to the hallway.
+12 Where is Tony? 	hallway	11
+13 Johnson and Tony journeyed to the bathroom.
+14 Sandy and Tony went back to the office.
+15 Where is Sandy? 	office	14
+1 Sandy and Tim went back to the hallway.
+2 Tony and Johnson travelled to the kitchen.
+3 Where is Sandy? 	hallway	1
+4 Sandy and Johnson went back to the bathroom.
+5 Tim and Johnson went to the garden.
+6 Where is Johnson? 	garden	5
+7 Johnson and Sandy journeyed to the office.
+8 Sandy and Johnson journeyed to the bedroom.
+9 Where is Sandy? 	bedroom	8
+10 Sandy and Johnson went to the kitchen.
+11 Tim and Sandy travelled to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tim and Sandy journeyed to the garden.
+14 Johnson and Tim travelled to the bedroom.
+15 Where is Sandy? 	garden	13
+1 Tony and Tim journeyed to the bedroom.
+2 Tim and Sandy moved to the bathroom.
+3 Where is Tony? 	bedroom	1
+4 Sandy and Johnson journeyed to the hallway.
+5 Tim and Sandy went back to the bedroom.
+6 Where is Sandy? 	bedroom	5
+7 Sandy and Tim went to the office.
+8 Sandy and Tony went back to the bathroom.
+9 Where is Sandy? 	bathroom	8
+10 Tim and Tony went to the bedroom.
+11 Johnson and Tim travelled to the bathroom.
+12 Where is Johnson? 	bathroom	11
+13 Tim and Tony went to the hallway.
+14 Johnson and Tony went back to the bedroom.
+15 Where is Tony? 	bedroom	14
+1 Tony and Sandy travelled to the office.
+2 Johnson and Tony travelled to the kitchen.
+3 Where is Tony? 	kitchen	2
+4 Johnson and Tony journeyed to the bathroom.
+5 Tony and Sandy travelled to the bedroom.
+6 Where is Sandy? 	bedroom	5
+7 Tony and Johnson moved to the kitchen.
+8 Tim and Tony moved to the hallway.
+9 Where is Tim? 	hallway	8
+10 Johnson and Tony went back to the bathroom.
+11 Sandy and Tony moved to the garden.
+12 Where is Johnson? 	bathroom	10
+13 Tim and Tony moved to the bedroom.
+14 Johnson and Tony travelled to the office.
+15 Where is Tony? 	office	14
+1 Tim and Sandy went to the hallway.
+2 Tony and Johnson moved to the kitchen.
+3 Where is Tony? 	kitchen	2
+4 Tony and Sandy moved to the office.
+5 Sandy and Tony journeyed to the bathroom.
+6 Where is Sandy? 	bathroom	5
+7 Sandy and Tony moved to the kitchen.
+8 Tim and Johnson went back to the bathroom.
+9 Where is Sandy? 	kitchen	7
+10 Tim and Johnson moved to the kitchen.
+11 Johnson and Tony moved to the garden.
+12 Where is Johnson? 	garden	11
+13 Tony and Tim moved to the bathroom.
+14 Johnson and Tim went to the hallway.
+15 Where is Tony? 	bathroom	13
+1 Johnson and Tim journeyed to the kitchen.
+2 Johnson and Tim went to the garden.
+3 Where is Johnson? 	garden	2
+4 Sandy and Tony moved to the kitchen.
+5 Johnson and Sandy journeyed to the bedroom.
+6 Where is Sandy? 	bedroom	5
+7 Tony and Johnson journeyed to the bathroom.
+8 Johnson and Tony journeyed to the kitchen.
+9 Where is Tony? 	kitchen	8
+10 Tony and Johnson moved to the bedroom.
+11 Tony and Tim travelled to the hallway.
+12 Where is Tony? 	hallway	11
+13 Sandy and Johnson travelled to the bathroom.
+14 Sandy and Tony journeyed to the kitchen.
+15 Where is Johnson? 	bathroom	13
+1 Sandy and Tony journeyed to the bedroom.
+2 Tim and Johnson went back to the hallway.
+3 Where is Tim? 	hallway	2
+4 Johnson and Tony went back to the garden.
+5 Tim and Johnson went to the bathroom.
+6 Where is Tony? 	garden	4
+7 Tony and Sandy moved to the kitchen.
+8 Sandy and Johnson went to the garden.
+9 Where is Johnson? 	garden	8
+10 Johnson and Tony moved to the office.
+11 Tony and Tim travelled to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tony and Tim journeyed to the kitchen.
+14 Sandy and Tony moved to the hallway.
+15 Where is Tony? 	hallway	14
+1 Tim and Tony went back to the bathroom.
+2 Johnson and Tim went back to the bedroom.
+3 Where is Tim? 	bedroom	2
+4 Sandy and Tony journeyed to the bedroom.
+5 Tony and Johnson journeyed to the bathroom.
+6 Where is Tony? 	bathroom	5
+7 Sandy and Tim travelled to the office.
+8 Tony and Johnson moved to the bedroom.
+9 Where is Sandy? 	office	7
+10 Johnson and Tim went to the garden.
+11 Tony and Johnson journeyed to the kitchen.
+12 Where is Johnson? 	kitchen	11
+13 Tim and Tony moved to the bathroom.
+14 Johnson and Tim travelled to the office.
+15 Where is Johnson? 	office	14
+1 Sandy and Tim went back to the bedroom.
+2 Sandy and Tony went back to the kitchen.
+3 Where is Tony? 	kitchen	2
+4 Sandy and Johnson journeyed to the bedroom.
+5 Sandy and Johnson went back to the bathroom.
+6 Where is Sandy? 	bathroom	5
+7 Tony and Johnson went back to the hallway.
+8 Sandy and Johnson journeyed to the bedroom.
+9 Where is Johnson? 	bedroom	8
+10 Tony and Sandy moved to the office.
+11 Tony and Sandy went to the kitchen.
+12 Where is Tony? 	kitchen	11
+13 Johnson and Tony went to the office.
+14 Tony and Johnson journeyed to the kitchen.
+15 Where is Sandy? 	kitchen	11
+1 Tony and Sandy journeyed to the bedroom.
+2 Johnson and Tony went back to the hallway.
+3 Where is Tony? 	hallway	2
+4 Tony and Tim travelled to the bathroom.
+5 Tim and Tony travelled to the bedroom.
+6 Where is Tim? 	bedroom	5
+7 Tim and Tony went to the bathroom.
+8 Tim and Johnson travelled to the kitchen.
+9 Where is Tim? 	kitchen	8
+10 Johnson and Tony moved to the bedroom.
+11 Johnson and Tony moved to the office.
+12 Where is Tony? 	office	11
+13 Johnson and Tony journeyed to the bathroom.
+14 Tim and Sandy travelled to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Johnson and Sandy moved to the office.
+2 Tony and Johnson travelled to the bathroom.
+3 Where is Johnson? 	bathroom	2
+4 Sandy and Johnson went to the garden.
+5 Tim and Tony journeyed to the office.
+6 Where is Johnson? 	garden	4
+7 Tim and Johnson went to the bathroom.
+8 Tim and Johnson went back to the office.
+9 Where is Johnson? 	office	8
+10 Johnson and Tony moved to the bedroom.
+11 Sandy and Tony travelled to the hallway.
+12 Where is Tony? 	hallway	11
+13 Johnson and Tim went to the bathroom.
+14 Johnson and Sandy went to the office.
+15 Where is Sandy? 	office	14
+1 Tony and Sandy went to the office.
+2 Tim and Johnson moved to the bedroom.
+3 Where is Tim? 	bedroom	2
+4 Tony and Sandy journeyed to the garden.
+5 Johnson and Tony journeyed to the kitchen.
+6 Where is Johnson? 	kitchen	5
+7 Johnson and Tony moved to the bathroom.
+8 Johnson and Tony journeyed to the hallway.
+9 Where is Johnson? 	hallway	8
+10 Tony and Tim went to the kitchen.
+11 Sandy and Johnson moved to the office.
+12 Where is Tim? 	kitchen	10
+13 Johnson and Tony travelled to the garden.
+14 Tony and Johnson moved to the hallway.
+15 Where is Johnson? 	hallway	14
+1 Tony and Sandy travelled to the garden.
+2 Tony and Sandy moved to the kitchen.
+3 Where is Sandy? 	kitchen	2
+4 Tim and Sandy travelled to the office.
+5 Tony and Tim went to the garden.
+6 Where is Tim? 	garden	5
+7 Tony and Tim went back to the office.
+8 Tim and Tony travelled to the bathroom.
+9 Where is Tim? 	bathroom	8
+10 Tony and Johnson travelled to the office.
+11 Sandy and Tony went to the garden.
+12 Where is Johnson? 	office	10
+13 Tim and Sandy went to the kitchen.
+14 Tim and Tony travelled to the hallway.
+15 Where is Tony? 	hallway	14
+1 Tim and Tony travelled to the office.
+2 Tony and Tim went to the bedroom.
+3 Where is Tim? 	bedroom	2
+4 Sandy and Tim travelled to the kitchen.
+5 Sandy and Tim went to the bathroom.
+6 Where is Sandy? 	bathroom	5
+7 Tim and Sandy went to the bedroom.
+8 Tony and Sandy moved to the garden.
+9 Where is Sandy? 	garden	8
+10 Tim and Sandy went to the bathroom.
+11 Johnson and Tim went back to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tim and Tony journeyed to the office.
+14 Johnson and Sandy went back to the kitchen.
+15 Where is Tony? 	office	13
+1 Tim and Sandy journeyed to the kitchen.
+2 Sandy and Johnson journeyed to the hallway.
+3 Where is Tim? 	kitchen	1
+4 Johnson and Tony went back to the office.
+5 Sandy and Tim moved to the bathroom.
+6 Where is Tony? 	office	4
+7 Tim and Johnson moved to the kitchen.
+8 Tony and Tim went back to the bathroom.
+9 Where is Tony? 	bathroom	8
+10 Johnson and Sandy journeyed to the garden.
+11 Johnson and Tony travelled to the kitchen.
+12 Where is Tim? 	bathroom	8
+13 Tim and Johnson went back to the office.
+14 Tony and Johnson went back to the garden.
+15 Where is Tony? 	garden	14
+1 Johnson and Sandy travelled to the bathroom.
+2 Sandy and Tim moved to the kitchen.
+3 Where is Tim? 	kitchen	2
+4 Sandy and Johnson went to the hallway.
+5 Tony and Tim travelled to the bedroom.
+6 Where is Tim? 	bedroom	5
+7 Johnson and Sandy travelled to the bedroom.
+8 Johnson and Sandy moved to the hallway.
+9 Where is Sandy? 	hallway	8
+10 Sandy and Johnson travelled to the garden.
+11 Sandy and Tony moved to the kitchen.
+12 Where is Sandy? 	kitchen	11
+13 Sandy and Tim went back to the office.
+14 Sandy and Johnson journeyed to the bedroom.
+15 Where is Tony? 	kitchen	11
+1 Tony and Tim travelled to the office.
+2 Tony and Tim travelled to the bathroom.
+3 Where is Tim? 	bathroom	2
+4 Tony and Johnson journeyed to the kitchen.
+5 Tony and Johnson travelled to the office.
+6 Where is Johnson? 	office	5
+7 Johnson and Tony went to the hallway.
+8 Tony and Tim went back to the garden.
+9 Where is Tony? 	garden	8
+10 Johnson and Tony went back to the kitchen.
+11 Johnson and Sandy moved to the bathroom.
+12 Where is Johnson? 	bathroom	11
+13 Sandy and Tony went back to the office.
+14 Tony and Sandy journeyed to the garden.
+15 Where is Sandy? 	garden	14
+1 Tim and Tony travelled to the office.
+2 Johnson and Tony travelled to the kitchen.
+3 Where is Tim? 	office	1
+4 Tony and Tim travelled to the garden.
+5 Sandy and Tony travelled to the office.
+6 Where is Tony? 	office	5
+7 Johnson and Sandy moved to the bedroom.
+8 Tim and Johnson went to the office.
+9 Where is Tim? 	office	8
+10 Tim and Johnson went back to the garden.
+11 Tony and Sandy journeyed to the hallway.
+12 Where is Sandy? 	hallway	11
+13 Johnson and Tony went to the bathroom.
+14 Sandy and Tony moved to the office.
+15 Where is Sandy? 	office	14
+1 Tim and Sandy travelled to the office.
+2 Tony and Tim journeyed to the kitchen.
+3 Where is Sandy? 	office	1
+4 Tim and Johnson went back to the bedroom.
+5 Johnson and Sandy went back to the bathroom.
+6 Where is Sandy? 	bathroom	5
+7 Johnson and Sandy moved to the hallway.
+8 Tim and Tony moved to the hallway.
+9 Where is Tony? 	hallway	8
+10 Tim and Sandy journeyed to the bathroom.
+11 Tony and Johnson went back to the office.
+12 Where is Tony? 	office	11
+13 Tim and Johnson went to the hallway.
+14 Tim and Johnson moved to the office.
+15 Where is Tim? 	office	14
+1 Tony and Sandy moved to the garden.
+2 Sandy and Johnson journeyed to the kitchen.
+3 Where is Johnson? 	kitchen	2
+4 Johnson and Tony journeyed to the hallway.
+5 Tony and Tim travelled to the bedroom.
+6 Where is Tim? 	bedroom	5
+7 Sandy and Tim moved to the office.
+8 Tim and Tony moved to the kitchen.
+9 Where is Tim? 	kitchen	8
+10 Tony and Tim went back to the bathroom.
+11 Johnson and Tim travelled to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Johnson and Tony moved to the bedroom.
+14 Tim and Johnson moved to the hallway.
+15 Where is Johnson? 	hallway	14
+1 Johnson and Tim went back to the garden.
+2 Tony and Johnson went back to the office.
+3 Where is Johnson? 	office	2
+4 Johnson and Tony journeyed to the garden.
+5 Tim and Tony journeyed to the office.
+6 Where is Tim? 	office	5
+7 Johnson and Tim moved to the hallway.
+8 Tim and Johnson journeyed to the kitchen.
+9 Where is Tim? 	kitchen	8
+10 Tim and Johnson went back to the garden.
+11 Johnson and Tim went to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Tim and Tony moved to the bedroom.
+14 Sandy and Tim journeyed to the office.
+15 Where is Tony? 	bedroom	13
+1 Tim and Johnson went to the office.
+2 Tony and Tim went back to the kitchen.
+3 Where is Tim? 	kitchen	2
+4 Tony and Johnson journeyed to the garden.
+5 Tony and Johnson travelled to the hallway.
+6 Where is Johnson? 	hallway	5
+7 Tony and Tim moved to the office.
+8 Tim and Sandy moved to the bedroom.
+9 Where is Sandy? 	bedroom	8
+10 Tony and Sandy journeyed to the garden.
+11 Johnson and Tony travelled to the bedroom.
+12 Where is Johnson? 	bedroom	11
+13 Johnson and Sandy journeyed to the hallway.
+14 Johnson and Sandy went back to the office.
+15 Where is Tony? 	bedroom	11
+1 Sandy and Tim went to the office.
+2 Tony and Tim went back to the kitchen.
+3 Where is Sandy? 	office	1
+4 Johnson and Sandy went to the kitchen.
+5 Johnson and Tony went back to the garden.
+6 Where is Tim? 	kitchen	2
+7 Sandy and Johnson went back to the bedroom.
+8 Tim and Tony journeyed to the bedroom.
+9 Where is Tony? 	bedroom	8
+10 Tim and Tony went to the hallway.
+11 Tony and Tim went back to the garden.
+12 Where is Tony? 	garden	11
+13 Tony and Johnson went back to the kitchen.
+14 Tim and Johnson went back to the office.
+15 Where is Johnson? 	office	14
+1 Tim and Tony moved to the garden.
+2 Tim and Johnson went back to the kitchen.
+3 Where is Johnson? 	kitchen	2
+4 Tim and Sandy journeyed to the bathroom.
+5 Tony and Tim went back to the kitchen.
+6 Where is Sandy? 	bathroom	4
+7 Johnson and Tony journeyed to the garden.
+8 Tony and Tim travelled to the office.
+9 Where is Tim? 	office	8
+10 Johnson and Tim moved to the kitchen.
+11 Tony and Sandy went back to the bedroom.
+12 Where is Johnson? 	kitchen	10
+13 Tim and Johnson went back to the bathroom.
+14 Tim and Sandy went to the kitchen.
+15 Where is Tim? 	kitchen	14
+1 Tony and Sandy moved to the hallway.
+2 Tim and Johnson travelled to the office.
+3 Where is Tony? 	hallway	1
+4 Sandy and Tony travelled to the office.
+5 Sandy and Johnson moved to the bedroom.
+6 Where is Johnson? 	bedroom	5
+7 Tim and Tony journeyed to the kitchen.
+8 Tim and Johnson travelled to the bathroom.
+9 Where is Tim? 	bathroom	8
+10 Tim and Johnson went to the office.
+11 Tim and Tony went to the garden.
+12 Where is Tony? 	garden	11
+13 Tim and Tony went to the kitchen.
+14 Tim and Tony moved to the bedroom.
+15 Where is Tim? 	bedroom	14
+1 Johnson and Sandy moved to the garden.
+2 Tony and Johnson journeyed to the hallway.
+3 Where is Johnson? 	hallway	2
+4 Johnson and Tim moved to the kitchen.
+5 Johnson and Tony moved to the bathroom.
+6 Where is Johnson? 	bathroom	5
+7 Sandy and Johnson went to the bedroom.
+8 Tony and Sandy went back to the garden.
+9 Where is Tony? 	garden	8
+10 Johnson and Tony went to the bathroom.
+11 Sandy and Johnson journeyed to the office.
+12 Where is Sandy? 	office	11
+13 Johnson and Tony moved to the bedroom.
+14 Tony and Sandy went to the hallway.
+15 Where is Sandy? 	hallway	14
+1 Johnson and Tony travelled to the office.
+2 Johnson and Tony went back to the hallway.
+3 Where is Tony? 	hallway	2
+4 Sandy and Tim went back to the garden.
+5 Tim and Tony moved to the bathroom.
+6 Where is Tim? 	bathroom	5
+7 Johnson and Sandy moved to the bedroom.
+8 Sandy and Tim went back to the garden.
+9 Where is Sandy? 	garden	8
+10 Sandy and Johnson journeyed to the kitchen.
+11 Tim and Johnson travelled to the bathroom.
+12 Where is Tim? 	bathroom	11
+13 Sandy and Tony journeyed to the garden.
+14 Tony and Tim moved to the hallway.
+15 Where is Tony? 	hallway	14
+1 Sandy and Johnson journeyed to the hallway.
+2 Tony and Tim journeyed to the bathroom.
+3 Where is Tony? 	bathroom	2
+4 Sandy and Tim moved to the bedroom.
+5 Tony and Sandy journeyed to the garden.
+6 Where is Tim? 	bedroom	4
+7 Tim and Sandy journeyed to the kitchen.
+8 Tim and Sandy travelled to the office.
+9 Where is Tim? 	office	8
+10 Tony and Johnson travelled to the bedroom.
+11 Tim and Johnson went back to the kitchen.
+12 Where is Johnson? 	kitchen	11
+13 Sandy and Tim went to the garden.
+14 Tony and Sandy travelled to the bathroom.
+15 Where is Sandy? 	bathroom	14
+1 Johnson and Tony journeyed to the kitchen.
+2 Tony and Sandy went back to the hallway.
+3 Where is Tony? 	hallway	2
+4 Tony and Johnson journeyed to the bedroom.
+5 Johnson and Sandy journeyed to the garden.
+6 Where is Johnson? 	garden	5
+7 Tim and Johnson moved to the bathroom.
+8 Johnson and Tim went back to the kitchen.
+9 Where is Johnson? 	kitchen	8
+10 Johnson and Sandy went to the office.
+11 Tim and Johnson went to the garden.
+12 Where is Tim? 	garden	11
+13 Johnson and Tim went to the bedroom.
+14 Tony and Sandy went back to the hallway.
+15 Where is Sandy? 	hallway	14
+1 Tony and Tim went back to the office.
+2 Tony and Johnson travelled to the bedroom.
+3 Where is Tony? 	bedroom	2
+4 Tim and Johnson went to the kitchen.
+5 Tony and Tim travelled to the bathroom.
+6 Where is Johnson? 	kitchen	4
+7 Johnson and Tony went to the hallway.
+8 Sandy and Johnson travelled to the garden.
+9 Where is Tim? 	bathroom	5
+10 Johnson and Tony went back to the kitchen.
+11 Johnson and Tony journeyed to the bedroom.
+12 Where is Tony? 	bedroom	11
+13 Tim and Sandy journeyed to the office.
+14 Tony and Tim went to the garden.
+15 Where is Tim? 	garden	14
+1 Johnson and Sandy journeyed to the bedroom.
+2 Tim and Tony journeyed to the bedroom.
+3 Where is Johnson? 	bedroom	1
+4 Tim and Sandy went back to the office.
+5 Johnson and Sandy went back to the bathroom.
+6 Where is Johnson? 	bathroom	5
+7 Johnson and Tim went back to the kitchen.
+8 Johnson and Sandy travelled to the garden.
+9 Where is Johnson? 	garden	8
+10 Sandy and Tony went to the bathroom.
+11 Sandy and Tony went to the garden.
+12 Where is Tony? 	garden	11
+13 Tony and Johnson travelled to the kitchen.
+14 Tim and Tony journeyed to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Sandy and Tim journeyed to the bathroom.
+2 Tony and Sandy went to the kitchen.
+3 Where is Sandy? 	kitchen	2
+4 Johnson and Tim travelled to the hallway.
+5 Tim and Sandy journeyed to the bathroom.
+6 Where is Johnson? 	hallway	4
+7 Sandy and Tim travelled to the office.
+8 Sandy and Tim moved to the hallway.
+9 Where is Sandy? 	hallway	8
+10 Johnson and Sandy travelled to the kitchen.
+11 Johnson and Tony went back to the garden.
+12 Where is Sandy? 	kitchen	10
+13 Tony and Sandy travelled to the bedroom.
+14 Tim and Tony moved to the kitchen.
+15 Where is Tony? 	kitchen	14
+1 Johnson and Tony went to the bathroom.
+2 Sandy and Tim moved to the garden.
+3 Where is Johnson? 	bathroom	1
+4 Tony and Tim journeyed to the hallway.
+5 Tim and Johnson travelled to the office.
+6 Where is Tim? 	office	5
+7 Johnson and Tony went to the kitchen.
+8 Sandy and Tim went to the bedroom.
+9 Where is Sandy? 	bedroom	8
+10 Johnson and Tim journeyed to the bathroom.
+11 Tim and Sandy travelled to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Johnson and Tony went back to the office.
+14 Tony and Tim went to the bedroom.
+15 Where is Sandy? 	kitchen	11
+1 Sandy and Johnson travelled to the bedroom.
+2 Tim and Johnson went to the office.
+3 Where is Johnson? 	office	2
+4 Tim and Johnson went back to the bedroom.
+5 Sandy and Tim journeyed to the bathroom.
+6 Where is Sandy? 	bathroom	5
+7 Tim and Tony went back to the bedroom.
+8 Johnson and Tim went back to the hallway.
+9 Where is Johnson? 	hallway	8
+10 Tony and Sandy went back to the garden.
+11 Johnson and Tim journeyed to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Tim and Johnson travelled to the bedroom.
+14 Tim and Johnson journeyed to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Tony and Sandy journeyed to the bedroom.
+2 Tim and Sandy travelled to the kitchen.
+3 Where is Tim? 	kitchen	2
+4 Sandy and Tim moved to the bathroom.
+5 Tim and Tony went back to the office.
+6 Where is Tim? 	office	5
+7 Tony and Sandy moved to the garden.
+8 Sandy and Tim travelled to the hallway.
+9 Where is Tim? 	hallway	8
+10 Sandy and Tim went to the garden.
+11 Tim and Sandy went back to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Johnson and Tim went to the bathroom.
+14 Sandy and Johnson journeyed to the office.
+15 Where is Johnson? 	office	14
+1 Tony and Tim went back to the bathroom.
+2 Johnson and Tim moved to the hallway.
+3 Where is Johnson? 	hallway	2
+4 Sandy and Tony went to the hallway.
+5 Johnson and Tony moved to the bathroom.
+6 Where is Johnson? 	bathroom	5
+7 Johnson and Sandy journeyed to the kitchen.
+8 Tony and Tim went back to the garden.
+9 Where is Tony? 	garden	8
+10 Sandy and Tim journeyed to the bedroom.
+11 Sandy and Tony journeyed to the hallway.
+12 Where is Sandy? 	hallway	11
+13 Sandy and Tony travelled to the bathroom.
+14 Tony and Sandy journeyed to the hallway.
+15 Where is Tony? 	hallway	14
+1 Sandy and Johnson went back to the bedroom.
+2 Tony and Tim travelled to the garden.
+3 Where is Tony? 	garden	2
+4 Johnson and Tony journeyed to the kitchen.
+5 Tony and Johnson travelled to the bedroom.
+6 Where is Tony? 	bedroom	5
+7 Johnson and Tim moved to the bathroom.
+8 Tony and Johnson went back to the hallway.
+9 Where is Tim? 	bathroom	7
+10 Johnson and Tim travelled to the garden.
+11 Tim and Sandy went back to the bathroom.
+12 Where is Sandy? 	bathroom	11
+13 Johnson and Tim went to the hallway.
+14 Tony and Sandy went to the kitchen.
+15 Where is Sandy? 	kitchen	14
+1 Sandy and Tony moved to the bedroom.
+2 Tim and Sandy journeyed to the hallway.
+3 Where is Sandy? 	hallway	2
+4 Johnson and Tony travelled to the garden.
+5 Sandy and Tony went back to the kitchen.
+6 Where is Sandy? 	kitchen	5
+7 Sandy and Tony travelled to the bathroom.
+8 Sandy and Johnson journeyed to the office.
+9 Where is Tony? 	bathroom	7
+10 Tony and Johnson went to the garden.
+11 Sandy and Tim travelled to the garden.
+12 Where is Sandy? 	garden	11
+13 Tony and Tim moved to the office.
+14 Tim and Johnson moved to the bedroom.
+15 Where is Tim? 	bedroom	14
+1 Tim and Tony moved to the bedroom.
+2 Johnson and Sandy journeyed to the bedroom.
+3 Where is Johnson? 	bedroom	2
+4 Johnson and Sandy journeyed to the kitchen.
+5 Tony and Sandy went to the office.
+6 Where is Sandy? 	office	5
+7 Tim and Sandy went to the hallway.
+8 Tony and Tim journeyed to the kitchen.
+9 Where is Tim? 	kitchen	8
+10 Sandy and Johnson travelled to the bedroom.
+11 Tony and Johnson journeyed to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Tony and Johnson travelled to the bathroom.
+14 Tim and Tony moved to the bedroom.
+15 Where is Johnson? 	bathroom	13
+1 Tony and Tim travelled to the bedroom.
+2 Sandy and Tim went to the bathroom.
+3 Where is Tim? 	bathroom	2
+4 Tim and Sandy travelled to the office.
+5 Tony and Tim travelled to the garden.
+6 Where is Tim? 	garden	5
+7 Sandy and Tony travelled to the kitchen.
+8 Johnson and Tim moved to the bathroom.
+9 Where is Johnson? 	bathroom	8
+10 Johnson and Tim went back to the bedroom.
+11 Johnson and Tim moved to the garden.
+12 Where is Tim? 	garden	11
+13 Johnson and Tony went back to the bathroom.
+14 Tim and Johnson moved to the bedroom.
+15 Where is Johnson? 	bedroom	14
+1 Sandy and Tony went to the office.
+2 Tim and Johnson travelled to the hallway.
+3 Where is Tim? 	hallway	2
+4 Johnson and Sandy went to the bedroom.
+5 Johnson and Tim travelled to the kitchen.
+6 Where is Johnson? 	kitchen	5
+7 Sandy and Johnson went to the garden.
+8 Sandy and Tony went to the bedroom.
+9 Where is Sandy? 	bedroom	8
+10 Sandy and Tony journeyed to the bathroom.
+11 Sandy and Tim went to the garden.
+12 Where is Sandy? 	garden	11
+13 Tony and Johnson travelled to the bedroom.
+14 Johnson and Tony journeyed to the bathroom.
+15 Where is Johnson? 	bathroom	14
+1 Tim and Sandy went to the hallway.
+2 Tony and Tim travelled to the garden.
+3 Where is Tim? 	garden	2
+4 Tim and Johnson journeyed to the office.
+5 Sandy and Tony moved to the kitchen.
+6 Where is Tim? 	office	4
+7 Sandy and Tim moved to the garden.
+8 Johnson and Tony travelled to the hallway.
+9 Where is Sandy? 	garden	7
+10 Tony and Johnson travelled to the bathroom.
+11 Tim and Johnson travelled to the hallway.
+12 Where is Tony? 	bathroom	10
+13 Johnson and Tim went to the bedroom.
+14 Tony and Johnson moved to the hallway.
+15 Where is Johnson? 	hallway	14
+1 Tony and Sandy journeyed to the bathroom.
+2 Sandy and Tony went back to the garden.
+3 Where is Tony? 	garden	2
+4 Johnson and Tim moved to the office.
+5 Sandy and Tim moved to the hallway.
+6 Where is Sandy? 	hallway	5
+7 Tim and Sandy journeyed to the bedroom.
+8 Johnson and Tony moved to the bathroom.
+9 Where is Johnson? 	bathroom	8
+10 Tim and Sandy went to the kitchen.
+11 Tim and Tony moved to the hallway.
+12 Where is Sandy? 	kitchen	10
+13 Tony and Tim went to the garden.
+14 Johnson and Tim went to the office.
+15 Where is Tim? 	office	14
+1 Sandy and Tony moved to the office.
+2 Tony and Sandy moved to the garden.
+3 Where is Sandy? 	garden	2
+4 Sandy and Tim went to the office.
+5 Sandy and Tim moved to the hallway.
+6 Where is Tim? 	hallway	5
+7 Tim and Sandy travelled to the bathroom.
+8 Johnson and Tony went back to the hallway.
+9 Where is Tim? 	bathroom	7
+10 Johnson and Tim went to the bedroom.
+11 Tony and Johnson went back to the office.
+12 Where is Tim? 	bedroom	10
+13 Tony and Sandy travelled to the hallway.
+14 Sandy and Tim journeyed to the bathroom.
+15 Where is Sandy? 	bathroom	14
+1 Tim and Johnson moved to the bathroom.
+2 Tim and Johnson journeyed to the office.
+3 Where is Johnson? 	office	2
+4 Tony and Sandy travelled to the bathroom.
+5 Tim and Sandy journeyed to the bedroom.
+6 Where is Sandy? 	bedroom	5
+7 Tony and Sandy went back to the kitchen.
+8 Johnson and Tony journeyed to the hallway.
+9 Where is Tony? 	hallway	8
+10 Johnson and Tim went to the garden.
+11 Johnson and Tim went back to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Tim and Tony went to the garden.
+14 Tony and Tim went back to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Sandy and Johnson journeyed to the bedroom.
+2 Tony and Sandy went back to the kitchen.
+3 Where is Tony? 	kitchen	2
+4 Sandy and Tim travelled to the hallway.
+5 Tim and Johnson travelled to the garden.
+6 Where is Sandy? 	hallway	4
+7 Sandy and Johnson went back to the bedroom.
+8 Johnson and Tim went back to the bathroom.
+9 Where is Johnson? 	bathroom	8
+10 Tony and Sandy travelled to the hallway.
+11 Tony and Johnson travelled to the garden.
+12 Where is Sandy? 	hallway	10
+13 Johnson and Tim moved to the kitchen.
+14 Johnson and Tony went to the bedroom.
+15 Where is Johnson? 	bedroom	14
+1 Tony and Tim went to the kitchen.
+2 Tony and Johnson moved to the garden.
+3 Where is Tony? 	garden	2
+4 Tim and Sandy travelled to the garden.
+5 Tim and Tony journeyed to the hallway.
+6 Where is Tim? 	hallway	5
+7 Tony and Johnson journeyed to the bedroom.
+8 Johnson and Tim went back to the garden.
+9 Where is Tim? 	garden	8
+10 Johnson and Tim went back to the kitchen.
+11 Sandy and Tim went to the bathroom.
+12 Where is Tim? 	bathroom	11
+13 Tim and Sandy moved to the kitchen.
+14 Tony and Tim went back to the bathroom.
+15 Where is Sandy? 	kitchen	13
+1 Sandy and Tim went back to the kitchen.
+2 Tony and Sandy travelled to the office.
+3 Where is Tim? 	kitchen	1
+4 Sandy and Tim went back to the bedroom.
+5 Tony and Sandy moved to the bathroom.
+6 Where is Tim? 	bedroom	4
+7 Tim and Tony journeyed to the kitchen.
+8 Johnson and Tony went back to the hallway.
+9 Where is Tony? 	hallway	8
+10 Tim and Tony went to the bathroom.
+11 Sandy and Johnson moved to the office.
+12 Where is Sandy? 	office	11
+13 Tony and Sandy journeyed to the kitchen.
+14 Tim and Tony went to the garden.
+15 Where is Tim? 	garden	14
+1 Sandy and Tony travelled to the office.
+2 Sandy and Tony went back to the kitchen.
+3 Where is Sandy? 	kitchen	2
+4 Tim and Sandy went to the hallway.
+5 Tim and Sandy went to the bathroom.
+6 Where is Tim? 	bathroom	5
+7 Sandy and Tim moved to the kitchen.
+8 Johnson and Sandy travelled to the bathroom.
+9 Where is Sandy? 	bathroom	8
+10 Sandy and Tim went to the garden.
+11 Tim and Sandy went to the bedroom.
+12 Where is Tim? 	bedroom	11
+13 Tony and Johnson went back to the hallway.
+14 Tony and Tim journeyed to the office.
+15 Where is Tim? 	office	14
+1 Sandy and Tim went back to the office.
+2 Tim and Sandy travelled to the hallway.
+3 Where is Sandy? 	hallway	2
+4 Tim and Sandy moved to the garden.
+5 Tim and Sandy went to the kitchen.
+6 Where is Sandy? 	kitchen	5
+7 Tim and Tony went to the garden.
+8 Tony and Johnson went to the bedroom.
+9 Where is Tony? 	bedroom	8
+10 Sandy and Johnson journeyed to the office.
+11 Tony and Johnson went to the kitchen.
+12 Where is Johnson? 	kitchen	11
+13 Sandy and Tim journeyed to the hallway.
+14 Johnson and Tim went to the bedroom.
+15 Where is Sandy? 	hallway	13
+1 Tony and Sandy journeyed to the bathroom.
+2 Sandy and Tony went to the kitchen.
+3 Where is Sandy? 	kitchen	2
+4 Johnson and Tony went back to the bedroom.
+5 Johnson and Tim went to the office.
+6 Where is Johnson? 	office	5
+7 Tony and Johnson travelled to the garden.
+8 Tim and Tony journeyed to the hallway.
+9 Where is Tim? 	hallway	8
+10 Tony and Sandy moved to the garden.
+11 Sandy and Johnson went back to the bedroom.
+12 Where is Tony? 	garden	10
+13 Tony and Sandy travelled to the hallway.
+14 Sandy and Tony moved to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Tim and Tony went to the bathroom.
+2 Sandy and Tim went to the hallway.
+3 Where is Tim? 	hallway	2
+4 Sandy and Tony went back to the office.
+5 Tim and Sandy went back to the bathroom.
+6 Where is Sandy? 	bathroom	5
+7 Tony and Johnson journeyed to the hallway.
+8 Johnson and Tony journeyed to the bedroom.
+9 Where is Johnson? 	bedroom	8
+10 Tim and Johnson journeyed to the hallway.
+11 Tim and Sandy moved to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Tony and Johnson went to the kitchen.
+14 Tim and Tony moved to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Tim and Tony moved to the kitchen.
+2 Tony and Tim went to the garden.
+3 Where is Tim? 	garden	2
+4 Tony and Tim journeyed to the bathroom.
+5 Sandy and Tim went back to the hallway.
+6 Where is Sandy? 	hallway	5
+7 Sandy and Tony went to the kitchen.
+8 Tim and Sandy went back to the bedroom.
+9 Where is Tony? 	kitchen	7
+10 Sandy and Tony went to the office.
+11 Tim and Sandy moved to the garden.
+12 Where is Sandy? 	garden	11
+13 Tony and Sandy went back to the kitchen.
+14 Tim and Tony journeyed to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Sandy and Tony went back to the kitchen.
+2 Tony and Johnson went back to the hallway.
+3 Where is Tony? 	hallway	2
+4 Tony and Johnson moved to the kitchen.
+5 Tony and Johnson moved to the bedroom.
+6 Where is Johnson? 	bedroom	5
+7 Tim and Tony went back to the hallway.
+8 Johnson and Tony moved to the garden.
+9 Where is Tony? 	garden	8
+10 Sandy and Tim travelled to the garden.
+11 Sandy and Tim travelled to the bathroom.
+12 Where is Sandy? 	bathroom	11
+13 Tony and Tim journeyed to the hallway.
+14 Tony and Tim went to the office.
+15 Where is Tim? 	office	14
+1 Johnson and Sandy moved to the bathroom.
+2 Sandy and Johnson journeyed to the bedroom.
+3 Where is Johnson? 	bedroom	2
+4 Johnson and Sandy moved to the hallway.
+5 Tony and Tim moved to the bedroom.
+6 Where is Tony? 	bedroom	5
+7 Johnson and Sandy travelled to the kitchen.
+8 Johnson and Sandy moved to the bathroom.
+9 Where is Sandy? 	bathroom	8
+10 Tim and Johnson travelled to the kitchen.
+11 Johnson and Tony travelled to the garden.
+12 Where is Tim? 	kitchen	10
+13 Johnson and Tony travelled to the kitchen.
+14 Sandy and Johnson travelled to the hallway.
+15 Where is Tony? 	kitchen	13
+1 Tim and Sandy went to the kitchen.
+2 Tony and Johnson went back to the garden.
+3 Where is Tony? 	garden	2
+4 Johnson and Tony journeyed to the kitchen.
+5 Johnson and Sandy journeyed to the office.
+6 Where is Tony? 	kitchen	4
+7 Tony and Sandy journeyed to the hallway.
+8 Tim and Johnson journeyed to the bathroom.
+9 Where is Johnson? 	bathroom	8
+10 Sandy and Tony travelled to the office.
+11 Sandy and Tony journeyed to the bedroom.
+12 Where is Tony? 	bedroom	11
+13 Johnson and Tony went to the hallway.
+14 Sandy and Tim moved to the office.
+15 Where is Sandy? 	office	14
+1 Tim and Tony travelled to the bathroom.
+2 Tony and Sandy went to the kitchen.
+3 Where is Sandy? 	kitchen	2
+4 Tim and Johnson journeyed to the garden.
+5 Tony and Johnson moved to the bedroom.
+6 Where is Johnson? 	bedroom	5
+7 Tim and Tony journeyed to the office.
+8 Tim and Sandy went back to the bedroom.
+9 Where is Tim? 	bedroom	8
+10 Tony and Sandy went to the hallway.
+11 Tony and Sandy went back to the bathroom.
+12 Where is Sandy? 	bathroom	11
+13 Sandy and Johnson went to the hallway.
+14 Tim and Tony journeyed to the garden.
+15 Where is Tim? 	garden	14
+1 Johnson and Sandy went back to the garden.
+2 Tony and Sandy went back to the kitchen.
+3 Where is Johnson? 	garden	1
+4 Sandy and Tony moved to the bathroom.
+5 Tony and Tim journeyed to the kitchen.
+6 Where is Sandy? 	bathroom	4
+7 Tony and Sandy went back to the garden.
+8 Sandy and Tony went to the bedroom.
+9 Where is Tim? 	kitchen	5
+10 Tony and Tim journeyed to the garden.
+11 Johnson and Tony travelled to the bathroom.
+12 Where is Tony? 	bathroom	11
+13 Tony and Johnson travelled to the bedroom.
+14 Johnson and Tony journeyed to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Tony and Johnson moved to the office.
+2 Tony and Tim went to the bedroom.
+3 Where is Tim? 	bedroom	2
+4 Sandy and Johnson went to the hallway.
+5 Sandy and Tim travelled to the bathroom.
+6 Where is Sandy? 	bathroom	5
+7 Sandy and Tim travelled to the garden.
+8 Tony and Johnson journeyed to the bathroom.
+9 Where is Tony? 	bathroom	8
+10 Tim and Tony went back to the bedroom.
+11 Tim and Johnson went to the office.
+12 Where is Tim? 	office	11
+13 Tony and Sandy journeyed to the hallway.
+14 Sandy and Tim went to the bathroom.
+15 Where is Sandy? 	bathroom	14
+1 Tony and Sandy went to the bedroom.
+2 Tony and Sandy moved to the kitchen.
+3 Where is Tony? 	kitchen	2
+4 Sandy and Johnson went back to the garden.
+5 Sandy and Tim moved to the bedroom.
+6 Where is Sandy? 	bedroom	5
+7 Sandy and Johnson moved to the hallway.
+8 Sandy and Tim travelled to the office.
+9 Where is Tim? 	office	8
+10 Tim and Tony journeyed to the garden.
+11 Sandy and Tim travelled to the hallway.
+12 Where is Tim? 	hallway	11
+13 Johnson and Tim moved to the garden.
+14 Johnson and Tim moved to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Tim and Sandy went to the office.
+2 Sandy and Johnson went back to the bathroom.
+3 Where is Sandy? 	bathroom	2
+4 Tony and Johnson went back to the bedroom.
+5 Tim and Johnson moved to the hallway.
+6 Where is Johnson? 	hallway	5
+7 Tim and Tony moved to the bathroom.
+8 Tim and Johnson journeyed to the garden.
+9 Where is Tim? 	garden	8
+10 Tony and Sandy moved to the garden.
+11 Sandy and Johnson moved to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Tim and Sandy went to the bedroom.
+14 Tony and Johnson moved to the kitchen.
+15 Where is Tim? 	bedroom	13
+1 Tim and Johnson moved to the garden.
+2 Tony and Sandy went back to the bedroom.
+3 Where is Tim? 	garden	1
+4 Tim and Johnson journeyed to the office.
+5 Johnson and Tony moved to the bathroom.
+6 Where is Sandy? 	bedroom	2
+7 Sandy and Johnson went back to the kitchen.
+8 Sandy and Tim went back to the bathroom.
+9 Where is Sandy? 	bathroom	8
+10 Tony and Tim journeyed to the office.
+11 Johnson and Tony travelled to the bathroom.
+12 Where is Tim? 	office	10
+13 Johnson and Tim went to the hallway.
+14 Tim and Tony went to the garden.
+15 Where is Tim? 	garden	14
+1 Sandy and Tim went back to the office.
+2 Johnson and Sandy went back to the kitchen.
+3 Where is Tim? 	office	1
+4 Johnson and Tony went back to the bathroom.
+5 Sandy and Tim journeyed to the garden.
+6 Where is Tim? 	garden	5
+7 Tim and Tony journeyed to the kitchen.
+8 Tim and Tony travelled to the bedroom.
+9 Where is Tim? 	bedroom	8
+10 Johnson and Sandy journeyed to the kitchen.
+11 Sandy and Johnson moved to the bathroom.
+12 Where is Sandy? 	bathroom	11
+13 Sandy and Tony travelled to the garden.
+14 Johnson and Tim moved to the office.
+15 Where is Tony? 	garden	13
+1 Tim and Johnson went back to the hallway.
+2 Johnson and Sandy went to the garden.
+3 Where is Sandy? 	garden	2
+4 Johnson and Sandy went to the hallway.
+5 Tony and Tim moved to the garden.
+6 Where is Sandy? 	hallway	4
+7 Tony and Tim moved to the office.
+8 Sandy and Johnson went back to the kitchen.
+9 Where is Tim? 	office	7
+10 Sandy and Tony moved to the garden.
+11 Tim and Johnson travelled to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tony and Johnson went back to the office.
+14 Sandy and Tim went back to the bathroom.
+15 Where is Johnson? 	office	13
+1 Tim and Sandy went back to the kitchen.
+2 Sandy and Johnson travelled to the garden.
+3 Where is Tim? 	kitchen	1
+4 Tony and Sandy went to the hallway.
+5 Johnson and Tim went back to the bathroom.
+6 Where is Johnson? 	bathroom	5
+7 Tony and Johnson travelled to the bedroom.
+8 Tony and Tim journeyed to the hallway.
+9 Where is Tim? 	hallway	8
+10 Tony and Sandy journeyed to the office.
+11 Tim and Johnson went back to the office.
+12 Where is Sandy? 	office	10
+13 Johnson and Sandy went to the garden.
+14 Sandy and Johnson went to the office.
+15 Where is Johnson? 	office	14
+1 Tim and Sandy moved to the garden.
+2 Sandy and Tim journeyed to the hallway.
+3 Where is Tim? 	hallway	2
+4 Tony and Tim went to the kitchen.
+5 Tony and Sandy went to the office.
+6 Where is Sandy? 	office	5
+7 Johnson and Tim journeyed to the bathroom.
+8 Tony and Tim journeyed to the garden.
+9 Where is Johnson? 	bathroom	7
+10 Tim and Tony moved to the office.
+11 Johnson and Tony went to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Sandy and Tony travelled to the bedroom.
+14 Tony and Tim travelled to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Tim and Johnson journeyed to the bedroom.
+2 Tony and Johnson travelled to the bathroom.
+3 Where is Johnson? 	bathroom	2
+4 Sandy and Tony moved to the kitchen.
+5 Tim and Sandy moved to the hallway.
+6 Where is Tony? 	kitchen	4
+7 Johnson and Tim went to the office.
+8 Tony and Johnson journeyed to the bedroom.
+9 Where is Sandy? 	hallway	5
+10 Johnson and Tony went to the hallway.
+11 Tony and Tim travelled to the kitchen.
+12 Where is Tony? 	kitchen	11
+13 Tony and Tim moved to the garden.
+14 Sandy and Johnson went to the bedroom.
+15 Where is Sandy? 	bedroom	14
+1 Tim and Johnson went back to the kitchen.
+2 Tim and Tony went back to the hallway.
+3 Where is Tim? 	hallway	2
+4 Sandy and Tony journeyed to the office.
+5 Tony and Sandy journeyed to the garden.
+6 Where is Tony? 	garden	5
+7 Johnson and Sandy went back to the bathroom.
+8 Johnson and Sandy moved to the hallway.
+9 Where is Sandy? 	hallway	8
+10 Johnson and Tony went to the kitchen.
+11 Tony and Sandy journeyed to the bathroom.
+12 Where is Tony? 	bathroom	11
+13 Tony and Tim journeyed to the kitchen.
+14 Tim and Johnson moved to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Johnson and Sandy went to the kitchen.
+2 Johnson and Tim moved to the hallway.
+3 Where is Sandy? 	kitchen	1
+4 Tony and Sandy moved to the office.
+5 Sandy and Johnson went to the bathroom.
+6 Where is Tim? 	hallway	2
+7 Johnson and Tim went to the garden.
+8 Johnson and Tim went back to the bathroom.
+9 Where is Tim? 	bathroom	8
+10 Tony and Sandy went to the garden.
+11 Tim and Tony went to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Tim and Tony journeyed to the bedroom.
+14 Tony and Tim went to the hallway.
+15 Where is Tim? 	hallway	14
+1 Tony and Tim went back to the bedroom.
+2 Tim and Tony went back to the bathroom.
+3 Where is Tim? 	bathroom	2
+4 Sandy and Tony went back to the bedroom.
+5 Sandy and Tony travelled to the garden.
+6 Where is Sandy? 	garden	5
+7 Tim and Johnson went back to the kitchen.
+8 Tim and Johnson travelled to the hallway.
+9 Where is Johnson? 	hallway	8
+10 Sandy and Tony journeyed to the kitchen.
+11 Tim and Sandy journeyed to the garden.
+12 Where is Tim? 	garden	11
+13 Tony and Johnson moved to the bedroom.
+14 Tim and Sandy went back to the kitchen.
+15 Where is Tim? 	kitchen	14
+1 Tim and Tony moved to the kitchen.
+2 Tim and Tony went to the office.
+3 Where is Tim? 	office	2
+4 Sandy and Tim journeyed to the hallway.
+5 Sandy and Tony moved to the bathroom.
+6 Where is Tim? 	hallway	4
+7 Tony and Johnson journeyed to the bedroom.
+8 Johnson and Tim journeyed to the bathroom.
+9 Where is Johnson? 	bathroom	8
+10 Tim and Sandy travelled to the bedroom.
+11 Tony and Tim travelled to the kitchen.
+12 Where is Tony? 	kitchen	11
+13 Tony and Sandy journeyed to the garden.
+14 Tim and Sandy travelled to the office.
+15 Where is Sandy? 	office	14
+1 Tony and Johnson went back to the kitchen.
+2 Johnson and Sandy journeyed to the garden.
+3 Where is Johnson? 	garden	2
+4 Sandy and Johnson went back to the office.
+5 Tony and Sandy went back to the bedroom.
+6 Where is Sandy? 	bedroom	5
+7 Tim and Sandy journeyed to the kitchen.
+8 Sandy and Johnson went to the garden.
+9 Where is Sandy? 	garden	8
+10 Tim and Sandy moved to the hallway.
+11 Johnson and Tim moved to the office.
+12 Where is Johnson? 	office	11
+13 Tony and Sandy journeyed to the office.
+14 Tim and Sandy journeyed to the bathroom.
+15 Where is Tim? 	bathroom	14
+1 Tim and Tony moved to the hallway.
+2 Tony and Tim journeyed to the garden.
+3 Where is Tony? 	garden	2
+4 Sandy and Johnson journeyed to the office.
+5 Tim and Sandy moved to the hallway.
+6 Where is Sandy? 	hallway	5
+7 Tim and Johnson journeyed to the bathroom.
+8 Tony and Tim journeyed to the kitchen.
+9 Where is Johnson? 	bathroom	7
+10 Sandy and Tony journeyed to the bathroom.
+11 Sandy and Johnson went to the bedroom.
+12 Where is Sandy? 	bedroom	11
+13 Tim and Tony journeyed to the office.
+14 Tony and Sandy travelled to the kitchen.
+15 Where is Tim? 	office	13
+1 Johnson and Sandy went to the hallway.
+2 Sandy and Johnson went back to the office.
+3 Where is Johnson? 	office	2
+4 Johnson and Sandy went to the garden.
+5 Tony and Johnson journeyed to the hallway.
+6 Where is Johnson? 	hallway	5
+7 Johnson and Sandy journeyed to the kitchen.
+8 Tim and Sandy moved to the office.
+9 Where is Sandy? 	office	8
+10 Tim and Sandy travelled to the bathroom.
+11 Tony and Sandy went back to the bedroom.
+12 Where is Sandy? 	bedroom	11
+13 Tim and Johnson went back to the bedroom.
+14 Tony and Johnson journeyed to the office.
+15 Where is Tim? 	bedroom	13
+1 Sandy and Tony went back to the bedroom.
+2 Johnson and Tim moved to the office.
+3 Where is Tim? 	office	2
+4 Johnson and Sandy moved to the bathroom.
+5 Johnson and Tim went to the bedroom.
+6 Where is Tim? 	bedroom	5
+7 Sandy and Johnson travelled to the kitchen.
+8 Johnson and Tim went to the hallway.
+9 Where is Johnson? 	hallway	8
+10 Tim and Sandy went back to the garden.
+11 Sandy and Johnson went to the bathroom.
+12 Where is Johnson? 	bathroom	11
+13 Johnson and Tony went to the garden.
+14 Johnson and Tim moved to the hallway.
+15 Where is Tim? 	hallway	14
+1 Tim and Sandy went back to the garden.
+2 Sandy and Tim went to the bedroom.
+3 Where is Sandy? 	bedroom	2
+4 Tim and Sandy went back to the hallway.
+5 Johnson and Sandy journeyed to the bedroom.
+6 Where is Sandy? 	bedroom	5
+7 Johnson and Sandy moved to the hallway.
+8 Tim and Tony journeyed to the garden.
+9 Where is Tony? 	garden	8
+10 Sandy and Tim moved to the kitchen.
+11 Tony and Tim travelled to the hallway.
+12 Where is Sandy? 	kitchen	10
+13 Tim and Sandy went to the bedroom.
+14 Tim and Tony moved to the kitchen.
+15 Where is Tim? 	kitchen	14
+1 Tim and Johnson went back to the hallway.
+2 Tony and Johnson went back to the bedroom.
+3 Where is Johnson? 	bedroom	2
+4 Johnson and Tony journeyed to the bathroom.
+5 Tony and Sandy travelled to the kitchen.
+6 Where is Tony? 	kitchen	5
+7 Sandy and Tony travelled to the hallway.
+8 Tim and Tony moved to the garden.
+9 Where is Sandy? 	hallway	7
+10 Sandy and Tim went to the bedroom.
+11 Tony and Johnson went to the bedroom.
+12 Where is Johnson? 	bedroom	11
+13 Tony and Tim journeyed to the bathroom.
+14 Tim and Tony journeyed to the garden.
+15 Where is Tony? 	garden	14
+1 Sandy and Tony went back to the kitchen.
+2 Johnson and Tony travelled to the hallway.
+3 Where is Johnson? 	hallway	2
+4 Johnson and Sandy went back to the bedroom.
+5 Sandy and Tony journeyed to the kitchen.
+6 Where is Sandy? 	kitchen	5
+7 Tony and Tim journeyed to the bedroom.
+8 Tim and Sandy went back to the garden.
+9 Where is Tim? 	garden	8
+10 Tim and Sandy went to the bedroom.
+11 Tim and Johnson went back to the hallway.
+12 Where is Sandy? 	bedroom	10
+13 Sandy and Tony went to the office.
+14 Johnson and Tim went to the kitchen.
+15 Where is Johnson? 	kitchen	14
+1 Tim and Sandy journeyed to the kitchen.
+2 Sandy and Tony went back to the bedroom.
+3 Where is Tony? 	bedroom	2
+4 Tony and Tim travelled to the bathroom.
+5 Tony and Sandy journeyed to the office.
+6 Where is Tony? 	office	5
+7 Tim and Johnson went to the garden.
+8 Tim and Johnson moved to the office.
+9 Where is Tim? 	office	8
+10 Tim and Sandy went to the kitchen.
+11 Tony and Sandy journeyed to the hallway.
+12 Where is Johnson? 	office	8
+13 Tony and Sandy went back to the kitchen.
+14 Johnson and Sandy travelled to the hallway.
+15 Where is Tony? 	kitchen	13
+1 Tim and Johnson went back to the garden.
+2 Tim and Sandy moved to the office.
+3 Where is Tim? 	office	2
+4 Tim and Johnson went to the bathroom.
+5 Tony and Tim journeyed to the kitchen.
+6 Where is Sandy? 	office	2
+7 Johnson and Sandy moved to the hallway.
+8 Tony and Johnson moved to the office.
+9 Where is Tim? 	kitchen	5
+10 Johnson and Tim travelled to the bedroom.
+11 Sandy and Tony went back to the bathroom.
+12 Where is Johnson? 	bedroom	10
+13 Tony and Johnson journeyed to the hallway.
+14 Johnson and Tony went to the garden.
+15 Where is Johnson? 	garden	14
+1 Sandy and Tim travelled to the garden.
+2 Sandy and Tim went to the hallway.
+3 Where is Sandy? 	hallway	2
+4 Sandy and Tony moved to the kitchen.
+5 Tony and Sandy moved to the hallway.
+6 Where is Sandy? 	hallway	5
+7 Johnson and Tim went back to the bedroom.
+8 Johnson and Tim journeyed to the hallway.
+9 Where is Sandy? 	hallway	5
+10 Sandy and Tony journeyed to the office.
+11 Tony and Sandy moved to the bathroom.
+12 Where is Tony? 	bathroom	11
+13 Johnson and Tim went to the garden.
+14 Tony and Tim moved to the bedroom.
+15 Where is Sandy? 	bathroom	11
+1 Sandy and Tim went back to the hallway.
+2 Tony and Sandy travelled to the office.
+3 Where is Tim? 	hallway	1
+4 Tony and Sandy moved to the garden.
+5 Sandy and Johnson went back to the hallway.
+6 Where is Johnson? 	hallway	5
+7 Sandy and Johnson went back to the garden.
+8 Tony and Tim travelled to the office.
+9 Where is Sandy? 	garden	7
+10 Tony and Tim moved to the kitchen.
+11 Sandy and Tim moved to the office.
+12 Where is Tim? 	office	11
+13 Sandy and Johnson went to the bedroom.
+14 Tony and Tim went to the garden.
+15 Where is Tony? 	garden	14
+1 Sandy and Tony went back to the office.
+2 Johnson and Tim travelled to the garden.
+3 Where is Johnson? 	garden	2
+4 Johnson and Tim journeyed to the office.
+5 Tony and Sandy went to the garden.
+6 Where is Sandy? 	garden	5
+7 Tim and Johnson went to the hallway.
+8 Tim and Johnson journeyed to the kitchen.
+9 Where is Sandy? 	garden	5
+10 Sandy and Johnson journeyed to the bathroom.
+11 Sandy and Johnson moved to the hallway.
+12 Where is Johnson? 	hallway	11
+13 Johnson and Tim travelled to the office.
+14 Johnson and Tim moved to the bedroom.
+15 Where is Tim? 	bedroom	14
+1 Tony and Johnson went to the hallway.
+2 Tim and Sandy travelled to the hallway.
+3 Where is Tony? 	hallway	1
+4 Sandy and Tim went to the kitchen.
+5 Johnson and Tony journeyed to the garden.
+6 Where is Tony? 	garden	5
+7 Tim and Tony went back to the office.
+8 Tim and Tony travelled to the garden.
+9 Where is Tony? 	garden	8
+10 Sandy and Tim moved to the hallway.
+11 Tim and Tony travelled to the office.
+12 Where is Tony? 	office	11
+13 Tim and Johnson went back to the bathroom.
+14 Tony and Johnson travelled to the garden.
+15 Where is Johnson? 	garden	14
+1 Tim and Sandy went to the bedroom.
+2 Tony and Tim went back to the office.
+3 Where is Sandy? 	bedroom	1
+4 Tim and Johnson travelled to the bedroom.
+5 Tim and Sandy journeyed to the office.
+6 Where is Tim? 	office	5
+7 Tony and Sandy went back to the kitchen.
+8 Sandy and Tim went to the bathroom.
+9 Where is Sandy? 	bathroom	8
+10 Tony and Tim moved to the garden.
+11 Johnson and Tim went back to the bathroom.
+12 Where is Johnson? 	bathroom	11
+13 Sandy and Tim journeyed to the office.
+14 Sandy and Johnson went back to the hallway.
+15 Where is Tim? 	office	13
+1 Johnson and Tim went to the garden.
+2 Sandy and Tim went back to the bathroom.
+3 Where is Tim? 	bathroom	2
+4 Johnson and Sandy went back to the kitchen.
+5 Tim and Sandy travelled to the bedroom.
+6 Where is Tim? 	bedroom	5
+7 Sandy and Johnson moved to the bathroom.
+8 Johnson and Sandy went to the office.
+9 Where is Sandy? 	office	8
+10 Sandy and Johnson moved to the kitchen.
+11 Tim and Sandy moved to the office.
+12 Where is Tim? 	office	11
+13 Sandy and Tony went back to the hallway.
+14 Tony and Tim went to the bedroom.
+15 Where is Tim? 	bedroom	14
+1 Johnson and Tim went to the kitchen.
+2 Tony and Sandy journeyed to the garden.
+3 Where is Sandy? 	garden	2
+4 Sandy and Tim travelled to the bedroom.
+5 Johnson and Tony moved to the office.
+6 Where is Johnson? 	office	5
+7 Johnson and Tony went back to the bedroom.
+8 Tony and Tim travelled to the kitchen.
+9 Where is Tony? 	kitchen	8
+10 Sandy and Johnson travelled to the kitchen.
+11 Johnson and Sandy travelled to the hallway.
+12 Where is Tim? 	kitchen	8
+13 Sandy and Johnson went back to the office.
+14 Sandy and Tim moved to the hallway.
+15 Where is Tim? 	hallway	14
+1 Tony and Sandy went back to the bedroom.
+2 Tim and Johnson moved to the hallway.
+3 Where is Sandy? 	bedroom	1
+4 Tim and Tony moved to the garden.
+5 Sandy and Tim journeyed to the hallway.
+6 Where is Tim? 	hallway	5
+7 Johnson and Tim moved to the office.
+8 Sandy and Tony went back to the office.
+9 Where is Tim? 	office	7
+10 Tony and Johnson journeyed to the garden.
+11 Sandy and Johnson journeyed to the bedroom.
+12 Where is Tony? 	garden	10
+13 Johnson and Tim travelled to the hallway.
+14 Tony and Johnson went to the office.
+15 Where is Tony? 	office	14
+1 Johnson and Sandy went to the bedroom.
+2 Sandy and Johnson moved to the garden.
+3 Where is Johnson? 	garden	2
+4 Johnson and Tony moved to the kitchen.
+5 Tim and Sandy journeyed to the office.
+6 Where is Johnson? 	kitchen	4
+7 Sandy and Johnson travelled to the bedroom.
+8 Tim and Johnson moved to the kitchen.
+9 Where is Sandy? 	bedroom	7
+10 Johnson and Sandy went back to the bathroom.
+11 Tony and Tim moved to the garden.
+12 Where is Johnson? 	bathroom	10
+13 Sandy and Tony went back to the bedroom.
+14 Sandy and Tim went to the hallway.
+15 Where is Tim? 	hallway	14
+1 Tim and Tony travelled to the bedroom.
+2 Tim and Johnson journeyed to the kitchen.
+3 Where is Tony? 	bedroom	1
+4 Sandy and Tony went back to the garden.
+5 Johnson and Tim moved to the office.
+6 Where is Johnson? 	office	5
+7 Tim and Johnson went back to the bedroom.
+8 Tim and Tony went back to the bathroom.
+9 Where is Tony? 	bathroom	8
+10 Tim and Sandy went back to the kitchen.
+11 Tim and Johnson moved to the hallway.
+12 Where is Tony? 	bathroom	8
+13 Sandy and Tim went to the garden.
+14 Tony and Sandy went to the office.
+15 Where is Sandy? 	office	14
+1 Tim and Tony journeyed to the garden.
+2 Tim and Johnson went back to the hallway.
+3 Where is Johnson? 	hallway	2
+4 Tony and Johnson went back to the office.
+5 Tim and Sandy moved to the office.
+6 Where is Tim? 	office	5
+7 Tim and Johnson travelled to the kitchen.
+8 Tony and Sandy went back to the garden.
+9 Where is Sandy? 	garden	8
+10 Sandy and Johnson travelled to the office.
+11 Johnson and Tim journeyed to the garden.
+12 Where is Sandy? 	office	10
+13 Sandy and Tim journeyed to the bathroom.
+14 Sandy and Johnson went back to the office.
+15 Where is Johnson? 	office	14
+1 Johnson and Tim moved to the kitchen.
+2 Sandy and Johnson journeyed to the bedroom.
+3 Where is Johnson? 	bedroom	2
+4 Johnson and Tim went to the bathroom.
+5 Tony and Johnson went back to the office.
+6 Where is Tony? 	office	5
+7 Johnson and Sandy went back to the bathroom.
+8 Sandy and Johnson journeyed to the garden.
+9 Where is Sandy? 	garden	8
+10 Sandy and Johnson moved to the bathroom.
+11 Sandy and Tim went to the bedroom.
+12 Where is Sandy? 	bedroom	11
+13 Sandy and Tony journeyed to the garden.
+14 Sandy and Tony travelled to the bedroom.
+15 Where is Sandy? 	bedroom	14
+1 Tim and Sandy travelled to the office.
+2 Tim and Sandy went back to the garden.
+3 Where is Sandy? 	garden	2
+4 Tony and Johnson journeyed to the garden.
+5 Tony and Tim went back to the kitchen.
+6 Where is Tony? 	kitchen	5
+7 Sandy and Tony went back to the bathroom.
+8 Tim and Sandy went back to the garden.
+9 Where is Tim? 	garden	8
+10 Tim and Sandy went to the bathroom.
+11 Sandy and Tony moved to the kitchen.
+12 Where is Tim? 	bathroom	10
+13 Tim and Sandy travelled to the bedroom.
+14 Tim and Johnson went to the office.
+15 Where is Tim? 	office	14
+1 Johnson and Tony went back to the kitchen.
+2 Sandy and Johnson went back to the office.
+3 Where is Tony? 	kitchen	1
+4 Sandy and Johnson travelled to the garden.
+5 Tony and Tim journeyed to the bedroom.
+6 Where is Tony? 	bedroom	5
+7 Tim and Tony went back to the hallway.
+8 Johnson and Tony journeyed to the office.
+9 Where is Tim? 	hallway	7
+10 Tim and Johnson went to the bathroom.
+11 Tony and Johnson went back to the bedroom.
+12 Where is Tim? 	bathroom	10
+13 Johnson and Tim travelled to the office.
+14 Tim and Tony journeyed to the hallway.
+15 Where is Tim? 	hallway	14
+1 Tony and Johnson went back to the office.
+2 Tim and Sandy travelled to the kitchen.
+3 Where is Sandy? 	kitchen	2
+4 Johnson and Sandy went back to the garden.
+5 Tim and Tony went to the hallway.
+6 Where is Tim? 	hallway	5
+7 Sandy and Tony went back to the kitchen.
+8 Tony and Sandy went to the bathroom.
+9 Where is Sandy? 	bathroom	8
+10 Tim and Tony journeyed to the office.
+11 Tim and Tony went to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Johnson and Tony travelled to the office.
+14 Tim and Tony travelled to the hallway.
+15 Where is Tim? 	hallway	14
+1 Johnson and Sandy went back to the kitchen.
+2 Sandy and Tim travelled to the garden.
+3 Where is Sandy? 	garden	2
+4 Tim and Tony travelled to the office.
+5 Tim and Johnson went to the bathroom.
+6 Where is Johnson? 	bathroom	5
+7 Tony and Sandy went to the kitchen.
+8 Tony and Tim journeyed to the office.
+9 Where is Sandy? 	kitchen	7
+10 Sandy and Tim went back to the bathroom.
+11 Tim and Johnson journeyed to the garden.
+12 Where is Sandy? 	bathroom	10
+13 Johnson and Tim moved to the office.
+14 Tim and Tony journeyed to the kitchen.
+15 Where is Tony? 	kitchen	14
+1 Tony and Tim travelled to the kitchen.
+2 Johnson and Tim went to the hallway.
+3 Where is Tony? 	kitchen	1
+4 Tim and Sandy travelled to the office.
+5 Sandy and Tim travelled to the kitchen.
+6 Where is Tim? 	kitchen	5
+7 Sandy and Tim journeyed to the hallway.
+8 Sandy and Tim went to the bedroom.
+9 Where is Tim? 	bedroom	8
+10 Tony and Johnson went to the garden.
+11 Tony and Johnson travelled to the office.
+12 Where is Tony? 	office	11
+13 Tony and Tim moved to the garden.
+14 Sandy and Johnson moved to the hallway.
+15 Where is Johnson? 	hallway	14
+1 Tony and Tim journeyed to the hallway.
+2 Johnson and Tony went back to the office.
+3 Where is Tim? 	hallway	1
+4 Tony and Johnson moved to the garden.
+5 Sandy and Tony journeyed to the hallway.
+6 Where is Sandy? 	hallway	5
+7 Sandy and Johnson journeyed to the bathroom.
+8 Johnson and Tony moved to the bedroom.
+9 Where is Tony? 	bedroom	8
+10 Johnson and Tim went back to the bathroom.
+11 Tim and Johnson travelled to the hallway.
+12 Where is Tony? 	bedroom	8
+13 Tim and Tony journeyed to the garden.
+14 Tony and Tim went to the hallway.
+15 Where is Tony? 	hallway	14
+1 Tim and Sandy journeyed to the kitchen.
+2 Tony and Johnson travelled to the bedroom.
+3 Where is Tony? 	bedroom	2
+4 Sandy and Johnson journeyed to the garden.
+5 Tony and Sandy went back to the office.
+6 Where is Johnson? 	garden	4
+7 Tim and Sandy went back to the bathroom.
+8 Johnson and Tony went to the bathroom.
+9 Where is Tony? 	bathroom	8
+10 Tim and Tony went back to the hallway.
+11 Tim and Tony moved to the office.
+12 Where is Tim? 	office	11
+13 Tim and Tony journeyed to the bedroom.
+14 Sandy and Tony went back to the garden.
+15 Where is Tony? 	garden	14
+1 Sandy and Tim moved to the kitchen.
+2 Tim and Sandy journeyed to the bathroom.
+3 Where is Tim? 	bathroom	2
+4 Tim and Sandy moved to the hallway.
+5 Sandy and Tim travelled to the office.
+6 Where is Sandy? 	office	5
+7 Tim and Sandy travelled to the bathroom.
+8 Tony and Tim moved to the garden.
+9 Where is Tim? 	garden	8
+10 Sandy and Tony went back to the bedroom.
+11 Tim and Johnson journeyed to the bathroom.
+12 Where is Johnson? 	bathroom	11
+13 Sandy and Tim travelled to the office.
+14 Johnson and Sandy moved to the hallway.
+15 Where is Sandy? 	hallway	14
+1 Johnson and Tony went back to the garden.
+2 Johnson and Sandy moved to the hallway.
+3 Where is Sandy? 	hallway	2
+4 Sandy and Tony travelled to the kitchen.
+5 Tony and Sandy travelled to the garden.
+6 Where is Sandy? 	garden	5
+7 Sandy and Tony journeyed to the hallway.
+8 Tony and Johnson moved to the bedroom.
+9 Where is Tony? 	bedroom	8
+10 Sandy and Tim went back to the bathroom.
+11 Tony and Sandy went back to the office.
+12 Where is Tim? 	bathroom	10
+13 Sandy and Tony went to the bedroom.
+14 Johnson and Tim went to the garden.
+15 Where is Tony? 	bedroom	13
+1 Tony and Johnson went back to the garden.
+2 Tony and Johnson moved to the office.
+3 Where is Johnson? 	office	2
+4 Tim and Johnson went back to the kitchen.
+5 Johnson and Sandy went back to the hallway.
+6 Where is Tim? 	kitchen	4
+7 Johnson and Tony went back to the bedroom.
+8 Sandy and Johnson moved to the bathroom.
+9 Where is Johnson? 	bathroom	8
+10 Tim and Tony travelled to the garden.
+11 Sandy and Tim journeyed to the hallway.
+12 Where is Tim? 	hallway	11
+13 Tony and Tim went back to the office.
+14 Tim and Tony journeyed to the bathroom.
+15 Where is Tony? 	bathroom	14
+1 Tony and Tim travelled to the kitchen.
+2 Sandy and Tony moved to the garden.
+3 Where is Tim? 	kitchen	1
+4 Sandy and Johnson journeyed to the bedroom.
+5 Sandy and Tim went back to the hallway.
+6 Where is Tim? 	hallway	5
+7 Johnson and Sandy journeyed to the office.
+8 Johnson and Tony moved to the bathroom.
+9 Where is Tony? 	bathroom	8
+10 Tony and Tim went back to the office.
+11 Johnson and Tim went to the kitchen.
+12 Where is Tim? 	kitchen	11
+13 Sandy and Johnson moved to the bathroom.
+14 Tim and Sandy journeyed to the office.
+15 Where is Tim? 	office	14
