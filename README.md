@@ -1,5 +1,7 @@
-# Unseen Filler Generalization
+# Unseen Filler Generalization dataset
 
-The released dataset of our paper: Does Neural Network Truly Reason? Systematic Generalization Toward Unseen Filler in Natural Language Reasoning
+The released dataset of our paper: Unseen Filler Generalization In Attention-based Natural Language Reasoning Models. to be appeared in IEEE CogMI 2020
+
+The final version dataset is still under development. We will release it soon.
 
 
